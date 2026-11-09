@@ -193,5 +193,84 @@
   "status": "draft",
   "topic": "가상자산 과세 2029년으로 네 번째 유예 추진",
   "videos": []
+ },
+ {
+  "id": "20261109-1443-1",
+  "createdAt": "2026-11-09T05:43:00.000Z",
+  "date": "2026-11-09",
+  "slot": "14시",
+  "category": "코인",
+  "topic": "비트코인 현물 ETF 지난주 12.8억달러 순유출(6월 이후 최대), 이더리움 ETF 6주 연속 유출",
+  "imageTitle": "비트코인 ETF 돈 빠졌다",
+  "imageHighlight": "돈 빠졌다",
+  "imageData": "美 비트코인 현물 ETF 지난주 순유출 12억8200만달러 · BTC $74,299 (-1.91%)",
+  "body": "비트코인 ETF에서 일주일 새 1조7천억원 넘게 빠져나갔음 😱\n\n1) 미국 비트코인 현물 ETF에서 지난주 12억8200만달러(약 1조7천억원)가 순유출됐다고 함\n2) 6월 이후 가장 큰 주간 유출이고, 블랙록 상품 중심으로 돈이 빠졌음\n3) 이더리움 ETF는 6주 연속 순유출. 비트코인·이더리움 ETF 합쳐 하루에만 5억3000만달러가 빠진 날도 있었음\n4) 오늘 오후 2시 40분 기준 비트코인은 74,299달러로 하루 전보다 1.91% 내림. 원화로는 1억119만원대\n5) 코인 공포·탐욕 지수는 29로 여전히 '공포' 구간임\n\n현물 ETF가 뭐냐면!\n실제 비트코인을 사서 보관하는 펀드를 주식처럼 사고파는 상품임. 그래서 ETF로 돈이 들어오면 실제 매수, 빠지면 실제 매도 압력이 됨\n\n그래서 우리랑 무슨 상관이냐 ⭐\n올해 비트코인을 끌어올린 큰 힘이 미국 기관의 ETF 매수였음. 그 돈이 거꾸로 빠지는 중이라, 반등이 나와도 힘이 약할 수 있다는 신호로 보는 시각이 많음. 이번 주 화요일 미국 소비자물가 발표 뒤 ETF 자금 흐름이 다시 바뀌는지가 관전 포인트임\n\n개미일수록 바닥을 맞히려 하기보다, ETF 자금이 다시 들어오는 게 확인된 뒤 움직이는 게 안정적일 듯. 레버리지는 특히 조심!\n\n📌 투자 권유가 아닌 정보 정리이며, 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDMThtcnFudEVfUVNSUUhxVjd0TThDc2poSEU1ZjVnVEgzOWVxSjNCeGk3SGNmMDFvUFVDREx0SDY5NUY5SlVOMkZFMUpDOW16?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Kd0pULTN6YURMVUg2NGxaWVJRcDVWaFlIcjdwc0FTRlZrNXJxV29JcldDbTRLNUZ4OXNHemFQbUF3cHlLOENEdndR?oc=5"
+   },
+   {
+    "name": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15R3hwTHVVVGppY3h3QXdOc2I4MTNFQ082LWV3Z2hlMl9zbkNUVl9uQzlaNmRyaGNtckR3b2FLOHVQU2RHUHBfcDlrN0FKVHB0dGU3Yml1RTFkY2dzMWtuRzFXV1ZiRlQyQldZRnNvZnNidGM?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 ETF에서 일주일 새 1조7천억원 넘게 빠져나갔음 😱 ② 비트코인 안 오르는 이유, 여기 있었음 👀 ③ 월가가 비트코인에서 발 빼는 중? 🔥",
+   "12억8200만달러는 블루밍비트 기사 제목 기준. 원화 환산(약 1조7천억원)은 달러/원 1,352.5로 계산",
+   "'6월 이후 최대'는 코인리더스 단독 표현, 하루 5억3000만달러는 디지털투데이 단독(비트코인+이더리움 합산) — 원문 확인",
+   "비트코인 가격·공포지수는 14:43 기준이라 올리기 직전 다시 확인"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261109-1443-2",
+  "createdAt": "2026-11-09T05:43:00.000Z",
+  "date": "2026-11-09",
+  "slot": "14시",
+  "category": "국내 증시",
+  "topic": "미래에셋증권 3만9천명 정보유출 금감원 현장점검, 대신증권 보상책, 고팍스 해킹 협박 나흘째 중단",
+  "imageTitle": "내 증권사도 털렸나",
+  "imageHighlight": "털렸나",
+  "imageData": "미래에셋증권 고객·임직원 3만9천여명 정보유출 → 금감원 현장점검",
+  "body": "요즘 증권사·코인거래소 해킹이 줄줄이 터지는 중 👀\n\n1) 미래에셋증권에서 고객·임직원 3만9천여명의 정보가 유출됐고, 금융감독원이 오늘(9일) 현장점검에 들어갔음\n2) 금감원은 같은 그룹에서 잇따라 터진 해킹과 연관이 있는지도 들여다보는 중이라고 함\n3) 앞서 해킹으로 개인신용정보가 유출된 대신증권은 오늘 보상보험 가입 등 고객 지원책 3가지를 내놨음\n4) 코인거래소 고팍스는 해킹 협박 때문에 나흘째 서비스가 멈췄고, 출금은 수동 처리 중. 재개 시점은 아직 미정임\n\n현장점검이 뭐냐면!\n금감원 직원이 회사에 직접 나가서 보안 관리가 제대로 됐는지, 피해가 얼마나 되는지 확인하는 것임. 결과에 따라 제재로 이어질 수도 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n주식·코인 계좌가 있는 증권사나 거래소에서 문자·알림이 왔다면 그냥 넘기지 말고 확인해 보자. 유출 정보를 노린 피싱 문자가 뒤따르는 경우가 많음. 거래소가 멈추면 급할 때 매도·출금을 못 할 수 있다는 점도 기억해 둘 것\n\n개미일수록 계좌 비밀번호 변경, 2단계 인증 켜기 같은 기본부터 챙기고, 한 곳에 몰아두기보다 나눠서 관리하는 게 안전할 듯\n\n📌 투자 권유가 아닌 정보 정리이며, 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261109093400002"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261109095300008"
+   },
+   {
+    "name": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd09PUDBRUWhYWTBKenJRN3c3ZERDRTlJb241aEpsMFYxZl9fY01ySXFUZnd3QUc2bGpXQ1ZmMHZzVGRvZDlleExKcXJjVV9jcVA5WFFsbEhDNFZYMFNEWlFyVThpMkRVVkllZGlfS3RGZy1Hc3lFZFNuWmV0Mlg2MQ?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/07/PYH2026110701600001300_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102812230001300_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 요즘 증권사·코인거래소 해킹이 줄줄이 터지는 중 👀 ② 내 증권사 계좌, 괜찮은 걸까? 😱 ③ 금감원이 증권사에 직접 들이닥친 이유 🔥",
+   "대신증권 지원책 3가지 중 '보상보험 가입' 외 나머지 2가지는 기사 원문 확인 후 보강",
+   "고팍스 중단 소식은 이데일리 단독 출처 — 원문 확인",
+   "특정 회사 비난으로 읽히지 않게 사실만 유지했는지 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
