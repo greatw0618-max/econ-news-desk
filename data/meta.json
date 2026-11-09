@@ -1,0 +1,64 @@
+{
+ "market": [
+  {
+   "changePct": 1.6159104518374119,
+   "decimals": 2,
+   "name": "코스피",
+   "price": 5141.45
+  },
+  {
+   "changePct": 2.098495981325759,
+   "decimals": 2,
+   "name": "코스닥",
+   "price": 657.79
+  },
+  {
+   "changePct": 0.3145345231968293,
+   "decimals": 2,
+   "name": "S&P 500",
+   "price": 7376.86
+  },
+  {
+   "changePct": 1.087493316882579,
+   "decimals": 2,
+   "name": "나스닥",
+   "price": 24579.424
+  },
+  {
+   "changePct": -0.06340341227004806,
+   "decimals": 1,
+   "name": "달러/원",
+   "price": 1355.48
+  },
+  {
+   "changePct": 0.45482959060024475,
+   "decimals": 3,
+   "name": "미 10년물 금리",
+   "price": 4.859
+  },
+  {
+   "changePct": -0.23521374,
+   "decimals": 0,
+   "name": "비트코인(원)",
+   "price": 102219000
+  },
+  {
+   "changePct": -1.0640447456550328,
+   "decimals": 0,
+   "name": "비트코인($)",
+   "price": 74941.59
+  },
+  {
+   "changePct": 0.17146776,
+   "decimals": 0,
+   "name": "이더리움(원)",
+   "price": 2921000
+  },
+  {
+   "changePct": null,
+   "decimals": 0,
+   "name": "코인 공포·탐욕 지수",
+   "price": 29
+  }
+ ]
+}

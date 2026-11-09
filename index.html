@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>시황 게시글 데스크</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@500&family=Gothic+A1:wght@800;900&display=swap">
+<style>
+/* Layout: 신문사 편집 데스크 — 위에 시세 띠, 유튜브 주요 이슈, 아래에 시간순 원고 대기열 */
+:root{
+  --bg:#f3f4f6; --surface:#ffffff; --ink:#151a23; --muted:#5d6676; --line:#dfe2e8;
+  --accent:#1d4ed8; --up:#d92d3a; --down:#1f5fd6;
+  --draft:#b45309; --draft-bg:#fdf1de; --done:#15803d; --done-bg:#e3f4e8; --skip-bg:#eceef2;
+  --hl:#e11d2e; --on-accent:#ffffff;
+  --f-display:"Gothic A1","IBM Plex Sans KR","Malgun Gothic",sans-serif;
+  --f-body:"IBM Plex Sans KR","Malgun Gothic","Apple SD Gothic Neo",sans-serif;
+  --f-num:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#0f1218; --surface:#181c24; --ink:#e8ebf1; --muted:#9aa3b2; --line:#2a303b;
+  --accent:#7aa2ff; --up:#ff6b74; --down:#6ea0ff;
+  --draft:#f2b25c; --draft-bg:#3a2c16; --done:#5fd38a; --done-bg:#16301f; --skip-bg:#242a34;
+  --hl:#ff5563; --on-accent:#0f1218; color-scheme:dark;}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.6}
+.wrap{max-width:860px;margin:0 auto;padding-block:calc(20px + env(safe-area-inset-top,0px)) 64px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header.top{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:4px 16px}
+h1{font-family:var(--f-display);font-weight:900;font-size:24px;margin:0;letter-spacing:-.01em;text-wrap:balance}
+.updated{color:var(--muted);font-size:13px}
+.ticker{display:flex;gap:6px 18px;flex-wrap:wrap;margin:12px 0 18px;padding:10px 0;border-block:1px solid var(--line);font-size:13px}
+.tick{display:flex;gap:6px;align-items:baseline;white-space:nowrap}
+.tick .n{color:var(--muted)}
+.tick .v{font-family:var(--f-num);font-variant-numeric:tabular-nums}
+.up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--muted)}
+.controls{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin-bottom:14px}
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.seg button,.btn{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--surface);color:var(--ink);
+  padding:6px 12px;border-radius:999px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.seg button .c{font-family:var(--f-num);font-size:12px;opacity:.75;margin-left:4px}
+select{font:inherit;font-size:13px;padding:5px 8px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+button:focus-visible,select:focus-visible,a:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.notice{color:var(--muted);font-size:13px;margin:6px 0 12px}
+.yt{margin:0 0 18px}
+.yt>summary{cursor:pointer;font-weight:700;font-size:15px;padding:6px 0}
+.yt>summary .small{font-weight:400}
+.ytgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:12px;margin-top:8px}
+.ytcard{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;min-width:0}
+.ytcard h3{margin:0;font-size:14px}
+.ytcard .vt{font-size:13px;color:var(--muted);margin:2px 0 10px}
+.ytcard .vt a{color:var(--muted)}
+.ytcard ol{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:8px}
+.ytcard li b{font-size:14px}
+.ytcard li p{margin:2px 0 0;font-size:13px;color:var(--muted)}
+.kind{font-size:11px;font-weight:700;border-radius:999px;padding:1px 7px;margin-left:6px;vertical-align:1px;border:1px solid currentColor}
+.kind.k-사실{color:var(--accent)} .kind.k-일정{color:var(--done)} .kind.k-전망{color:var(--draft)}
+.feed{display:flex;flex-direction:column;gap:14px}
+.day{font-weight:700;font-size:14px;color:var(--muted);margin:10px 0 -4px;letter-spacing:.02em}
+.post{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.post.is-posted,.post.is-skip{opacity:.72}
+.meta{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:13px;color:var(--muted)}
+.slot{font-family:var(--f-num);color:var(--ink)}
+.pill{font-size:12px;font-weight:700;padding:2px 9px;border-radius:999px}
+.pill.draft{color:var(--draft);background:var(--draft-bg)}
+.pill.posted{color:var(--done);background:var(--done-bg)}
+.pill.skip{color:var(--muted);background:var(--skip-bg)}
+.cat{border:1px solid var(--line);border-radius:999px;padding:1px 8px;font-size:12px}
+.thumb{border:2px solid var(--ink);border-radius:4px;padding:14px 16px;background:var(--surface)}
+.thumb .t{font-family:var(--f-display);font-weight:900;font-size:24px;line-height:1.25;letter-spacing:-.02em;text-wrap:balance}
+.thumb .t mark{background:none;color:var(--hl)}
+.thumb .d{margin-top:8px;font-size:13px;color:var(--muted);font-family:var(--f-num)}
+.thumb .lbl{font-size:11px;color:var(--muted);letter-spacing:.06em;margin-bottom:6px}
+.body{white-space:pre-wrap;word-break:keep-all;overflow-wrap:anywhere;margin:0;font-family:var(--f-body);font-size:15px;
+  background:var(--bg);border-radius:8px;padding:12px 14px;min-width:0}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.small{font-size:13px;color:var(--muted)}
+.small a{color:var(--muted)}
+.checks{margin:0;padding-left:18px;font-size:13px;color:var(--draft)}
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:12px;padding:28px 20px;color:var(--muted);text-align:center}
+details.runs{margin-top:28px;font-size:13px;color:var(--muted)}
+details.runs summary{cursor:pointer}
+details.runs ul{padding-left:18px}
+.tabnum{font-family:var(--f-num);font-variant-numeric:tabular-nums}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>시황 게시글 데스크</h1>
+    <span class="updated" id="updated">불러오는 중…</span>
+  </header>
+  <div class="ticker" id="ticker"><span class="small">시세는 다음 수집 때 표시됩니다.</span></div>
+
+  <div class="controls">
+    <div class="seg" id="statusSeg" role="group" aria-label="상태">
+      <button data-s="draft" aria-pressed="true">올릴 글<span class="c" id="c-draft">0</span></button>
+      <button data-s="posted" aria-pressed="false">올림<span class="c" id="c-posted">0</span></button>
+      <button data-s="skip" aria-pressed="false">건너뜀<span class="c" id="c-skip">0</span></button>
+      <button data-s="all" aria-pressed="false">전체<span class="c" id="c-all">0</span></button>
+    </div>
+    <label class="small" for="dateSel">날짜
+      <select id="dateSel"><option value="">전체</option></select>
+    </label>
+    <button class="btn" id="reload" type="button">새로고침</button>
+  </div>
+  <p class="notice" id="notice" hidden></p>
+
+  <details class="yt" id="ytBox" open hidden>
+    <summary>유튜브 주요 이슈 <span class="small" id="ytMeta"></span></summary>
+    <div class="ytgrid" id="yt"></div>
+  </details>
+
+  <div class="feed" id="feed">
+    <div class="empty">불러오는 중…</div>
+  </div>
+
+  <details class="runs">
+    <summary>수집 기록</summary>
+    <ul id="runs"><li>기록 없음</li></ul>
+  </details>
+  <p class="small">"올림" 표시는 이 기기에만 저장됩니다.</p>
+</div>
+
+<script>
+const state = { posts: [], runs: [], videos: [], market: null, status: 'draft', date: '', marks: {} };
+const store = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+};
+state.status = store.get('desk.status', 'draft');
+state.marks = store.get('desk.marks', {});
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt = (v, d = 2) => Number(v).toLocaleString('ko-KR', { minimumFractionDigits: d, maximumFractionDigits: d });
+const STATUS = { draft: '올릴 글', posted: '올림', skip: '건너뜀' };
+const statusOf = p => state.marks[p.id] || p.status || 'draft';
+
+function kstTime(iso) {
+  if (!iso) return '';
+  return new Intl.DateTimeFormat('ko-KR', { timeZone: 'Asia/Seoul', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit', hour12: false }).format(new Date(iso));
+}
+
+async function getJson(path, fallback) {
+  try {
+    const r = await fetch(path + '?t=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) return fallback;
+    return await r.json();
+  } catch { return fallback; }
+}
+
+async function load() {
+  const index = await getJson('data/index.json', { months: [] });
+  const months = (index.months || []).slice(-2); // 최근 두 달치
+  const [postsArr, videosArr, runs, market] = await Promise.all([
+    Promise.all(months.map(m => getJson(`data/posts-${m}.json`, []))),
+    Promise.all(months.map(m => getJson(`data/videos-${m}.json`, []))),
+    getJson('data/runs.json', []),
+    getJson('data/meta.json', null),
+  ]);
+  state.posts = postsArr.flat().sort((a, b) => String(b.createdAt).localeCompare(String(a.createdAt)));
+  state.videos = videosArr.flat().sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)));
+  state.runs = runs;
+  state.market = market;
+  fillDates();
+  renderAll();
+}
+
+function renderTicker() {
+  const m = state.market;
+  if (!m || !Array.isArray(m.market) || !m.market.length) return;
+  $('ticker').innerHTML = m.market.map(x => {
+    const cls = x.changePct > 0 ? 'up' : x.changePct < 0 ? 'down' : 'flat';
+    const pct = x.changePct == null ? '' : `<span class="v ${cls}">${x.changePct > 0 ? '+' : ''}${fmt(x.changePct, 2)}%</span>`;
+    return `<span class="tick"><span class="n">${esc(x.name)}</span><span class="v">${fmt(x.price, x.decimals ?? 2)}</span>${pct}</span>`;
+  }).join('');
+}
+
+function highlight(title, word) {
+  const t = esc(title || '');
+  if (!word) return t;
+  const w = esc(word); const i = t.indexOf(w);
+  return i < 0 ? t : t.slice(0, i) + '<mark>' + w + '</mark>' + t.slice(i + w.length);
+}
+
+function renderVideos() {
+  const box = $('ytBox');
+  if (!state.videos.length) { box.hidden = true; return; }
+  const day = state.date || state.videos[0].date;
+  const list = state.videos.filter(v => v.date === day);
+  if (!list.length) { box.hidden = true; return; }
+  box.hidden = false;
+  $('ytMeta').textContent = `· ${day} · 영상 ${list.length}개 · 글에는 채널 이름을 쓰지 않습니다`;
+  $('yt').innerHTML = list.map(v => `<article class="ytcard">
+      <h3>${esc(v.channel)}</h3>
+      <div class="vt"><a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.title)}</a>${v.lengthMin ? ` · ${Number(v.lengthMin)}분` : ''}</div>
+      <ol>${(v.issues || []).map(i => `<li><b>${esc(i.title)}</b><span class="kind k-${esc(i.kind || '사실')}">${esc(i.kind || '사실')}</span>${i.detail ? `<p>${esc(i.detail)}</p>` : ''}</li>`).join('')}</ol>
+    </article>`).join('');
+}
+
+function renderFeed() {
+  const counts = { draft: 0, posted: 0, skip: 0, all: 0 };
+  const inDate = state.posts.filter(p => !state.date || p.date === state.date);
+  for (const p of inDate) { counts.all++; counts[statusOf(p)]++; }
+  for (const k of Object.keys(counts)) $('c-' + k).textContent = counts[k];
+  document.querySelectorAll('#statusSeg button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.s === state.status)));
+  const list = inDate.filter(p => state.status === 'all' || statusOf(p) === state.status);
+  if (!list.length) {
+    $('feed').innerHTML = `<div class="empty">${state.posts.length ? '이 조건에 맞는 게시글이 없습니다.' : '아직 게시글이 없습니다.<br>오전 7시 30분부터 밤 11시 30분까지 2시간마다 새 글이 쌓입니다.'}</div>`;
+    return;
+  }
+  let lastDay = '';
+  $('feed').innerHTML = list.map(p => {
+    const st = statusOf(p);
+    const day = p.date !== lastDay ? `<div class="day">${esc(p.date)}</div>` : '';
+    lastDay = p.date;
+    const sources = (p.sources || []).map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(' · ');
+    const images = (p.images || []).map((im, i) => `<a href="${esc(im.url)}" target="_blank" rel="noopener">참고 이미지 ${i + 1}${im.source ? ' (' + esc(im.source) + ')' : ''}</a>`).join(' · ');
+    const checks = (p.checks || []).length ? `<ul class="checks">${p.checks.map(c => `<li>${esc(c)}</li>`).join('')}</ul>` : '';
+    const actions = `
+      ${st !== 'posted' ? `<button class="btn" data-act="posted" data-id="${esc(p.id)}">올림으로 표시</button>` : ''}
+      ${st !== 'skip' ? `<button class="btn" data-act="skip" data-id="${esc(p.id)}">건너뛰기</button>` : ''}
+      ${st !== 'draft' ? `<button class="btn" data-act="draft" data-id="${esc(p.id)}">올릴 글로 되돌리기</button>` : ''}`;
+    return `${day}<article class="post is-${st}">
+      <div class="meta"><span class="slot">${esc(p.slot || '')}</span><span>${esc(kstTime(p.createdAt))}</span>
+        <span class="pill ${st}">${STATUS[st]}</span>${p.category ? `<span class="cat">${esc(p.category)}</span>` : ''}</div>
+      ${p.imageTitle ? `<div class="thumb"><div class="lbl">이미지 문구</div><div class="t">${highlight(p.imageTitle, p.imageHighlight)}</div>${p.imageData ? `<div class="d">${esc(p.imageData)}</div>` : ''}</div>` : ''}
+      <pre class="body" id="body-${esc(p.id)}">${esc(p.body || '')}</pre>
+      ${checks}
+      <div class="row"><button class="btn primary" data-copy="${esc(p.id)}">글 복사</button>${actions}</div>
+      ${sources ? `<div class="small">출처 ${sources}</div>` : ''}
+      ${images ? `<div class="small">${images} · 기사 사진은 저작권이 있어 그대로 올리지 마세요</div>` : ''}
+    </article>`;
+  }).join('');
+}
+
+function renderRuns() {
+  if (!state.runs.length) return;
+  $('runs').innerHTML = state.runs.slice(0, 30).map(r => `<li><span class="tabnum">${esc(kstTime(r.at))}</span> · 새 글 ${Number(r.posts) || 0}개${r.note ? ' · ' + esc(r.note) : ''}</li>`).join('');
+}
+
+function renderUpdated() {
+  const at = state.runs[0]?.at || state.market?.updatedAt;
+  $('updated').textContent = at ? `마지막 수집 ${kstTime(at)}` : '아직 수집 기록이 없습니다';
+}
+
+function renderAll() { renderTicker(); renderVideos(); renderFeed(); renderRuns(); renderUpdated(); }
+
+function fillDates() {
+  const dates = [...new Set(state.posts.map(p => p.date).filter(Boolean))];
+  const sel = $('dateSel'); const cur = state.date;
+  sel.innerHTML = '<option value="">전체</option>' + dates.map(d => `<option value="${esc(d)}">${esc(d)}</option>`).join('');
+  sel.value = dates.includes(cur) ? cur : '';
+  state.date = sel.value;
+}
+
+$('statusSeg').addEventListener('click', e => {
+  const b = e.target.closest('button[data-s]'); if (!b) return;
+  state.status = b.dataset.s; store.set('desk.status', state.status); renderFeed();
+});
+$('dateSel').addEventListener('change', e => { state.date = e.target.value; renderFeed(); renderVideos(); });
+$('reload').addEventListener('click', () => { $('updated').textContent = '불러오는 중…'; load(); });
+
+$('feed').addEventListener('click', async e => {
+  const copyBtn = e.target.closest('[data-copy]');
+  if (copyBtn) {
+    const pre = document.getElementById('body-' + copyBtn.dataset.copy);
+    try { await navigator.clipboard.writeText(pre.textContent); copyBtn.textContent = '복사됨'; }
+    catch {
+      const r = document.createRange(); r.selectNodeContents(pre);
+      const sel = getSelection(); sel.removeAllRanges(); sel.addRange(r);
+      copyBtn.textContent = '선택됨 · 복사하세요';
+    }
+    setTimeout(() => { copyBtn.textContent = '글 복사'; }, 2000);
+    return;
+  }
+  const actBtn = e.target.closest('[data-act]');
+  if (actBtn) {
+    const id = actBtn.dataset.id, act = actBtn.dataset.act;
+    const original = state.posts.find(p => p.id === id)?.status || 'draft';
+    if (act === original) delete state.marks[id]; else state.marks[id] = act;
+    store.set('desk.marks', state.marks);
+    renderFeed();
+  }
+});
+
+load();
+setInterval(() => { if (document.visibilityState === 'visible') load(); }, 5 * 60 * 1000);
+</script>
+</body>
+</html>
