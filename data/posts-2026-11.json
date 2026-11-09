@@ -313,5 +313,153 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "createdAt": "2026-11-09T08:30:00.000Z",
+  "date": "2026-11-09",
+  "slot": "17시",
+  "status": "draft",
+  "id": "20261109-1730-1",
+  "category": "미국 증시",
+  "topic": "美 중간선거 민주당 승리 후 AI 규제 법안 우려(블루쓰나미), 기술주·데이터센터 투자 불확실성",
+  "imageTitle": "선거 끝, 이제 AI 규제 공포",
+  "imageHighlight": "AI 규제",
+  "imageData": "필라델피아 반도체 9,390.25 (+4.21%, 11/6 종가) · 나스닥 24,579.42 (+1.09%)",
+  "body": "선거는 끝났는데 시장은 아직 선거 뒷감당 중임 👀\n\n1) 미국 중간선거에서 트럼프 쪽이 참패했음. 트럼프도 \"이민정책이 너무 강경했다\"며 한발 물러선 상황\n2) 시장이 걱정하는 건 그다음임. 민주당이 의회를 잡으면서 AI 규제 법안이 쏟아질 거라는 \"블루쓰나미\" 공포가 커지는 중\n3) 블루쓰나미가 뭐냐면! 민주당 상징색(파랑)이 쓰나미처럼 의회를 덮었다는 뜻. 이번엔 그 뒤에 규제가 몰려온다는 걱정까지 담긴 말임\n4) 특히 AI 데이터센터 규제 우려가 계속 나오면서 오늘 코스피도 5천선을 겨우 지켰음\n5) 다만 지난 금요일 미국 필라델피아 반도체지수는 +4.21%로 크게 반등 마감했음. 공포와 저가매수가 같이 움직이는 장\n6) 이번 주엔 화요일 밤 소비자물가(CPI), 수요일 새벽 코어위브 실적까지 AI·금리 이벤트가 몰려 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n삼성전자·SK하이닉스처럼 AI 투자 덕을 본 종목들은 \"미국이 AI 투자를 얼마나 계속하냐\"에 같이 흔들림. 규제 이야기가 나올 때마다 반도체가 출렁일 수 있다는 것\n\n개미일수록 정책 뉴스 하나에 바로 반응하기보다, 실제 법안 내용과 실적이 확인된 뒤 추세를 보고 움직이는 게 안정적일 듯\n단, 규제는 아직 \"추진·전망\" 단계라 실제 법안이 나오기 전까지는 말로만 오르내릴 수 있음\n\n📌 투자 권유가 아닌 정보 정리용 글임. 투자 판단과 책임은 본인에게 있음.",
+  "sources": [
+   {
+    "name": "한국경제 국제",
+    "url": "https://www.hankyung.com/article/202611094637g"
+   },
+   {
+    "name": "한국경제 국제",
+    "url": "https://www.hankyung.com/article/2026110951467"
+   },
+   {
+    "name": "에너지경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lLTdwQ1lIRDl1b2VqTi1ZY1RIY0hEX3dwdUlBSVpOTDY1RDV2U0dTWXJiMnlYWWRTekRuaWxKNkJsbURYRGpya0Z5MkdsaXJWN0lteG5UVXpIcEpLbXc?oc=5"
+   },
+   {
+    "name": "한국경제 증권",
+    "url": "https://www.hankyung.com/article/2026110952866"
+   },
+   {
+    "name": "글로벌이코노믹",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRl96Wlh2NnFqNGR5YmM0WEtvTzNadGtFRF9Ccmt3Y0w1X3Q2OW5GZk81N1kyMlVjbkhER3JGaDFrSjhwYTNxaGtZWlplSTVTM09FLXI1Tk1sMHp6LWc1SzBMclNBVVJPV0F2czBmdjBFUjB1VklleFZSU1ZSNURibWxQUWY?oc=5"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=uxGxT1t4k0s"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 선거는 끝났는데 시장은 아직 선거 뒷감당 중임 👀 ② 미국 선거 결과, 내 반도체 주식이랑 무슨 상관? 🤔 ③ AI 규제 공포, 이번 주 반도체를 흔드는 진짜 변수 🔥",
+   "\"美·日 기술주 급락\"은 에너지경제신문 제목 기준(급락 시점 확인). 시세표 기준 11/6(현지) 미국 반도체는 +4.21% 반등 마감",
+   "AI 규제 법안은 아직 확정 아님. \"쏟아진다\"는 한국경제 전망 표현",
+   "유튜브 영상(uxGxT1t4k0s)은 자막 못 가져옴. 제목·해시태그(#중간선거 #트럼프 #코어위브 #엔비디아)만 반영"
+  ],
+  "videos": [
+   "uxGxT1t4k0s"
+  ]
+ },
+ {
+  "createdAt": "2026-11-09T08:30:00.000Z",
+  "date": "2026-11-09",
+  "slot": "17시",
+  "status": "draft",
+  "id": "20261109-1730-2",
+  "category": "코인",
+  "topic": "대법원 가상자산 강제집행 절차 마련(개정 민사집행규칙 11/1 시행), 코인 압류·현금화 명확화",
+  "imageTitle": "이제 코인도 압류된다",
+  "imageHighlight": "압류",
+  "imageData": "개정 민사집행규칙 11월 1일 시행 · 올해 코인 압류 신청 약 3,200건",
+  "body": "빚 안 갚으면 이제 내 비트코인도 압류될 수 있음 😱\n\n1) 대법원(법원행정처)이 가상자산 강제집행 절차를 새로 만들었음\n2) 압류부터 현금화(매각)까지 절차를 정한 개정 민사집행규칙은 이달 1일부터 이미 시행 중\n3) 강제집행이 뭐냐면! 돈을 안 갚는 사람의 재산을 법원이 강제로 묶고 팔아서 빚을 갚게 하는 절차임\n4) 그동안 코인은 실물도 없고 등기 같은 공시 수단도 없어서, 딱 맞는 규정 없이 \"그 밖의 재산권\" 절차를 빌려 썼음\n5) 그런데 \"코인 압류해달라\"는 신청이 올해만 약 3,200건이었다고 함. 법원도 지난해 7월부터 TF를 꾸려 준비해 왔음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n코인이 법적으로 \"압류하고 팔 수 있는 재산\"으로 확실히 자리 잡았다는 뜻임. 거래소 계좌에 있는 코인도 주식·예금처럼 다뤄지는 방향\n반대로 채권자 입장에선 못 받은 돈을 코인으로 회수할 길이 열린 것\n\n개미 입장에선 가격에 바로 영향 주는 뉴스는 아니니 이걸로 급하게 움직이기보다, 코인 제도화 흐름(과세·디지털자산기본법)을 같이 지켜보는 게 좋을 듯\n\n📌 투자 권유가 아닌 정보 정리용 글임. 투자 판단과 책임은 본인에게 있음.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1174814"
+   },
+   {
+    "name": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xbmNZSTE4eWhhU09lRGktWWpSOU9oZVpiUVFfOGUyTTB1emtlYzNZOGtMT1F3R0M1TzhvVFJsV1VFY291UUU2Q0hjXy1YLWNpRHc00gFTQVVfeXFMTTFuY1lJMTh5aGFTT2VEaS1ZalI5T2hlWmJRUV84ZTJNMHV6a2VjM1k4a0xPUXdHQzVPOG9UUmxXVUVjb3VRRTZDSGNfLVgtY2lEdzQ?oc=5"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wajN0eHhXVFNSNV9oZWdPTDJBTWFGWlVmS05UdGVJd1NwN0E0TWNfMWZnNDRDZnBpdzI1RzNwRzNwSHl2NGxhbjZVc25iQQ?oc=5"
+   },
+   {
+    "name": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nMURhSzlzelJjOFRiQUdKQjU1b2I5N1lObDdZY3pKVl9DWVYyS3FpSy1FX0F2azBtU0J5VzMzdFRTSDIzeHE5QVBaRXlwUlhEbjNwRkNXZHkwUThzSHM3WtIBeEFVX3lxTFBBQ1gyZW1PT3JoY3pyN1ByMG1jQXl5TWJTUDFtaUxXSHk3MDFFNVB1UnF0Q1NPT05GWDJ5SmxNY0ZSdE96aGlibDFMdk9MMWtzZ1c3YU9haGVOSG5sMFlabHlIbjhKS0NqUE9ON0NaNWVTZzNMQjZIRQ?oc=5"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MnRsOXpGbjZTVFRpMlBUWHNQekRYNjBXYk0tRFVtdWRiamJ6NkktVFg4RmZhV1h4cXB6eHRSdmhzUFNWLWsyamhCcFBaZ1dfT3YwQlRXVmRidw?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 빚 안 갚으면 이제 내 비트코인도 압류될 수 있음 😱 ② 코인도 이제 법원이 압류하고 팔 수 있음 👀 ③ \"코인은 못 건드린다\"는 말, 이제 옛말 🔥",
+   "\"올해 약 3,200건\"은 뉴시스 제목 기준(단독 출처 수치)",
+   "TF 출범 시점(지난해 7월)은 코인니스(연합뉴스 인용) 기준"
+  ],
+  "videos": []
+ },
+ {
+  "createdAt": "2026-11-09T08:30:00.000Z",
+  "date": "2026-11-09",
+  "slot": "17시",
+  "status": "draft",
+  "id": "20261109-1730-3",
+  "category": "국내 증시",
+  "topic": "[후속] 코스피 장중 2%대 반등 후 -0.81% 5,018.85 마감, 외국인 7거래일 연속 순매도",
+  "imageTitle": "코스피, 올랐다가 또 하락",
+  "imageHighlight": "또 하락",
+  "imageData": "코스피 5,018.85 (-0.81%) · 코스닥 638.97 (-0.82%) · 외국인 7거래일 순매도",
+  "body": "오늘 코스피, 장중엔 웃다가 마감 땐 또 울었음 😱\n\n1) 장 초반 코스피는 2%대까지 올라 5,100선을 넘기도 했음\n2) 그런데 오후로 갈수록 상승분을 다 반납하고 0.81% 내린 5,018.85에 마감. 하루 180포인트 가까이 출렁였다고 함\n3) 발목을 잡은 건 외국인. 7거래일 연속 순매도 중이고, 7일간 판 금액이 13조원대라는 보도도 나왔음\n4) 삼성전자·SK하이닉스는 반등했는데도 지수는 못 버텼음. 기관이 사도 외국인·개인 매도를 못 이긴 것\n5) 일본·대만은 반등했는데 한국만 뒷걸음. 코스피는 이달 들어서만 12%대 하락했다는 분석도 있음\n6) 그나마 환율은 9.5원 내린 1,347원대로 4거래일 만에 내려왔음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n\"5천선 지켰다\"보다 중요한 건 장중 반등을 지키지 못했다는 점임. 받쳐줄 매수 주체가 없다는 신호라서, 외국인 매도가 멈추는지가 이번 주 핵심\n\n개미일수록 장중 급반등에 바로 따라붙기보다, 외국인 매도가 멈추고 반등이 마감까지 이어지는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리용 글임. 투자 판단과 책임은 본인에게 있음.",
+  "sources": [
+   {
+    "name": "연합뉴스 마켓+",
+    "url": "https://www.yna.co.kr/view/AKR20261109117751008"
+   },
+   {
+    "name": "연합뉴스 마켓+",
+    "url": "https://www.yna.co.kr/view/AKR20261109098700008"
+   },
+   {
+    "name": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdmktdXgzNjdwOEVTZ05LeFdkOGVGaUl5aXhwdlh3Q3VGT3NNd1ktTnV0QkhCQ1MzbVJvdmhJUkpRX2xhQU44a3NuVDZCRllGdEs0RkZ2U2VuS28?oc=5"
+   },
+   {
+    "name": "MTN 머니투데이방송",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaU29oYWhqWTBPZjlxYjZ6SnlKXzE2QkFGRjRJdmhIWVIyaWg1WndwUHY0MzlkVHRpc09Eb1BJMDNEVHNSLVI3bEVzM0FBWkRyTVNOWk44UWh1LWJ3Y3Vj?oc=5"
+   },
+   {
+    "name": "뉴스퀘스트",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWE95MXo1bUVuN0xFaV9lTEJLNDNtWENfeER1WGc2QW5yaTBjbU1mdVkwXzJCVjhOVHFicDFBcm9JQkNoMlZOeWZERzN1RmlRb3otZEFZdXNoUktmUndITzE0Ui13enVmczJpWDV3SQ?oc=5"
+   },
+   {
+    "name": "연합뉴스 경제",
+    "url": "https://www.yna.co.kr/view/AKR20261109121300002"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/09/PYH2026110917260001300_P2.jpg",
+    "source": "연합뉴스 마켓+"
+   },
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/09/PYH2026110917090001300_P2.jpg",
+    "source": "연합뉴스 마켓+"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 오늘 코스피, 장중엔 웃다가 마감 땐 또 울었음 😱 ② 2% 올랐던 코스피, 왜 결국 빠졌을까? 👀 ③ 외국인 7일째 매도, 코스피 5천선 아슬아슬 🔥",
+   "12:54 게시글(코스피 5천선 방어)의 후속: 장중 2%대 반등 → 하락 마감",
+   "\"7일간 13.5조\" \"하루 180p\"는 뉴스1 단독 수치. 본문엔 \"13조원대\"로 씀",
+   "\"이달 12%대 하락\"은 블루밍비트 단독. \"5,100선 돌파\"는 머니투데이 제목 기준",
+   "환율은 마감 1,347.1원(연합뉴스). 시세표(17:27 야후)는 1,349.7원"
+  ],
+  "videos": []
  }
 ]
