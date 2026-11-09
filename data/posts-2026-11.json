@@ -731,5 +731,101 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261110-0730-1",
+  "createdAt": "2026-11-09T22:30:00.000Z",
+  "date": "2026-11-10",
+  "slot": "07시",
+  "category": "미국 증시",
+  "topic": "뉴욕증시 3대 지수 2%대 급반등(필라델피아 반도체 +6.85%, AMD 13%↑), 엔비디아만 -4.3%, WTI -4.9% — 코스피 야간선물 5%대 급등",
+  "imageTitle": "엔비디아만 빼고 다 올랐다",
+  "imageHighlight": "엔비디아",
+  "imageData": "필라델피아 반도체 +6.85% | 엔비디아 -4.3%",
+  "body": "뉴욕증시가 하루 만에 확 뒤집혔음. 근데 엔비디아만 혼자 반대로 감 👀\n\n1) 어젯밤 미국 3대 지수 모두 2%대 급등 마감\n나스닥 +2.74%, S&P500 +2.35%, 다우 +1,104포인트(+2.15%)\n\n2) 제일 세게 오른 건 반도체\n필라델피아 반도체지수 +6.85%. AMD 13% 급등, 마이크론 6% 상승이라고 함\n\n3) 근데 엔비디아는 4.3% 하락\n젠슨 황 CEO 사생활 의혹과 이사회 조사 소식이 계속 발목을 잡는 중. 장중 한때 8%대까지 밀렸다는 보도도 있음\n\n4) 반등 이유는 두 가지로 정리됨\n첫째, 최근 많이 빠진 기술주에 저가 매수가 들어왔음\n둘째, 국제유가 급락. WTI가 하루에 4.9% 내려 86달러대\n\n필라델피아 반도체지수가 뭐냐면!\n미국 주요 반도체 기업 30곳을 묶은 지수임. 삼성전자·SK하이닉스 흐름을 미리 보는 지표로 많이 씀\n\n5) 공포지수(VIX)도 하루에 22% 넘게 내려 19.92\n\n그래서 우리랑 무슨 상관이냐 ⭐\n코스피 야간선물이 5%대 급등했다는 보도가 나왔음. 오늘 국장 반도체주 반등 기대가 커진 상황임\n다만 외국인이 최근 계속 팔고 있어서, 그 매도가 멈추는지가 변수임\n\n개미일수록 시초가 급등에 바로 따라붙기보다, 장 초반 흔들림이 지나고 외국인 수급을 확인한 뒤 대응하는 게 안정적일 듯\n단, 하루 반등이 추세 전환이라는 보장은 없음. 이번 주 미국 소비자물가 발표 전까지는 변동성이 큼\n\n📌 투자 권유가 아닌 시장 정보 정리입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSlMzcm05aVZfZVBfU0JHUU5ReEhLdUdrLWhXSXQweHUwM0hDbGpiSkdpOGNEemZ6Y1ZyOFVXSW1qLW9JdEtVNTlOTEN1SEJWQUM3V3lpUEFLVVcwaHVIVmJBUXRLRFpqZ01sWVlMZkdGbUNCNWpQRk5FOGVyaXE3Yg?oc=5"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026111062276"
+   },
+   {
+    "name": "CBC뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ld3RnVFFOWEFadFc3cXBmMGFMNGRSZ2s4cjhfRjZCUXFVVHkteTB5d3NrNkJUNUFwdm5pbHlKUzVNN0MzemQzaGxHRDlUODNNUHJzcXQ5SGxxd21abmVUaXJlSVZMZTJn?oc=5"
+   },
+   {
+    "name": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaV0ozd2UyRV9RTEcxSzRYT2ZBOUxxMncyZEFDYV9JS2JGcURsMExWc1IxT25nTmp2WHBVOENQcmx1UzRuQmFaelh3b0V0Q0NIRURhb19KZTc4c3dSWG1RQzZGVFdQNUNW0gFuQVVfeXFMTWVtT0RkOTdTaUdWbFdWbl95Zmx6UUtMUmFlSVZvM05UUVVXd3RIdE84bFBOSm5jXzZvU0t0S1NhQmtWbGFORlZvbjkxaG05elVhcXF0RUNSdEJoZVNsZ2c1a1AwdDZfbjE5eHFBMmc?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보 1: 뉴욕증시가 하루 만에 확 뒤집혔음. 근데 엔비디아만 혼자 반대로 감 👀",
+   "첫 줄 후보 2: 반도체지수 7% 가까이 폭등한 밤, 엔비디아는 왜 떨어졌을까 🔥",
+   "첫 줄 후보 3: 어젯밤 미국장, 오늘 국장에 좋은 신호일까? 👀",
+   "AMD 13%·마이크론 6%는 CBC뉴스·글로벌이코노믹 보도 기준(시세 표에 없음)",
+   "엔비디아 장중 8%대 하락은 경향신문 단독 보도 수치",
+   "코스피 야간선물 5%대 급등은 머니투데이 단독 보도 — 개장 후 실제 코스피 흐름 확인",
+   "시세 표의 코스피 변동률(-6.78%)은 기준값 오류 가능성 있음(전날 마감 기사 -0.81%). 코스피 등락률은 본문에 안 씀",
+   "오전 장중에 올리는 글 — 장 시작 후 상황 바뀌면 문장 수정"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261110-0730-2",
+  "createdAt": "2026-11-09T22:30:00.000Z",
+  "date": "2026-11-10",
+  "slot": "07시",
+  "category": "코인",
+  "topic": "미국 증시 2%대 급반등에도 비트코인 7만5천달러 부근 제자리, 장중 7만3,500달러까지 밀림, 알트(이더리움·리플) 약세, 공포·탐욕 29, 이번 주 CPI 대기",
+  "imageTitle": "주식 올랐는데 코인은 왜?",
+  "imageHighlight": "코인",
+  "imageData": "비트코인 $74,981 (+0.53%) | 공포·탐욕 지수 29",
+  "body": "미국 주식은 2%대 급등했는데, 코인은 제자리 😱\n\n1) 나스닥이 2.74% 뛴 밤에도\n비트코인은 7만4,981달러, 하루 +0.53%에 그쳤음\n\n2) 장중엔 더 흔들렸음\n한때 7만4,000달러 아래로, 7만3,500달러까지 밀렸다는 보도. 엔비디아 급락 때 매도 물량이 크게 나왔다고 함\n\n3) 알트코인은 더 약함\n원화 기준(전일 0시 대비) 이더리움 -0.96%, 리플 -2.69%\n리플은 닷새 연속 하락이라고 함\n\n4) 심리는 아직 '공포'\n코인 공포·탐욕 지수 29\n\n공포·탐욕 지수가 뭐냐면!\n시장 심리를 0~100 숫자로 보여주는 지표임. 낮을수록 사람들이 겁먹은 상태\n\n5) 다음 큰 변수는 이번 주 미국 소비자물가(CPI)\n10월 소비자물가 상승률이 3.9%로 예상된다는 보도. 물가가 높게 나오면 금리 인하 기대가 줄어 코인엔 부담\n\n그래서 우리랑 무슨 상관이냐 ⭐\n주식 반등이 코인으로 바로 넘어오지 않고 있음\n지금 코인은 주식을 따라가기보다 물가·금리 발표를 먼저 기다리는 분위기\n비트코인보다 알트코인이 더 약한 것도 체크 포인트\n\n개미일수록 '주식 올랐으니 코인도 오르겠지' 하고 먼저 들어가기보다, 물가 발표 뒤 방향 확인하고 나눠서 대응하는 게 안정적일 듯\n단, 발표 직후 급변동이 클 수 있으니 레버리지는 특히 조심\n\n📌 투자 권유가 아닌 시장 정보 정리입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5QSkpQdUFEVkxFeV9JSXExMFdVUWlDYXlQYXZvemFLT093d0hWbmVkRWFtd0dOUXN5b2lmSDVieHZ0T1RtUm5RWE9B?oc=5"
+   },
+   {
+    "name": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2LXhCNnJObGhWLUZCVEw4MFBmMi1rNnZXMEM2aEVmVi1SSlhSWndVX3QyT3pQVjU4ZnU3YWdKT0JXaHJZQzNJS0FINUtneWYwVkdHSA?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NeUN5Vk5jM25YNUdEX1ZmblY2ZUlPUHI4WVFPUnpSTFFTbUNYeWNReG5laGQ5eGJVUDUzcVhSUjlTVFJSbGU3LTVB?oc=5"
+   },
+   {
+    "name": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DVkRLZkUyNk9RcjZOS2ZBeDlGZlQ4a1dtdTBuM3E3eGlnYUJULUtIMFp2cFM4YnFKMXRkN0N3X3cwWkRPcS1rX2s4Yk1sY0xJT1ZFcU9SZkFVZVE1bXp4QWRWNWp3Um8?oc=5"
+   },
+   {
+    "name": "크립토 토마토 (유튜브)",
+    "url": "https://www.youtube.com/watch?v=QO_NndzmArM"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=SwtayHPP7mc"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보 1: 미국 주식은 2%대 급등했는데, 코인은 제자리 😱",
+   "첫 줄 후보 2: 나스닥 2.7% 뛴 밤, 비트코인은 왜 안 따라갔을까 👀",
+   "첫 줄 후보 3: 주식이랑 코인, 요즘 따로 노는 중 🔥",
+   "자막 못 가져옴 — 유튜브 반영은 영상 제목·설명 기준. 영상 제목의 '숏 포지션 쏠림'은 기사로 확인 못 해 본문에 안 씀",
+   "7만3,500달러·7만4,000달러 장중 저점은 코인리더스 단독 보도 수치",
+   "CPI 3.9% 전망은 뉴스1 단독 보도 — 발표 날짜·시각 확인",
+   "비트코인 가격은 올리기 직전 시세로 다시 확인"
+  ],
+  "videos": [
+   "QO_NndzmArM",
+   "SwtayHPP7mc"
+  ],
+  "status": "draft"
  }
 ]
