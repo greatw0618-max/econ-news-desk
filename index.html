@@ -292,6 +292,11 @@ $('feed').addEventListener('click', async e => {
   }
 });
 
+// 휴대폰에서는 유튜브 이슈 칸을 접은 채 시작한다 (펼침 상태는 기기에 기억)
+const ytOpen = store.get('desk.ytOpen', null);
+$('ytBox').open = ytOpen == null ? !matchMedia('(max-width: 700px)').matches : ytOpen;
+$('ytBox').addEventListener('toggle', () => store.set('desk.ytOpen', $('ytBox').open));
+
 load();
 setInterval(() => { if (document.visibilityState === 'visible') load(); }, 5 * 60 * 1000);
 </script>
