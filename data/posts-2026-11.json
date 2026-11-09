@@ -272,5 +272,46 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261109-1530-1",
+  "createdAt": "2026-11-09T06:30:00.000Z",
+  "date": "2026-11-09",
+  "slot": "15시",
+  "category": "미국 증시",
+  "topic": "젠슨 황 CEO 사생활 의혹 인정, 엔비디아 로빈후드 야간거래 4%대 하락, 이사회 독립 조사",
+  "imageTitle": "엔비디아, 이번엔 CEO 리스크",
+  "imageHighlight": "CEO",
+  "imageData": "엔비디아 로빈후드 야간거래 4%대 하락 (8일 밤, 현지시간)",
+  "body": "엔비디아, 이번엔 실적 말고 CEO가 변수 👀\n\n1) 젠슨 황 엔비디아 CEO가 8일(현지시간) 임직원 이메일로\n의혹이 제기된 인물과의 혼외 관계를 인정하고 사과했음\n\n2) 회사는 그동안 두 사람 만남을 \"통상적인 고객 미팅\"이라고 설명해 왔는데\n열흘 만에 말이 바뀐 셈\n\n3) 이 소식 뒤 로빈후드 야간거래에서\n엔비디아 주가가 4%대 하락세를 보였다고 함\n\n4) 야간거래가 뭐냐면!\n정규장이 닫힌 시간에도 일부 증권사에서 주식을 사고팔 수 있는 것\n거래량이 적어서 가격이 크게 출렁이기 쉬움\n\n5) 이사회는 독립 이사 위원회가 외부 법률 자문을 받아 조사하겠다고 했고\n황 CEO는 중단 없이 CEO직을 계속 맡는다는 입장\n\n그래서 우리랑 무슨 상관이냐 ⭐\n엔비디아는 AI·반도체 대장주라\n여기가 흔들리면 삼성전자·SK하이닉스 같은 국내 반도체주 분위기도 같이 출렁일 수 있음\n지난 금요일 필라델피아 반도체지수가 4.21% 반등한 직후라 더 눈여겨볼 만함\n\n단, 야간거래 숫자는 정규장에서 달라질 수 있음!\n오늘 밤 미국 정규장 반응을 먼저 확인해보자 ✅\n\n개미일수록 뉴스 직후 급변동에 바로 따라가기보다, 정규장에서 방향이 확인된 뒤 대응하는 게 안정적일 듯\n\n📌 매수·매도를 권유하는 글이 아닙니다. 투자 판단과 책임은 본인에게!",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261109110500009"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/202611094311H"
+   },
+   {
+    "name": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fdTNBVmRQWFNrYjJWb1VxUlRNQ0U3Rk0zZE1hRlJhb2ZlMGlOcmlkdEdKNk9rR2FJREpKQWRpSnFiRW9DcGhrRXlzQlZpSEdzaDR4TThfNmFybXh2Nnhwd1VUNDVJc1Vs0gFuQVVfeXFMUEVSbktscUhYdldCQjkydk1CVFROXzZ0MnFHdDlxSExueExnM21nUE9CTUdITWJ1NUNvUTV5U0pHS1k5UVlmZUVDdEdCdnhCQkF4ZzlPYkRqMlI4XzFZeFFVa3YyYnd1R1paTS11Smc?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/cms/2026/11/09/01/PCM20261109000001990_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "4%대 하락은 로빈후드 야간거래 기준(연합뉴스 단독 수치) — 올리는 시점 시간외·정규장 주가로 재확인",
+   "사생활 이슈: 상대방 인물 언급·추측 없이 표현 수위 재확인",
+   "첫 줄 후보 ① 엔비디아, 이번엔 실적 말고 CEO가 변수 👀",
+   "첫 줄 후보 ② AI 대장주가 하룻밤 새 4% 빠진 이유 😱",
+   "첫 줄 후보 ③ 엔비디아 들고 있다면 오늘 밤 이것부터 봐야 함 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
