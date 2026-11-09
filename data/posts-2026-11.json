@@ -640,5 +640,96 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261109-2330-1",
+  "createdAt": "2026-11-09T14:35:00.000Z",
+  "date": "2026-11-09",
+  "slot": "23시",
+  "category": "코인",
+  "topic": "[후속] 스트래티지 1,037 BTC 추가 매수 발표 — 평균 매입가 7만5,456달러 아래서 매수, 총 85만364 BTC, MSTR 주식 매각·STRC 재매입 병행",
+  "imageTitle": "본전 밑에서도 또 샀다",
+  "imageHighlight": "본전 밑",
+  "imageData": "스트래티지 보유 850,364 BTC · 평균 매입가 $75,456 vs 현재 BTC $74,476",
+  "body": "비트코인이 평균 매입가 아래로 내려왔는데도, 또 샀음 👀\n\n1) 비트코인 최대 보유 기업 스트래티지가 지난주 비트코인 약 1,037개(8,190만 달러)를 추가 매수했다고 발표함\n2) 이번 매수로 총 보유량은 85만364개, 평가액 약 641억 달러 수준\n3) 포인트는 가격! 스트래티지의 평균 매입가는 약 7만5,456달러인데, 지금 비트코인은 7만4,476달러 근처라 평균 매입가보다 아래에 있음\n4) 매수 자금은 보통주(MSTR) 205만 주를 팔아서 마련했고, 동시에 우선주(STRC) 재매입에 1억8,830만 달러를 썼다고 함\n5) 다만 3분기 전체 순매수는 1,666개로 이전보다 크게 줄었다는 보도도 있음. 사는 속도는 확실히 느려진 상태\n\n평균 매입가가 뭐냐면! 지금까지 산 비트코인 전체를 평균 낸 1개당 가격임. 시세가 이보다 낮으면 장부상으로는 손실 구간이라는 뜻\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 큰손이 본전 아래에서도 계속 사겠다는 신호라서 심리적 버팀목 역할은 할 수 있음\n→ 단, 매수 규모가 예전보다 작고 주식을 팔아 돈을 마련하는 구조라, 이것만으로 가격을 끌어올리긴 어려움\n→ 이번 주 화요일 밤 미국 소비자물가(CPI) 발표가 여전히 더 큰 변수\n\n개미일수록 '큰손이 샀으니 바닥'이라고 단정하지 말고, 반등이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유 아님, 판단과 책임은 본인에게 있어요",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1174868"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   {
+    "name": "위키트리",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YaEhMY2NKbC0tdDdGSzF1TE9yV3FVZ3JSdEZkSEdBeGxRZEw1a1k2ckhPTkZ5YUtNQUNhQmFydHJ4bkNzOEtqRzlJOXBPbWpCekNhWTdn?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBleDNtVHFneWNtb21uTzAyaUUtZkZKQmtNTlR2dm93S3NVRVVWNUl6Q1FwSHFlcGtoMHNJWWozUDB0b3pfX2VqbmRB?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KYHA0Z0DAFRPRWE639Z8D7/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-6.jpg",
+    "source": "Cointelegraph"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인이 평균 매입가 아래로 내려왔는데도, 또 샀음 👀 ② 본전 밑에서도 멈추지 않는 큰손 🔥 ③ 비트코인 85만 개 가진 회사, 지금 손실 구간임 😱",
+   "매수 개수 매체별 차이: 1,037개(코인니스·블루밍비트) vs 1,036개(Cointelegraph·위키트리). 공시(SEC 8-K) 기준으로 확인",
+   "평균 매입가 7만5,456달러는 위키트리 보도 기준 — 단독 수치, 확인 필요",
+   "MSTR 205만 주·2억8,380만 달러 매각, STRC 재매입 1억8,830만 달러는 코인니스·Cointelegraph 기준",
+   "비트코인 가격 7만4,476달러는 11/9 23:27 KST 기준, 올리기 직전 갱신",
+   "3분기 순매수 1,666개는 코인리더스 단독 보도"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261109-2330-2",
+  "createdAt": "2026-11-09T14:35:00.000Z",
+  "date": "2026-11-09",
+  "slot": "23시",
+  "category": "코인",
+  "topic": "NYSE 24시간 토큰화 주식 플랫폼 정산 블록체인으로 아발란체 단독 선정(WSJ), 솔라나 기반 포메이션도 SEC에 토큰 증권 거래 신고, 찰스슈왑 SOL·AVAX·LINK 거래 지원",
+  "imageTitle": "뉴욕증권거래소, 블록체인 택했다",
+  "imageHighlight": "블록체인",
+  "imageData": "NYSE 토큰화 주식 정산 = 아발란체 · 솔라나 포메이션 2027년 초 출시 계획",
+  "body": "코인 시장은 공포인데, 월가는 블록체인 쪽으로 계속 걸어오는 중 🔥\n\n1) 뉴욕증권거래소(NYSE)가 준비 중인 24시간 토큰화 주식 거래 플랫폼의 정산 블록체인으로 아발란체(AVAX)가 단독 선정됐다고 월스트리트저널이 보도함\n2) 아발란체 쪽도 이 플랫폼의 핵심 청산·결제 계층을 자기 기술로 만든다고 밝혔음. 다만 플랫폼 출시는 규제 당국 승인이 남아 있음\n3) 같은 날 솔라나(SOL) 기반 업체 포메이션도 미국 증권거래위원회(SEC)에 토큰 증권 거래 플랫폼 운영 계획을 신고함. 2027년 초 출시 목표\n4) 미국 대형 증권사 찰스슈왑은 자사 코인 거래 서비스에 솔라나·아발란체·체인링크(LINK) 거래를 새로 추가함\n\n토큰화 주식이 뭐냐면! 주식 소유권을 블록체인 위의 토큰으로 만들어서, 24시간 거래하고 바로 정산할 수 있게 하는 방식임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 가격은 빠지고 있어도, 거래소·증권사 같은 전통 금융이 블록체인을 실제 인프라로 쓰기 시작했다는 뜻\n→ 이런 소식은 단기 가격보다 '어떤 코인이 실제로 쓰이느냐'를 볼 때 참고할 재료\n→ 단, 아직 승인 전·출시 전 단계라 실제 거래가 시작되기까지는 시간이 걸림\n\n개미일수록 호재 뉴스 하나에 바로 따라붙기보다, 시장 전체 흐름이 돌아서는지 확인하고 움직이는 게 안정적일 듯\n\n📌 투자 권유 아님, 판단과 책임은 본인에게 있어요",
+  "sources": [
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1174859"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1174871"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03NnB5a2pfQjdPbkV2UkNtTnFydHc4LUdNbVp6UnpqN3h6Rzl1ekJONC1wY2pLU0U4YV9WU1dnYjJCa1RxZWdpdkRYRlhOaTFT?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/e5010be687a255fbd4ca9b45cb952c3ec72fe13a-6302x3545.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 코인 시장은 공포인데, 월가는 블록체인 쪽으로 계속 걸어오는 중 🔥 ② 뉴욕증권거래소가 고른 코인, 뭐였을까? 👀 ③ 주식도 24시간 블록체인으로 거래되는 날이 온다 🔥",
+   "'단독 선정'은 WSJ 보도 기준(코인니스 인용). 원문 확인 권장",
+   "포메이션 2027년 초 출시는 CoinDesk 기준",
+   "아발란체(AVAX) 가격은 시세 표에 없음 — 가격 언급은 넣지 않았음",
+   "솔라나 가격 118,100원(-0.25%, 11/9 23:27 KST)을 넣을 경우 올리기 직전 갱신"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
