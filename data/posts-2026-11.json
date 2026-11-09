@@ -552,5 +552,93 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261109-2130-1",
+  "createdAt": "2026-11-09T12:30:00.000Z",
+  "date": "2026-11-09",
+  "slot": "21시",
+  "category": "코인",
+  "topic": "코인베이스 美 OCC 연방 신탁은행 인가 최종 획득(4월 조건부 → 정식), 기관 커스터디·결제 확대",
+  "imageTitle": "코인베이스, 은행 됐다",
+  "imageHighlight": "은행",
+  "imageData": "美 OCC 연방 신탁은행 정식 인가 · 비트코인 74,616달러",
+  "body": "코인 거래소가 진짜 '은행' 간판을 달았음 🏦\n\n1) 미국 최대 코인 거래소 코인베이스가 미국 통화감독청(OCC)에서 연방 신탁은행 인가를 최종으로 받았다고 함\n2) 지난 4월엔 '조건부' 승인이었는데, 이번에 정식 인가로 올라간 것\n3) 신탁은행이 뭐냐면! 고객 자산을 맡아 보관·관리하는 은행임. 예금·대출을 하는 일반 은행과는 다름\n4) 코인베이스는 이 인가로 기관 대상 코인 보관(커스터디) 사업을 넓히고, 디지털자산 결제 상품도 검토 중이라고 함\n5) 다만 시장 분위기는 차가움. 비트코인은 74,616달러, 공포·탐욕 지수 29(공포) 수준\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 연기금·운용사 같은 큰돈은 '누가 안전하게 맡아주느냐'를 먼저 봄\n→ 코인을 미국 연방 감독 아래에서 보관하는 길이 넓어진 거라, 기관 자금이 들어올 통로가 하나 더 생긴 셈\n→ 단, 이런 제도 호재가 가격에 바로 반영되진 않음. 지금은 기술주 약세·CPI(소비자물가) 대기라는 큰 흐름이 더 셈\n\n개미 입장에선 호재 뉴스 하나에 바로 따라붙기보다, 시장 흐름이 돌아서는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1174838"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KR1RWS2p2M0UxSWNtcTFZRV9PX01xdGQ1ekcwN19KYTEwNHJ2c0NNZklfTmpWQ3V6X0RrMElxVVF6X2JaOGZKSEVpdERfR016?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/73ff5902b975f54122994ceeb39606463e975438-2732x1535.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   },
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MT4V83BPCA5X7B3XFWNYE8/hi-crypto-derivatives-are-now-available-how-much-interest-is-there-for-us-coinbase.jpg",
+    "source": "Cointelegraph"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 코인 거래소가 진짜 '은행' 간판을 달았음 🏦 ② 코인베이스, 이제 미국 정부 인가 은행임 👀 ③ 시장은 공포인데, 제도권 문은 하나 더 열렸음 🔥",
+   "'신탁은행'은 예금·대출 은행이 아님 — 표현 과장 없는지 확인",
+   "비트코인 가격·공포지수는 21:27 기준, 올릴 때 다시 확인",
+   "결제 상품은 '검토 중'(Cointelegraph) — 확정 아님"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261109-2130-2",
+  "createdAt": "2026-11-09T12:30:00.000Z",
+  "date": "2026-11-09",
+  "slot": "21시",
+  "category": "거시경제·금리",
+  "topic": "이란 호르무즈 통제·통행료 요구 철회 보도, 美-이란 동결자금 80억달러 해제·해협 재개방 논의 → WTI -2.8% 88달러",
+  "imageTitle": "기름값, 하루 만에 뚝",
+  "imageHighlight": "뚝",
+  "imageData": "WTI 88.27달러 (-2.82%) · 브렌트 94.92달러 (장중 -3%)",
+  "body": "기름값이 하루 만에 3% 빠졌음 🛢️\n\n1) 오늘 저녁 WTI(미국 서부텍사스유)는 배럴당 88.27달러, 전일 대비 -2.82%\n2) 브렌트유도 장중 3% 내려 94.92달러까지 밀렸다고 함\n3) 이유는 호르무즈 해협 소식. 이란이 해협 통제권과 선박 통행료 요구를 철회한 것으로 보인다는 외신 보도가 나왔음\n4) 호르무즈 해협이 뭐냐면! 중동 원유가 배로 빠져나가는 좁은 바닷길. 여기가 막히면 기름값이 바로 튐\n5) 트럼프 대통령이 카타르 총리와 만나, 이란 동결자금 80억 달러를 풀어주는 대가로 해협을 다시 여는 안을 논의할 전망이라고 함. 핵 문제는 이번 논의에서 빠진 것으로 알려짐\n6) 같은 날 금은 4,119달러로 +1.08%, 달러/원 환율은 1,346.5원으로 내렸음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 유가가 내려가면 물가 부담이 줄어듦. 이번 주 화요일 미국 CPI(소비자물가) 발표를 앞두고 시장이 반길 만한 재료\n→ 수입 원유 비중이 큰 한국엔 항공·화학·운송 쪽 비용 부담이 줄어드는 얘기\n→ 단, 아직 '보도'와 '논의' 단계임. 협상이 틀어지면 유가는 다시 튈 수 있음\n\n개미 입장에선 협상 뉴스 한 줄에 크게 움직이기보다, 실제 합의가 나오고 유가 흐름이 이어지는지 확인하고 보는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스(이스라엘 하욤 인용)",
+    "url": "https://coinness.com/news/1174849"
+   },
+   {
+    "name": "코인니스(유가)",
+    "url": "https://coinness.com/news/1174848"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sX0RoWVlDOUFJQWlMZGZ6ODIwTGdqVEhLTGQzMjA2cm1zZzhZZnNqc3V5eWRoLXc4cElwWDU5X3FQUEUzU0ZPdUREdWV1cVNQ?oc=5"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026110959757"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 기름값이 하루 만에 3% 빠졌음 🛢️ ② 호르무즈에서 좋은 소식이 왔음 👀 ③ 80억 달러로 바닷길 다시 연다? 🔥",
+   "이란 요구 철회는 이스라엘 매체 단독 보도('~한 듯') — 단독 출처, 확정 표현 금지",
+   "80억달러 해제안은 '검토·논의' 단계 — 결과 나오면 후속 확인",
+   "브렌트 94.92달러는 장중 수치, WTI는 21:17 시세표 기준 — 올릴 때 다시 확인",
+   "환율은 야후 기준, 기사 기준 1,347원과 소폭 차이 가능"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
