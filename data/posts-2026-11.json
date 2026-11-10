@@ -1034,5 +1034,90 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261110-1327-1",
+  "createdAt": "2026-11-10T04:27:00.000Z",
+  "date": "2026-11-10",
+  "slot": "13시",
+  "category": "국내 증시",
+  "topic": "모건스탠리, 삼성전자·SK하이닉스 내년 실적 전망·목표주가 하향(30만9천원·160만원) — 코스피 급반등 날 나온 하향 리포트",
+  "imageTitle": "삼전닉스 급등날, 하향 리포트",
+  "imageHighlight": "하향",
+  "imageData": "모건스탠리 목표주가 삼성전자 30만9천원 · SK하이닉스 160만원",
+  "body": "코스피 불기둥인 날, 반도체 하향 리포트가 나왔음 👀\n\n1) 오늘 코스피 5,196(+3.54%, 장중), 삼성전자·SK하이닉스 동반 급등에 코스피·코스닥 매수 사이드카까지 발동했음\n\n2) 그런데 같은 날 글로벌 투자은행 모건스탠리가 삼성전자·SK하이닉스의 내년 실적 전망치를 낮췄다고 함\n\n3) 목표주가도 삼성전자 30만9천원, SK하이닉스 160만원으로 하향\n\n목표주가가 뭐냐면!\n증권사가 \"앞으로 이 정도 가치는 된다\"고 보는 가격임. 실제 주가랑 다르고, 실적 전망이 바뀌면 같이 자주 바뀜\n\n4) 반대 목소리도 있음. 모건스탠리 다른 쪽에서는 중간선거 이후 AI주 급락이 \"과했다\"는 분석도 냈고, 국내에서도 \"지금 반도체를 팔 때는 아니다\"라는 분석이 나옴\n\n그래서 우리랑 무슨 상관이냐 ⭐\n삼전닉스는 개인 투자자가 가장 많이 들고 있는 종목임. 반등하는 날에도 실적 전망 하향이 나오면 하루하루 흔들림이 커질 수 있음. 오늘 밤 10시 30분 미국 소비자물가(CPI) 발표도 남아 있음\n\n개미일수록 급등한 하루만 보고 따라붙기보다, 반등이 며칠 이어지는지 확인한 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 투자 권유가 아니며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261110080700008"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?mod=rss_markets_main"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/202611095370i"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/cms/2026/10/29/28/PCM20261029000028990_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 코스피 불기둥인 날, 반도체 하향 리포트가 나왔음 👀 ② 삼전닉스 오르는데 모건스탠리는 내렸다? 🔥 ③ '반도체 저승사자'가 또 움직였음 😱",
+   "코스피 5,196(+3.54%)은 13:07 장중 수치 — 올리기 전 최신 값 확인",
+   "기사 요약만 확인함: 이전 목표주가와 실적 전망 하향 폭은 연합뉴스 본문에서 확인 필요",
+   "'AI주 급락 과했다'는 WSJ 보도(모건스탠리 의견) — 해외 단독 보도(WSJ), 유료 기사라 제목·요약 범위만 사용",
+   "목표주가 숫자는 모건스탠리 의견을 전달한 것 — 우리 목표가처럼 보이지 않게 이미지 문구 확인"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261110-1327-2",
+  "createdAt": "2026-11-10T04:27:00.000Z",
+  "date": "2026-11-10",
+  "slot": "13시",
+  "category": "코인",
+  "topic": "채굴업체 MARA 3분기 이후 1만3,597 BTC(약 11억달러) 매도·담보대출 상환·추가 매도 예정, 헛8도 1,617 BTC 이체",
+  "imageTitle": "채굴업체, 비트코인 팔았다",
+  "imageHighlight": "팔았다",
+  "imageData": "MARA 비트코인 1만3,597개 매도 · 약 11억달러",
+  "body": "비트코인 캐는 회사가 비트코인을 내다 팔았음 😱\n\n1) 미국 채굴업체 MARA가 3분기 이후 비트코인 1만3,597개를 판 것으로 나타남\n\n2) 규모는 약 11억달러(약 1조6천억원). 판 돈은 담보대출 갚는 데 썼다고 함\n\n3) 3분기 매출은 35% 줄었고, 앞으로 추가 매도도 예정돼 있음\n\n채굴업체가 뭐냐면!\n컴퓨터로 비트코인 네트워크를 돌리고, 그 대가로 새 비트코인을 받는 회사임. 이들이 판 물량은 그대로 시장의 매도 물량이 됨\n\n4) 다른 채굴업체 헛8도 1,617 BTC(약 1억2,100만달러)를 또 옮긴 게 포착됨. 매도 목적이라는 해석이 나옴\n\n5) 비트코인은 지금 74,662달러 근처, 공포·탐욕 지수는 32(공포). 비트코인 현물 ETF도 6거래일 연속 자금이 빠지는 중\n\n그래서 우리랑 무슨 상관이냐 ⭐\n한쪽에선 스트래티지가 계속 사들이는데, 다른 쪽에선 채굴업체가 팔고 있음. 사는 힘과 파는 힘의 줄다리기임. 여기에 오늘 밤 10시 30분 미국 소비자물가(CPI) 발표까지 겹쳐 있음\n\n개미일수록 큰손 매도 소식이 이어질 땐 레버리지부터 줄이고, 발표 직후 급변동이 지나간 뒤 방향을 확인하고 움직이는 게 안정적일 듯\n\n📌 이 글은 투자 권유가 아니며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93S0lwYjVTMURHOG43X0pQV0xUUzE3U1cwUGFNVjFuRXFkSVJuUFVaUnZCMFZFUlAwUU16WmJmVWZZOWZDaWNCcFFXaDEyUENHUktNVWdOMjJmWl9IbE5KWVUyQk5rQQ?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xelFYaW5RREtNa3FyYy1UUkxOZ0tLZFZUcVY5bGxucHNweVk1el9zNEhIM3F6UXN5dldrWjZ2Nm1BRGJpWEktQUFmVWQzZnd4?oc=5"
+   },
+   {
+    "name": "BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81RnB0SzF2b19BNWZFQXJuSFU2REgyRFZKeGM3T0RsZmV2RFFZRTJyZWxwbzRRcUZPNGhNNUw1bVR1ZHRZMDNoa2JNZHhXUF9aYUtidlpDRURjVXVRVHZXQlExY0NWVHNPQ2xxbQ?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1174956"
+   },
+   {
+    "name": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQQl8zRXhwV1ZVSThyM1JTRm8zaDJhSVE3T1hyZU41QlR4V3ZETUVFX2dIbXdJa3hjalhZdi1sQmVyV2RYeUxxajRycXp4WG1Ud3BNbENOMTFDbE00SzBPY1J0dTVPalJPc3pkZlhvMVNzTEU?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 캐는 회사가 비트코인을 내다 팔았음 😱 ② 1조6천억원어치 비트코인, 누가 팔았나 👀 ③ 사는 쪽 vs 파는 쪽, 지금 비트코인 줄다리기 🔥",
+   "MARA 매도 수량(1만3,597개)·금액(11억달러/1조6천억원)은 매체마다 기준 시점이 다를 수 있음 — 기사 본문 확인",
+   "헛8 1,617 BTC 이체는 온체인 분석(룩온체인) 기반 단독 출처(코인니스), 실제 매도 여부 미확정",
+   "비트코인 74,662달러·공포탐욕 32는 13:27 기준 — 올리기 전 최신 값 확인",
+   "CPI 발표 시각 오늘(11/10) 밤 10시 30분(KST) 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
