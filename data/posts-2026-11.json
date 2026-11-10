@@ -1358,5 +1358,92 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261110-2127-1",
+  "createdAt": "2026-11-10T12:28:56.870Z",
+  "date": "2026-11-10",
+  "slot": "21시",
+  "category": "국내 증시",
+  "topic": "금융보안원 해킹 공격으로 금융사 보안상태·보안평가 관련 일부 정보 유출(연합·한경·매경)",
+  "imageTitle": "금융보안원도 해킹 뚫렸다",
+  "imageHighlight": "해킹",
+  "imageData": "금융위 산하 금융보안 전담기관 · 금융사 보안평가 정보 일부 유출",
+  "body": "금융보안을 지키는 기관이 해킹당했다고 함 😱\n\n1) 금융위원회 산하 금융보안 전담 기관인 금융보안원이 해킹 공격을 받았음\n2) 이 공격으로 금융사 보안상태·보안평가 관련 일부 정보가 유출된 것으로 오늘(10일) 파악됐다고 함\n3) 금융보안원이 뭐냐면! 은행·증권사 같은 금융회사들의 보안 점검과 침해 대응을 맡는 곳임. 그래서 별명이 '금융보안 문지기'\n4) 현재 보도 기준으로 유출된 건 금융사 보안 관련 정보이고, 개인 고객 정보가 유출됐다는 내용은 아직 없음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 금융사들의 보안 상태 정보가 밖으로 나갔다는 건, 그 정보가 다른 공격에 쓰일 수 있다는 걱정으로 이어질 수 있음\n→ 당국이 피해 범위와 후속 대책을 어떻게 내놓는지가 다음 포인트\n\n개미 입장에선, 이럴 때일수록 금융사·증권사를 사칭한 문자나 링크는 일단 의심하고, 앱은 공식 경로로만 접속하는 게 기본일 듯\n\n📌 투자 권유가 아닌 정보 정리용 글입니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261110174700002"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026111085637"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/economy/12204282"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/cms/2022/01/12/23/PCM20220112000123990_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/10/news-p.v1.20261110.54f2e3ad96894eae906a70d3b9708678_R.png",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 금융보안을 지키는 기관이 해킹당했다고 함 😱 ② 문지기가 뚫렸다…금융보안원 해킹 👀 ③ 금융사 보안 점검하는 곳이 털렸음 🔥",
+   "유출 정보의 구체적 범위·개인정보 포함 여부는 후속 보도로 확인",
+   "당국의 공식 발표(피해 범위·대책) 나왔는지 올리기 전 확인"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261110-2127-2",
+  "createdAt": "2026-11-10T12:28:56.870Z",
+  "date": "2026-11-10",
+  "slot": "21시",
+  "category": "미국 증시",
+  "topic": "[후속] 앤트로픽 IPO 공모가 범위 주당 70~78달러 제시(CNBC), 기업가치 1.3조달러 추진(WSJ), 나스닥 상장 예정",
+  "imageTitle": "앤트로픽, 공모가 나왔다",
+  "imageHighlight": "공모가",
+  "imageData": "공모가 범위 주당 $70~78 · 목표 기업가치 약 $1.3조",
+  "body": "AI 회사 IPO 중 역대급 숫자가 나왔음 👀\n\n1) 앤트로픽(Claude 만든 AI 회사)이 IPO 공모가 범위를 주당 70~78달러로 제시했다고 함 (CNBC)\n2) 이 공모로 노리는 기업가치는 약 1조3천억 달러 수준이라고 함 (WSJ)\n3) 상장은 나스닥 예정. 일론 머스크의 스페이스X가 기록적인 공모로 상장한 지 약 5개월 만임\n4) 공모가 범위가 뭐냐면! 회사가 \"이 가격대 안에서 팔겠다\"고 먼저 제시하는 구간임. 수요예측을 거쳐 최종 가격이 정해짐\n\n그래서 이게 왜 중요하냐 ⭐\n→ WSJ는 이번 상장을 AI 투자에 불안해진 투자자들의 '시험대'로 봤음\n→ 오늘 엔비디아 악재로 나스닥 선물이 흔들리는 와중이라, 이 공모에 돈이 얼마나 몰리느냐가 AI 투자 심리를 보여주는 지표가 될 수 있음\n\n개미 입장에선 대형 신규 상장주는 첫날 변동성이 크니까, 상장 직후 급등락을 쫓기보다 가격이 자리 잡는 걸 확인한 뒤 판단하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리용 글입니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669?mod=rss_markets_main"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.wsj.net/im-64711330",
+    "source": "WSJ"
+   },
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMA90WK_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① AI 회사 IPO 중 역대급 숫자가 나왔음 👀 ② 앤트로픽 몸값 1.3조 달러?! 🔥 ③ 스페이스X 다음은 앤트로픽, 가격 공개됨 👀",
+   "해외 단독 보도(WSJ): 기업가치 1.3조달러 — 유료 기사라 제목·요약 내용만 사용",
+   "해외 단독 보도(CNBC): 공모가 범위 70~78달러",
+   "오전 보도(IPO 세부 철회)와 이번 공모가 제시의 선후관계, 상장 날짜 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
