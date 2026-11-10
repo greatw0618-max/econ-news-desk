@@ -1650,5 +1650,88 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261111-0327-1",
+  "createdAt": "2026-11-10T18:27:00.000Z",
+  "date": "2026-11-11",
+  "slot": "03시",
+  "category": "거시경제·금리",
+  "topic": "국제 금값 -2.12% 급락, 온스당 4,027달러 — CPI 상회·美 10년물 5% 돌파·달러 강세에 4,000달러 위협",
+  "imageTitle": "금값, 4천달러 흔들린다",
+  "imageHighlight": "4천달러",
+  "imageData": "금 $4,027.1 (-2.12%) · 美 10년물 5.008% · 달러인덱스 102.31",
+  "body": "금 4,000달러, 이렇게 빨리 흔들릴 줄은 😱\n\n1) 국제 금값이 하루 만에 -2.12% 빠지면서 온스당 4,027달러까지 밀렸음\n2) 직전엔 4,100달러 위에서 버티고 있었는데, 미국 10월 소비자물가(CPI)가 예상(0.3%)보다 높은 0.4%로 나오면서 분위기가 확 바뀜\n3) 미 10년물 국채금리가 5.008%로 5%를 다시 넘었고, 달러인덱스도 102.31(+0.65%)로 올랐음\n4) 여기에 연준 월러 이사가 12월 0.5%p 인상(빅스텝)까지 열어두면서 금리 인상 베팅이 커졌다고 함\n\n금리 오르면 금이 왜 빠지냐면!\n금은 들고 있어도 이자가 안 나옴. 국채가 5% 이자를 주면 \"굳이 금을?\" 하는 돈이 늘어나고, 달러가 강해지면 달러로 사는 금값은 더 비싸 보이게 됨\n\n그래서 우리랑 무슨 상관이냐 ⭐\n금 ETF·금통장 갖고 있는 사람이 많은데, 지금 금값을 움직이는 건 '물가 → 금리 → 달러' 흐름임\n4,000달러라는 심리적 숫자를 지키는지가 당장 관심사고, 금요일 생산자물가(PPI)와 12월 연준 회의 전까지 금리 뉴스에 따라 크게 흔들릴 수 있음\n\n개미 입장에선 급락 한 번에 바로 물타기보다, 금리 흐름이 진정되는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEFoMmJfNDBIR0lWZjNpS1k1TGhFVVFDdnZ1cEVxSWRDM3ZiWXlsLTVTSlhVakp4Tjc1LVJCd01wVEF5V0RDWHBuOFluVmhUN1A5eXNDT2tybFVIcy1Jc0JNS0ZWOWRJRk1VbExOcjRGdF9JeDdfandaMGJxVmVPVFE5b2ctSDlzSkd5M0RvVThXTXBVb1RXRXhtS210TncyQmdDMllNRy1aUGE2eWRJZU1jZjJGTlFhdlE?oc=5"
+   },
+   {
+    "name": "NDTV Profit",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdUpHVU1OX2lFZTB4UUVCNm01a09OeG5KT3ZDdWY4NldKVXlOMEVOQ3BFajM0SEc1VjhjTGRYUU5GZVBqcmRiUnNscWZlNzdWUXV5aHNwUHJId0s5eXg3dTZaN3NqZ0taa1Q3YjM1TDJBVnJIbEdkOTA0OUExbjdSZ1cxeTBwSDdfQ1ZPTDh1ZDN0WTdZRkRWWTlOOXJMc1RRcm9QU003eXdXQ19hQlhiVjFIY0w5Z1FvVVZDdGJINUx6YVNFQ1JSTngzVFBvSkszemhqcEFOU3lhdjjSAeMBQVVfeXFMTUpNRGQzNUVmY2dQSHVIN29ZSktYQUdNeFV1a1RXQWJmM0dQWXZMLW1PUjRMRTNiWVpkOWU2bkdDa0UzWlRvUkN5Qm9vYnUwYmwtSmdLdWxzbVVLVDBud3JKSHptdm5lR0Z6Rl9fVjZabFU5bEhSeklMTThCVmNteC1XTTgyUkwybm1jVzVWTUE3aVBkeExyR2xEMFViRjJUN2NtZ2g3M0F6ZEdRaGFiNXhVaG1rNEV3ajE1VWV3RkZab0VzNXRlcFpnX3VPeU9wUDlydHRia0ZMWTRFMjNMU2FPenc?oc=5"
+   },
+   {
+    "name": "글로벌이코노믹",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUtaaVAzOHdRTWRZa0U4M0F2a0U0LW5pV1NKVzVJWEo4eXlrOVVkQUM1ZExPX19hQnNHd1BWSlQ3RFFieG9NLWtUQXRVRTNrQzVJNzV2VDgyUlRleGd4eENiQmlLWEVYbF9vc2l0NUVKQm9NRThmYU12eGZkaGoycjMwZ3lFTk82?oc=5"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0tnS0Z3WEZsbnlFMG8xUXBhNlZjNllnVmhQTGRybWdQQThyMnk2b19EZlc0OWZXQjZjUl9XTlAxbmpSc2RCSG1zZzdIc0dIWUJ2TDBsQWZhTXNVd3JpY3BLSnFUdUc4VXBwZlVId0FIYVdIU2lBQ0tTRWtPX2ZpZjZ4U3kzM1FGQVUxV3RkbmM0Rm9mTFlfWVgwM1Jjd25sd0RBa0Npaw?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 금 4,000달러, 이렇게 빨리 흔들릴 줄은 😱 ② 물가 하나에 금값 2% 증발 🔥 ③ 금 사둔 사람, 오늘 밤 놀랐을 듯 👀",
+   "금값·금리·달러인덱스는 03:17~03:27 KST 장중 수치, 올리기 전 최신값으로 확인",
+   "기사별 하락폭 차이(1.6%~2.6%) 있음 — 시세 표 -2.12% 기준",
+   "美 10년물 금리 5% 안착 여부 확인"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261111-0327-2",
+  "createdAt": "2026-11-10T18:27:00.000Z",
+  "date": "2026-11-11",
+  "slot": "03시",
+  "category": "미국 증시",
+  "topic": "[후속] 엔비디아 시총 마이크로소프트에 추월(약 17개월 만), 이사회 황 CEO 조사 보도·하원 중국특위 해명 요구, 나스닥 -1.47%·SOX -1.92%(장중)",
+  "imageTitle": "엔비디아, 1위 자리 내줬다",
+  "imageHighlight": "1위",
+  "imageData": "나스닥 24,881 (-1.47%) · 필라델피아 반도체 9,841 (-1.92%) (장중)",
+  "body": "엔비디아, 17개월 만에 자리 내줬음 👀\n\n1) 엔비디아 시가총액이 마이크로소프트에 추월당했다고 함. 약 17개월 만의 역전임\n2) 엔비디아는 어제(11/10) 다른 반도체주가 다 오를 때 혼자 -4%대 빠졌고, 황 CEO 관련 소송·조사 이슈가 이어지고 있음\n3) 이번엔 엔비디아 이사회가 황 CEO를 조사 중이라는 보도(MarketWatch)까지 나왔고, 미 하원 중국특위 위원장도 해명을 요구했다고 함(CNBC)\n4) 오늘 밤엔 물가 쇼크로 미 10년물 금리가 5%를 넘으면서 나스닥 -1.47%, 필라델피아 반도체 -1.92%로 반도체 전체가 밀리는 중 (장중)\n\n시가총액이 뭐냐면!\n주가 × 주식 수 = 회사 전체 몸값. 세계 1등 자리는 미국 기술주 흐름을 보여주는 상징 같은 숫자임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n엔비디아는 AI 반도체 대장이라 SK하이닉스·삼성전자 같은 국내 반도체 심리와도 같이 움직이는 경우가 많음\n지금 엔비디아는 '실적'보다 'CEO 리스크 + 금리' 두 가지 악재가 겹친 상태라, 뉴스 하나에 크게 출렁일 수 있음\n\n개미일수록 악재 뉴스 직후 급변동을 다 먹으려 하지 말고, 조사 결과나 회사 입장이 나온 뒤 방향이 확인되면 대응하는 게 안정적일 듯\n단, 실적 자체가 꺾인 건 아니라는 점은 같이 봐야 함\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ia09ZdVJYcTJpdndORTJXVFJKWTVMa0tqS1F0Y2h0R1lnaHhjN0lNcEYtSl9wNWU2aV9OSkFxbVREMWo2LWUyeEJka3BiR01p?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175098"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.mktw.net/im-55836112",
+    "source": "MarketWatch"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 엔비디아, 17개월 만에 자리 내줬음 👀 ② 세계 1등 몸값, 주인이 바뀌었음 🔥 ③ 엔비디아한테 무슨 일이? 😱",
+   "시총 역전은 국내 매체(블루밍비트·코인니스) 보도 — 장 마감 기준으로 유지되는지 확인",
+   "이사회 조사·하원 위원장 발언은 해외 단독 보도(MarketWatch·CNBC). 의혹 내용(사생활)은 본문에 넣지 않음, 사실 확정 아님",
+   "지수는 03:27 KST 장중 수치"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
