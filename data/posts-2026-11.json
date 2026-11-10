@@ -1297,5 +1297,66 @@
    "f7dmniXtov4"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261110-1927-1",
+  "createdAt": "2026-11-10T10:27:00.000Z",
+  "date": "2026-11-10",
+  "slot": "19시",
+  "category": "거시경제·금리",
+  "topic": "연준 월러 이사 12월 25bp 금리 인상 지지·근원 CPI 0.3%↑면 50bp도 가능 발언 → 달러·美 국채금리 상승, BTC 7.4만달러대, 오늘 밤 22:30 CPI가 인상 폭 변수",
+  "imageTitle": "연준, 12월 인상 신호",
+  "imageHighlight": "인상",
+  "imageData": "월러 이사 \"12월 25bp 지지, 필요 시 50bp\" · 美 10년물 4.86% · BTC 7만4,137달러",
+  "body": "오늘 밤 물가 발표 앞두고, 연준에서 센 말이 나왔음 😱\n\n1) 연준(미국 중앙은행) 월러 이사가 다음 달(12월) 기준금리 0.25%p 인상을 지지하겠다고 밝혔음\n2) 10월 근원 소비자물가가 0.3% 넘게 오르면 0.5%p 인상(빅스텝)도 고려할 수 있다고 함\n3) 이유는 \"물가가 너무 높고, 오름세가 여러 품목으로 넓게 퍼져 있다\"는 것\n4) 발언 직후 달러와 미국 국채금리가 오름세로 돌아섰고, 비트코인은 7만4천달러대로 밀렸음\n5) 결국 오늘 밤 10시 30분 미국 10월 소비자물가(CPI) 결과가 12월 인상 폭을 가를 핵심 변수가 됐음\n\n근원 소비자물가가 뭐냐면!\n→ 가격이 크게 출렁이는 식품·에너지를 뺀 물가. 연준이 기조를 볼 때 더 중시하는 숫자임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 금리 인상 폭이 커질수록 달러는 강해지고 주식·코인 같은 위험자산엔 부담. 오늘 코스피가 4%대 반등했지만, 물가가 높게 나오면 그 흐름이 다시 시험받을 수 있음\n\n개미 입장에선 발표 직후 몇 분간의 급등락에 바로 따라붙기보다, 방향이 잡힌 걸 확인하고 움직이는 게 안전할 듯. 레버리지는 특히 조심!\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175007"
+   },
+   {
+    "name": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rdlgtbTRsUVpRQmQyYTJkZkNKX21MMTlaZGYxRVNUQTZGTEpSbng3b2pHeVUzQkl6WlBwVjhPM2ZBNzBJS3piRXJBX3dKUTBDNXB5bk5Kdjc?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41RDk1WjJTWmZNenBpNm1RYVBHUXgzVnFWRk14cXFnVDU4dXl0cHptN1ZKYkloYlFzU3E3N1cxc210WVd3ald4d2UybERsYnVR?oc=5"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/articles/dollar-weakens-ahead-of-u-s-inflation-data-c7cddfbe?mod=rss_markets_main"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/feds-waller-plans-to-support-at-least-a-quarterpoint-rate-hike-in-december-5014429"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.mktw.net/im-30624857",
+    "source": "MarketWatch"
+   },
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMA90RM_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "CPI 발표 시각: 한국 시간 11/10 22:30(미 동부 오전 8:30) 재확인",
+   "시장의 12월 인상 확률은 84%(BeInCrypto)·96%(Cointelegraph)로 매체별로 달라 본문에서 뺌",
+   "50bp 조건 \"근원 CPI 0.3% 이상\"은 코인니스·MarketWatch 기준 — 원문 발언 재확인",
+   "BTC 7만4,137달러는 19:27 기준, 올리기 전 시세 갱신",
+   "첫 줄 후보: ① 오늘 밤 물가 발표 앞두고, 연준에서 센 말이 나왔음 😱 ② 12월 금리 인상, 이제 '할까 말까'가 아니라 '얼마나'임 👀 ③ 연준 이사 입에서 \"0.5%p\"가 나왔음 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
