@@ -1,16 +1,16 @@
 {
- "updatedAt": "2026-11-09T22:27:30.461Z",
+ "updatedAt": "2026-11-10T00:27:32.702Z",
  "market": [
   {
    "name": "코스피",
-   "price": 5018.85,
-   "changePct": -6.778665959491096,
+   "price": 5265.51,
+   "changePct": 4.067839353344767,
    "decimals": 2
   },
   {
    "name": "코스닥",
-   "price": 638.97,
-   "changePct": -5.813589821169797,
+   "price": 666.19,
+   "changePct": 3.4022971431603044,
    "decimals": 2
   },
   {
@@ -27,8 +27,8 @@
   },
   {
    "name": "달러/원",
-   "price": 1340.33,
-   "changePct": -1.1803800097145827,
+   "price": 1344.48,
+   "changePct": -1.3370479067095036,
    "decimals": 1
   },
   {
@@ -39,25 +39,25 @@
   },
   {
    "name": "비트코인(원)",
-   "price": 101891000,
-   "changePct": -0.55533867,
+   "price": 102076000,
+   "changePct": -0.17407632,
    "decimals": 0
   },
   {
    "name": "비트코인($)",
-   "price": 74981.4,
-   "changePct": 0.5319480225645384,
+   "price": 75037.58,
+   "changePct": 0.6072718340685705,
    "decimals": 0
   },
   {
    "name": "이더리움(원)",
-   "price": 2888000,
-   "changePct": -0.96021948,
+   "price": 2889000,
+   "changePct": -0.31055901,
    "decimals": 0
   },
   {
    "name": "코인 공포·탐욕 지수",
-   "price": 29,
+   "price": 32,
    "changePct": null,
    "decimals": 0
   }

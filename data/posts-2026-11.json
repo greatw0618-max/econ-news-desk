@@ -827,5 +827,141 @@
    "SwtayHPP7mc"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261110-0930-1",
+  "createdAt": "2026-11-10T00:30:00.000Z",
+  "date": "2026-11-10",
+  "slot": "09시",
+  "category": "국내 증시",
+  "topic": "코스피 4%대 급등 출발, 코스피·코스닥 동시 매수 사이드카(코스피 9거래일 만·올해 28번째), 삼전닉스 5~8%↑",
+  "imageTitle": "코스피·코스닥 사이드카 동시 발동",
+  "imageHighlight": "사이드카",
+  "imageData": "코스피 5,265.51 +4.07% · 코스닥 666.19 +3.40% (장중)",
+  "body": "어제까지 빠지던 코스피, 오늘 아침은 완전 다른 장임 🔥\n\n1) 코스피 4.55% 오른 5,247.22로 출발, 장 초반 5,265선(+4.07%, 장중)까지 올라옴\n\n2) 코스피에 이어 코스닥도 매수 사이드카 발동. 두 시장이 같이 걸렸음\n\n사이드카가 뭐냐면!\n선물 가격이 짧은 시간에 크게 움직이면 프로그램 매매(컴퓨터 자동 주문)를 5분 동안 멈춰서 과열을 식히는 장치임\n\n3) 코스피 매수 사이드카는 9거래일 만, 올해 28번째라고 함\n\n4) 주인공은 반도체. 삼성전자 5%대, SK하이닉스 7~8%대 급등(장중)\n\n5) 배경은 밤사이 미국 시장. 필라델피아 반도체지수 +6.85%, 나스닥 +2.74%, 국제유가(WTI)는 -4.86%로 86달러대까지 내려옴\n\n6) 원/달러 환율도 1,344원대로 18원 넘게 내려옴(장중)\n\n그래서 이게 왜 중요하냐 ⭐\n3거래일 연속 하락하고 외국인이 계속 팔던 흐름 속에서 나온 반등임. 다만 오늘 밤 미국 소비자물가(CPI) 발표가 남아 있어서, 이 반등이 이어질지는 밤에 한 번 더 확인해야 함\n\n개미일수록 사이드카 뜨는 급등 출발에 따라붙기보다는, 장 마감까지 힘이 유지되는지 확인하고 나눠서 대응하는 게 안정적일 듯\n\n📌 본 글은 투자 권유가 아니며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FUl90dkZ2RGtYdmRQZTlaQjBybl9TUkhTTUg4Vno5N3hwZ1d0X01WZnVYenZWeVkzV19FblBFb2RHVjRCc3B6ZWNYd0Z1ODE1VWFuRDkzb3hnUmN4M0ZJZNIBeEFVX3lxTFBYZF9xMDZEZWRTckRpMnJESkg5MDA3OW5HV3dQeXhSbjJISUtTeHRzR2NnVkFVMXdOV2N5SWxsRnRzZDhHWUxLSUpHZ3RPMmZTcC1UamJMOUFUNENvUVFiNHJsYmRJRHlULW9XSzlLLVMyY2dJSTI5Mg?oc=5"
+   },
+   {
+    "name": "연합뉴스TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfdjhsdTZnV2g3Q1plT0xJdVNLLVRUbllwZU9GMUMxNG5rcVg5ck9aeVY2bjNnbjVrbzYtWndHWXVJNE1ETE9iUmpKR1ZFTVoxSVdGUnlVaFlQNGdRMmVRX2hRZzZST2M?oc=5"
+   },
+   {
+    "name": "서울파이낸스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWDl1WGMwT0lfSkJ2N3NsQmgzREpERUR3MTRwR1VyZVBaTGpjLXdld0FJeVNQSnpkZVFIbzlIY0lWNXN3UEN4Y3dVb2lmR18xbEhjMGl6c1hlck9yb3hiSWtFck93a1VQMVE?oc=5"
+   },
+   {
+    "name": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01cHdQNkF0NEV0bVNVVXBHR3cxNDByS0puRkt5NUprbUtWWWliaEE1dFBxbFQzU1ltUHRuNG9pSHJCN1NJZGdpc1hqLWs5N1RkQzh1cXVZcWlfaGM?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 어제까지 빠지던 코스피, 오늘 아침은 완전 다른 장임 🔥 ② 코스피·코스닥에 동시에 브레이크 걸렸음 (좋은 쪽으로) 👀 ③ 장 열리자마자 사이드카 두 번 😱",
+   "코스피·코스닥 지수, 삼성전자·SK하이닉스 상승률은 모두 장중(09시 무렵) 수치. 올리기 전 현재가로 고칠 것",
+   "환율 1,344.5원(-18.2원)은 야후 기준 장중 값. 기사 기준(데일리안 9시 1,345.5원)과 비슷하나 올릴 때 다시 확인",
+   "'9거래일 만', '올해 28번째'는 한국경제·뉴스1·서울파이낸스·머니투데이 보도 기준"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261110-0930-2",
+  "createdAt": "2026-11-10T00:30:00.000Z",
+  "date": "2026-11-10",
+  "slot": "09시",
+  "category": "미국 증시",
+  "topic": "[후속] 엔비디아 홀로 -4.27%·시총 258조원 증발, 황 CEO 공시 관련 소송 피소, 트럼프 'FBI가 조사 중' 발언",
+  "imageTitle": "엔비디아, 소송에 FBI까지",
+  "imageHighlight": "FBI",
+  "imageData": "엔비디아 -4.27% · 하루 새 시총 약 258조원 증발 (11/9 종가)",
+  "body": "다 오른 날 엔비디아만 빠진 이유, 하루 새 더 커졌음 😱\n\n1) 11/9 뉴욕증시 3대 지수가 2%대 급등했는데 엔비디아만 4.27% 하락 마감. 장중 한때 8%대까지 밀리기도 했음\n\n2) 하루 새 시가총액 약 258조원이 사라졌다고 함\n\n3) 발단은 젠슨 황 CEO가 인정한 사생활 문제. 그런데 상대가 중국 정보기관과 연결된 인물이라는 보도가 나오면서 일이 커졌음\n\n4) 새 전개 ① 엔비디아와 황 CEO가 이 문제와 관련된 공시(투자자에게 알려야 할 정보) 때문에 소송을 당했음\n\n5) 새 전개 ② 트럼프 대통령은 FBI가 황 CEO를 들여다보고 있다고 말했음. 황 CEO가 그 여성이 스파이인 줄 몰랐다고 자신에게 말했다고도 전함\n\n6) 엔비디아 이사회는 별도로 내부 조사를 진행 중\n\n그래서 우리랑 무슨 상관이냐 ⭐\n실적이나 AI 수요 문제가 아니라 CEO 리스크라서 언제 끝날지 가늠하기 어려움. 엔비디아는 나스닥·S&P500에서 비중이 아주 큰 종목이라 반도체 ETF나 국내 반도체주 심리에도 영향을 줄 수 있음. 다만 어제는 반도체지수가 6.85% 오르는 동안 엔비디아만 빠져서 '엔비디아 개별 이슈'로 분리된 모습이었음\n\n개미일수록 수사·소송 뉴스는 헤드라인 하나에 크게 흔들린다는 점을 기억하고, 결과가 확인되기 전에는 레버리지를 특히 조심하는 게 좋을 듯\n\n📌 본 글은 투자 권유가 아니며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3pwXzVncjFkZFl3THF5NjBkQmFOMmpMc3RvR2ZmNmw4WnRtTHBhNkQzWlR0eE1yWW84ZnI5ZzlWSWlBRU41RkZUR2hJakpsS29VVHdhS3ZGR2NYdmg0UEtXblA3ajN1dFY2ZEJ1eGQtTG9kRDU4Sl9lcFhIMGpfUFNWYWNSUFJ0UE1SemM0ODhZRF9UUUVQZF9rdjZEMEFKQmh0MEZXdHFMRlhtSlBV?oc=5"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/nvidias-outofhour-shares-fall-as-firm-probes-ceo-jensen-huang-5010476"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979"
+   },
+   {
+    "name": "아시아투데이",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNMTN0MTFMU1U3QlVyblhhd3dUa0U1dzBDemVndzhwWTdUTWVyVjFQQW5sbHJsUlQ0VHFWZE5JWEJqa2ZUWVNHMmVrMk1xWExPRTF5UWYzUkZ4a1hhR3NTYXM4Vm83Sms4R0dyX0J3?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMA8205_L.jpg",
+    "source": "Investing.com (Reuters)"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 다 오른 날 엔비디아만 빠진 이유, 하루 새 더 커졌음 😱 ② 엔비디아 CEO 리스크, 이제 소송이랑 FBI까지 👀 ③ 시총 258조원이 하루 만에 사라진 이유 🔥",
+   "해외 단독 보도(Reuters): 소송 피소 — 제목만 확인, 원고·청구 내용은 확인 못 함",
+   "해외 단독 보도(Investing.com/Reuters): 트럼프 'FBI 조사' 발언 — 제목 기준. 공식 FBI 확인 아님, '트럼프가 말했다'로만 쓸 것",
+   "시총 258조원은 이데일리·아시아투데이 보도 기준(원화 환산은 환율에 따라 다를 수 있음)",
+   "엔비디아 등락률(-4.27%)은 11/9 정규장 종가 기준. 오늘 밤 장에서 바뀔 수 있음"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261110-0930-3",
+  "createdAt": "2026-11-10T00:30:00.000Z",
+  "date": "2026-11-10",
+  "slot": "09시",
+  "category": "코인",
+  "topic": "비트코인 50주 이동평균선(약 7만5천달러대) 이탈, 주목 가격대 7만3,500달러, 오늘 밤 CPI·금요일 PPI 대기",
+  "imageTitle": "비트코인, 50주선 깨졌다",
+  "imageHighlight": "50주선",
+  "imageData": "BTC 75,038달러 +0.61% · 공포·탐욕 32 (공포)",
+  "body": "많은 사람이 보던 비트코인 '기준선'이 깨졌음 👀\n\n1) 비트코인이 50주 이동평균선 아래로 내려왔음. 이 선이 7만5천달러대에 있음\n\n50주 이동평균선이 뭐냐면!\n최근 50주(약 1년) 가격의 평균을 이은 선. 중기 흐름이 살아 있는지 볼 때 많이 쓰는 기준선임\n\n2) 지금 비트코인은 75,038달러(+0.61%). 그 선 바로 근처에서 맴도는 중\n\n3) 뉴욕증시가 2%대 급반등한 날에도 비트코인은 거의 못 따라갔음. 레버리지 강제청산과 현물 ETF 자금 유출이 계속 부담으로 남아 있음\n\n4) 시장에서 다음으로 주목하는 가격대는 7만3,500달러 부근\n\n5) 코인 공포·탐욕 지수는 32. 여전히 '공포' 구간\n\n6) 이번 주 변수는 물가. 오늘 밤 10시 30분 미국 10월 소비자물가(CPI), 금요일엔 생산자물가(PPI)가 나옴\n\n그래서 우리랑 무슨 상관이냐 ⭐\n이번 주 주봉이 이 기준선 위에서 끝나느냐 아래에서 끝나느냐가 중기 흐름을 가르는 포인트로 보임. 물가가 높게 나오면 금리 부담이 커져서 코인에 추가 압박이 될 수 있고, 낮게 나오면 기준선 회복 시도가 나올 수 있음\n\n개미일수록 바닥을 맞히려 하기보다, 기준선을 다시 올라서는 게 확인된 뒤 움직여도 늦지 않을 듯. 물가 발표 직후 몇 분은 위아래로 크게 흔들리니 레버리지는 특히 조심\n\n📌 본 글은 투자 권유가 아니며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9HUWhRelJaN0MyYlVnVVFrbUlkcVktZEF3MG5QUnZnSDU1c1JDR1drUk5QOFgzclctSkZOeFAtbUVMWHZMd0c3Znhn?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rbkVMcjliWmVyTDJhLVhfSDZ1aG9iNDhvNElURnJKTmhQMUxYMHBoRmRUdmVFQUxQN1VOR3NUYVR2OWh1REx1WGxR?oc=5"
+   },
+   {
+    "name": "디센터",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uWmZxb3JzZFRIeW9CcmswRnF5MVBIa0RwLXZDeDItWDVpekNmTmpWcFd4dzJwYnFNTkYtRmtteC1NM05EOWpHbk5HZVV6ZDI0NUE?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DeUpLX050RW5IQWxxeld3UlFHMlVfbms5NGpDd1VQT3l0em1NMGJEVkFZbGVTdHBhTUp4OTl0NUJvcU41Q05pTnNmeV9tYnpn?oc=5"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=SwtayHPP7mc"
+   },
+   {
+    "name": "크립토 토마토 (유튜브)",
+    "url": "https://www.youtube.com/watch?v=QO_NndzmArM"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 많은 사람이 보던 비트코인 '기준선'이 깨졌음 👀 ② 주식은 날았는데 비트코인은 선 아래로 😱 ③ 비트코인, 이번 주 이 선 하나만 보면 됨 🔥",
+   "50주선 위치(약 7만5,500달러)는 영상 출처 수치, 기사 확인 필요. 기사(코인리더스)는 '50주선 이탈'까지만 확인",
+   "PPI 발표일(금요일 13일)은 영상 출처 수치, 기사 확인 필요",
+   "CPI 발표 시각 한국시간 11/10(화) 밤 10시 30분 — 블루밍비트 일정 기사로 한 번 더 확인",
+   "비트코인 가격·공포탐욕 지수는 09:27 기준. 올리기 전 현재값으로 고칠 것",
+   "단독 출처: 7만3,500달러 주목 가격대는 코인리더스 기사 기준"
+  ],
+  "videos": [
+   "SwtayHPP7mc",
+   "QO_NndzmArM"
+  ],
+  "status": "draft"
  }
 ]
