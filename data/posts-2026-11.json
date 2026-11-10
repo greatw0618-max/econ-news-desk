@@ -963,5 +963,76 @@
    "QO_NndzmArM"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261110-1127-1",
+  "createdAt": "2026-11-10T02:27:00.000Z",
+  "date": "2026-11-10",
+  "slot": "11시",
+  "category": "미국 증시",
+  "topic": "앤트로픽 IPO로 최대 693억달러 조달 추진(Reuters 단독), IPO 서류 세부 발송 후 철회 보도, 온도파이낸스 상장 당일 토큰화 상품 계획",
+  "imageTitle": "앤트로픽, 역대급 IPO 온다",
+  "imageHighlight": "역대급",
+  "imageData": "조달 목표 최대 693억달러(약 93조원)",
+  "body": "AI 공룡이 드디어 상장 준비? 👀\n\n1) 클로드를 만든 AI 회사 앤트로픽이 기업공개(IPO)로 최대 693억달러를 모으려 한다고 함\n2) 원화로 약 93조원 규모임 (환율 1,346원 기준)\n3) 다만 IPO 서류 세부 내용을 메일로 보냈다가 다시 거둬들였다는 보도도 같이 나왔음. 일정·가격은 아직 확정 아님!\n4) 토큰화 플랫폼 온도파이낸스는 상장 당일 앤트로픽 주식을 토큰 형태로 거래할 수 있는 상품을 내겠다고 밝혔음\n\nIPO가 뭐냐면!\n비상장 회사가 처음으로 주식시장에 주식을 내놓고 투자자 돈을 모으는 것임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 지난주 'AI 거품' 공포로 반도체·AI주가 크게 흔들렸는데, 이 정도 규모의 AI 상장이 추진된다는 건 AI 투자 수요가 아직 살아 있다는 신호로 읽힐 수 있음\n- 반대로 초대형 IPO는 시장의 돈을 한꺼번에 빨아들이기도 해서, 상장 전후로 다른 AI주 수급이 흔들릴 수도 있음\n\n개미일수록 상장 첫날 분위기에 휩쓸리기보다, 공모가와 일정이 확정되고 거래가 자리 잡는 걸 본 뒤 판단하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-aims-to-raise-up-to-693-billion-in-blockbuster-ipo-5013861"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1174944"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMA904J_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "693억달러는 해외 단독 보도(Reuters). 상장 시기·기업가치는 보도에 없음, 확인 필요",
+   "'IPO 서류 세부 내용 발송 후 철회'는 Investing.com(Reuters 배포) 제목 기준, 본문 확인 필요",
+   "온도파이낸스 토큰화 상품 계획은 단독 출처(코인니스)",
+   "원화 환산(약 93조원)은 달러/원 1,346.5 기준",
+   "첫 줄 후보: ① AI 공룡이 드디어 상장 준비? 👀 ② 93조원짜리 상장이 온다 🔥 ③ AI 거품론 속에 역대급 IPO 소식 😱"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261110-1127-2",
+  "createdAt": "2026-11-10T02:27:00.000Z",
+  "date": "2026-11-10",
+  "slot": "11시",
+  "category": "코인",
+  "topic": "2015년 1.5달러 매수 ETH 고래 9시간 동안 7,507 ETH(1,593만달러) 거래소 입금, 이더리움 재단 1,000 ETH 매도",
+  "imageTitle": "11년 존버 고래, 매도 시작",
+  "imageHighlight": "매도",
+  "imageData": "9시간 동안 7,507 ETH(약 1,593만달러) 거래소 입금",
+  "body": "1.5달러에 산 이더리움, 지금 판다? 😱\n\n1) 2015년에 개당 1.5달러에 이더리움 3만7천 개를 산 익명 고래 지갑이 지난 9시간 동안 7,507 ETH(약 1,593만달러)를 거래소로 옮겼다고 함\n2) 이 지갑은 9월 29일부터 지금까지 약 1만2천 ETH(2,854만달러)를 거래소에 넣었음\n3) 같은 날 이더리움 재단도 1,000 ETH(213만달러)를 팔았다고 함. 지난달 26일 이후 14일 만임\n4) 이더리움은 현재 288만원으로 전일 대비 -0.62%\n\n고래가 뭐냐면!\n코인을 엄청 많이 가진 큰손 지갑을 말함. 거래소로 코인을 옮기는 건 보통 팔려는 신호로 해석함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 미국 증시가 2%대 급반등했는데도 이더리움은 힘을 못 쓰는 중이라, 큰손 매도 물량이 심리를 더 누를 수 있음\n- 단, 아주 초기 투자자의 차익 실현은 전체 물량 대비 작을 수 있어서, 이것만으로 방향을 단정하긴 어려움\n\n개미일수록 고래 매도 뉴스에 바로 따라 팔기보다, 오늘 밤 미국 물가 발표 이후 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1174953"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1174951"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "고래 매도·재단 매도 모두 단독 출처(코인니스, 온체인 분석가 인용). 실제 매도는 '보인다' 수준",
+   "이더리움 가격 288만원은 업비트 원화·전일 0시(KST) 대비, 올리기 직전 다시 확인",
+   "첫 줄 후보: ① 1.5달러에 산 이더리움, 지금 판다? 😱 ② 11년 버틴 고래가 움직였다 👀 ③ 수익률 15만%, 고래의 매도 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
