@@ -1554,5 +1554,101 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261111-0127-1",
+  "createdAt": "2026-11-10T16:27:00.000Z",
+  "date": "2026-11-11",
+  "slot": "01시",
+  "category": "코인",
+  "topic": "[후속] 비트코인 업비트 1억원 이탈(83일 만, 9,961만원 -2.58%), BTC 7.3만달러 하회, 1시간 2.21억달러 강제청산, 알트 -5% 안팎, 공포·탐욕 32",
+  "imageTitle": "비트코인 1억원 깨졌다",
+  "imageHighlight": "1억원",
+  "imageData": "BTC 99,612,000원 (-2.58%) · $73,166 (-2.73%)",
+  "body": "비트코인 1억원, 83일 만에 깨졌음 😱\n\n1) 업비트 원화 마켓에서 비트코인이 1억원 아래로 내려왔음. 8월 20일 이후 약 83일 만이라고 함\n2) 지금 9,961만원대(전일 0시 대비 -2.58%), 달러 기준으로는 7만3천달러대(-2.73%)\n3) 방아쇠는 미국 10월 소비자물가(CPI)! 예상보다 높게 나오면서 12월 금리 인상 전망이 굳어졌음\n4) 발표 뒤 1시간 동안 2.21억달러 규모 선물 포지션이 강제 청산됐음. 24시간 기준 5.65억달러\n\n강제 청산이 뭐냐면!\n빚(레버리지)을 내서 베팅한 포지션이 일정 손실을 넘으면 거래소가 자동으로 정리해 버리는 것. 이게 몰리면 하락이 더 가팔라짐\n\n5) 알트코인은 더 아팠음. 이더리움 -4.97%, 리플 -4.76%, 솔라나 -5.10%\n6) 공포·탐욕 지수는 32로 여전히 '공포' 구간\n\n그래서 우리랑 무슨 상관이냐 ⭐\n금리가 오를 것 같으면 위험자산에서 돈이 빠지기 쉬움. 1억원은 숫자 자체보다 '심리선'이라 깨지고 나면 변동성이 커질 수 있음. 금요일 생산자물가(PPI)까지 물가 지표가 이어짐\n\n개미일수록 떨어지는 칼날 잡지 말고, 바닥이 확인된 뒤 나눠서 대응하는 게 안정적일 듯. 레버리지는 특히 조심!\n\n📌 본 글은 정보 제공 목적이며 투자 권유가 아님. 투자 판단과 책임은 본인에게 있음.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175073"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZbmVXbzdNQmgzNG45MkN5SGVKQ0JTUEpaTUZRekhYT0ROSGZKNlVPSm45aG8zNkItWURMMUQtY3Q3bzd1dXlGTktjeTFlQldW?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175075"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175076"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://asset.coinness.com/news-content/01a1c61e-5ae6-73c0-90b1-5939b871843e.webp",
+    "source": "코인니스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 1억원, 83일 만에 깨졌음 😱 ② 업비트 비트코인, 앞자리가 바뀌었음 👀 ③ CPI 한 방에 비트코인 1억 붕괴 🔥",
+   "코인 가격은 올리기 직전 다시 확인(01:27 기준)",
+   "83일 만(8월 20일 이후)은 코인니스·블루밍비트 보도 기준",
+   "청산 규모(1시간 2.21억달러, 24시간 5.65억달러)는 코인니스 단독 출처"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261111-0127-2",
+  "createdAt": "2026-11-10T16:27:00.000Z",
+  "date": "2026-11-11",
+  "slot": "01시",
+  "category": "거시경제·금리",
+  "topic": "[후속] 美 10년물 4.99%(+12.8bp) 5% 문턱, 로건 총재 \"최소 두 차례 추가 인상\" + 월러 빅스텝 → 나스닥 -1%·달러 강세·금 -1.7%(장중)",
+  "imageTitle": "美 금리 5% 문턱 왔다",
+  "imageHighlight": "5%",
+  "imageData": "미 10년물 4.992% (+0.128%p) · 나스닥 -1.00% (장중)",
+  "body": "미국 10년물 금리, 5% 문턱까지 왔음 🔥\n\n1) 미국 10월 소비자물가(CPI)가 전월보다 0.4% 올라 예상(0.3%)을 넘었음\n2) 그러자 미국 10년물 국채금리가 하루 새 0.128%p 뛰어 4.99%(장중)까지 올라왔음\n3) 여기에 댈러스 연은 로건 총재가 \"최소 두 차례 더 금리를 올려야 한다\"고 말했음. 앞서 월러 이사는 12월 0.5%p 인상(빅스텝)도 고려해야 한다고 했고\n\n빅스텝이 뭐냐면!\n보통 금리는 0.25%p씩 움직이는데, 그 두 배인 0.5%p를 한 번에 올리는 걸 빅스텝이라고 부름\n\n4) 미국 증시는 하락 중. 나스닥 -1.00%, S&P 500 -0.76%, 필라델피아 반도체 -1.07%(모두 장중)\n5) 달러는 강해지고(달러인덱스 +0.68%), 금은 -1.71%(장중) 밀렸음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n10년물 금리는 전 세계 자산 가격의 기준 같은 존재. 5%를 넘으면 주식·코인 같은 위험자산 밸류에이션 부담이 커짐. 어제 4%대 급반등한 코스피도 오늘 장에서 이 금리를 소화해야 함\n\n개미일수록 금리 발표 직후 급변동에 휩쓸리지 말고, 방향이 확인된 뒤 추세에 올라타는 게 안정적일 듯\n\n📌 본 글은 정보 제공 목적이며 투자 권유가 아님. 투자 판단과 책임은 본인에게 있음.",
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/feds-logan-calls-for-two-more-rate-hikes-possibly-rapidly-5016235"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories"
+   },
+   {
+    "name": "중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52MW45VlRkeDhnTVEtLThUb1R1RXNyRWxhNXVLWV9lYV9hcGpRUXE2cUpGRnowUkFCVGp6cjdCWGRUc2F0V3dySEV2ZXFMYlZyVlkyZ0UwYXJ2VW8?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175077"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-557620e0?mod=rss_markets_main"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMA91MC_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://images.mktw.net/im-19226741",
+    "source": "MarketWatch"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 미국 10년물 금리, 5% 문턱까지 왔음 🔥 ② 물가 한 방에 금리가 튀었음 😱 ③ 연준에서 \"두 번 더 올리자\"는 말이 나왔음 👀",
+   "미국 지수·10년물·금은 장중 수치(01:27 기준), 마감 후 다시 확인",
+   "로건 발언 시기 표현이 매체마다 다름(코인니스 \"올해 최소 두 차례\", Investing \"possibly rapidly\", KB Think \"겨울엔 속도 높일 수도\") — 본문은 \"최소 두 차례 더\"로만 씀",
+   "해외 보도: 로건 발언 Investing.com, 10년물 5% 근접 MarketWatch"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
