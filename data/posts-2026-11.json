@@ -2126,5 +2126,103 @@
    "20jt4qmEl9A"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261111-1327-1",
+  "createdAt": "2026-11-11T04:30:00.000Z",
+  "date": "2026-11-11",
+  "slot": "13시",
+  "category": "거시경제·금리",
+  "topic": "공정위, 국고채 입찰담합 15개 은행·증권사에 과징금 역대 최대 1.6조원(1조6,300억원)·7곳 고발 — 3년 6개월간 투찰 금리·물량 조율, 업계 '담합 아냐' 반발",
+  "imageTitle": "국고채 담합, 과징금 1.6조",
+  "imageHighlight": "1.6조",
+  "imageData": "은행·증권사 15곳 | 과징금 역대 최대 1조6,300억원 | 7곳 고발",
+  "body": "나라가 빌리는 돈에서 담합이 터졌음 😱\n\n1) 공정거래위원회가 국고채 입찰 담합으로 은행·증권사 15곳에 과징금 약 1.6조원(1조6,300억원)을 매김\n2) 역대 최대 규모 과징금이고, 이 가운데 7곳은 검찰 고발까지 감\n3) 3년 6개월 동안 입찰 때 써낼 금리와 물량을 미리 맞추고, 금리 정보를 주고받았다는 게 공정위 판단임\n\n국고채 입찰이 뭐냐면!\n정부가 돈을 빌리려고 채권을 팔 때, 딜러 금융사들이 \"이 금리면 이만큼 사겠다\"고 써내는 경매임. 낮은 금리를 써낸 곳부터 낙찰됨\n\n4) 여기서 짜고 금리를 높게 써내면 낙찰 금리가 올라가고, 그만큼 정부가 이자를 더 내게 된다는 지적이 나옴\n5) 금융권은 \"담합이 아니다\"라며 반발 중이라 다툼은 길어질 수 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n국고채 이자는 결국 세금으로 냄. 그리고 국고채 금리는 대출·예금 금리의 기준 역할을 함. 마침 오늘 미국 물가 충격에 국고채 3년물도 장중 3.7%대까지 올라와 있음. 채권 시장 신뢰 문제가 금리 흐름에 어떤 영향을 줄지 같이 봐야 함\n\n과징금 맞은 금융사 주식을 가지고 있다면, 기사 제목만 보고 바로 움직이기보다 회사별 부담 규모와 대응(소송 여부)이 나온 뒤에 판단하는 게 안전할 듯\n\n📌 투자 권유 아님. 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261111082500002"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/economy/12205252"
+   },
+   {
+    "name": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYU1MWHRqZndIZ3ltUndZNkdEUWd3OWRfSkxfenBUaXZsX21MSmNRV0kxb1lIc3NIc0g0Vld5YUhDeUZFZ0Yyai1aeXNRVE9MRkRJTi1jOThFUVhvNkZLQ3Y1a01pQWthSEl4UnVSZERIX2NaZTFad21NQnlxN1dJamkyY0F2eDUteWV3cGx3?oc=5"
+   },
+   {
+    "name": "비즈워치",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02a2Q4Y1JXWXhab1Ficm9nSlJDcVNYdktORTRtSDNtckQtcGFGVUJsSkFoZXV3My16YWYyQ2JqaURXYlI5bm45RDdzakJKYmFrSXdlTWR4ZG9yd05YM2VSRFlDQkhGV2xodkE?oc=5"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261111089900008"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/cms/2020/02/18/55/PCM20200218000055990_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.60e3c518a1694067bbe0e7a0173321b5_R.jpg",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 나라가 빌리는 돈에서 담합이 터졌음 😱 ② 역대 최대 과징금, 이번엔 은행·증권사임 🔥 ③ 국고채 금리, 짜고 써냈다는 의혹 👀",
+   "과징금 금액: 기사 제목 '1.6조', 조선일보 '1조6,300억원' — 공정위 발표 원문 숫자 확인",
+   "'낙찰 금리를 높여 정부 부담 증가'는 조선일보 제목 표현 — 공정위 판단 문구로 확인",
+   "15곳 명단·고발 7곳 이름은 본문에 넣지 않았음. 넣을 경우 공정위 발표로 확인",
+   "국고채 3년물 3.716%는 장중 수치(연합뉴스 11:41 기준)"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261111-1327-2",
+  "createdAt": "2026-11-11T04:30:00.000Z",
+  "date": "2026-11-11",
+  "slot": "13시",
+  "category": "국내 증시",
+  "topic": "10월 금융권 가계대출 6.4조원 증가 전환·주담대 증가·빚투 재개, 코스피 급락한 달에도 빚투 늘고 레버리지 ETF에 개미 2조원 — 오늘 코스닥 +4.64% 이틀 연속 매수 사이드카",
+  "imageTitle": "급락장에도 빚투 다시 늘었다",
+  "imageHighlight": "빚투",
+  "imageData": "10월 가계대출 +6.4조원 | 레버리지 ETF 개미 2조원 | 코스닥 +4.64%",
+  "body": "떨어지는 장에서도 빚내서 산 사람이 늘었음 👀\n\n1) 10월 전체 금융권 가계대출이 6.4조원 늘면서 한 달 만에 다시 증가로 돌아섬\n2) 주택담보대출이 늘었고, 주식 투자용 대출(빚투)도 다시 늘어났다고 함\n3) 코스피가 크게 빠졌던 달인데도 빚투가 늘었다는 점이 눈에 띔\n4) 레버리지 ETF에도 개인 자금이 2조원 넘게 들어갔다는 보도가 나옴\n\n레버리지 ETF가 뭐냐면!\n지수가 1% 오르면 2% 오르도록 설계된 상품임. 반대로 1% 빠지면 2% 빠짐. 횡보장에서는 오르내림만 반복해도 손실이 쌓일 수 있음\n\n5) 오늘 코스닥은 4.64% 급등하면서 이틀 연속 매수 사이드카까지 발동됨(장중, 13시 기준 698.58)\n\n그래서 우리랑 무슨 상관이냐 ⭐\n반등장이 오면 빚투·레버리지는 수익이 커 보이지만, 지금은 미국 물가 충격으로 12월 금리 인상 얘기가 나오는 변동성 큰 장임. 하루 4% 오르는 장은 하루 4% 빠질 수도 있는 장임\n\n개미일수록 빚까지 내서 파동을 다 먹으려 하기보다, 비중을 나눠서 들어가고 레버리지는 감당할 수 있는 만큼만 쓰는 게 오래 살아남는 방법일 듯\n\n📌 투자 권유 아님. 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261111077200002"
+   },
+   {
+    "name": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOTh1RWF6UmlFUlpmWGZmUUdmQUhXTjk5S1p5cThOUUs4X25udWxNeGpwSExTYjhDUVNIVXhkU3dKbWxlWVE3VjNrYUR4MHkwWXhramZ3eWItLXJKTlZEU0dMcVhPMFptZGNVb3hHVmZ4dENlNGZkRHBsN3E3Zm1vMw?oc=5"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/202611119646i"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261111088900008"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/10/30/PYH2026103008430001300_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 떨어지는 장에서도 빚내서 산 사람이 늘었음 👀 ② 급락장에도 빚투가 다시 늘었다고? 😱 ③ 개미들, 레버리지에 2조 넣었음 🔥",
+   "코스피 '16% 폭락한 달'은 이데일리 제목 표현 — 어느 기간 기준인지 확인 후 숫자 쓸지 결정(본문엔 숫자 생략)",
+   "레버리지 ETF 2조원은 한국경제 단독 보도 수치 — 기간·집계 기준 확인",
+   "코스닥 698.58(+4.64%)은 장중 13:06 기준, 올리기 전 최신 값 확인",
+   "가계대출 6.4조원은 금융당국 발표 기준(연합뉴스) — 주담대·신용대출 세부 수치 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
