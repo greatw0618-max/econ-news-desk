@@ -2224,5 +2224,96 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261111-1527-1",
+  "createdAt": "2026-11-11T06:27:00.000Z",
+  "date": "2026-11-11",
+  "slot": "15시",
+  "category": "국내 증시",
+  "topic": "[후속] 코스닥 700선 회복(700.30, +4.90% 장중)·코스피 5,357(+2.25%) — 美 CPI 충격 다음 날 외국인 매수 전환·SK하이닉스 5%↑·매수 사이드카, 원/달러 1,334원",
+  "imageTitle": "코스닥, 하루 만에 700 찍었다",
+  "imageHighlight": "700",
+  "imageData": "코스닥 700.30 (+4.90%) · 코스피 5,357.17 (+2.25%) · 15:06 장중",
+  "body": "코스닥이 하루 만에 700선까지 올라왔음 🔥\n\n1) 미국 물가(CPI) 쇼크 다음 날인데, 코스닥은 667에서 700.30(+4.90%, 장중)까지 치고 올라갔음\n\n2) 코스피도 하락 출발했다가 상승 전환해서 5,357(+2.25%, 장중)까지 올라옴. 오전엔 +0.7%대였는데 오후에 더 벌어졌음\n\n3) 오후 시황 기사들은 외국인 매수세 전환과 반도체 강세를 이유로 꼽았음. SK하이닉스도 5% 넘게 올랐다는 보도가 나옴\n\n4) 장중에 코스닥 '매수 사이드카'도 발동됐음\n\n매수 사이드카가 뭐냐면!\n선물 가격이 갑자기 크게 오르면 프로그램 매수 주문을 5분 동안 멈춰 세우는 장치임. 그만큼 오늘 오름세가 가팔랐다는 뜻\n\n5) 환율도 같이 내려감. 달러/원 1,334원(-9.9원)으로 원화 강세 흐름 이어짐\n\n그래서 우리랑 무슨 상관이냐 ⭐\n밤사이 미국은 금리 인상 걱정에 나스닥 -0.74%로 마감했는데, 한국은 반대로 갔음. 다만 미국 10년물 금리가 4.98%로 5% 문턱이라, 오늘 밤 미국 시장 분위기에 따라 내일은 또 달라질 수 있음\n\n급하게 오른 날은 따라붙기보다, 700선이 며칠 버티는지 확인한 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1USUE2bWFmb1E5TmNlRU1VUW1UTUdxNG9nbTAtUmxNeVd1RnBGekxUNzRGd1YyWTZkOEVEbVlDVkJJMmg1YkNDcnI4NGJmRXRPZXQ0RGFZZ0M1dw?oc=5"
+   },
+   {
+    "name": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oYl8xZk5tcDBvV1RKYnRGY2dQU3pxYXFpc3JTRlNxc3FoSDh6ZF9qWjZ1dWZiLWZDQmt6dDE0cjlMTmJ0dXgwdHdrNGVGQ2dRWlBHbVdPUlNXUk9BSzQtVTZ3?oc=5"
+   },
+   {
+    "name": "글로벌이코노믹",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX0hPOWFmem8tdXBQT3ctblliVXlFZTNnOUZKNHNabzdISHl6c1g3Uk11YkJQbTh3aTlvMjdWR3FkeEVhWWVQazNKVEVuY3dkTERuWUpDU2d2clRfaXFBaExLbWVWWVd2dUNjWVRZZlRlQlc4aUhnMTFqb0dwOXJTSUxaek9aS2JW?oc=5"
+   },
+   {
+    "name": "톱스타뉴스",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaR2djbWZzQzlXT2c2VmcyT0hUbi14MHo2R2dtZHBQM3ZnWjZ6MlIxLUtkcy13M0RUcVZaWnVUallkOUtfbDdsR0g2cG9ORGMxRFpYVW5kemtmVTRjUmpVWUlXeDdqLVZiUVpoUkh0cmZiZw?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보 1: 코스닥이 하루 만에 700선까지 올라왔음 🔥",
+   "첫 줄 후보 2: 미국은 빠졌는데 한국은 왜 이렇게 오르냐 👀",
+   "첫 줄 후보 3: 오늘 코스닥, 사이드카 터질 만큼 달렸음 😮",
+   "지수는 15:06 기준 장중 값. 15:30 종가로 바꿔서 올릴 것(700선 마감 여부 확인)",
+   "SK하이닉스 5%는 톱스타뉴스 단독 제목 기준",
+   "외국인 순매수 금액은 확인 못 함",
+   "매수 사이드카 발동 시각 기사로 확인 필요"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261111-1527-2",
+  "createdAt": "2026-11-11T06:27:00.000Z",
+  "date": "2026-11-11",
+  "slot": "15시",
+  "category": "코인",
+  "topic": "[후속] 국회 조세소위 가상자산 과세 유예·폐지 법안 7건 심사, 부총리 \"4번째(2년 재유예) 유감\" 표명, 정부는 거래소 과세자료 제출의무 조기 시행 주장, 시민단체 내년 시행·국힘 폐지 주장",
+  "imageTitle": "코인 세금, 또 2년 미룬다",
+  "imageHighlight": "2년",
+  "imageData": "가상자산 과세 유예 4번째 · 조세소위 법안 7건 심사(11/11)",
+  "body": "코인 세금, 국회에서 또 2년 미루는 쪽으로 가는 중 👀\n\n1) 오늘(11일) 오후 2시, 국회 조세소위원회에서 가상자산 과세 유예·폐지 법안 7건을 심사했음\n\n2) 부총리 겸 재정경제부 장관은 국회에서 \"세 번 유예한 뒤 다시 2년 유예하게 된 것\"에 대해 유감을 표명했다고 함. 이번이 네 번째 유예라는 얘기임\n\n3) 정부는 대신 거래소가 과세 자료를 내도록 하는 의무는 앞당겨 시행해야 한다는 입장임\n\n4) 반대 목소리도 큼. 시민단체·청년단체는 \"내년에 바로 시행하라\"고 하고, 국민의힘 쪽에서는 \"유예가 아니라 폐지가 맞다\"는 주장이 나왔음\n\n조세소위가 뭐냐면!\n세금 법안을 본회의 전에 꼼꼼히 뜯어보는 국회 작은 위원회임. 여기서 합의가 돼야 본회의로 넘어감\n\n그래서 우리랑 무슨 상관이냐 ⭐\n유예가 확정되면 코인 수익에 세금이 붙는 시점이 2029년쯤으로 더 밀림. 대신 거래 내역 자료는 그 전부터 국세청 쪽으로 모일 수 있어서 '세금은 나중, 기록은 먼저' 구조가 될 수 있음\n\n단, 아직 국회 심사 단계라 결론이 바뀔 수 있음! 확정 전까지는 매매 기록을 잘 챙겨두는 게 깔끔할 듯\n\n📌 이 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175177"
+   },
+   {
+    "name": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tTWgySzlBSU5aa3lkTi16cnFGc09UTDlualNST0VnT2wwVTFRdHI0OE01akFOY3ZaZjdhR256LTNveWxKSkctbFBuMmthSXZ1X1FGNkFwRXlycW5OcXZaUno1Mk9SeVdMaEpv0gFwQVVfeXFMTWNxcjRvbzZZa3FScmFLWTBMeU9lYk4zcFF2eWJIZm1LM19BcHNIZGNaUjJhOWJUNGZacXVsU2RvN0VqQWVKR2xWWGVPaTRaLUo3RE5qZnFzVndlU0RSZVg5cHhwSTNmT3RZOTcwMlVEcQ?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BT0hTWTBXeEEyM1FPWm5wMGJqTGY4RThZZExtei1KbVhIcEN3U1BZdmgzdm50cGRHNnF3V2pkQVZxOWRMN0tlVjEzNUJ3bmV4?oc=5"
+   },
+   {
+    "name": "디지털애셋",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ENTdXdjNnU3lKX3FQX0VkcU9QWm1PUDRrY0FvT2FzQzBkX3haMzZ6VVA0ZXFPaHZGSmdrXzRnZGYwdzBhaFFmUjNSWlh6azE4a3R2SExUU2VJZmxacS1wajU2dDgwNVFPcnl3QTRMZ0hCUQ?oc=5"
+   },
+   {
+    "name": "디지털애셋",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xLVFjNndQOFphWWRpcjl2LWMwdG5FT19pdUFwTHNNVHlweU03bnFfWHVoUEJraHhxODlxek1wOVhoTHRYVUg4RmlZTEtXR3RLX1c0S1lSNnByelFqZ1cyOUlhOU1oaVhUUjVrdnRJWWpiUQ?oc=5"
+   },
+   {
+    "name": "디지털애셋",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiZDVLaTJRY1FDeGU3cUZKRTd0V0NicXotZS12U2pjT3JiVGhnSG4wdUZqZGFFRjR3Z2ZnLTVNUFVoMkZ6b2cwQTZSalNtUnZfTTRrdElWSmN3QzlTcnJZeEJhM0ZmazNCYTdOZnpmNnYxUQ?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보 1: 코인 세금, 국회에서 또 2년 미루는 쪽으로 가는 중 👀",
+   "첫 줄 후보 2: 코인 세금 네 번째 연기… 이번엔 진짜 마지막? 🤔",
+   "첫 줄 후보 3: 세금은 미루는데 거래 기록은 먼저 걷는다? 👀",
+   "유예는 아직 국회 심사 중(미확정). 조세소위 결과 나왔는지 올리기 전 확인",
+   "유예 기간 2년·2029년 시행은 부총리 발언과 11/9 보도 기준",
+   "과세자료 제출의무 조기 시행은 디지털애셋 단독 제목 기준"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
