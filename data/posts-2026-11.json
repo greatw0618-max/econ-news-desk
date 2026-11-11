@@ -2406,5 +2406,105 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261111-1927-1",
+  "createdAt": "2026-11-11T10:27:00.000Z",
+  "date": "2026-11-11",
+  "slot": "19시",
+  "category": "코인",
+  "topic": "[후속] 여야 국회 조세소위서 가상자산 과세 2년 유예(2029년) 잠정 합의, 최종 결론·손실이월공제는 추후, 부총리 '유감'·청년단체 '예정대로 시행' 반발",
+  "imageTitle": "코인 세금, 2029년으로 밀린다",
+  "imageHighlight": "2029년",
+  "imageData": "가상자산 과세 시행: 2027년 → 2029년 (여야 잠정 합의)",
+  "body": "코인 세금, 결국 또 2년 밀리는 분위기 👀\n\n1) 오늘 국회 조세소위에서 여야가 가상자산 소득 과세를 2년 미루는 데 잠정 합의했음\n   내년 시행 예정이던 과세가 2029년으로 밀리는 그림\n\n2) 정부가 먼저 2년 유예를 내놨고, 여야도 \"별 이견이 없었다\"는 반응이라고 함\n   다만 최종 결론은 아직 안 냈고 일부 절차 조항은 더 논의 중\n\n3) 손실이월공제는 이번에 결론을 못 냈음\n   손실이월공제가 뭐냐면! 올해 본 손실을 다음 해 이익에서 빼주는 제도. 세금 낼 때 꽤 큰 차이를 만듦\n\n4) 반대 목소리도 있음\n   부총리는 이번이 4번째 유예라며 \"유감\"이라고 했고, 청년단체는 예정대로 시행하라고 촉구함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 확정되면 2028년까지는 코인 수익에 별도 세금이 안 붙는 구조가 이어짐\n→ 대신 정부는 거래소 과세자료 제출 같은 준비 작업은 먼저 하자는 입장이라, 거래 기록은 계속 쌓인다고 보면 됨\n\n개미 입장에선 세금 유예는 호재성 뉴스지만 가격을 바로 움직이는 재료는 아님. 지금 코인 시장은 미국 금리가 더 큰 변수라, 세금 뉴스만 보고 서두를 필요는 없을 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 최종 법안은 국회 의결 후 확정됩니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261111170100001"
+   },
+   {
+    "name": "디지털애셋",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hd09MWENvUlVhejBpaDVjQ0VuajRPdTF2UGFRMGNkeHp2eV9OcXR6cDJyT2VDUzNBVG9GNFMwSkQtaUplemtQbFVCSnl0cS1WaEhzNXIxT2ltWGMyVzFfcnk3TWF0TGYxQmZvT1paTjlGQQ?oc=5"
+   },
+   {
+    "name": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSk05UVBCOGxGam1idlBLR0dNUFJYZ1dsekEyTk9wYTN4dTVGNXdKRmtUcGRCa0IxMGEtNy1CTURHWHIyTncxbDZMY0lpUFRoX1phY1FtQzhoNVFlRVoyTllDRjFhcWNtM3pvRHJkek83MmRtc3ItUnR3Sjh3VGhmeg?oc=5"
+   },
+   {
+    "name": "경향신문",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Lb0gwSWswcGpqeDVNMC12ejBLSXp2MVZ3SW5LdzQ1VEc5RFVFUmRsalVSYWQtcGpQeWxma3J4VHVtUzN1eFFkRUNBZ3FLNlJyREkwbnhQVnZUZ9IBX0FVX3lxTFBNMXFsRmd3Umc3R0dnOWxvWXVGcE5LRjhSaGE1dUtrTHpyTXpGcXpjZmNfVnZreFpudmpkbUhMV2dQTXlPVlY0amlsZjhlaUhCZW9uQ3NMNVFSb0M1cUlJ?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175191"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111117870001300_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "'잠정 합의'이며 최종 의결 전 — '확정'으로 쓰지 말 것",
+   "2029년 시행 연도는 코인니스(디지털애셋 인용) 기준, 올리기 전 재확인",
+   "첫 줄 후보: ① 코인 세금, 결국 또 2년 밀리는 분위기 👀 ② 4번째 미뤄진 코인 세금 😮 ③ 코인 수익 세금, 2029년까지 없다? 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261111-1927-2",
+  "createdAt": "2026-11-11T10:27:00.000Z",
+  "date": "2026-11-11",
+  "slot": "19시",
+  "category": "미국 증시",
+  "topic": "코어위브 3분기 매출 상회·전망 상향·90억달러 선결제로 개장 전 11%↑ → 나스닥 선물 반등·엔비디아 4% 반등·유럽 반도체주 상승, 전날 CPI 충격(나스닥 -0.74%) 이후 오늘 밤 미국장 예고",
+  "imageTitle": "AI주, 코어위브가 살렸다",
+  "imageHighlight": "코어위브",
+  "imageData": "코어위브 개장 전 +11% · 엔비디아 +4% (개장 전)",
+  "body": "어제 물가 쇼크로 맞았던 AI주, 오늘 밤 분위기 반전? 🔥\n\n1) AI 데이터센터 기업 코어위브가 3분기 매출이 예상을 넘었고 실적 전망도 올렸음\n   미국 개장 전 거래에서 주가가 11% 넘게 뛰었다고 함\n\n2) 코어위브가 뭐냐면! 엔비디아 칩을 잔뜩 사서 AI 회사들에 컴퓨팅을 빌려주는 회사. 이른바 '네오클라우드'\n   이번 달 이런 회사들이 빚이 많다는 걸로 의심을 받아 왔음\n\n3) 이번엔 90억달러 규모 선결제 계획까지 내놓으면서 빚 걱정을 덜어줬다는 평가\n\n4) 온기가 번지는 중\n   나스닥 선물이 오르고 있고, 이틀 새 10% 가까이 빠졌던 엔비디아도 개장 전 4% 반등. 유럽 반도체주도 올랐음\n\n5) 참고로 어제 뉴욕은 물가 충격에 나스닥 -0.74%, 엔비디아 -5.47%로 마감했었음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 오늘 코스피 반도체주 반등 배경에도 이 AI 온기가 깔려 있었음\n→ 다만 금리 걱정은 그대로라, 오늘 밤 본장에서 선물 상승이 유지되는지가 포인트\n\n개미일수록 개장 전 급등만 보고 따라가지 말고, 본장에서 움직임이 확인된 뒤 추세를 보는 게 안정적일 듯. 단, 엔비디아 실적 발표를 앞두고 변동성이 클 수 있음\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62?mod=rss_markets_main"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026111110591"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.mktw.net/im-04728199",
+    "source": "MarketWatch"
+   },
+   {
+    "url": "https://images.wsj.net/im-69787044",
+    "source": "WSJ"
+   }
+  ],
+  "checks": [
+   "코어위브 상승률 매체별 차이: CNBC 11%, 토큰포스트 16.5% — 올리기 전 개장 전 최신 수치 확인 (장중/개장 전 표시)",
+   "90억달러 선결제는 해외 단독 보도(MarketWatch)",
+   "엔비디아 4% 반등은 해외 단독 보도(CNBC), 개장 전 수치",
+   "엔비디아 실적 발표일(11/17 언급, Nasdaq 기사) 확인 필요 — 본문엔 날짜 안 넣음",
+   "첫 줄 후보: ① 어제 물가 쇼크로 맞았던 AI주, 오늘 밤 분위기 반전? 🔥 ② 코어위브 하나에 AI주가 다시 웃었다 👀 ③ 개장 전부터 11% 뛴 AI 회사 😮"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
