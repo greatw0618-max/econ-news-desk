@@ -2563,5 +2563,89 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261111-2327-1",
+  "createdAt": "2026-11-11T14:27:00.000Z",
+  "date": "2026-11-11",
+  "slot": "23시",
+  "category": "코인",
+  "topic": "스테이블코인 공급 30일간 142억달러 감소(2022년 6월 이후 가장 빠른 감소, 글래스노드), 나스닥 선물 반등에도 BTC 7.3만달러대 약세·현물 ETF 유출, 공포·탐욕 29",
+  "imageTitle": "코인판 연료가 마른다",
+  "imageHighlight": "연료",
+  "imageData": "스테이블코인 30일간 -142억달러 · BTC 73,524달러 · 공포·탐욕 29",
+  "body": "주식은 반등하는데 코인만 왜 힘이 없을까? 👀\n\n1) 오늘 밤 나스닥 선물은 코어위브 실적 덕에 반등했는데, 비트코인은 73,524달러로 여전히 7.3만달러대에 머물러 있음\n2) 이유로 꼽히는 게 '스테이블코인 공급량'임. 최근 30일 동안 142억달러가 줄었다고 함\n3) 이 감소 속도는 2022년 6월 이후 가장 빠른 수준이라고 함\n\n스테이블코인이 뭐냐면!\n달러와 1:1로 가치를 맞춘 코인임. 거래소에서 코인을 사기 직전 대기 자금 역할을 해서, 이게 늘면 살 돈이 들어오고 줄면 돈이 빠져나간다고 봄\n\n4) 여기에 미국 비트코인 현물 ETF에서도 자금 유출이 이어지는 중. 새로 들어오는 돈이 거의 없는 상태에서 조정을 받는 모양새임\n5) 그래서 코인 공포·탐욕 지수도 29로 '공포' 구간\n6) 단, 가격 부근에 쌓여 있던 레버리지 포지션은 상당 부분 청산됐고, 일부 큰손 지갑에서는 매집 움직임도 보였다는 분석이 함께 나왔음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n주식 반등이 코인으로 바로 번지지 않는 이유가 '대기 자금 부족'일 수 있다는 것. 스테이블코인 공급과 ETF 자금이 다시 들어오는지가 반등의 체크포인트임\n\n개미일수록 바닥을 맞히려 하기보다, 자금 유입이 다시 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스(글래스노드 보고서 인용)",
+    "url": "https://coinness.com/news/1175225"
+   },
+   {
+    "name": "코인니스(코인데스크 인용)",
+    "url": "https://coinness.com/news/1175206"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTdVOUJacUQxX0ZJTXA3Z2hSYmFmaTUyV20xR2FhOVJQWlVMcXpnak5QVWRvTi1mWDV5OTBXazNIUHJpX0NDVFlyR1ZWMF90MXoyLUkya1NKVm9ZZXRsRlV0QnVnUE9WdlVtN3ZJRm50ZDF2ajUzclpwVWFSUHdNRkZlbXR5cjFNOVdId1BvV2dMczJmOVFzeWhzVU5NLWxwQmZEWlExV0c?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://asset.coinness.com/news-content/01a1cafa-26da-77dd-904f-5e9bd290032a.webp",
+    "source": "코인니스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 주식은 반등하는데 코인만 왜 힘이 없을까? 👀 ② 코인 살 돈이 빠르게 줄고 있음 😱 ③ 2022년 6월 이후 가장 빠른 속도로 빠지는 중 🔥",
+   "스테이블코인 -142억달러·'2022년 6월 이후 최대 속도'는 글래스노드 보고서를 코인니스가 전한 단독 출처",
+   "BTC 73,524달러·공포탐욕 29는 23:26 시세 기준(장중), 올리기 전 최신값 확인",
+   "레버리지 청산·고래 매집은 글래스노드 분석 내용임"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261111-2327-2",
+  "createdAt": "2026-11-11T14:27:00.000Z",
+  "date": "2026-11-11",
+  "slot": "23시",
+  "category": "코인",
+  "topic": "OKX·ICE(NYSE 모회사) 합작 토큰화 주식 플랫폼 OKXICE 11월 23일 출시 예정 — 70종 이상, 스트래티지·코인베이스·서클 포함, SEC 혁신 면제, 맥도날드·코카콜라·JP모건 등 67개 기업 반대",
+  "imageTitle": "토큰 주식, 23일 열린다",
+  "imageHighlight": "23일",
+  "imageData": "OKXICE 11/23 출시 예정 · 70종+ · 반대 기업 67곳",
+  "body": "뉴욕증권거래소 모회사가 코인거래소와 손잡고 '블록체인 주식'을 연다 🔥\n\n1) 코인거래소 OKX와 뉴욕증권거래소(NYSE) 모회사 ICE가 함께 만든 플랫폼 'OKXICE'가 오는 23일 출시 예정이라고 함\n2) 미국 증권거래위원회(SEC)의 혁신 면제 제도를 근거로 운영된다고 함\n3) 주식·ETF와 연결된 디지털 자산 70종 이상을 올릴 계획. 스트래티지 보통주·우선주, 코인베이스, 서클 등이 포함됨\n\n토큰화 주식이 뭐냐면!\n실제 주식을 블록체인 위의 토큰으로 만들어 거래하는 것임. 코인처럼 24시간 거래나 빠른 결제가 가능하다는 게 장점으로 꼽힘\n\n4) 다만 출시 당일에는 디렉시온의 레버리지·인버스 ETF 59종 등 일부 상품은 거래가 안 될 전망\n5) 반발도 큼. 맥도날드, 코카콜라, JP모건 등 67개 기업이 자기 회사 주식의 토큰 거래에 반대 의사를 밝혔음. 초기 대상 62개 기업 중 56개가 반대했다는 보도도 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n오늘만 해도 크라켄 모회사가 영국·EU 주식 200여 종을 토큰으로 추가했고, 도이체방크는 기업 대상 코인 수탁을 시작했음. '주식과 코인의 경계'가 빠르게 흐려지는 중. 다만 발행 기업 동의 없이 거래되는 구조라 출시 후 규제·소송 이슈가 생길 수 있음\n\n새 시장은 출시 초기에 거래량과 가격이 크게 출렁이기 쉬움. 개미일수록 처음부터 뛰어들기보다 운영이 안정되는지 확인한 뒤 보는 게 안전할 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month"
+   },
+   {
+    "name": "코인니스(블룸버그 인용)",
+    "url": "https://coinness.com/news/1175214"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/5edaabfa8b7541835109ec0ac755c451f9b8f2c4-2760x1518.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   },
+   {
+    "url": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2022/09/20220928_OKX_Generic.jpg",
+    "source": "The Block"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 뉴욕증권거래소 모회사가 코인거래소와 손잡고 '블록체인 주식'을 연다 🔥 ② 맥도날드·코카콜라가 반대한 플랫폼이 23일 열림 👀 ③ 주식도 이제 코인처럼 거래? 😱",
+   "해외 단독 보도(The Block·CoinDesk): 11/23 출시, 70종 이상, SEC 혁신 면제. 반대 기업 67곳·62개 중 56개는 블룸버그 보도를 코인니스가 전한 것(블룸버그 유료)",
+   "크라켄 모회사(페이워드) 200여 종 추가는 Decrypt·Cointelegraph, 도이체방크 수탁은 Cointelegraph 보도",
+   "출시일(현지시간 기준인지) 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
