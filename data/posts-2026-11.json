@@ -2795,5 +2795,103 @@
    "hUO__Sjttwg"
   ],
   "status": "draft"
+ },
+ {
+  "createdAt": "2026-11-12T00:27:00.000Z",
+  "date": "2026-11-12",
+  "slot": "09시",
+  "status": "draft",
+  "videos": [],
+  "id": "20261112-0927-1",
+  "category": "국내 증시",
+  "topic": "美 필라델피아 반도체 +5.66%·마이크론 12%↑에도 젠슨 황 해임설(엔비디아 시간외 -8%)에 코스피 5,385.94 강보합 출발 → 5,400 찍고 하락 전환·보합권, 코스닥 703선 약보합 출발",
+  "imageTitle": "반도체 5% 급등, 코스피는 제자리",
+  "imageHighlight": "제자리",
+  "imageData": "필라델피아 반도체 +5.66% · 코스피 5,393(장중) · 엔비디아 시간외 -8%",
+  "body": "미국 반도체가 5% 넘게 올랐는데, 코스피는 왜 못 따라가지? 👀\n\n1) 밤사이 미국 필라델피아 반도체 지수가 +5.66%로 크게 올랐음. 코어위브 호실적에 마이크론은 12% 넘게 뛰었다고 함\n2) 필라델피아 반도체 지수가 뭐냐면! 미국에 상장된 주요 반도체 기업 30곳을 묶은 지수임. 삼성전자·SK하이닉스 방향을 미리 보는 '선행 지표'처럼 많이 봄\n3) 그런데 장 마감 뒤 \"엔비디아 이사회가 젠슨 황 CEO 해임을 준비 중\"이라는 WSJ 보도가 나오면서 엔비디아가 시간외 거래에서 8% 넘게 빠졌음\n4) 그래서 코스피는 5,385.94로 0.20% 오르는 데 그친 채 출발했음\n5) 장 초반 5,400선을 잠깐 넘었다가 다시 밀리면서 보합권에서 오르내리는 중. 지금은 5,393선(장중)\n6) 코스닥도 703선에서 약보합으로 출발함. 어제 5% 가까이 오른 뒤라 숨 고르기 분위기\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 삼성전자·SK하이닉스는 엔비디아에 들어가는 메모리(HBM)를 만드는 회사라, 엔비디아 경영진 리스크가 그대로 부담으로 넘어옴\n→ 해임은 아직 확정이 아니고 '준비 중'이라는 보도 단계임. 오늘 이사회 결과에 따라 방향이 크게 갈릴 수 있음\n→ 결국 오늘 밤 미국장에서 엔비디아 정규장 주가가 어디서 멈추는지가 내일 국내 반도체주의 출발점이 될 듯\n\n개미 입장에선 '해임설' 같은 돌발 뉴스 직후에는 급하게 움직이기보다, 공식 발표가 나오고 방향이 확인된 뒤 대응하는 게 안정적일 듯\n\n📌 투자 권유 아님. 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261112038100008"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261112036100008"
+   },
+   {
+    "name": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNNWxMMm02bTduRUVMdHlUNFlaZUFYNmNCdUtoTVpjbV94R3dCZnlCUmdlY3B6eTU5RUYtN2Q3b3gtaEdXWGtZZnpmWEpYc3plZ3lLZWZHeDRqZ28tcldOOWVB?oc=5"
+   },
+   {
+    "name": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNGI1VlViUmdCTDhMeC04dTRrRlVWTGdzRnB6VENRbHN1N2czT1Z1bFJSRDlwMXlabUxvaW9qZWo0aWYtcmkxY2NleXpvM2dlaDFXMnB6MFFzaTZQWU0yaEc1LWJPUnRPc1pCN2VIRktzRDNTWTd2Z0pzOWJqYXllZzJuNW9rMU1H0gGcAUFVX3lxTE1YQ3pRLWExNDhHaFhzcWdWb01kcmwzMFU0V195RkxUbEtua3JHdEU0RUVzQWNYUFU3Sy1NcDRhVmk0bjNtY1ZfUFRfOTNzU29KSzdyVlNndE13TGloZWtCcmtTLWU1ajdrbU8zMExNeHlGSEM1TkxjYnA0bzlxQ0RiVTlOaUMwdHNPTGxkWlJnZDloWlpPYVBud3NjZw?oc=5"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/world/12205951"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/12/PYH2026111202780001300_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/12/news-p.v1.20261110.d7591691f3224b119993a010a391d424_R.png",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 미국 반도체가 5% 넘게 올랐는데, 코스피는 왜 못 따라가지? 👀 ② 밤사이 호재, 아침에 악재 하나로 다 덮였음 😱 ③ 반도체 잔칫날에 터진 젠슨 황 해임설 🔥",
+   "코스피 5,393선은 09:07 시세 표 기준(장중) — 올리기 전 최신 지수로 갱신. 시세 표의 등락률(+2.95%)은 전일 대비가 아닌 것으로 보여 쓰지 않음(개장가 5,385.94, +10.58p 기준)",
+   "블루밍비트는 \"장 초반 0.79% 하락\" 보도 — 단독 출처, 시점에 따라 하락 전환 여부 확인",
+   "엔비디아 해임은 WSJ 보도 단계(공식 발표 없음). 이사회 결과 나오면 문구 수정",
+   "마이크론 12%↑는 국내 기사 기준"
+  ]
+ },
+ {
+  "createdAt": "2026-11-12T00:27:00.000Z",
+  "date": "2026-11-12",
+  "slot": "09시",
+  "status": "draft",
+  "videos": [],
+  "id": "20261112-0927-2",
+  "category": "국내 증시",
+  "topic": "[후속] 국고채 입찰 담합 과징금 여파 — KB증권 3분기 실적 흑자 2,730억→적자 591억원으로 정정(매경), NH·미래에셋 등 4분기 실적 부담 확대(연합)",
+  "imageTitle": "흑자가 하루 만에 적자로",
+  "imageHighlight": "적자",
+  "imageData": "KB증권 3분기: 2,730억 흑자 → 591억 적자(정정)",
+  "body": "어제까진 흑자였던 증권사가 하루 만에 적자 회사가 됐음 😱\n\n1) 어제 공정위가 국고채 입찰 담합으로 은행·증권사 15곳에 역대 최대 1조6,300억원 과징금을 매겼음\n2) 국고채 입찰 담합이 뭐냐면! 나라가 빚(국고채)을 낼 때 금리·물량을 경쟁해서 써내야 하는데, 서로 미리 맞췄다는 혐의임. 회사들은 \"담합 아니다\"라며 반발 중\n3) 그 여파로 KB증권이 3분기 실적을 고쳐 발표했다고 함. 2,730억원 흑자였던 게 591억원 적자로 바뀜\n4) 과징금을 실적에 미리 반영(충당금)하면서 생긴 일임\n5) NH투자증권·미래에셋증권 등 다른 증권사도 4분기 실적에 부담이 커질 거라는 전망이 나옴\n6) 다만 증권가 보고서에선 \"증권주 저평가 매력은 여전하다\"는 시각도 같이 나왔음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 증권주는 요즘 거래대금이 늘면서 실적이 좋아진 업종인데, 과징금이라는 일회성 비용이 실적을 크게 깎을 수 있음\n→ 일회성 비용은 한 번 반영되면 끝나는 성격이라, 앞으로 본업(수수료) 실적이 계속 받쳐 주는지가 더 중요함\n→ 회사들이 소송 등으로 다투면 실제 내는 금액과 시점은 달라질 수 있음\n\n개미 입장에선 '적자 전환' 같은 큰 숫자 하나에 놀라기보다, 일회성 비용인지 본업이 꺾인 건지부터 나눠서 보는 게 안정적일 듯\n\n📌 투자 권유 아님. 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12205981"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261112030500008"
+   },
+   {
+    "name": "세무사신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBROWdZSWRFZkVfVUpvZ05ObmFhSF9aYXVRcVBocDA2VHRzZHFsd3FRY2R4Q3hkbjktUk5GaTFZb2dfZFBjejh1U0pabHhLNUFyaVlXajRoUkpFS1E3Qk5nYjRMX3hYeTRPZnRhZA?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/12/news-p.v1.20261112.8ff3f680a42240f392c455d240ad7aea_R.png",
+    "source": "매일경제"
+   },
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/11/PYH2026111105470001300_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 어제까진 흑자였던 증권사가 하루 만에 적자 회사가 됐음 😱 ② 과징금 한 방에 2,730억 흑자가 사라졌다 👀 ③ 국고채 담합 후폭풍, 증권사 실적부터 터졌음 🔥",
+   "KB증권 2,730억 흑자→591억 적자 정정은 매일경제 단독 출처 — 공시(DART) 숫자와 기준(분기·누적, 연결·별도) 올리기 전 확인",
+   "매경 요약에는 \"1.4조 과징금\"으로 나와 있어 전체 1조6,300억원과 범위가 다를 수 있음(증권사 몫 등) — 본문은 어제 확인된 전체 1조6,300억원만 씀",
+   "NH·미래에셋 4분기 부담은 전망 기사 기준. 회사별 금액은 넣지 않음",
+   "어제 게시글(20261111-1327-1)과 주제가 이어지는 후속 글"
+  ]
  }
 ]
