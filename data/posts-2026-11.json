@@ -3701,5 +3701,150 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "createdAt": "2026-11-12T22:28:46.474Z",
+  "date": "2026-11-13",
+  "slot": "07시",
+  "status": "draft",
+  "id": "20261113-0727-1",
+  "category": "미국 증시",
+  "topic": "[후속] 젠슨 황 사퇴 첫날 뉴욕장 마감 — 엔비디아 장중 -13% → -4.34% 마감, 시총 장중 약 6천억달러(801조원) 증발, AMD·브로드컴 5%대 상승, 나스닥 25,366(-0.39%)·S&P -0.35%·다우 -0.36%·필라델피아 반도체 -0.54%, VIX 18.70(+6.9%), 美 10년물 5.10%·WTI 88.70달러(+2.5%)",
+  "imageTitle": "엔비디아 -13%에서 -4%로",
+  "imageHighlight": "-13%",
+  "imageData": "엔비디아 -4.34% 마감 | 나스닥 25,366 (-0.39%) | AMD·브로드컴 +5%대",
+  "body": "CEO가 떠난 첫날, 엔비디아는 어디서 멈췄을까 👀\n\n1) 젠슨 황 사퇴 후 첫 뉴욕장, 엔비디아가 장중 한때 -13%까지 밀렸음\n2) 그런데 마감은 -4.34%. 낙폭을 꽤 많이 줄이고 끝났음\n3) 그래도 장중엔 시가총액이 약 6천억달러(약 801조원) 날아갔다고 함\n4) 반대로 AMD·브로드컴은 5%대 올랐음. \"엔비디아 리더십 공백 = 경쟁사 기회\"로 본 돈이 옮겨 간 것\n5) 지수는 나스닥 25,366(-0.39%), S&P 500 -0.35%, 다우 -0.36%로 셋 다 소폭 하락\n6) 여기에 유가(WTI 88.70달러, +2.5%)와 美 10년물 금리 5.10%까지 같이 눌렀음\n\nVIX가 뭐냐면!\n→ 미국 증시 '공포지수'. 시장이 앞으로 크게 흔들릴 거라고 볼수록 올라감. 어제 18.70으로 약 7% 뛰었음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 엔비디아 하나 빠졌다고 반도체 전체가 무너진 건 아님. 오히려 반도체 안에서 돈이 '갈아타기' 하는 모습\n→ 오늘 코스피 SK하이닉스·삼성전자도 엔비디아 낙폭(-4%)과 금리·유가 부담을 같이 보고 출발할 가능성이 큼\n\n개미일수록 첫날 급락·급반등을 다 먹을 생각 말고, 새 CEO 윤곽이 나오고 흐름이 확인된 뒤에 대응하는 게 안정적일 듯\n단, 스캔들 조사가 진행 중이라 추가 보도 한 줄에 다시 크게 흔들릴 수 있음\n\n📌 투자 권유 아님. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/economy/12207457"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261113014000009"
+   },
+   {
+    "name": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWG8zRzJZNWpBQXcyeW5LRlRIMkJ1SDVERVl2Z2lqT0JvQjBnTW9LSThGT1RuMnB4ZFF3RGlMRnZXdUo1a0pOZWtkaWlrdU1zb3hPbm1ET3FYMlJlcFRsbHVOTnR1SDdMR2N5cnBZQUQ3TDhFb0dCbS1xczV2SktVRXNiTXdlQjd3YjhIdkVhS3FqXzlmRU80RFRYMklYQdIBsgFBVV95cUxQN1lkMkZyUWVzRTZQRkRjUEZlQWZHV2hpTVQxYTFzblZGd2ZncldYZU5QYjQ0cFU0OW1GbkdKMUdNYVZqQkowNC1mdmhxUzNMa2Rxd05CRkNZY2F5M08wVlQ0UFlHRUNXRXRjUU1QS09QQ2lyTDdiVzBxZy1hdmM2RVVNU0pSRGJNSW5INEZ6cGlRUzRjczZRVE9MZVBweDQzYmFRLUlKSlczVHFyTXhYVElB?oc=5"
+   },
+   {
+    "name": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIM0ZKQWFTZDlxaDVnZEtueElYZGlGWXVTRTl3ck1sdFRLTnVxQWFjWDdUdzJOS0N6R1VBVmFUX2YtMUwxczR6bFp5WjhuMWp2S3lQZU1wSzdnT3Fu?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/nvidia-tumbles-as-its-ceo-jensen-huang-departs-amid-multiplying-scandals-d380df1f?mod=rss_markets_main"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/13/news-p.v1.20261113.ce7108486ecc4adf92d657b8f084038c_R.jpg",
+    "source": "매일경제"
+   },
+   {
+    "url": "https://img.yna.co.kr/photo/etc/epa/2025/07/11/PEP20250711129701009_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① CEO가 떠난 첫날, 엔비디아는 어디서 멈췄을까 👀 ② 장중 -13% 찍고 -4%로 끝난 엔비디아 😱 ③ 엔비디아 빠진 돈, AMD로 갔다? 🔥",
+   "엔비디아 마감 등락률 매체별로 -4.34%/-4.43%(국민일보) 차이 — 올리기 전 최종 종가 확인",
+   "장중 -13%는 매일경제 보도 기준",
+   "시총 장중 약 6천억달러(801조원) 증발은 연합뉴스 기준, 환율 환산은 기사 기준",
+   "지수·VIX·금리·유가는 수집결과 시세 표(11/13 07시) 기준"
+  ],
+  "videos": []
+ },
+ {
+  "createdAt": "2026-11-12T22:28:46.474Z",
+  "date": "2026-11-13",
+  "slot": "07시",
+  "status": "draft",
+  "id": "20261113-0727-2",
+  "category": "코인",
+  "topic": "[후속] 스트래티지(MSTR) MSCI 편출 결정 후 주가 약 5% 하락(Cointelegraph) — \"순이익 195억달러인데 왜 퇴출?\"(Decrypt), 비트코인 매입 둔화 우려, BTC 71,385달러(-3.49%)·공포탐욕 28",
+  "imageTitle": "돈 버는데 지수에서 빠졌다",
+  "imageHighlight": "빠졌다",
+  "imageData": "스트래티지 주가 약 -5% | BTC 71,385달러 (-3.49%) | 공포·탐욕 28",
+  "body": "순이익 195억달러 회사가 지수에서 쫓겨난 이유 🤔\n\n1) 비트코인을 가장 많이 가진 상장사 스트래티지(MSTR), MSCI 지수에서 빠지기로 결정됐음\n2) 결정 이후 스트래티지 주가는 약 5% 하락. 비트코인도 같이 밀리면서 겹악재가 됐음\n3) 이상한 점! 이 회사는 순이익이 195억달러나 됐는데도 퇴출 대상이 됐다고 함\n4) 핵심은 \"이게 진짜 사업이냐, 비트코인 보관 창고냐\"라는 질문. 이익 대부분이 들고 있는 비트코인 값 상승에서 나왔기 때문\n5) 시장에선 지수에서 빠지면 스트래티지의 비트코인 추가 매입 속도가 느려질 수 있다는 걱정이 나옴\n\nMSCI 지수가 뭐냐면!\n→ 전 세계 펀드들이 \"이 종목들을 이 비율로 담는다\"고 따라가는 기준표. 여기서 빠지면 그 표를 따라가던 펀드들이 기계적으로 팔아야 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 스트래티지는 그동안 비트코인을 꾸준히 사 주던 '큰손'이었음\n→ 그 큰손의 매수 여력이 줄어들 수 있다는 게 비트코인(71,385달러, -3.49%)엔 심리적으로 부담. 공포·탐욕 지수도 28(공포)\n\n개미일수록 \"큰손이 사 줄 거니까\"라는 기대만으로 버티기보다, 가격이 바닥을 다지는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 실제 편출은 이달 말이라 그 전후로 변동성이 커질 수 있으니 레버리지는 특히 조심\n\n📌 투자 권유 아님. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=Il2ERHE-uEs"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png",
+    "source": "Decrypt"
+   },
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78SKXFN30X2QXCVG2NCJ1VY/hi-how-strategyb-turned-k-into-m-using-a-high-risk-high-precision-strategy.png",
+    "source": "Cointelegraph"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 순이익 195억달러 회사가 지수에서 쫓겨난 이유 🤔 ② 돈 잘 버는데 퇴출? 스트래티지에 무슨 일 👀 ③ 비트코인 최대 큰손, 지수에서 빠진다 😱",
+   "주가 약 5% 하락은 해외 단독 보도(Cointelegraph)",
+   "순이익 195억달러·비트코인 매입 둔화 우려는 해외 단독 보도(Decrypt)",
+   "편출 시점 \"이달 말\"은 지난 11/12 게시글(20261112-0810-1) 기준 — 재확인",
+   "크립토tv 영상은 자막 못 가져옴(이 PC 크롬 연결 확인 안 됨), 제목·설명만 참고",
+   "BTC 가격은 수집결과 시세 표(11/13 07:26) 기준, 올리기 직전 재확인"
+  ],
+  "videos": [
+   "Il2ERHE-uEs"
+  ]
+ },
+ {
+  "createdAt": "2026-11-12T22:28:46.474Z",
+  "date": "2026-11-13",
+  "slot": "07시",
+  "status": "draft",
+  "id": "20261113-0727-3",
+  "category": "코인",
+  "topic": "美 법무부, 북한이 바이낸스에서 탈취한 코인 12억달러 이상 압수·동결(법원 승인) — 북한 18개월간 딥페이크 화상통화 \"페이스스틸러\"로 4억달러 이상 탈취, FBI 웹캠 영상 900개 이상 확보·클라우드 인프라 압수",
+  "imageTitle": "北 해킹 코인 12억달러 묶였다",
+  "imageHighlight": "묶였다",
+  "imageData": "동결 12억달러+ | 딥페이크 화상통화 탈취 4억달러+ (18개월)",
+  "body": "화상회의 한 번에 코인이 털렸다고? 😱\n\n1) 미국 법무부가 북한이 바이낸스에서 훔친 코인 12억달러 이상을 압수하거나 못 옮기게 동결했음(법원 승인)\n2) 같이 밝혀진 수법이 더 충격. 북한 해커들이 지난 18개월 동안 '페이스스틸러'라는 방식으로 4억달러 이상을 털었다고 함\n3) 방식은 이럼. 아는 사람인 척 화상회의 초대 → 미리 찍은 영상·AI 딥페이크로 얼굴을 속임 → \"소리가 안 들리네요, 이거 설치해 보세요\" 식으로 악성 프로그램 설치 유도\n4) 미 당국은 이 공격에 쓰인 클라우드 서버를 압수했고, FBI는 피해자 웹캠 영상 900개 이상을 확보했음\n\n딥페이크가 뭐냐면!\n→ AI로 실제 사람 얼굴·목소리를 그럴듯하게 합성하는 기술. 화면 속 지인이 진짜가 아닐 수 있다는 얘기\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 피해자는 주로 코인 업계 종사자였지만, 수법 자체는 개인 투자자한테도 그대로 통할 수 있음\n→ 국내에서도 해킹 의심 시 거래소 입출금을 먼저 막을 수 있게 하는 보안 규제가 추진 중. 해킹 리스크가 시장의 상수가 됐다는 뜻\n\n개미일수록 수익보다 지갑 지키는 게 먼저. 화상회의·메신저로 온 \"이 프로그램 깔아 주세요\" 요청은 일단 의심하고, 큰 금액은 거래소에 오래 두지 않는 등 기본 보안부터 챙기자\n\n📌 투자 권유 아님. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175419"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwQ2pkMDE5NnRNUTBUbW8yc1YyQXFRS2ViSGxSdl9HX2Q4WEVKRVR1bEJmN3I3Rnh4RVlvVHZQa0tvNW5pX2w4VF8yNzJtZ3FN?oc=5"
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.decrypt.co/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg",
+    "source": "Decrypt"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 화상회의 한 번에 코인이 털렸다고? 😱 ② 화면 속 지인, 진짜 사람 맞음? 👀 ③ 북한이 훔친 코인 12억달러, 미국이 묶었다 🔥",
+   "3)의 \"이거 설치해 보세요\" 대사는 수법을 쉽게 풀어 쓴 예시 — 기사 표현 아님",
+   "국내 거래소 입출금 선제 차단 규제는 \"추진\" 단계(세계일보 11/13, 지난 11/12 게시글 참고)",
+   "웹캠 영상 900개·클라우드 인프라 압수는 코인니스 기준"
+  ],
+  "videos": []
  }
 ]
