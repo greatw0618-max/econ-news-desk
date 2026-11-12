@@ -2938,5 +2938,106 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261112-1327-1",
+  "createdAt": "2026-11-12T04:27:00.000Z",
+  "date": "2026-11-12",
+  "slot": "13시",
+  "category": "국내 증시",
+  "topic": "10월 외국인 韓주식 193억달러 순유출(증권시장 9개월째 순유출, 'AI 불안'), 채권은 넉 달 만에 매수 우위, 투자자예탁금 이틀 새 5조원↓ 연중 최저 — 코스피 5,395 강보합·코스닥 699, 원/달러 1,330원",
+  "imageTitle": "외국인, 9개월째 한국 떠났다",
+  "imageHighlight": "9개월째",
+  "imageData": "10월 외국인 韓주식 -193억달러 · 예탁금 이틀 새 -5조원",
+  "body": "외국인은 10월에도 팔았고, 개미 실탄은 바닥났음 👀\n\n1) 지난달(10월) 외국인이 한국 주식에서 193억달러를 빼간 것으로 집계됐음\n2) 한국 증권시장 전체로 보면 외국인 자금은 9개월째 순유출. 배경으로는 'AI 불안'이 꼽힘\n3) 반대로 채권은 넉 달 만에 외국인 매수 우위로 돌아섰음\n4) 개인 쪽도 힘이 빠졌음. 투자자예탁금이 이틀 만에 5조원 넘게 줄어 연중 최저 수준이라고 함\n\n투자자예탁금이 뭐냐면! 주식 사려고 증권계좌에 넣어 둔 현금임. 이게 줄면 '살 돈'이 시장에서 빠져나갔다는 뜻\n\n5) 오늘 코스피는 5,395(+0.37%, 장중)로 5,400선 공방, 코스닥은 699(-0.85%, 장중)로 700선 아래\n6) 원/달러는 1,330원(장중)까지 내려왔음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n외국인도 개인도 실탄이 줄어든 상태라, 반등이 나와도 힘 있게 이어지기 어려울 수 있음. 반도체 몇 종목만 오르고 지수는 제자리인 장이 반복될 수 있다는 것\n단, 환율이 내려오면 외국인 입장에선 환차손 부담이 줄어서 수급이 바뀌는 계기가 될 수도 있음\n\n개미일수록 반등 첫날 따라붙기보다, 외국인 매수가 며칠 이어지는지 확인하고 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리용 글이며, 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261112085000002"
+   },
+   {
+    "name": "데일리안",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWFFaQ1VodlpGUE0tbTRVbW5nY3hITTZoaGVINFlZS2tSU18teGo2YUpiMkY0Und2ZHdyN1FpN1FacjNqVzhJdmp4UW5CT3BmWGZ6X3JiTVdaRzJXcnVXVmc1T3ZHNEVQV1luNG9BNnZaVnpQejdNZjdQY0ZfQjFRNC15eHNMSDFURGIzbkdLS1RQdTItNEw1UEFTMHlyU3o5aU5hSEdTVi16WlN3QWozZzRDN1JPWGI3MGw2Q1VGcjFfM28xT29xbWh2ZjV2VDNMZk12UDloOUJQMzltaVZPZUdzbkFGOFJ6aDNqVTNpSGgybk5ielJxYQ?oc=5"
+   },
+   {
+    "name": "마켓인",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIdDFyVUlBM3NzOWFsZWJvRk1LMF95R3FTLUdBM0Z6M01Da0VsdVJrbTFwQjMzMno4Z3lURUtQSnVYb1B5bEM0OFJCTUxnMTB3bGF6LXlkXzIwWkpLQjhTRVYtMC15VzBFTHFmalNjTlZUaFk?oc=5"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12206183"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/12/news-p.v1.20261112.0a54a26d697e40bb94e0c2dbb60bb1e4_R.jpg",
+    "source": "매일경제"
+   },
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/04/PYH2026110404650001300_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 외국인은 10월에도 팔았고, 개미 실탄은 바닥났음 👀 ② 외국인 9개월째 순유출… 한국 증시 누가 사주나 😱 ③ 193억달러 빠져나간 한국 증시, 지금 수급 상태 🔥",
+   "투자자예탁금 '이틀 새 5조원↓·연중 최저'는 매일경제 단독 출처 — 정확한 수치 확인",
+   "193억달러가 주식만인지(데일리안·마켓인 제목 기준 주식), 9개월째 순유출이 주식+채권 합산 기준인지 연합뉴스 본문 확인",
+   "'AI 불안' 원인 해석은 마켓인 제목 기준",
+   "코스피 5,395.08·코스닥 699.10은 13:07 장중, 원/달러 1,330.0은 13:27 야후 기준(기사 기준과 몇 원 차이 가능)"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261112-1327-2",
+  "createdAt": "2026-11-12T04:27:00.000Z",
+  "date": "2026-11-12",
+  "slot": "13시",
+  "category": "코인",
+  "topic": "금융당국 가상자산 거래소 보안 규제 강화 추진 — 해킹 징후만 보여도 입출금 차단·24시간 감시 못하면 입출금 제한·금융사 수준 보안 의무, 디지털자산 해킹 피해 11.9조 역대 최대, 디지털자산기본법 정부안 곧 국회 제출",
+  "imageTitle": "해킹 의심만 돼도 입출금 차단",
+  "imageHighlight": "입출금 차단",
+  "imageData": "디지털자산 해킹 피해 11.9조원 · 역대 최대",
+  "body": "코인 거래소, 이제 해킹 '의심'만 돼도 입출금 막힌다 👀\n\n1) 금융당국이 가상자산 거래소에 금융회사 수준의 보안 의무를 지우는 방안을 추진 중임\n2) 핵심은 해킹 징후만 보여도 입출금을 차단하도록 한 것\n3) 24시간 감시 체계를 갖추지 못하면 입출금이 제한될 수 있다고 함\n4) 금융위 부위원장은 \"보안·전산 안정성이 디지털자산 산업 신뢰의 핵심\"이라며 규율을 마련하겠다고 밝힘\n5) 배경엔 커지는 피해가 있음. 디지털자산 해킹 피해가 11.9조원으로 역대 최대라는 집계가 나왔고, 추적해도 돌려받기 어렵다고 함\n6) 디지털자산기본법 정부안도 조만간 국회에 제출될 예정. 정무위원장은 \"여야 합의로 조속히 입법\"하겠다고 함\n\n디지털자산기본법이 뭐냐면! 거래소·스테이블코인 등 가상자산 시장 전반의 규칙을 정하는 법안임. 지금 법은 '이용자 보호' 위주라 그다음 단계로 추진되는 것\n\n그래서 우리랑 무슨 상관이냐 ⭐\n해킹 피해를 막는 장치가 늘어나는 건 투자자에게 좋은 일. 다만 '의심'만으로도 입출금이 막힐 수 있어서, 급하게 코인을 옮기거나 출금해야 할 때 일시 중단에 걸릴 수 있다는 점은 알아둬야 함\n오늘 비트코인은 73,659달러(-0.08%)로 횡보 중, 업비트 기준 9,963만원(전일 0시 대비 -0.70%)\n\n개미일수록 거래소 입출금 공지(일시 중단 등)를 자주 확인하고, 급하게 옮겨야 하는 상황을 만들지 않는 게 안전할 듯\n\n📌 투자 권유가 아닌 정보 정리용 글이며, 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "뉴스웨이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvQVpJYUpWclpTZ2NYYnlmRVdqalpBaUhBcHE1cEN4emNIUzJpSkpMZVpxcXpsQ05RS0dLYUpyY2NZbDg3UzNOXzd0dEcwakF3cG1SNWpXLU9SWnhVYUFnS0FFSGp0N2d1Y3c?oc=5"
+   },
+   {
+    "name": "메트로신문",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiU3dpWnZKVktpTXBHdGpYX2IzNlhmTm5FZ3d1eW9yQzVubGZZUzNUV1c4NEZETllnQ0FIeU5ZTVZjcS10NVZac0c4aXl2eWQtYy11UVdLMHhDeDhLUnVoOA?oc=5"
+   },
+   {
+    "name": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBENk11RnQ4RnFjLUQ5UWxNYi0zUzZRQU1uNEV4MVlfLXdTeFFmWW9FQVBMRWxJeHhISURseUhsZmJwb0ViLURRY3lucERWaXlmWHhPeS10WDRNQ1AxSmtVUmtld1ZfTS1xZGZNaTdXdmdldw?oc=5"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261112094800002"
+   },
+   {
+    "name": "헤럴드경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VVUNZT004d3RVcnFBUi1sUkVubkxyUWNUT2JLTVBRUFhfekhzMW1iZzdXZkhTU0RoaVJWd09RZlBSZnRwNy1xajdZRXZlcWpjX0p4cUhR?oc=5"
+   },
+   {
+    "name": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCSWtfdWc2M1VOUDQ4dlRGdkJEOXZFekpyWmswNXhkY2JYWkxTZ1BRQjF2TDIzRWJVbWU0UW0zZlRoSlBCWEZsVVZIU3JGNElXcV9MeGdvSWViM2plYUVJSWx4cFcyeFUzNU9UZzRmYUwyRG9wMTdqM9IBeEFVX3lxTFBCSWtfdWc2M1VOUDQ4dlRGdkJEOXZFekpyWmswNXhkY2JYWkxTZ1BRQjF2TDIzRWJVbWU0UW0zZlRoSlBCWEZsVVZIU3JGNElXcV9MeGdvSWViM2plYUVJSWx4cFcyeFUzNU9UZzRmYUwyRG9wMTdqMw?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/etc/inner/KR/2026/11/12/AKR20261112094800002_01_i_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 코인 거래소, 이제 해킹 '의심'만 돼도 입출금 막힌다 👀 ② 해킹 피해 11.9조 역대 최대… 거래소 규제 확 바뀐다 🔥 ③ 내 코인 출금이 갑자기 막힐 수도 있다? 😱",
+   "규제가 시행령·가이드라인·법안 중 어떤 형태인지, 시행 시점은 언제인지 기사 본문 확인(수집 자료엔 제목만 있음)",
+   "해킹 피해 11.9조원은 헤럴드경제 단독 — 국내 한정인지 세계 기준인지, 집계 기간 확인",
+   "BTC 73,659달러는 13:27 기준, 업비트 9,963만원은 전일 0시 대비"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
