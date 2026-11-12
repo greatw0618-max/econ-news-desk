@@ -3264,5 +3264,67 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261112-2127-1",
+  "createdAt": "2026-11-12T12:27:00.000Z",
+  "date": "2026-11-12",
+  "slot": "21시",
+  "category": "코인",
+  "topic": "[후속] BTC 73,000달러 하회(72,754달러, -1.64%) — 엔비디아 CEO 해임설로 나스닥100 선물 하락, BTC 현물 ETF 5거래일 14.4억달러 유출, 72,700~73,000달러 지지 구간 시험, ETH 1,980달러 부근 숏감마, 공포·탐욕 28",
+  "imageTitle": "비트코인, 7만3천달러 깨졌다",
+  "imageHighlight": "깨졌다",
+  "imageData": "BTC 72,754달러 (-1.64%) · ETF 5일 -14.4억달러 · 공포·탐욕 28",
+  "body": "비트코인, 결국 7만3천 달러 아래로 내려왔음 😱\n\n1) 오늘 밤 비트코인이 7만3,000달러를 하회했음\n지금 72,754달러, 하루 -1.64%. 업비트 기준으로는 9,846만 원(-1.86%)\n\n2) 이유는 또 엔비디아\nCEO 해임설 결론이 안 나오면서 엔비디아 프리마켓이 크게 빠졌고, 나스닥100 선물도 약세라고 함\n어제는 나스닥이 +1.6% 올라도 비트는 못 따라갔는데, 오늘은 내려갈 땐 같이 내려가는 중임\n\n3) 돈도 계속 빠지는 중\n미국 비트코인 현물 ETF에서 5거래일 연속 돈이 빠졌고, 닷새 합치면 약 14억4천만 달러라고 함\n\n4) 시장이 보는 가격대는 72,700~73,000달러\n이 구간을 지키는지가 단기 관건이고, 위로는 76,400달러 회복 여부를 본다고 함\n\n5) 이더리움도 조심 구간\n1,980달러 부근에 '숏 감마' 포지션이 쌓여 있다는 분석이 나왔음\n숏 감마가 뭐냐면! 옵션 딜러들이 위험을 줄이려고 가격이 내리면 팔고 오르면 사게 되는 구간임. 그래서 그 가격대에선 움직임이 더 커질 수 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n지금 비트는 '자기 호재'보다 미국 기술주와 ETF 자금 흐름에 끌려다니는 장임\n공포·탐욕 지수도 28(공포)이라 작은 뉴스에도 출렁이기 쉬움\n오늘 밤 엔비디아 이사회 결론이 나오면 방향이 한 번 크게 잡힐 수 있음\n\n개미일수록 바닥을 맞히려 하기보다, 지지 구간을 지키는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯. 레버리지는 특히 조심!\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175337"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five"
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175334"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175338"
+   },
+   {
+    "name": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwREJyVHg1V2VraFd0RzBVelotYkpzbFRaYkNtOU1KZ1ZfWFlFcnlIYmRyM1pRLTdYZjBEb0dpMC14T2RncXlTbk9sRklUN2szSHN5b3RRNFFUU2Zu?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/128bc68b867f06109625c6eae927136864633702-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   },
+   {
+    "url": "https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
+    "source": "Decrypt"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인, 결국 7만3천 달러 아래로 내려왔음 😱 ② 나스닥 오를 땐 안 따라가더니, 내릴 땐 같이 내림 👀 ③ 비트 ETF, 닷새 동안 14억 달러가 빠져나갔음 🔥",
+   "BTC 가격은 21:27 시세 표 기준(72,754달러), 올리기 직전 다시 확인",
+   "ETF 5거래일 누적 14.4억달러는 해외 단독 보도(Decrypt) — 15시 글의 하루 2억9,980만달러(CoinDesk)와 기간이 다름",
+   "지지 72,700~73,000·저항 76,400달러는 단일 매체 분석(코인니스 전재, 더크립토베이직) — 단독 출처",
+   "ETH 1,980달러 숏감마 5.89억달러는 코인베이스 마켓 X 게시글 기준 — 단독 출처",
+   "엔비디아 이사회 결론이 발표되면 2)·마지막 문단 수정 필요"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
