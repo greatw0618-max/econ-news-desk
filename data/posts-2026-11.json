@@ -2893,5 +2893,50 @@
    "NH·미래에셋 4분기 부담은 전망 기사 기준. 회사별 금액은 넣지 않음",
    "어제 게시글(20261111-1327-1)과 주제가 이어지는 후속 글"
   ]
+ },
+ {
+  "id": "20261112-1127-1",
+  "createdAt": "2026-11-12T02:27:00.000Z",
+  "date": "2026-11-12",
+  "slot": "11시",
+  "category": "거시경제·금리",
+  "topic": "금값 4,000달러 붕괴(3,990.9달러, -0.98%) — 美 CPI 상회·굴스비 '불안한 수준' 추가 긴축 시사로 연준 인상 전망↑, 달러 19개월 만에 최고(달러인덱스 102.92)·美 10년물 4.998%",
+  "imageTitle": "금값, 4,000달러 깨졌다",
+  "imageHighlight": "4,000달러",
+  "imageData": "금 3,990.9달러(-0.98%) · 달러인덱스 102.92(+0.67%) · 美 10년물 4.998%",
+  "body": "금값이 4,000달러 아래로 내려왔음 👀\n\n1) 금 가격 온스당 3,990.9달러, 하루 새 약 1% 하락\n2) 이유는 미국 물가. 소비자물가(CPI)가 예상보다 높게 나오면서 연준이 금리를 다시 올릴 수 있다는 전망이 커졌음\n3) 시카고 연은 굴스비 총재도 \"물가가 우려를 넘어 불안한 수준\"이라며 추가 긴축 가능성을 열어 뒀다고 함\n4) 그러자 달러가 강해짐. 달러 가치는 19개월 만에 최고, 달러인덱스 102.92\n5) 미국 10년물 국채금리도 4.998%로 5% 문턱까지 올라옴\n\n달러인덱스가 뭐냐면!\n유로·엔 등 주요 6개 통화와 비교한 달러의 힘. 오를수록 달러가 세다는 뜻임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n금은 이자가 안 나오는 자산이라, 금리가 오를수록 매력이 떨어짐\n금리↑ 달러↑ 금↓ 조합은 비트코인 같은 위험자산에도 부담이 되는 흐름이라 같이 봐야 함\n다만 원/달러 환율은 국내 증시 반등과 외국인 매수 덕에 1,330원대에 머물러 있음\n\n개미일수록 금 하락을 '싸게 살 기회'로만 보지 말고, 금리 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 투자 권유가 아니며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261112033600009"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/commodities-futures/gold-dims-amid-rising-fed-rate-hike-expectations-22fab6f0?mod=rss_markets_main"
+   },
+   {
+    "name": "TradingKey",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZkxNNjNtWU1XUGhlakY0bC1Qc0Z0Q1NmY2pTSDJEcmNLcEhEZGV4T1ZoQmlzSGh3VXN2Z3EweUxFczl3a25PV3BXOE9FclE1YUlCQnZkZ0xXOTRRTnZmNWlSeXVlaFVMMjJHeENNQnZybTJ5Rzh0M3ZuZ2RyN2ZRZXRpWm94cFlmV3oxd21lTlMwSDBDb1BMN3pZR2JNeGtvTjFjUzVJeGU5TFFYell0cVdvdlFIU2VNLWw5MC1MVDBCWlk?oc=5"
+   },
+   {
+    "name": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XY25DeDUxdEdYVG9qTF9tVkZRNGp2Q3JoWmRRU3JaS2NERFdHZTQzMkRuaHcyUzNXdS1MWU5zdmMtVDZuZEJNV3hJcDEyVndBeHdjSWxqSjBWQXk4V3VsQtIBeEFVX3lxTFB4TEQ5Z1hkZlVtMk5KV1h1MHNQNUtHM2duZ3BhNU9FMGJQaExTeDlFNVJlSGU0azJiVGx3dU1oZWc5ZUU5bkJhR2lrNUVDbENPWFhjbjVtajVQTDJVUGY5MWlVYVlqcnlrRUN1cUFpeHFHZnN4OEhhYw?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/ap/2026/08/20/PAP20260820083301009_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 금값이 4,000달러 아래로 내려왔음 👀 ② 금리 오른다는 말에 금이 먼저 반응했음 🔥 ③ 킹달러 돌아오자 금값이 밀렸음 😱",
+   "금 가격·달러인덱스는 시세 표(11:17 KST) 기준, 올리기 전 재확인",
+   "'19개월 만에 최고'는 연합뉴스 기준",
+   "굴스비 발언은 뉴시스 제목 기준(원문 확인 권장)",
+   "원/달러는 시세 표 변동률 기준값이 맞지 않을 수 있어 수준(1,330원대)만 씀"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
