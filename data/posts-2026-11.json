@@ -3326,5 +3326,116 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261112-2327-1",
+  "createdAt": "2026-11-12T14:27:00.000Z",
+  "date": "2026-11-12",
+  "slot": "23시",
+  "category": "미국 증시",
+  "topic": "[후속] 젠슨 황 엔비디아 CEO·이사회 사퇴 확정, 콜레트 크레스 CFO 임시 CEO 겸임 — 엔비디아 개장 전 약 10% 급락(2025년 6월 수준), 나스닥100 선물 하락, AMD는 '리더십 공백 수혜' 투자의견 상향에 상승, 美 10년물 5% 재돌파",
+  "imageTitle": "젠슨 황, 결국 사퇴했다",
+  "imageHighlight": "사퇴",
+  "imageData": "엔비디아 개장 전 약 -10% · 임시 CEO 콜레트 크레스",
+  "body": "해임설 하루 만에… 엔비디아를 만든 사람이 물러났음 😱\n\n1) 젠슨 황이 엔비디아 CEO에서 사퇴했음\n이사회 자리에서도 물러났다고 함. 해임설 보도 후 하루 만에 결론이 났음\n\n2) 임시 CEO는 콜레트 크레스\n지금 CFO(재무 책임자)인데, CFO 일을 그대로 하면서 임시로 회사를 이끌고 정식 후임은 이사회가 찾는 중이라고 함\n\n3) 주가는 개장 전 약 10% 급락(장전)\n2025년 6월 수준까지 밀렸다는 보도도 나왔음. 나스닥100 선물도 같이 빠지는 중\n\n4) 반대로 AMD는 개장 전 상승\n엔비디아 '리더십 공백'의 수혜를 볼 거라며 투자의견을 올린 곳이 나왔음\n\n5) 금리도 부담\n미국 10년물 국채금리가 다시 5%를 넘었음(5.02%). 금리가 오르면 성장주는 더 흔들리기 쉬움\n\n그래서 우리랑 무슨 상관이냐 ⭐\n엔비디아는 AI 랠리의 중심이라 한국 반도체·코스피에도 바로 영향이 옴\n오늘 코스피도 해임설에 -0.61%(5,342) 마감했는데, 사퇴 확정 뒤 첫 미국 정규장 반응이 내일 우리 장의 출발점이 될 듯\n\n개미일수록 '이 정도 빠졌으면 바닥이겠지' 하고 바로 들어가기보다, 정규장 마감과 후임 윤곽을 확인한 뒤 움직이는 게 안정적일 듯\n\n📌 이 글은 정보 공유 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026111239027"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-5021980"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/amd-upgraded-because-it-will-benefit-from-nvidias-leadership-vacuum.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAB1GF_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
+    "source": "Cointelegraph"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 해임설 하루 만에… 엔비디아를 만든 사람이 물러났음 😱 ② AI 대장주 엔비디아, 선장이 바뀐다 🔥 ③ 젠슨 황 없는 엔비디아, 시장은 어떻게 볼까 👀",
+   "개장 전 낙폭은 보도마다 6~11%로 다름(장전 수치) — 올리기 전 프리마켓/정규장 실제 등락률 확인",
+   "'2025년 6월 수준'은 CoinDesk 보도 기준",
+   "AMD 투자의견 상향은 윌리엄블레어(CNBC 보도) — 본문에는 증권사명 생략",
+   "사퇴 사유(사생활 관련 조사)는 본문에 넣지 않음. 넣을 경우 기사 표현 그대로 확인",
+   "미 10년물 5.022%는 시세 표 23:12 기준"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261112-2327-2",
+  "createdAt": "2026-11-12T14:27:00.000Z",
+  "date": "2026-11-12",
+  "slot": "23시",
+  "category": "코인",
+  "topic": "이더리움 2,000달러 하회(85일 만, 바이낸스 1,992달러) — ETH 현물 ETF 7주 연속 순유출 누적 23.5억달러(BTC ETF 유출의 3배), 1,980달러 부근 5.9억달러 숏감마, BTC 72,000달러도 하회(71,783달러, -2.95%)",
+  "imageTitle": "이더리움, 2천달러 깨졌다",
+  "imageHighlight": "2천달러",
+  "imageData": "ETH 1,992달러 · 85일 만에 2,000달러 아래",
+  "body": "이더리움이 석 달 만에 2,000달러 아래로 내려왔음 👀\n\n1) ETH가 2,000달러를 깼음\n바이낸스 기준 1,992달러까지 내려왔고, 8월 19일 이후 85일 만이라고 함. 원화로는 269만원대(-3.41%)\n\n2) 비트코인도 같이 밀림\nBTC는 72,000달러 아래로 내려와 71,783달러(-2.95%). 엔비디아 CEO 사퇴 충격에 위험자산 전반이 흔들리는 중\n\n3) ETF에서 돈이 계속 빠지는 중\nETH 현물 ETF는 9월 말부터 7주 연속 순유출, 누적 약 23.5억달러라고 함. BTC ETF 유출보다 규모가 3배 크다는 분석도 있음\n\n4) 1,980달러 근처가 고비\n이 가격대에 약 5.9억달러 규모 '숏 감마'가 몰려 있다는 분석이 나왔음\n숏 감마가 뭐냐면! 옵션을 판 쪽(딜러)이 위험을 줄이려고 가격이 내리면 팔고, 오르면 사게 되는 구간임. 그래서 이 근처에선 움직임이 한쪽으로 더 커지기 쉬움\n\n그래서 이게 왜 중요하냐 ⭐\n2,000달러는 많은 사람이 보는 심리적 선이라, 여기서 다시 올라서느냐 아래에서 굳어지느냐가 단기 분위기를 가를 수 있음\n공포·탐욕 지수도 28(공포)로 심리가 차갑게 식어 있음\n\n개미일수록 레버리지는 특히 조심하고, 2,000달러 회복이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 정보 공유 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175356"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175361"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175338"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175372"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTaXlTRG5zTW1MVkNZdFNmVEF2QnNERXJRTXJ0MUVLWThKT1c0Y3JYNUctdHNTQ2pGU2ZXUGItYW16TWUxdmtrVUlR?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://asset.coinness.com/news-content/01a1cfe8-ce91-7761-87b6-28569f4c32ee.webp",
+    "source": "코인니스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 이더리움이 석 달 만에 2,000달러 아래로 내려왔음 👀 ② 2,000달러가 무너졌다… 이더리움 지금 상황 😱 ③ 비트보다 더 아픈 이더리움, 이유가 있었음 🔥",
+   "ETH 1,992달러·85일 만은 코인니스(바이낸스 USDT) 기준 — 올리기 전 현재가 확인",
+   "ETH ETF 7주 연속 23.5억달러·'BTC의 3배'는 단독 출처(코인니스 인용 언폴디드). 코인리더스는 '6주 연속'으로 보도 — 주 수 확인",
+   "숏감마 5.9억달러는 코인베이스 마켓 분석(단독 출처)",
+   "BTC 71,783달러·ETH 2,693,000원·공포탐욕 28은 시세 표 23:27 기준"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
