@@ -4325,5 +4325,108 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261113-1927-1",
+  "createdAt": "2026-11-13T10:27:00.000Z",
+  "date": "2026-11-13",
+  "slot": "19시",
+  "category": "코인",
+  "topic": "[후속] BTC 200주 이동평균선(67,993달러) 11주 만에 리테스트 — 장중 67,500달러 터치 후 69,205달러(-3.00%) 회복, 주간 RSI 41.5·바이낸스 테이커 매수/매도 비율 0.85(1년여 최저), 일부 분석가 57,700달러 하락 위험 언급, 공포·탐욕 20",
+  "imageTitle": "비트코인, 200주선 찍고 반등",
+  "imageHighlight": "200주선",
+  "imageData": "BTC 69,205달러(-3.00%) · 장중 저점 67,500달러 · 200주 이평 67,993달러",
+  "body": "비트코인이 4년 평균선까지 내려왔다가 다시 올라왔음 👀\n\n1) 오늘 비트코인이 한때 67,500달러까지 밀렸음\n2) 이 자리가 주봉 기준 200주 이동평균선(67,993달러) 바로 근처였음. 여기에 닿은 건 8월 19일 이후 약 11주 만이라고 함\n3) 200주 이동평균선이 뭐냐면! 최근 약 4년간 주간 가격의 평균선임. 과거 하락장에서 바닥 근처 기준선으로 자주 언급돼 온 자리임\n4) 지금은 69,205달러(-3.00%)로 다시 6만9천달러대를 회복한 상태임\n5) 바이낸스에서 시장가로 사는 물량 대비 파는 물량 비율은 0.85로 1년여 만에 가장 낮음. 파는 쪽이 그만큼 몰렸다는 뜻이고, 이런 극단적 매도 우위가 하락 후반부에 나온 적이 많다는 해석도 있음\n6) 반대로 이 선이 깨지면 57,700달러까지 열려 있다는 분석도 같이 나옴. 공포·탐욕 지수는 20, '극단적 공포' 구간임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n200주선은 많은 사람이 동시에 보는 자리라서, 여기서 지키느냐 깨지느냐에 따라 다음 방향이 크게 갈릴 수 있음. 오늘은 일단 닿고 튕긴 것까지만 확인된 상태임\n\n개미일수록 \"바닥 찍었다\"고 단정하지 말고, 이 선 위에서 주간 마감이 버티는지 확인한 뒤 나눠서 대응하는 게 안정적일 듯. 단, 다음 주 미국 물가 발표 전후로 다시 크게 흔들릴 수 있으니 레버리지는 특히 조심!\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175493"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MRlF2X0hPRG4tU0tmRmRXU0U1XzNHeDQ5NC1tVmhQaVZHM1FLVEItdWVpOHFGdm95ZzVJbXJQN0hDRVN1QWlzcWhIZ0xjNFZN?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/2f9e2121440f06ba2e083bb7e77a8bbd0f06dd5d-2268x1736.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   },
+   {
+    "url": "https://asset.coinness.com/news-content/01a1d457-c4bd-7329-87f1-a4ac941157ae.webp",
+    "source": "코인니스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인이 4년 평균선까지 내려왔다가 다시 올라왔음 👀 ② 6만7천달러, 여기가 마지노선이었나? 🔥 ③ 비트코인 11주 만에 '그 선'을 건드렸음 😱",
+   "BTC 69,205달러는 19:27 시세 기준, 올리기 전 최신 가격 확인",
+   "장중 저점 67,500달러·200주 이평 67,993달러·주간 RSI 41.5는 코인니스(코인텔레그래프 인용) 수치",
+   "바이낸스 테이커 비율 0.85는 분석가 다크포스트 X 게시물 인용(코인니스 단독 출처)",
+   "57,700달러 하락 위험은 분석가 의견 — 예측처럼 단정하지 않도록 표현 유지",
+   "'다음 주 미국 물가 발표'는 WSJ 'U.S. inflation data' 언급 기준, 정확한 발표 일정 확인"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261113-1927-2",
+  "createdAt": "2026-11-13T10:27:00.000Z",
+  "date": "2026-11-13",
+  "slot": "19시",
+  "category": "미국 증시",
+  "topic": "[후속] 젠슨 황 사임 이후 — 한국 정부 \"엔비디아, 한국 GPU 공급 약속 유지\", 엔비디아 \"고객·협력사 약속 지킬 것\", 반면 로이터 단독 '황 퇴진·美 감시로 엔비디아 의존 중국 AI 프로젝트 30억달러 위기', 엔비디아 개장 전 2%대 반등",
+  "imageTitle": "엔비디아, 한국 약속은 지킨다",
+  "imageHighlight": "약속",
+  "imageData": "엔비디아 개장 전 +2%대 · 中 AI 프로젝트 30억달러 '위기'(로이터)",
+  "body": "젠슨 황이 떠나도 한국에 주기로 한 GPU는 온다고 함 👀\n\n1) 한국 정부가 \"엔비디아는 젠슨 황 사임 이후에도 한국에 대한 GPU 공급 약속을 지킬 것\"이라고 밝혔음\n2) 엔비디아도 \"고객·협력사와의 약속은 지키겠다\"는 입장을 냈음\n3) GPU가 뭐냐면! AI를 학습·구동시키는 핵심 반도체임. 엔비디아가 사실상 시장을 쥐고 있어서 공급 약속 하나하나가 국가 AI 계획과 직결됨\n4) 반면 중국 쪽은 분위기가 다름. 로이터 단독 보도에 따르면 황 퇴진과 미국 정부의 감시 강화로, 엔비디아 칩에 의존하던 중국 AI 프로젝트 약 30억달러(약 4조원) 규모가 흔들리고 있다고 함\n5) 주가는 일단 숨 고르기임. 어제 장중 -13%까지 빠졌다가 -4.34%로 마감했고, 오늘 개장 전에는 2%대 오르고 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n삼성전자·SK하이닉스 같은 국내 반도체주는 엔비디아 리더십 변화에 같이 흔들렸음. 오늘 코스피도 장중 5,500을 찍고 외국인 매도에 5,290.53(-0.98%)으로 마감했음. '한국향 약속은 유지'라는 메시지가 불확실성을 얼마나 줄여줄지가 다음 주 관전 포인트임\n\n개미일수록 뉴스 하나에 바로 반응하기보다, 임시 CEO 체제에서 실제 계약·투자 계획이 그대로 가는지 확인된 뒤 대응하는 게 안정적일 듯. 단, 17일 엔비디아 실적 발표 전후로 반도체주 변동성이 커질 수 있으니 조심!\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/south-korea-says-nvidia-will-keep-gpu-pledges-after-huangs-resignation-5024668"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026111358531"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/nvidia-inches-higher-premarket-after-stock-slides-following-huang-resignation-5024641"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAC0N3_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAC0KF_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 젠슨 황이 떠나도 한국에 주기로 한 GPU는 온다고 함 👀 ② 엔비디아, 한국엔 '약속 유지' 중국엔 '빨간불' 🔥 ③ 젠슨 황 없는 엔비디아, 한국 AI 계획은 괜찮을까? 🤔",
+   "한국 정부 발언 주체(어느 부처·누구)와 GPU 약속 규모는 기사 제목만 확인됨 — 본문으로 확인 후 필요시 보강",
+   "중국 AI 프로젝트 30억달러는 로이터 단독(해외 단독 보도, Reuters). 원화 환산(약 4조원)은 1,336원 기준 대략치",
+   "엔비디아 개장 전 +2%대는 Investing.com 제목 기준(장전 수치), 올릴 때 본장 등락 확인",
+   "17일 엔비디아 실적 발표 일정은 뉴스워치 기사 기준, 날짜 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
