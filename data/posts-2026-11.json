@@ -4568,5 +4568,112 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261114-0127-1",
+  "createdAt": "2026-11-13T16:27:00.000Z",
+  "date": "2026-11-14",
+  "slot": "01시",
+  "category": "미국 증시",
+  "topic": "[후속] 美 반도체 급락 — 필라델피아 반도체 9,949(-5.30%, 장중)·나스닥 24,967(-1.57%, 장중)·S&P -0.93%·VIX 20.09, 엔비디아 하락 지속·고점 대비 30%↓(조선일보), HSBC 엔비디아 '매수→보유' 하향(새 CEO 선임 전까지 고전), 베선트 '대중국 칩 유출' 상무부(러트닉) 책임론·러트닉 상원 증언 예정",
+  "imageTitle": "반도체지수, 하루 만에 5% 급락",
+  "imageHighlight": "5%",
+  "imageData": "필라델피아 반도체 9,949 (-5.30%, 장중) · 나스닥 24,967 (-1.57%, 장중)",
+  "body": "금요일 밤 뉴욕장, 반도체가 통째로 무너지는 중 😱\n\n1) 필라델피아 반도체지수가 9,949로 -5.30% (장중)\n나스닥도 24,967로 -1.57% (장중), S&P 500 -0.93%, 다우는 -0.23%로 상대적으로 버티는 중\n\n필라델피아 반도체지수가 뭐냐면!\n엔비디아, 브로드컴, AMD 같은 미국 반도체 대표 종목들을 묶은 지수임. 반도체 업종 전체 분위기를 보는 온도계 같은 거\n\n2) 엔비디아는 젠슨 황 사임 이후 하락이 계속되는 중\n고점 대비 30% 가까이 빠졌다는 보도도 나왔음\n\n3) 증권사 HSBC는 엔비디아 투자의견을 '매수'에서 '보유'로 낮췄음\n새 CEO가 정해질 때까지 주가가 힘들 거라는 이유\n\n4) 정치 쪽으로도 번지는 중\n베선트 재무장관이 엔비디아 칩이 중국으로 새어 나간 문제를 두고 상무부 책임이라고 지적했고\n러트닉 상무장관은 상원에서 중국 칩 판매 관련 증언을 하기로 했다고 함\n\n5) 여기에 물가 부담까지\n생산자물가 연간 6.5%로 약 4년 만에 최고, 미 10년물 금리 5.135%\n공포지수(VIX)는 20.09로 +7.43%\n\n그래서 우리랑 무슨 상관이냐 ⭐\n미국 반도체가 이렇게 크게 빠지면 월요일 코스피의 삼성전자·SK하이닉스에도 부담이 될 수 있음\n코스피는 이미 금요일에 5,290(-1.58%)으로 5,300 아래에서 마감했음\n\n개미일수록 급락 다음 날 바로 반등을 노리기보다, 월요일 장에서 외국인 수급과 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 아직 미국장 마감 전이라 종가는 달라질 수 있음\n\n📌 투자 권유가 아닌 정보 정리이며, 투자 판단과 책임은 본인에게 있습니다",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/hsbc-downgrades-nvidia-says-stock-to-struggle-until-new-ceo-named.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRNS3BqaXcwNDJlOTNLZDU2NkdSbmtHUFFPNFJTRFBvdXVselAtVGkyU25RR3Q0Q1djS0N1TDM0VnpNRXNHWmxiVE15bVduU3BUMUlONURZUC1EbTNIa1FqX3liOHBiOUk2S0xKSDMtS0lnZjg3ajVZdTVtTnl3NC1vTWNDM0M4SEFKV3d4N3dieXdvaWhNdEtYc2pvdy0xcVI3VDBGQXM4N00?oc=5"
+   },
+   {
+    "name": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2JuVnZ3ZlBRbkduN2tya3dhV0FmT1ExSlRqeW5JTm9WWnNpNGhNWWU3QmVRd1NoRTdhUVNHSlZjQWJfcHNTM1Y5TEZHdU1VT2VMNVd4djVMSk0xV0dnWnE4Mjk5eExqSEVvekNVd054dloyVU9pT3NmMFMxR0pzMFJyZk5JN1BHUkxn?oc=5"
+   },
+   {
+    "name": "YTN",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zYlN1bG5KekFHUkxGZzJVUjJ4QWRBVkJrZ1V3U1RsX0hCdFluOWpJLWpDeWUwQmxFOXNZS056dml3cXZhMFlzeS10cl9fakx2cUtrSWU1TDg0TFVYZWc?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/moved_LYNXMPEL401X2_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 금요일 밤 뉴욕장, 반도체가 통째로 무너지는 중 😱 ② 엔비디아 하나로 끝날 줄 알았는데… 반도체 전체가 흔들림 🔥 ③ 월요일 삼성전자·하이닉스, 이거 보고 들어가자 👀",
+   "필라델피아 반도체 -5.30%, 나스닥 -1.57%는 01:26 KST 장중 수치 — 올리기 전 미국장 종가로 바꿀 것",
+   "엔비디아 개별 등락률은 시세 표에 없어 본문에 넣지 않음. 넣으려면 종가 확인 필요",
+   "'고점 대비 30%'는 조선일보 단독 제목 기준",
+   "HSBC 하향·베선트 상무부 책임론·러트닉 증언은 해외 단독 보도(CNBC, Reuters)",
+   "CNBC 라이브 요약에 '엔비디아 반등' 문구와 '엔비디아 계속 하락' 제목이 섞여 있음 — 종가 기준으로 표현 확인"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261114-0127-2",
+  "createdAt": "2026-11-13T16:27:00.000Z",
+  "date": "2026-11-14",
+  "slot": "01시",
+  "category": "거시경제·금리",
+  "topic": "[후속] 연준 추가 인상 목소리 확산 — 콜린스 보스턴 연은 총재 '예상보다 더 올려야 할 수도, 조만간 추가 긴축 필요', BofA '12월·1월·3월 3회 연속 인상' 전망, 베선트 '잡음 큰 수치에 과도한 인상 말아야' — 美 10년물 5.135%·달러인덱스 103.34·원/달러 1,336.8원",
+  "imageTitle": "연준, 석 달 연속 올릴까",
+  "imageHighlight": "석 달 연속",
+  "imageData": "BofA 전망: 12월 → 1월 → 3월 인상 · 美 10년물 5.135%",
+  "body": "금리 인상, 한 번으로 안 끝날 수도 있다는 얘기가 커지는 중 🔥\n\n1) 콜린스 보스턴 연은 총재가 \"연준이 예상보다 더 많이 금리를 올려야 할 수도 있다\"고 말했음\n최근 물가 지표가 기대만큼 좋지 않았고, 조만간 추가 긴축이 필요하다고 봤다고 함\n\n긴축이 뭐냐면!\n금리를 올려서 시중에 풀린 돈을 줄이는 것. 물가는 누르지만 주식·코인 같은 위험자산에는 부담이 되는 경우가 많음\n\n2) 월가 전망도 줄줄이 올라가는 중\n뱅크오브아메리카(BofA)는 12월에 이어 내년 1월, 3월까지 3회 연속 인상을 예상했음\n\n3) 반면 베선트 재무장관은 \"잡음이 큰 수치에 대응해 금리를 과도하게 올리면 안 된다\"며 연준에 열린 자세를 주문했음\n정부와 연준 사이 온도 차가 계속되는 중\n\n4) 시장은 이미 반응 중\n미 10년물 금리 5.135%, 달러인덱스 103.34로 달러 강세\n원/달러 환율은 1,336.8원 (기사 기준 금요일 서울 마감 1,336.7원)\n\n그래서 우리랑 무슨 상관이냐 ⭐\n금리가 계속 오를 거라는 전망이 굳어지면 성장주·코인처럼 금리에 민감한 자산이 먼저 흔들리기 쉬움\n이번 주 반도체 급락, 비트코인 7만달러 붕괴도 이 흐름과 같이 봐야 함\n\n개미일수록 '이제 바닥이겠지' 하고 한 번에 들어가기보다, 12월 연준 회의 전까지는 나눠서 대응하고 레버리지는 특히 조심하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리이며, 투자 판단과 책임은 본인에게 있습니다",
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/feds-collins-says-more-rate-hikes-may-be-needed-soon-5026128"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175538"
+   },
+   {
+    "name": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94QnRVa0JaTWV1SVdEYkRzdTVjWDBWRFhkWGdsVktidlFRN3AzdkJPTFh0UC1NNE41bmhncjY1Y0dneFoxRS1pVGFsYzJ0aENheW1YWHpGRVY1Uk5W?oc=5"
+   },
+   {
+    "name": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3Z0o4N1RmTzdCMkNXa21qblZvMExnVm9FZks5eGNGbm5LblFWdHpZWG12eHFlTmZqX0NOUWtUZVBVb2l1RVpKdEpwZ2NUVWc5YkRzNXBDZlJiTjR0dGZ1SHN1cUxRUi1VMnVSbHd6alFTUQ?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/SusanCollins_800x533_L_1644481236.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 금리 인상, 한 번으로 안 끝날 수도 있다는 얘기가 커지는 중 🔥 ② 12월, 1월, 3월… 연준 달력에 빨간 줄 3개 👀 ③ 연준 안에서도 '더 올려야 한다'는 말이 나왔음 😱",
+   "베선트 '잡음 큰 수치' 발언은 연합인포맥스 제목 기준(기사 확인 필요)",
+   "BofA 3회 연속 인상 전망은 뉴스핌·KB Think 보도 기준",
+   "환율 1,336.8원은 야후 기준 — 서울 마감 1,336.7원(CBC뉴스)과 함께 확인",
+   "직전 23시 PPI 글과 베선트 내용 일부 겹침 — 콜린스·BofA 3연속 전망 위주로 후속 처리"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
