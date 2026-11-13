@@ -4221,5 +4221,109 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261113-1727-1",
+  "createdAt": "2026-11-13T08:27:00.000Z",
+  "date": "2026-11-13",
+  "slot": "17시",
+  "category": "코인",
+  "topic": "BTC 7만달러 붕괴 폭락장 속 고래들의 엇갈린 행동 — ETH ICO 고래 1.67만 ETH 손절 매도, 이더리움 재단 2,000 ETH 추가 매도, 다른 고래는 1,991만달러 ETH 매수, 하이퍼리퀴드 고래 BTC 숏 후 6.1만~6.6만달러 매수 주문, BTCS 청산 회피 손절",
+  "imageTitle": "폭락장, 고래들은 뭘 했나",
+  "imageHighlight": "고래",
+  "imageData": "BTC 68,572달러(-3.88%) · 공포·탐욕 20 '극단적 공포'",
+  "body": "비트코인 7만달러 깨진 날, 큰손들은 정반대로 움직였음 👀\n\n1) 비트코인 68,572달러(-3.88%), 업비트 9,320만원대. 공포·탐욕 지수 20으로 '극단적 공포' 구간임\n\n2) 먼저 판 쪽. 2015년 이더리움 ICO에 참여했던 고래가 1만6,700 ETH(약 3,230만달러)를 평균 1,934달러에 매도했다고 함\n→ 9월에 2,742달러에 더 샀던 물량이라 약 697만달러 손실 확정. 다만 처음 산 가격이 0.31달러라 전체로는 여전히 큰 이익이라고 함\n\n3) 이더리움 재단 연관 주소도 2,000 ETH를 추가 매도. 10월 26일 이후 누적 약 6,785 ETH를 판 것으로 추정됨\n\n4) 반대로 산 쪽도 있음. 한 익명 고래는 약 1,991만달러어치 ETH를 추가 매수했음\n→ 9월부터 사 모았는데 지금 미실현 손실이 1,134만달러인데도 더 산 거임\n\n5) 하이퍼리퀴드의 유명 트레이더는 비트코인 숏(하락 베팅)으로 약 130만달러 수익을 낸 뒤, 6만1,000~6만6,000달러 구간에 매수 주문을 걸어 뒀다고 함\n\n6) 버티기 힘든 쪽도 보임. 나스닥 상장사 BTCS는 ETH 담보 대출이 청산될까 봐 일부 ETH를 산 값보다 싸게 팔았음. ETH가 1,700달러 부근까지 내려가면 청산 대상이 될 수 있다고 함\n\n청산이 뭐냐면!\n빌린 돈으로 투자했다가 가격이 일정 수준 밑으로 떨어지면 담보가 강제로 팔리는 것임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n고래라고 다 같은 방향이 아님. 누구는 손절, 누구는 물타기, 누구는 더 낮은 가격을 기다리는 중\n→ '고래가 샀다/팔았다' 뉴스 하나만 보고 따라가면 위험하다는 뜻임\n\n개미일수록 고래 따라 바닥 잡으려 하지 말고, 하락이 멈추는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯. 레버리지는 특히 조심!\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175476"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175473"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175471"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175479"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxV3JzTTl3cEtNM3VlSjRJWkQteHRkVXZCby05QVpmeUhhOFl3eVBtcDgwN1M4YlRpeFdadDRQU1F3MTJ1eEdFZFhOUEs5QmRn?oc=5"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=0AP3Blq_RZ0"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/a710836626315dce07d8aff31fbc13778daf3541-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 7만달러 깨진 날, 큰손들은 정반대로 움직였음 👀 ② 폭락장에서 고래들이 한 행동, 다 달랐음 🔥 ③ 누구는 손절, 누구는 물타기… 고래들도 갈렸음 😱",
+   "고래 매매 수치(ICO 고래·이더리움 재단·익명 고래)는 온체인 분석가(ai_9684xtpa) 추정치를 전한 코인니스 보도 — 사실상 단독 출처",
+   "하이퍼리퀴드 트레이더 숏 수익·매수 주문 구간은 앰버CN 인용 코인니스 단독 출처",
+   "BTC·업비트 가격은 17:27 시세 기준, 올리기 전 다시 확인",
+   "유튜브 영상(0AP3Blq_RZ0)은 자막을 못 가져와 제목·설명(고래들의 위기 때 행동) 주제만 반영, 본문 수치는 모두 기사 기준"
+  ],
+  "videos": [
+   "0AP3Blq_RZ0"
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "20261113-1727-2",
+  "createdAt": "2026-11-13T08:27:00.000Z",
+  "date": "2026-11-13",
+  "slot": "17시",
+  "category": "미국 증시",
+  "topic": "[후속] 엔비디아 2012년 이후 최장 주간 연속 하락 눈앞, 10월 초 이후 시총 1.6조달러 증발(CNBC) — 칩주 순환매(AMD·브로드컴·TSMC), 美 의회 대중국 칩 수출 제한 공감대(존슨 하원의장), 美 선물 약보합",
+  "imageTitle": "엔비디아 시총 1.6조달러 증발",
+  "imageHighlight": "1.6조달러",
+  "imageData": "나스닥 25,366(-0.39%) · 필라델피아 반도체 10,506(-0.54%)",
+  "body": "엔비디아, 2012년 이후 처음 보는 기록 쓰는 중 😱\n\n1) 엔비디아가 2012년 이후 가장 긴 주간 연속 하락을 앞두고 있다고 함(CNBC)\n→ 10월 초부터 이어진 하락에 젠슨 황 사퇴까지 겹친 것\n\n2) 이 기간 줄어든 시가총액만 약 1조6천억달러. 원화로 2,100조원이 넘는 규모임(환율 1,336원 기준)\n\n3) 어제 뉴욕장은 나스닥 25,366(-0.39%), 필라델피아 반도체지수 10,506(-0.54%) 마감. 오늘 밤 앞둔 미국 선물도 약간 밀리는 중\n\n4) 돈이 빠져나가기만 한 건 아님. AMD·브로드컴·TSMC 같은 다른 반도체로 옮겨 가는 '순환매'가 나타나고 있다고 함\n\n순환매가 뭐냐면!\n시장을 떠나는 게 아니라, 같은 업종 안에서 덜 불안한 종목으로 돈이 갈아타는 것임\n\n5) 악재가 하나 더. 미국 하원의장이 \"의회에서 대중국 칩 수출 제한에 공감대가 생기고 있다\"고 밝혀 엔비디아 일부 칩의 중국 판매가 불투명해졌다는 보도도 나왔음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n엔비디아는 AI 반도체 흐름의 대장주라 삼성전자·SK하이닉스 같은 국내 반도체 심리와도 연결됨\n→ 오늘 코스피가 장중 5,500을 찍고 5,290(-0.98%)으로 밀린 것도 외국인 매도와 반도체 약세 영향이 컸음\n\n개미일수록 '이만큼 빠졌으니 반등하겠지'로 접근하기보다, 리더십 공백과 수출 규제가 어떻게 정리되는지 확인하고 추세 돌아선 뒤 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html"
+   },
+   {
+    "name": "Reuters(Investing.com)",
+    "url": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261113146751008"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAB1L0_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 엔비디아, 2012년 이후 처음 보는 기록 쓰는 중 😱 ② 한 달 반 만에 2,100조원 사라진 회사 👀 ③ 엔비디아 빠진 돈, 어디로 갔을까? 🔥",
+   "'2012년 이후 최장 주간 연속 하락'과 '시총 1.6조달러 감소'는 해외 단독 보도(CNBC). 몇 주 연속인지는 제목에 없어 쓰지 않음 — 금요일 마감 후 확정 여부 확인",
+   "대중국 칩 수출 제한 공감대는 Investing.com(로이터) 제목 기준, 법안 확정 아님",
+   "원화 환산 2,100조원은 1.6조달러 × 1,336원으로 계산한 값",
+   "미국 선물 '약보합'은 CNBC 라이브 제목(Stock futures edge lower) 기준, 올리기 전 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
