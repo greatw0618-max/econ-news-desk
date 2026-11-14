@@ -5160,5 +5160,100 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261114-1727-1",
+  "createdAt": "2026-11-14T08:28:21.876Z",
+  "date": "2026-11-14",
+  "slot": "17시",
+  "category": "코인",
+  "topic": "BTC 하락 매도 85% 이상이 단기 보유자(8만달러 부근 매수) 항복성 투매 — 일일 매도 4.2억→8.5억달러, BTC 현물 ETF 2주간 23.5억달러 순유출·IBIT 11거래일 연속 유출, BTC 67,154달러(-1.61%)·공포탐욕 13",
+  "imageTitle": "비트코인, 누가 던졌나",
+  "imageHighlight": "던졌나",
+  "imageData": "BTC 67,154달러 (-1.61%) · 공포·탐욕 13",
+  "body": "이번 비트코인 하락, 누가 던졌을까? 👀\n\n1) 비트코인 67,154달러(-1.61%), 업비트 9,199만원(-1.33%)\n코인 공포·탐욕 지수는 13, '극단적 공포' 구간임\n\n2) 온체인 분석가 체크메이트 분석에 따르면 이번 매도의 85% 이상이 단기 보유자 물량이라고 함\n최근 8만 달러 부근 고점에서 산 사람들이 손실 보고 던진 것\n\n단기 보유자가 뭐냐면!\n코인을 산 지 155일이 안 된 사람들. 반대로 오래 들고 있는 장기 보유자는 대부분 수익권이라 매도를 자제하는 중이라고 함\n\n3) 하루 매도 규모는 4억2천만 달러 → 8억5천만 달러 이상으로 두 배 넘게 늘었음\n사상 최고가 이후 네 번째 '항복성 투매'로 분석됨\n\n4) 미국 비트코인 현물 ETF도 2주간 23억5천만 달러 순유출\n블랙록 IBIT는 11거래일 연속 자금이 빠지는 중 (금요일 하루 1억4,350만 달러)\n\n그래서 우리랑 무슨 상관이냐 ⭐\n고점에 물린 단기 물량이 정리되는 과정은 과거에도 바닥을 다지는 구간에서 자주 나왔음\n다만 ETF 자금 이탈이 멈추지 않으면 매도 압력은 더 이어질 수 있음\n\n개미일수록 '찐바닥'을 맞히려 하기보다, ETF 자금이 유입으로 돌아서는 등 반등이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 금리 인상 우려가 남아 있어 변동성은 계속 클 수 있음\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175595"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak"
+   },
+   {
+    "name": "블록미디어",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kM0pkSEZFS3hCT1pGcVpEX2F6cjBfSlh2SVVTX3p1YjFSODhIUUhBQTdaTE9zSk1YeXNGVEZmOXB6ZnBXMjNER3N6SGNJblhXSmU2WWwtcTQ?oc=5"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=jblb5RVREvs"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://asset.coinness.com/news-content/01a1d929-67a0-74ff-bb75-f12c68162bc0.webp",
+    "source": "코인니스"
+   },
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg",
+    "source": "Cointelegraph"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 이번 비트코인 하락, 누가 던졌을까? 👀 ② 비트코인 판 사람 85%는 '이 사람들'이었음 😱 ③ 장기 보유자는 안 팔았다, 그럼 누가? 👀",
+   "단기 보유자 85%·일일 매도 8.5억달러는 온체인 분석가 1인 분석(코인니스 단독 출처)",
+   "ETF 2주 23.5억달러·IBIT 11거래일 연속은 해외 단독 보도(Cointelegraph)",
+   "비트코인 시세는 17:26 기준, 올리기 직전 재확인",
+   "영상(jblb5RVREvs)은 자막 못 가져와 제목·설명만 반영(찐바닥 주제)"
+  ],
+  "videos": [
+   "jblb5RVREvs"
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "20261114-1727-2",
+  "createdAt": "2026-11-14T08:28:21.876Z",
+  "date": "2026-11-14",
+  "slot": "17시",
+  "category": "미국 증시",
+  "topic": "다음 주 19일 앤트로픽 나스닥 상장 예정(공모가 70~78달러·8.25억주)과 트럼프·시진핑·푸틴 회동 겹침, 젠슨 황 사임 후 첫 엔비디아 실적 대기 — 필라델피아 반도체 -3.43%",
+  "imageTitle": "19일, 슈퍼 수요일 온다",
+  "imageHighlight": "슈퍼 수요일",
+  "imageData": "앤트로픽 공모가 70~78달러 · 8억2,500만 주",
+  "body": "다음 주 수요일(19일), 시장에 큰 일 두 개가 겹침 🔥\n\n1) 앤트로픽(Anthropic) 나스닥 상장 예정일이 11월 19일\n공모가 희망 범위는 주당 70~78달러, 공모 주식 수는 8억2,500만 주\n\n2) 공모가 상단이면 조달 규모만 600억 달러를 넘는 초대형 IPO임\n국내에서도 상장 직후 ETF 편입 여부에 관심이 쏠리는 중\n\nIPO가 뭐냐면!\n비상장 회사가 처음으로 주식을 시장에 내놓고 상장하는 것. 공모가는 첫 거래 전에 정해지는 가격임\n\n3) 같은 날 트럼프·시진핑·푸틴이 한자리에 모일 예정이라는 보도도 나왔음 (한국경제)\n미·중은 관세와 농산물 교역 문제를 사전 논의 중\n\n4) 그리고 다음 주엔 엔비디아 실적 발표도 대기 중\n젠슨 황 사임 이후 첫 실적이라 '창업자 없는 엔비디아'를 시장이 어떻게 볼지가 관건\n필라델피아 반도체지수는 금요일 -3.43%로 마감\n\n그래서 이게 왜 중요하냐 ⭐\nAI 대어 상장, 미·중 정상 만남, AI 대장주 실적이 한 주에 몰렸음\n결과에 따라 반도체·AI주는 물론 위험자산인 코인 분위기까지 같이 흔들릴 수 있음\n\n개미일수록 발표 직후 급변동에 바로 따라붙기보다, 하루이틀 방향이 확인된 뒤 움직이는 게 안정적일 듯\n단, 신규 상장주는 첫날 등락이 매우 클 수 있으니 레버리지는 특히 조심\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Nasdaq (Motley Fool)",
+    "url": "https://www.nasdaq.com/articles/anthropic-expected-list-nov-19-id-rather-own-amazon-stock-ipo"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/202611146533i"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yTHJ6VUtuSzBSeFl0eXhIdWpCSEl0Q3h0S19ibGpWa29SM1JBbnhVdUJ5MzdBS2dRVnRXZWdzMWRtTnhRLV9rMEZfcDBnU1hMTEV6X3BMRnBUZw?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hWmFJZGQwVlN4RUt6WE1rQzJiZHdEME1td2QwX1RuVENqckFYZHZLdmVjTkVkYU1Fanh2U0FWTUZiMzVxd1pWMXRR?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 다음 주 수요일(19일), 시장에 큰 일 두 개가 겹침 🔥 ② 19일 하루에 AI 대어 상장 + 세 정상 회동 👀 ③ 다음 주, 달력에 동그라미 칠 날은 딱 하루 🔥",
+   "공모가 70~78달러·8.25억주는 해외 단독 보도(Nasdaq/Motley Fool), 조달 600억달러는 이를 곱한 계산값(상단 기준 약 643억달러)",
+   "트럼프·시진핑·푸틴 19일 회동은 한국경제 단독 보도, 확정 여부 확인",
+   "엔비디아 실적 발표 정확한 날짜 기사 확인 필요",
+   "0727 게시글(주말 체크포인트)과 일부 겹침 — 증시 관점 주간 예고로 작성"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
