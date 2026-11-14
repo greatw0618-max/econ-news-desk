@@ -4921,5 +4921,58 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261114-1127-1",
+  "createdAt": "2026-11-14T02:27:00.000Z",
+  "date": "2026-11-14",
+  "slot": "11시",
+  "category": "미국 증시",
+  "topic": "美 FAA 전국 지상대기(ground stop) — 관제 통신시스템 장애로 약 4시간 미국 전역 출발편 중단(약 3년 만), 수천 편 차질·결항 주말까지, 국토안보부 '사이버공격 증거 없음', 연료비 급등으로 감편 상태라 재예약 난항, 관제망 위기 부각",
+  "imageTitle": "미국 하늘길, 4시간 멈췄다",
+  "imageHighlight": "멈췄다",
+  "imageData": "美 전역 출발편 중단 약 4시간 · 수천 편 차질 · WTI 88.92달러",
+  "body": "미국 하늘길이 4시간 동안 통째로 멈췄음 😱\n\n1) 현지 13일(금) 오후, 미국 연방항공청(FAA)이 전국 단위 '지상 대기' 명령을 내렸음\n→ 미국 전역 공항에서 출발편이 뜨지 못함\n\n2) 원인은 관제 통신시스템 장애로 알려짐\n미국 전역 항공이 이렇게 한꺼번에 묶인 건 약 3년 만이라고 함\n\n지상 대기(ground stop)가 뭐냐면!\n안전 문제가 있을 때 출발 공항에서 비행기 이륙을 막아 두는 관제 조치임\n\n3) 약 4시간 만에 해제됐지만 출발편 수천 편이 차질\n결항 여파는 주말까지 이어질 전망임\n\n4) 미국 국토안보부 장관은 사이버 공격 증거는 '전혀 없다'고 밝혔음\n\n5) 문제는 회복 속도\n연료비 급등으로 항공사들이 이미 운항편을 줄여 둔 상태라, 대체편 잡기도 쉽지 않을 수 있다고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 미국 항공 관제망이 낡았다는 문제가 다시 수면 위로 올라옴\n- 항공·여행주는 이미 유가 부담(WTI 88.92달러)이 있는데, 결항 비용까지 겹친 셈\n- 이번 주말·다음 주 미국 가는 사람은 항공편 상태부터 확인해보자\n\n개미 입장에선 이런 돌발 사건 직후 관련주가 크게 흔들릴 수 있으니, 첫 반응에 따라붙기보다 다음 거래일 방향을 확인하고 보는 게 안정적일 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/us-flight-shutdown-exposes-deepening-air-traffic-network-crisis-5026935"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026111462967"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/LYNXMPEA7I01N_M.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://images.mktw.net/im-14527198",
+    "source": "MarketWatch"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 미국 하늘길이 4시간 동안 통째로 멈췄음 😱 ② 미국 전역 공항이 한꺼번에 멈춘 이유 👀 ③ 3년 만에 미국 비행기가 다 묶였음 🔥",
+   "'관제 통신시스템 장애' 원인은 한국경제·연합뉴스 헤드라인 기준. 원인 공식 발표 업데이트 확인",
+   "'약 3년 만'은 한국경제 제목 기준(국내 단독), '약 4시간'은 CNBC 제목 기준",
+   "출발편 '수천 편' 차질·결항 주말까지는 CNBC·MarketWatch 제목/요약 기준. 정확한 결항 수는 기사 본문 확인",
+   "WTI 88.92달러는 시세 표(11/14 07:00) 기준"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
