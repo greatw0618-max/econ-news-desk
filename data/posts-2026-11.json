@@ -5293,5 +5293,83 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261114-2127-1",
+  "createdAt": "2026-11-14T12:27:00.000Z",
+  "date": "2026-11-14",
+  "slot": "21시",
+  "category": "코인",
+  "topic": "카바(KAVA) 보안사고 — 업비트·빗썸·코인원 투자유의 촉구·입출금 중단, 장중 25% 급락, 카바 '카바 렌드 한정·무제한 발행 아님·통제 중'",
+  "imageTitle": "카바, 보안사고로 25% 급락",
+  "imageHighlight": "보안사고",
+  "imageData": "KAVA 전일 대비 -25%(장중) · 업비트·빗썸·코인원 투자유의 촉구",
+  "body": "토요일 밤, 국내 거래소 3곳이 동시에 경고 띄운 코인 있음 😱\n\n1) 카바(KAVA) 체인에서 보안 문제가 의심되는 정황이 확인됐음\n2) 업비트·빗썸·코인원이 카바에 투자유의를 촉구했고, 업비트·코인원은 입출금을 일시 중단했음\n3) 이 소식에 카바 가격은 장중 전일 대비 25% 넘게 급락했음\n4) 카바 측은 'KAVA를 BNB체인으로 옮긴 뒤 내다 판 비정상 활동이 있었다'고 밝혔음\n5) 다만 '토큰이 무제한 발행되는 문제는 아니고, 피해는 카바 렌드(대출 서비스)에 한정됐다, 지금은 통제 중'이라고 설명했음\n\n크로스체인 이체가 뭐냐면!\n→ 코인을 한 블록체인에서 다른 블록체인으로 옮기는 것. 이 다리(브리지) 구간이 해킹에 자주 노리는 약한 고리임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 입출금이 막히면 다른 거래소로 옮기거나 들여올 수 없어서 가격이 한쪽으로 쏠리기 쉬움\n→ 이번 주 바이낸스 해킹에 이어 또 보안 이슈라, 안 그래도 극단적 공포(공포·탐욕 지수 13)인 시장 심리에 부담임\n→ 구체적인 사건 경위는 아직 안 나왔음. 카바가 추후 공개하겠다고 함\n\n개미일수록 보안사고 직후 급락·급반등을 다 먹으려 하지 말고, 사건 경위와 입출금 재개가 확인된 뒤에 판단하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리입니다. 투자 판단은 본인 책임입니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175607"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175600"
+   },
+   {
+    "name": "이코노미블록",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04TzBPaF9mOFhsV1Vid3h6WlFwcDExSml1dXZzclpDSTkxbklLN0hibEJrXzdsRXMydUZ0bnR2NmlmUDM1cXJvVTFNNzVBTEQ0?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kTTROd3V4aDhKMkhya0JvbWpPNzRyYVBYLURUYW4xM1plRHdjUFgyU00xMV9CWE1jdmQzTDZUdTFrOVFVUW4xblpvM25ScUgx?oc=5"
+   },
+   {
+    "name": "토큰포스트",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEb2lZU2hsZV84YXBCYUpzb3ExRElWbWVxdkthZ2JaWW50MmQwb0ItY1N1ZzY3b1MxcXdWQUliMXdGRk5peEFHTGk3eE5fU04xc3JMN0NUTmpFalNfellqN3hIUjRnTjFScjdnSW1lZzFKc1NScEHSAV5BVV95cUxNVkpmSlM5LW43MHFFd3RkMDhmVUYyTms5R1Q5WGpCdXh5eEljZ1FqbExpc3pPTS1jM3FBZkxRUlo1U0ZzSGtKTWRlM0ZIWnF3U2l5Y0U0cUpuTThINzV3?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보 1: 토요일 밤, 국내 거래소 3곳이 동시에 경고 띄운 코인 있음 😱",
+   "첫 줄 후보 2: 하루 만에 25% 빠진 코인, 이유는 해킹 의심 🔥",
+   "첫 줄 후보 3: 업비트가 '유의' 딱지 붙인 코인, 무슨 일? 👀",
+   "-25%는 장중 수치(블루밍비트 속보 기준) — 올리기 전 현재 가격 확인",
+   "빗썸 투자유의 촉구는 이코노미블록 보도 기준, 빗썸 입출금 중단 여부는 확인 안 됨",
+   "카바 공식 설명은 코인니스 전달 기준 — 원문 공지 확인 권장, 추후 경위 공개 여부 확인"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261114-2127-2",
+  "createdAt": "2026-11-14T12:27:00.000Z",
+  "date": "2026-11-14",
+  "slot": "21시",
+  "category": "코인",
+  "topic": "스테이블코인 공급 감소 — 한 달 새 170억달러 감소(블루밍비트), USDT 시총 60일 새 66억달러 감소·FTX 붕괴 때보다 큰 폭(디지털투데이), BTC 67,097달러(-1.69%)",
+  "imageTitle": "코인 시장 '실탄'이 줄고 있다",
+  "imageHighlight": "실탄",
+  "imageData": "스테이블코인 한 달 새 -170억달러 · USDT 60일 새 -66억달러",
+  "body": "비트코인보다 더 무서운 신호, 코인 시장 '대기 자금'이 빠지고 있음 👀\n\n1) 스테이블코인 공급량이 한 달 새 170억달러 줄었다는 집계가 나왔음\n2) 대표 스테이블코인 테더(USDT) 시가총액도 60일 동안 66억달러 감소했음\n3) 이 감소 폭은 2022년 FTX 붕괴 때보다 크다고 함\n4) 그 사이 비트코인은 67,097달러(-1.69%)까지 밀렸고, 공포·탐욕 지수는 13(극단적 공포)임\n\n스테이블코인이 뭐냐면!\n→ 1개=1달러처럼 가치를 고정해 둔 코인. 거래소에서 코인을 사기 직전 대기 자금(실탄) 역할을 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 스테이블코인이 줄었다는 건 코인 살 돈이 시장 밖으로 나가고 있다는 뜻으로 읽힘\n→ 미 10년물 금리 5.15%대, 연준 추가 인상 전망까지 겹쳐 위험자산에서 돈이 빠지는 흐름과 맞물림\n→ 반대로 스테이블코인 공급이 다시 늘기 시작하면 '돈이 돌아오는 신호'로 볼 수 있어서, 반등 여부를 볼 때 같이 체크할 지표임\n\n개미일수록 바닥을 맞히려 하지 말고, 대기 자금이 다시 늘어나는 게 확인된 뒤 추세에 올라타는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리입니다. 투자 판단은 본인 책임입니다.",
+  "sources": [
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91RWVoR09sbjVXYmo5RWJWY1RkdW5HZUpDWkRwY3U5N2pyRlhLbWc3QXk2dmFoanlwN2hQVThGaXZWQlppeGF2SDN1VXgtTVpi?oc=5"
+   },
+   {
+    "name": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSU9wRDRaVE1wQmpRLWduX25JZ21TeHpQSGduQTEwbGtKcjI5UV9Camt2TXM0ck5TcU1XZkhicFAydElZc1hWQU91V1R4ckdlX3VnY3RReHNEcFNWYlZOMGtoOWdCLXNFTkJNTWFGb3QtZTQ?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보 1: 비트코인보다 더 무서운 신호, 코인 시장 '대기 자금'이 빠지고 있음 👀",
+   "첫 줄 후보 2: FTX 때보다 더 빠졌다, 테더 시총 😱",
+   "첫 줄 후보 3: 코인 살 돈이 한 달 새 170억달러 사라졌음 🔥",
+   "170억달러 감소는 블루밍비트 단독 보도(제목 기준) — 집계 출처·기간 원문 확인",
+   "USDT 66억달러 감소·'FTX 때보다 큰 폭'은 디지털투데이 단독 보도(제목 기준) — 원문 확인",
+   "BTC 67,097달러는 21:27 수집 기준, 올리기 전 현재가 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
