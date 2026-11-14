@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T22:27:07.668Z",
+ "updatedAt": "2026-11-14T00:27:02.425Z",
  "market": [
   {
    "name": "코스피",
@@ -39,25 +39,25 @@
   },
   {
    "name": "비트코인(원)",
-   "price": 93208000,
-   "changePct": -3.5013976600000003,
+   "price": 93348000,
+   "changePct": 0.13086478,
    "decimals": 0
   },
   {
    "name": "비트코인($)",
-   "price": 68247.34,
-   "changePct": -4.3390803666268845,
+   "price": 68258.51,
+   "changePct": -4.323423602974197,
    "decimals": 0
   },
   {
    "name": "이더리움(원)",
-   "price": 2626000,
-   "changePct": -3.87994143,
+   "price": 2640000,
+   "changePct": 0.34207526,
    "decimals": 0
   },
   {
    "name": "코인 공포·탐욕 지수",
-   "price": 20,
+   "price": 13,
    "changePct": null,
    "decimals": 0
   }
