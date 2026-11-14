@@ -5578,5 +5578,94 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261115-0527-1",
+  "createdAt": "2026-11-14T20:27:00.000Z",
+  "date": "2026-11-15",
+  "slot": "05시",
+  "category": "코인",
+  "topic": "BTC 주간 약 -13.5%(블록미디어) — 65,516달러(-4.00%)·업비트 9,042만원, 美 BTC 현물 ETF 2주 연속 10억달러+ 유출, 코인 현물 ETF 전체 주간 약 15.5억달러 유출·순유입은 아발란체뿐(The Block/SoSoValue), 알트 -6~7%, 공포탐욕 13",
+  "imageTitle": "비트코인, 한 주에 13% 급락",
+  "imageHighlight": "13%",
+  "imageData": "BTC 65,516달러 (-4.00%) · ETF 2주 연속 10억달러+ 유출 · 공포탐욕 13",
+  "body": "비트코인, 이번 주에만 13% 넘게 빠졌음 😱\n\n1) 비트코인 65,516달러(-4.00%), 업비트 기준 9,042만원(-3.00%)\n2) 한 주 기준으로는 약 13.5% 급락했다는 집계가 나왔음\n3) 미국 비트코인 현물 ETF에서는 2주 연속 10억달러 넘게 빠져나갔음\n4) 코인 현물 ETF 전체로 보면 한 주간 약 15.5억달러 순유출, 15개 종류 중 순유입은 아발란체 ETF 딱 하나였다고 함\n5) 이더리움 252만원(-4.10%), 솔라나 -6.75%, 도지 -6.92%로 알트가 더 크게 빠짐\n6) 코인 공포·탐욕 지수는 13, '극단적 공포' 구간\n\n현물 ETF가 뭐냐면!\n실제 비트코인을 사서 담아 두는 펀드라서, 돈이 빠져나가면 그만큼 비트코인을 팔아야 하는 구조임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n지난해부터 비트코인을 받쳐 준 큰손 자금이 ETF였는데, 그 통로에서 2주째 돈이 나가고 있다는 뜻임\n여기에 미국 금리 인상 베팅까지 겹쳐서, 주말에도 매도 압력이 쉽게 안 꺼지는 분위기\n\n개미일수록 바닥을 맞히려 하기보다, 유출이 멈추고 반등이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n주말은 거래가 얇아서 레버리지는 특히 조심!\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "블록미디어",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pRjk5NmtXM1dtMXh3b1RQckVLWl9tS1d1VW5iNWVZdTdOd3lCeHhockFWTzdHbVJfWHIxNnhqZWxCX1dOalMwRVliODJNdE13S3NiRVNnT2c?oc=5"
+   },
+   {
+    "name": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
+   },
+   {
+    "name": "토큰포스트",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93LTZRV3dJa2JxMkhadGVCM2ozSGlQUTJ2cGEwX05hUHdKQ2xfV3E4TmVKRVNUN1Roclp4X0tjbzFVLW8zTTMtWUcxWEhvWVpRQlQ5ZTFNM0XSAV5BVV95cUxNSFNwTV9VN28zazM2Vkp3dEdERVJ2NG1PSlRMdER0a2hNRlY1eW9zdXFYbXRqZ09MeUdBT185dTZzU3VkVlFhNWl2N3FFYVBRdGdwMEhBY2tOZk9BTF9R?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/Neon-Liquid-Bitcoin-and-Ethereum-Flow_clean.png",
+    "source": "The Block"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인, 이번 주에만 13% 넘게 빠졌음 😱 ② ETF에서 2주 연속 1조원 넘게 빠져나갔음 👀 ③ 코인 ETF 15종 중 돈 들어온 건 딱 하나였음 🔥",
+   "주간 -13.5%는 블록미디어 단독 집계(기준 시점 확인)",
+   "ETF 주간 유출액(BTC 10억달러+, 전체 약 15.5억달러)·아발란체 유일 유입은 해외 단독 보도(The Block, SoSoValue 집계)",
+   "코인 가격은 24시간 움직임이 커서 올리기 직전 다시 확인",
+   "업비트 원화 가격은 시세 표 기준(전일 0시 대비)"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261115-0527-2",
+  "createdAt": "2026-11-14T20:27:00.000Z",
+  "date": "2026-11-15",
+  "slot": "05시",
+  "category": "미국 증시",
+  "topic": "[후속] 美 FAA 전국 비행 중단 원인 — 교통부 더피 장관, 외부 업체의 L3해리스 관리 노후 관제 통신시스템 업그레이드 직후 장애 발생 밝히고 L3해리스 역할 조사 착수(CNBC·Investing.com), 주말에도 수천 편 결항·지연(Reuters)",
+  "imageTitle": "하늘길 마비, 범인은 통신망",
+  "imageHighlight": "통신망",
+  "imageData": "美 전국 비행 약 4시간 중단 · 원인: L3해리스 관리 관제 통신시스템 업그레이드",
+  "body": "미국 하늘길 4시간 마비, 원인이 나왔음 👀\n\n1) 미국 교통부 장관(숀 더피)이 전국 비행 중단의 원인으로 L3해리스가 관리하는 오래된 관제 통신시스템을 지목했음\n2) 외부 업체가 이 시스템을 업그레이드한 직후 문제가 터졌다고 함\n3) 더피 장관은 L3해리스가 어떤 역할을 했는지 조사에 들어갔음\n4) 시스템은 천천히 복구 중이지만, 주말에도 수천 편이 결항·지연되고 있음\n\nL3해리스가 뭐냐면!\n미국 대형 방산·통신 장비 회사로, 미 연방항공청(FAA)의 관제 통신망 일부를 맡아 운영하는 곳임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n원인이 사이버공격이 아니라 '노후 시스템 + 업그레이드 문제'로 좁혀지는 중\n그러면 시장의 관심은 책임 소재(계약사 조사)와 낡은 관제망 교체 예산 쪽으로 옮겨갈 수 있음\n항공사들은 연료비 부담에 결항 비용까지 겹친 상황이라 다음 주 항공주 흐름도 볼 만함\n\n조사 결과가 나오기 전 뉴스 한 줄에 관련주가 크게 흔들릴 수 있으니, 발표 직후 급변동은 한발 물러서 보는 게 좋을 듯\n단, 아직 조사 초기라 원인이 확정된 건 아님!\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/duffy-investigates-l3harris-over-faa-outage-that-grounded-us-flights-5027454"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/faa-orders-nationwide-ground-stop-citing-extraordinary-safety-concerns-5026489"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/LYNXNPEB6F0UY_M.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAD0GP_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 미국 하늘길 4시간 마비, 원인이 나왔음 👀 ② 해킹이 아니었음, 범인은 낡은 통신망 🔥 ③ 미국 전국 비행 중단, 업그레이드 한 번이 문제였음 😱",
+   "원인·조사 내용은 해외 단독 보도(CNBC, Investing.com/Reuters) — 조사 초기라 확정 아님",
+   "\"약 4시간 중단\"·\"연료비로 감편\" 내용은 직전 회차(11/14 11시) 기사 기준",
+   "주말 결항·지연 편수는 기사마다 달라 올리기 전 최신 수치 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
