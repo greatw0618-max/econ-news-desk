@@ -5068,5 +5068,97 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261114-1527-1",
+  "createdAt": "2026-11-14T06:27:00.000Z",
+  "date": "2026-11-14",
+  "slot": "15시",
+  "category": "코인",
+  "topic": "BTC 채굴 난이도 9.13% 하락(134.82T, 6/14 -10.09% 이후 최대 낙폭) — 가격 하락에 채굴자 이탈 신호, 비트디어 이번 주 채굴 256.1 BTC 전량 매도, BTC 67,276달러(-5.70%)",
+  "imageTitle": "비트코인 채굴 난이도 급락",
+  "imageHighlight": "급락",
+  "imageData": "채굴 난이도 134.82T (-9.13%) · 6월 이후 최대 낙폭",
+  "body": "비트코인 가격만 떨어진 게 아니었음 👀\n\n1) 오늘 비트코인 채굴 난이도가 한 번에 9.13% 내려갔음. 134.82T 기록\n2) 지난 6월 14일(-10.09%) 이후 가장 큰 낙폭이라고 함\n3) 같은 시각 비트코인은 67,276달러(-5.70%). 석 달 만에 최저권\n\n채굴 난이도가 뭐냐면!\n비트코인 블록을 하나 캐는 데 필요한 연산 문턱임. 채굴기가 많이 빠지면 블록이 늦게 나오니까 네트워크가 2주 정도마다 알아서 문턱을 낮춰 줌\n\n4) 즉 난이도가 크게 내려갔다는 건 채굴을 멈춘 곳이 그만큼 많았다는 뜻\n5) 가격은 떨어지는데 전기료 같은 비용은 그대로라, 수익이 안 나는 채굴자부터 빠진 걸로 해석됨\n6) 채굴업체 비트디어는 이번 주에 캔 256.1 BTC를 전량 팔았다고 밝힘. 올해 2월부터 보유량 0개 유지 중\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 채굴자는 캔 코인을 팔아서 비용을 내는 대표적인 매도 세력임. 버티기 힘든 채굴자가 늘면 시장에 나오는 물량도 늘 수 있음\n→ 반대로 난이도가 내려가면 남은 채굴자의 수익성은 좋아져서, 급하게 팔 압력은 줄어든다는 해석도 같이 나옴\n\n개미일수록 지표 하나로 바닥을 점치지 말고, 가격이 실제로 방향을 잡는 걸 확인한 뒤 나눠서 대응하는 게 안정적일 듯\n단, 극단적 공포 구간(공포·탐욕 13)이라 위아래 흔들림이 큼. 레버리지는 조심\n\n📌 투자 권유가 아닌 정보 정리 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175590"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10RE9taXEzM3dxREczSVFVMXdFc0lGRVFDZ1B5bkVNTEJ6Y0V4YUF2WnMtYjBmUDRNU08xZUxiUzM0TDV4NlZ3VTRuaGlzM3lp?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175586"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://asset.coinness.com/news-content/01a1d890-7716-75e8-8fdb-e23b168585f3.webp",
+    "source": "코인니스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 가격만 떨어진 게 아니었음 👀 ② 채굴자들도 하나둘 손 놓기 시작함 😱 ③ 6월 이후 처음 보는 숫자가 나왔음 🔥",
+   "채굴 난이도 수치(134.82T, -9.13%)는 멤풀 기준(코인니스·블루밍비트 보도). 올리기 전 멤풀에서 재확인",
+   "비트디어 전량 매도는 코인니스 단독 출처",
+   "BTC 67,276달러(-5.70%)는 15:26 시세 기준, 올리기 전 최신 가격으로 갱신"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261114-1527-2",
+  "createdAt": "2026-11-14T06:27:00.000Z",
+  "date": "2026-11-14",
+  "slot": "15시",
+  "category": "코인",
+  "topic": "ETH 1,900달러 이탈 속 매수 신호 — 美 ETH 현물 ETF 230만달러 순유입 전환(BTC ETF는 7거래일 연속 1.85억달러 순유출), 58bro.eth 고래 1만501 ETH(평단 1,978달러) 재매수, 부어히스 추정 주소 2,504 ETH(평단 1,896달러) 추가 매수",
+  "imageTitle": "이더리움, 1,900달러 깨지자 매수",
+  "imageHighlight": "매수",
+  "imageData": "ETH 1,887달러 · 업비트 261.1만원 (-0.76%) · ETH ETF 순유입 전환",
+  "body": "이더리움 1,900달러 깨진 날, 반대로 움직인 돈이 있음 👀\n\n1) 이더리움이 1,900달러 아래로 내려와 1,887달러까지 밀렸음. 업비트 기준 261.1만원(전일 0시 대비 -0.76%)\n2) 그런데 미국 이더리움 현물 ETF에는 하루 230만 달러가 순유입됐음. 순유출 행진 끝에 다시 플러스로 돌아섬\n3) 같은 날 비트코인 현물 ETF는 1억8,540만 달러 순유출, 7거래일 연속 빠지는 중\n\n현물 ETF 순유입이 뭐냐면!\n주식처럼 사고파는 코인 ETF에 새로 들어온 돈이 나간 돈보다 많았다는 뜻임. 기관·큰손 자금 방향을 보는 지표로 많이 씀\n\n4) 큰손 지갑도 움직였음. 일주일 전 평단 2,397달러에 8,000 ETH를 팔았던 고래가 이번엔 평단 1,978달러에 1만501 ETH(약 2,077만 달러)를 다시 샀다고 함\n5) 셰이프쉬프트 설립자로 추정되는 주소도 평단 1,896달러에 2,504 ETH를 추가로 샀다는 온체인 분석이 나옴\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 가격은 빠지는데 일부 큰돈은 낮은 가격대에서 담고 있다는 신호임\n→ 다만 ETF 유입 230만 달러는 규모가 작고 하루치라, 흐름이 바뀌었다고 보기엔 아직 이름. 며칠 이어지는지 봐야 함\n\n개미일수록 고래 따라 바로 들어가기보다, ETF 유입이 며칠 이어지고 가격이 1,900달러 위를 다시 지키는지 확인한 뒤 나눠서 대응하는 게 안정적일 듯\n단, 고래도 일주일 만에 팔았다 샀다 하는 장임. 레버리지는 조심\n\n📌 투자 권유가 아닌 정보 정리 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175585"
+   },
+   {
+    "name": "토큰포스트",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLejhwMjdMTUVjT1BIbGg0eDJhb0hqcTRfRkNzb2hsT0sxVmhVMndPaFozck4tYlBpUW9nNFc1dWlMSnBQV1MwZkU0TEdJTEw0OE9wYWp6Q084WGtmeHViSdIBZkFVX3lxTFBTM2ZrTTloOEkxQTY4bmxlOFZtQ3JQeHk3N0RBM0JlTFlpejVsQkk1SHQxU3JoQkQ1OVVOemZwdjJFSDA1R0N4UU1GeGFPTVpFTjdrVFBWV1VLb0VLTnlfc21wRjJrdw?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175584"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175592"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175588"
+   },
+   {
+    "name": "토큰포스트",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JUHo4MnVPRWJHMXBFRXRQcDJXNmpwcjJYUGdpWVVDRHRnZVRQOF96NTljRVJBN2hvcTctUUg1UzBWMHBudEFvcUVrbUF5ODNpV3BPc1hZekPSAV5BVV95cUxPX0NoYVJ0cGs5bVBwU0JTVUlhdVpBa1VRSmpLSFNTdXZkdTZ6OWxveGtTUGRwYzlubEJvREVqZGlaeTc3Um8xRm1rUGprTlpkaE45QmRlVnNwSm10aUNn?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://asset.coinness.com/news-content/01a1d870-c5b9-7344-84c8-85dc2e9755e5.webp",
+    "source": "코인니스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 이더리움 1,900달러 깨진 날, 반대로 움직인 돈이 있음 👀 ② 다들 팔 때 큰손은 담고 있었음 🔥 ③ 비트코인 ETF는 7일째 빠지는데, 이더리움은 달랐음 👀",
+   "ETH ETF 순유입 전환 시점이 매체마다 다름(코인니스 \"7거래일 만에\", 토큰포스트 \"6거래일 만에\", 금액도 230만/236만 달러). 본문은 \"다시 플러스로 돌아섬\"으로만 씀",
+   "고래 매수(58bro.eth, 부어히스 추정 주소)는 룩온체인 인용 코인니스 단독 출처. 부어히스 주소는 \"추정\"",
+   "ETH 1,887달러는 토큰포스트 12:38 기사 기준, 업비트 261.1만원은 시세 표 기준. 올리기 전 최신 가격으로 갱신"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
