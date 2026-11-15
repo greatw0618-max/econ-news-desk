@@ -6217,5 +6217,63 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261116-0127-1",
+  "createdAt": "2026-11-15T16:27:00.000Z",
+  "date": "2026-11-16",
+  "slot": "01시",
+  "category": "미국 증시",
+  "topic": "베센트 재무장관 '엔비디아 극적 리더십 개편 필요·새 CEO 외부에서'(Investing.com) + 연준에 추가 인상 자제 요구(마켓잉크) — 시장 12월 인상 확률 86.8~89.7%, 10년물 5.154%, 필라델피아 반도체 -3.43%, 엔비디아 실적 17일",
+  "imageTitle": "재무장관, 엔비디아에 한마디",
+  "imageHighlight": "엔비디아",
+  "imageData": "필라델피아 반도체 10,146(-3.43%) · 미 10년물 5.154% · 12월 인상 확률 80%대 후반",
+  "body": "재무장관이 기업 CEO 인사에 말을 얹었음 👀\n\n1) 미국 베센트 재무장관이 엔비디아에 \"극적인\" 리더십 개편이 필요하다고 말했음\n2) 새 CEO는 회사 내부가 아니라 외부에서 찾아야 한다는 입장이라고 함\n3) 같은 자리에서 연준에는 추가 금리 인상을 자제해 달라고 요구했다고 함\n4) 시장은 반대로 12월 금리 인상 가능성을 80% 후반대로 보고 있음. 미 10년물 금리도 5.154%까지 올라 있음\n5) 엔비디아는 젠슨 황 사퇴 이후 첫 실적을 17일(현지) 발표함\n\n금리 인상 확률이 뭐냐면!\n선물 가격으로 계산한 \"시장이 보는 다음 회의 인상 가능성\"임. 확정이 아니라 베팅 비율이라 지표 하나에 크게 바뀜\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 정부는 금리 인상을 멈추라 하고, 시장은 인상을 기정사실처럼 보는 상황임\n- 금요일 필라델피아 반도체 지수가 -3.43%였는데, 이번 주 엔비디아 실적과 연준 신호가 겹치면 삼성전자·SK하이닉스 등 국내 반도체도 같이 흔들릴 수 있음\n\n개미일수록 실적 발표 직후 급변동에 바로 올라타기보다, 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/bessent-says-nvidia-needs-dramatic-leadership-shakeup-5027992"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/bessent-says-nvidia-must-go-outside-the-company-to-find-new-ceo-5028004"
+   },
+   {
+    "name": "마켓잉크",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzN3VkUnNOMms2QlJuVVVSb2FFVmFGdHV1UW90NUtlMUpMMUN0bHh4Y1ZranhMQXpzUHdkdVlld1NzQkNjTC04emlJdl9aeTgxWG9KdW5GSmR1bWtjcE1tX2lPRVhzTmlIbVgyN20tSQ?oc=5"
+   },
+   {
+    "name": "JournalArta",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNzBhN0tfTHBwTmQwaE1MTk9JNWQ1ekZ2QTg4UVkyT0kxVTUwSGVKU0QxSElkNXcwQ2tyaFkyYVRRVDNXOFNLZHpwMkRmRzNNNm56MHotYlJycWp3cGNJV3BHOElReFdOeUQ5VjJUTlhkenhNR19Zb29wRC1sdEh6RkVwQkJ4bWRBb21yYw?oc=5"
+   },
+   {
+    "name": "위키트리",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FYVJDdmpabjAzSkdBMmdmSWZvY3FWc3p5OVNfTHR6SFFORW5hQk5oQ1V4VDVXbWR3WHNSZ2dNUlY0RFUxelBtSFhXbW02dmwwYTlqNmpn?oc=5"
+   },
+   {
+    "name": "CBC뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3d1Z5M09FR3FUei1ELUw0eWdTREhWR2xfdEM3NkRiZElENlNZYUREbWhoVnpzNmx1bHZPMFdWeFdFN2JualZfVEhYNFR6YVIyeUtUb2xTcHhhT1M2aTJYLWdKdGRfNE5S?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/moved_LYNXNPEL0S0UG_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAE0AQ_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 재무장관이 기업 CEO 인사에 말을 얹었음 👀 ② 엔비디아 새 CEO, \"밖에서 데려와라\"? 🔥 ③ 정부는 \"금리 그만 올려\", 시장은 \"그래도 올린다\" 😱",
+   "베센트 발언은 기사 제목 기준(Investing.com). 해외 단독 보도(Investing.com/Reuters 계열)",
+   "'연준에 추가 인상 자제 요구'는 마켓잉크 제목 기준 — 단독 출처, 원문 확인",
+   "12월 인상 확률 매체별 86.8%(JournalArta)·89.7%(위키트리) — 올릴 때 CME 페드워치 최신치 확인",
+   "미국 지수·10년물 금리는 금요일(11/14) 종가 기준",
+   "엔비디아 실적 발표일 17일(현지) 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
