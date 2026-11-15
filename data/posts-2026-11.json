@@ -5993,5 +5993,84 @@
    "cWTtu1WZeQ8"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261115-1727-1",
+  "createdAt": "2026-11-15T08:27:00.000Z",
+  "date": "2026-11-15",
+  "slot": "17시",
+  "category": "국내 증시",
+  "topic": "'9천피' 이후 개인 100조 순매수 vs 외국인 148조 순매도(뉴시스, MBC 스트레이트) — 빚투 삼전·닉스 집중, '저평가지만 모멘텀 없다' 전망, 코스피 5,290.53",
+  "imageTitle": "개미 100조, 외국인 148조",
+  "imageHighlight": "148조",
+  "imageData": "코스피 5,290.53 (-0.98%, 13일 종가)",
+  "body": "개미가 100조 살 때 외국인은 148조 팔았음 👀\n\n1) 코스피가 '9천'까지 갔다가 지금 5,290.53(13일 종가, -0.98%)까지 내려온 사이\n개인은 약 100조원을 사들였고, 외국인은 약 148조원을 팔았다고 함\n\n2) 오를 때 같이 들어온 건 개인, 높은 가격에 넘긴 건 외국인이었다는 얘기\n고점 근처에서 손바뀜이 크게 일어난 셈임\n\n3) 여기에 빚투(신용융자)도 삼성전자·SK하이닉스에 몰려 있음\n가격이 흔들리면 반대매매 물량이 나올 수 있는 구조\n\n4) 증권가에서도 \"코스피 저평가지만 모멘텀(올라갈 계기)이 없다\"는 말이 나옴\n이번 주 엔비디아 실적이 분위기를 바꿀 첫 시험대\n\n반대매매가 뭐냐면!\n빚으로 산 주식 값이 일정 수준 아래로 떨어지면 증권사가 강제로 팔아버리는 것임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n외국인이 다시 사기 시작하는지가 반등의 신호가 될 가능성이 큼\n개인 매수만으로 버티는 장은 작은 악재에도 출렁이기 쉬움\n\n개미일수록 바닥을 맞히려 하기보다, 외국인 수급이 돌아서는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 빚투 비중이 큰 장에서는 레버리지는 특히 조심!\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56aFBkWUZxV0doODZTdVBFYWRhVUtOUHBqSWV3eFlQQnBEa3BjWVBYeEppczUwbEo5MTlQMWxvcVIxSDVTM1Vxd0lqNmtCTHVId1p3d0FrUERmel9TWWVNVdIBeEFVX3lxTFBIYkRldTllbWJiUTlZQmxMZUJ0dnh0Tmc0YWE4R2xieU52RlZkNFp5OWJaVU1BQ3MxYkZ2eFV5N25odXpVeTdjZVY0ZXQzMTRONEw2a296UU5BaXpOWEdHQVlkTHliQzhjYWhJOU1DVk9fLTNxNER4SA?oc=5"
+   },
+   {
+    "name": "한국사회복지저널 (MBC 스트레이트)",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2VGlXbFhtZUxONGxOVmxwaTdGWGtzdDFHQXBsVGNxY2RKQ3huS2dHcFJ6b1dLWWJzcXQ5MlJlR2NRaXFfYkltdUdDdms3dWlSZjFkSS1ZVlhHWG1RckJkSjg1TTNkdnd0Z2Jr?oc=5"
+   },
+   {
+    "name": "뉴시스 (저평가·모멘텀)",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoZGU3N3k2TjRQZVZMa0ZyVVhtOTQyd0IyLU1KTjNvSFFiSFhOc3lIQnFBcWF4ZzUyMFRwY2tSajdMYlJpQUFmZGthOUhwSEJwNzBBek1VVG9PMzVhUkJ6Y0tSQm9DeDRocWVQNTdjekZqSGdRR3hPWtIBeEFVX3lxTFBoZGU3N3k2TjRQZVZMa0ZyVVhtOTQyd0IyLU1KTjNvSFFiSFhOc3lIQnFBcWF4ZzUyMFRwY2tSajdMYlJpQUFmZGthOUhwSEJwNzBBek1VVG9PMzVhUkJ6Y0tSQm9DeDRocWVQNTdjekZqSGdRR3hPWg?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "100조·148조 집계 기간(언제부터 언제까지)과 기준(순매수/순매도 여부)을 기사 본문에서 확인 — 수집 자료는 제목만 있음",
+   "코스피 수치는 13일(금) 종가",
+   "빚투 집중 내용은 직전 게시글(07시)과 겹치므로 한 줄로만 언급",
+   "첫 줄 후보1: 개미가 100조 살 때 외국인은 148조 팔았음 👀",
+   "첫 줄 후보2: 9천피의 진짜 주인공은 누구였을까 🔥",
+   "첫 줄 후보3: 코스피 고점에서 물건 넘긴 사람, 받은 사람 😱"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261115-1727-2",
+  "createdAt": "2026-11-15T08:27:00.000Z",
+  "date": "2026-11-15",
+  "slot": "17시",
+  "category": "코인",
+  "topic": "국내 코인 투자자 주간 설문 — 공포·극단적 공포 51.4%, 낙관 18.8%, 다음 주 하락 전망 47.3%(전주 44.1%), 비트와이즈 CIO 2018 약세장 유사, 공포탐욕 10, BTC 64,455달러",
+  "imageTitle": "코인 투자자 절반이 공포",
+  "imageHighlight": "공포",
+  "imageData": "공포·탐욕 지수 10 (극단적 공포) · BTC 64,455달러",
+  "body": "코인 투자자 절반이 '공포'라고 답했음 😱\n\n1) 국내 투자자 주간 설문에서 51.4%가 지금 심리를 '공포 또는 극단적 공포'라고 답함\n'낙관'이라고 한 사람은 18.8%뿐\n\n2) 다음 주 비트코인 전망도 하락·급락이 47.3%로 가장 많았음\n전주 44.1%보다 더 늘었고, 상승 전망은 25.4%로 줄었음\n\n3) 코인 공포·탐욕 지수도 10까지 내려옴(극단적 공포)\n비트코인은 한때 6.2만달러까지 밀렸다가 지금 64,455달러, 업비트 8,888.8만원\n\n4) 비트와이즈 CIO는 지금 시장이 2018년 약세장과 비슷하고 침체가 당분간 이어질 수 있다고 봤음\n\n공포·탐욕 지수가 뭐냐면!\n가격 변동성, 거래량, 검색량 같은 걸 묶어서 0(극단적 공포)~100(극단적 탐욕)으로 점수 매긴 지표임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n심리가 한쪽으로 쏠리면 작은 소식에도 급등락이 커지기 쉬움\n극단적 공포가 곧 바닥이라는 보장은 없음. 공포가 길게 이어진 해(2018년)도 있었음\n\n개미일수록 \"이제 바닥이겠지\"로 한 번에 들어가기보다, 하락이 멈추고 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n레버리지는 이런 장에서 청산 위험이 훨씬 큼!\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175635"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VLU9ROTNWMUlEci1YZ2k3T1NTQzRFelFzRnNMMnhDd3NMYnU4SVlvY3YzUnZ0bVpEQW5ISkEzYVUyNFNUTGRibEkwYktRNjNa?oc=5"
+   },
+   {
+    "name": "동아일보",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pMHYybWJ6dEUtYVNrTTJvUGk4OHZPWVRHSzdGRGFza2ZIbVZjYjVqSDk1UE90NHlEQmdjR1JTTVlNN1pRb0lnYmluam5fRjJndFdyZ2tWemdMdi1uR3lSUTZKVWpFd9IBZkFVX3lxTE9pMHYybWJ6dEUtYVNrTTJvUGk4OHZPWVRHSzdGRGFza2ZIbVZjYjVqSDk1UE90NHlEQmdjR1JTTVlNN1pRb0lnYmluam5fRjJndFdyZ2tWemdMdi1uR3lSUTZKVWpFdw?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://asset.coinness.com/news-content/01a1dcef-b1e4-7056-8b05-a0964d1d0c91.webp",
+    "source": "코인니스"
+   }
+  ],
+  "checks": [
+   "설문 수치는 코인니스·크라토스 단독 출처",
+   "코인 가격은 17:27 기준 — 올리기 전 다시 확인",
+   "6.2만달러 저점은 동아일보 보도 기준",
+   "첫 줄 후보1: 코인 투자자 절반이 '공포'라고 답했음 😱",
+   "첫 줄 후보2: 다음 주 비트코인, 사람들은 어떻게 볼까 👀",
+   "첫 줄 후보3: 공포 지수 10, 이 정도면 어느 수준이냐 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
