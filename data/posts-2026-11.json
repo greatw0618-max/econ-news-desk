@@ -6147,5 +6147,44 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261115-2127-1",
+  "createdAt": "2026-11-15T12:27:00.000Z",
+  "date": "2026-11-15",
+  "slot": "21시",
+  "category": "코인",
+  "topic": "스트래티지 MSCI 지수 퇴출 보도·약 30억달러 매도 물량 우려(코인리더스 단독) — BTC 6.2만달러(4개월 최저, Cointelegraph)에서 65,443달러(+2.05%)로 반등, 공포탐욕 10",
+  "imageTitle": "스트래티지, MSCI에서 빠진다",
+  "imageHighlight": "MSCI",
+  "imageData": "비트코인 65,443달러 (+2.05%) · 공포·탐욕 지수 10 (극단적 공포)",
+  "body": "비트코인 제일 많이 가진 회사가 지수에서 빠진다는 소식 👀\n\n1) 비트코인을 가장 많이 보유한 상장사 스트래티지가 MSCI 지수에서 퇴출된다는 보도가 나왔음\n2) MSCI 지수가 뭐냐면! 전 세계 펀드·ETF가 따라 사는 '기준 바구니'임. 여기서 빠지면 그 지수를 따라가는 자금이 주식을 기계적으로 팔아야 함\n3) 보도에선 이 매도 물량을 약 30억 달러로 봤음\n4) 비트코인은 오늘 한때 6.2만 달러 근처까지 밀리며 4개월 만에 최저를 찍었다가, 지금은 65,443달러(+2.05%)로 조금 올라온 상태\n5) 코인 공포·탐욕 지수는 10, '극단적 공포' 구간 그대로임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n스트래티지 주가는 그동안 '비트코인 대리 투자' 통로였음. 지수 자금이 빠지면 회사가 비트코인을 더 사들일 여력이 줄어들 수 있다는 걱정이 나오고, 이미 겁먹은 코인 시장 심리에 한 번 더 부담이 될 수 있음\n\n단, 지수 매도는 정해진 날짜에 한 번에 나오는 물량이라 '언제'가 확인되면 불확실성은 오히려 줄어드는 편임\n\n개미일수록 반등 한 번에 따라붙기보다, 매도 일정과 가격 흐름이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1GcmJJbGptUkZxaWI5aldoTkE4TDRsc001YzZZb0o2NU5jbWFYWFpBenpOcjByY3VZdTZuREhaSzJBV0RmbzJVRzFB?oc=5"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg",
+    "source": "Cointelegraph"
+   }
+  ],
+  "checks": [
+   "단독 출처(코인리더스, 제목만 확인) — MSCI 퇴출 확정 여부·발표 주체·적용 날짜를 MSCI 공식 발표나 다른 기사로 확인 필요",
+   "'약 30억 달러 매도' 수치는 보도 추정치, 확인 필요",
+   "'4개월 최저 6.2만 달러'는 해외 단독 보도(Cointelegraph). 국내 기사(동아일보)는 '3개월 만에 최저'로 표현 — 표현 통일 확인",
+   "BTC 65,443달러는 21:27 기준 실시간 가격, 올리기 전 재확인",
+   "첫 줄 후보 1: 비트코인 제일 많이 가진 회사가 지수에서 빠진다는 소식 👀",
+   "첫 줄 후보 2: 30억 달러 매도 폭탄, 진짜 비트코인까지 흔들까? 😱",
+   "첫 줄 후보 3: 반등하나 싶었는데 또 하나의 악재가 나옴 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
