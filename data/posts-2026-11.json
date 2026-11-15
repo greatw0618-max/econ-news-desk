@@ -5831,5 +5831,88 @@
    "어떤 보고서·발언인지(금융안정보고서 등) 제목에 없음 — 기사 본문 확인",
    "'닷컴 버블 닮았다'가 연준 표현인지 기사 해석인지 확인(이로운넷 제목)"
   ]
+ },
+ {
+  "id": "20261115-1127-1",
+  "createdAt": "2026-11-15T02:27:00.000Z",
+  "date": "2026-11-15",
+  "slot": "11시",
+  "category": "코인",
+  "topic": "코인원 외주 상담업체(메타엠) 해킹 고객정보 유출 — 12일 04시 유출·09:20 인지, 이름·전화·계좌번호·비밀번호·주민번호·주소 등, 15일 공지",
+  "imageTitle": "코인원, 주민번호까지 털렸다",
+  "imageHighlight": "주민번호",
+  "imageData": "유출: 이름·전화·계좌번호·비밀번호·주민번호·주소 | 11/12 04시 발생",
+  "body": "코인원 쓰는 사람이면 지금 꼭 확인해야 할 소식 😱\n\n1) 코인원이 15일 공지로 고객 개인정보 유출을 알렸음\n2) 해킹당한 곳은 코인원 본체가 아니라, 고객 상담 업무를 맡긴 외주업체 서버라고 함\n3) 공격자가 12일 새벽 4시쯤 상담 정보를 조회·유출했고, 코인원은 같은 날 오전 9시 20분에 알아챘다고 함\n4) 유출 항목에 이름·이메일·전화번호·생년월일은 물론 계좌번호·비밀번호·주민등록번호·자택주소까지 들어 있다고 함\n\n외주업체 해킹이 뭐냐면!\n→ 거래소가 상담·고객센터 같은 일을 다른 회사에 맡기는데, 그 회사 서버가 뚫린 것. 거래소 보안이 단단해도 바깥 고리에서 새는 구조임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 코인 자산이 바로 빠져나갔다는 내용은 아직 없지만, 이런 정보는 사칭 전화·문자(스미싱)에 그대로 쓰일 수 있음\n→ 이번 주 바이낸스 해킹, 카바 보안사고에 이어 국내 거래소까지 보안 이슈가 연달아 터진 상황\n\n개미일수록 '거래소 고객센터'라며 오는 전화·링크는 일단 끊고, 공식 앱·공지로 직접 확인하는 습관이 제일 안전할 듯\n단, 비밀번호를 다른 사이트와 같이 쓰고 있었다면 그쪽부터 바꿔두는 게 좋음\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261115020900002"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175636"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/etc/inner/KR/2026/11/15/AKR20261115020900002_01_i_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://asset.coinness.com/news-content/01a1dcf5-3912-771f-b1a0-7954430013e7.webp",
+    "source": "코인니스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 코인원 쓰는 사람이면 지금 꼭 확인해야 할 소식 😱 ② 거래소가 아니라 '상담업체'가 뚫렸음 🔥 ③ 주민번호·비밀번호까지 새어 나갔다고? 👀",
+   "유출 항목 목록은 코인니스 요약이 중간에 잘림 — 코인원 공지 원문으로 전체 항목·피해 규모(인원) 확인",
+   "'비밀번호'가 거래소 로그인 비밀번호인지 상담용 정보인지 공지로 확인",
+   "자산 유출 여부는 기사에 없음 — 공지에서 확인 후 표현 조정"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261115-1127-2",
+  "createdAt": "2026-11-15T02:27:00.000Z",
+  "date": "2026-11-15",
+  "slot": "11시",
+  "category": "국내 증시",
+  "topic": "'코스피 9천' 때 발행된 ELS 다음 달부터 만기 도래 — 2천억원대 손실 우려, 단기 ELS 1,786억원 만기, 코스피 5,290.53",
+  "imageTitle": "9천피 ELS, 만기가 온다",
+  "imageHighlight": "만기",
+  "imageData": "코스피 5,290.53 (11/13 종가) | 손실 우려 2천억원대",
+  "body": "코스피 9천 때 들어간 ELS, 곧 성적표 나옴 👀\n\n1) 코스피가 9천 선이던 때 발행된 ELS(주가연계증권) 만기가 다음 달부터 돌아온다고 함\n2) 지금 코스피는 5,290.53(13일 종가)으로, 9천 선과 비교하면 40% 넘게 낮은 수준임\n3) 2천억원대 손실 우려가 나오고, 단기 ELS 중에서는 1,786억원어치가 만기를 맞는다는 보도도 있음\n\nELS가 뭐냐면!\n→ 지수가 정해진 범위 안에 있으면 약속한 이자를 주고, 일정 수준 아래로 크게 떨어지면 원금이 깎이는 상품. 예금처럼 보여도 원금 보장 상품이 아님\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 가입 당시 지수가 높을수록 지금 하락 폭이 크게 잡혀서 손실 구간에 들어가기 쉬움\n→ 이번 주는 엔비디아 실적(17일)이 반도체·코스피 방향을 가를 변수라, 만기 앞둔 상품도 그 영향을 받음\n→ 빚투(신용융자) 30%가 삼전·닉스에 몰린 상황이라 지수 변동성 자체도 큰 편임\n\n개미일수록 내 ELS 기초지수·만기일·손실 기준선부터 증권사 앱에서 확인해 두자. 발표 직후 급변동에 휩쓸려 급하게 판단하는 건 조심\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다.",
+  "sources": [
+   {
+    "name": "금융소비자뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94b3Q3TjhzcUIxZ2tqVFRXT2ViZEdaLWxSZjlONm1nWnNiUmNHWDQ4QnRBeE5DMkZIelFZeVlQTEVuZ2hkVmtDd1dvLUNObm01THk2ME42TFdXREdxVnJ5SXlmem1hY2FRbUE?oc=5"
+   },
+   {
+    "name": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jN2p0OEp6X2dGVFJMNHZjUWZXNlpqLWMzdUE0V1dzTm9jNlNYMWFjUnQ0b2o4dk93Vmx3NDVNOFNHNlkyc1VDVUN4MGhTZ29CX0pCMlV6aXBjdw?oc=5"
+   },
+   {
+    "name": "연합뉴스TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XX21ZZmFaWnRVWG5MckIxVW9wN2g3ZEE3azFOejViMkFtamcwU1JjOE9lMHpVVE1xU2ZwVHR2UUdPTlZwdVE5RDJRQkRlaU81eUhmY3JobHVWUUdyZHQzaWw4UVRNWXc?oc=5"
+   },
+   {
+    "name": "서울경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DbG1kcTR3R3I0Q2FoMmRwMk5uejRBRWxxTnBkM1J3TkdQR0RJTnNQbE0ycW44dThNT01WZk8xV0t6V2pMb2tqOGxjRW93NHp6dmtGYTlpTlkzODJiM3dPVm5ub0I?oc=5"
+   },
+   {
+    "name": "ER 이코노믹리뷰",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCdjJ1RjRFVGFQbEdDekFIa3Nwel8zMmFPcHpISWhtRTI4bUdNN2FScG1zRWF1Rzh0VzNNMFNDQ3R6alU0WGZXS0VPMVdVN1otSElQX2c2R3czcUQ3VkVWeHVHRV8yOXNvekNCdQ?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 코스피 9천 때 들어간 ELS, 곧 성적표 나옴 👀 ② ELS 가입했으면 다음 달 달력부터 보자 🔥 ③ 예금인 줄 알았는데 원금이 깎인다고? 😱",
+   "'2천억원대 손실 우려'는 금융소비자뉴스 제목, '1,786억원 만기'는 서울경제TV 제목 기준 — 본문으로 기준·기간 확인",
+   "9천 대비 40%↓는 시세표 코스피 5,290.53으로 계산한 값",
+   "ELS 손실 기준선(녹인 등)은 상품마다 다름 — 일반 설명으로만 씀"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
