@@ -7351,5 +7351,67 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261117-0527-1",
+  "createdAt": "2026-11-16T20:27:00.000Z",
+  "date": "2026-11-17",
+  "slot": "05시",
+  "category": "거시경제·금리",
+  "topic": "워시 연준 의장 AI 연설 — 'AI 기대수익 꺾이면 주가 하락·실업 증가' 경고, 연준이 AI 경제 시나리오 3가지(생산성 향상~실업 증가·기술주 조정) 검토 + 해먹 클리블랜드 연은 총재 '점진적 금리 인상 선호, 인플레 확산 땐 더 큰 폭' — 나스닥 -2.45%·반도체 -4.88%(장중)",
+  "imageTitle": "연준 의장, AI에 경고장",
+  "imageHighlight": "경고장",
+  "imageData": "나스닥 -2.45% · 필라델피아 반도체 -4.88% · VIX 23.81 (장중)",
+  "body": "AI로 주가 빠지는 날, 연준 의장 입에서 나온 말 😱\n\n1) 워시 연준 의장이 AI가 경제에 주는 영향을 주제로 발언함\n2) \"AI는 경제에 큰 영향을 줄 것\"이라면서도, 기대만큼 안 나오면 실망스러울 수 있다고 함\n3) 특히 AI 기대수익이 꺾이면 주가 하락과 실업 증가로 이어질 수 있다고 경고했음\n4) 연준 내부에서도 AI 이후 경제를 세 갈래로 놓고 따져보는 중이라고 함\n\n시나리오가 뭐냐면!\n→ 생산성이 확 좋아지는 좋은 경우부터, 일자리가 줄고 기술주가 크게 조정받는 나쁜 경우까지 미리 그려 보는 것\n\n5) 같은 날 해먹 클리블랜드 연은 총재는 \"금리는 천천히, 꾸준히 올리는 게 낫다\"고 함\n6) 다만 인플레이션 심리가 굳어지면 더 큰 폭으로 올려야 할 수도 있다고 덧붙였음\n7) 마침 뉴욕증시는 나스닥 -2.45%, 필라델피아 반도체 -4.88%, 공포지수 VIX 23.81까지 오름 (장중)\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 금리를 정하는 사람들이 'AI 거품이 꺼지는 경우'까지 공식적으로 꺼내 든 거임\n→ 금리 인상 얘기까지 겹치면 AI·반도체 쪽은 실적이 좋아도 변동성이 커질 수 있음\n→ 이번 주 엔비디아 실적 발표가 이 불안을 키울지, 잠재울지 첫 시험대임\n\n개미일수록 실적 발표 직후 급변동을 다 먹으려 하지 말고, 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 이번 발언은 '그럴 수도 있다'는 위험 점검이지 연준이 거품이라고 판단했다는 뜻은 아님\n\n📌 이 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhLVpwSGRGWklmdVBJTHFsal9TTG5qQ2doOXB1X1Bxd0J0T1VtOFFDaXBOWVRJcUZXUU1uN0NCMW93UXFFTXJQUjNXTjBOem9kNkZxNjIyNi0?oc=5"
+   },
+   {
+    "name": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUzN1TmlQSWhBNHYxMXVxRjEwWWJsOTV1ejZaaEVpN0hYenNPZTZrX1ZqQVlCUzc4aHptZnZjSkpkZGFHNTQ2Rl9TdHl3dGxvQ1NBY1liRUhJUQ?oc=5"
+   },
+   {
+    "name": "아주경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0T3E4TFlJZm1qLVpYWFVhaV9sU011eEVud0lpazFNUUZVbldUVnhBZGtKZE9DcWFvUUYzSXlhWGFCMEFMbmdDSkRHUElxaV8xRjJ2WFVDMTd2Z9IBWEFVX3lxTE1kRjFhejlvVEVPT3dRajVyeHZBVWhWNkRpNFF5RkFyeXlFQ0w2S1BVTlNIYXZkYVJRRG1GX3JUU1VESi00TzdyR0c1OFduN25TUnVqWGd4b1k?oc=5"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5"
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market"
+   },
+   {
+    "name": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CRGRzTWpXQWdYYnpNSG1fQmFqaXhxbktfVHMtVGdEdjRNM0xneUtybWF5aW0wTDhPdkZmMkVCRURfekhCYlFYeGFkWEJ2QjhzYXJ5Rk05RjU?oc=5"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/feds-hammack-backs-gradual-rate-hikes-flags-risk-of-bigger-moves--bloomberg-tv-5030794"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAF1N4_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg",
+    "source": "Decrypt"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보 1: AI로 주가 빠지는 날, 연준 의장 입에서 나온 말 😱",
+   "첫 줄 후보 2: 연준이 'AI 거품 꺼지는 경우'까지 따져보고 있다고? 👀",
+   "첫 줄 후보 3: 엔비디아 실적 직전, 연준 의장이 AI 얘기를 꺼냈음 🔥",
+   "나스닥·반도체·VIX는 05:27 기준 장중 수치 — 미국장 마감 후 종가로 고칠 것",
+   "'연준 시나리오 3가지' 내용은 해외 단독 보도(Decrypt) — 원문 연설 확인 권장",
+   "해먹 총재 발언은 Bloomberg TV 인터뷰 기준(Investing.com·뉴스1 등 보도)"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
