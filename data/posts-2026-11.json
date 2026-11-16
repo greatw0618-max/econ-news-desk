@@ -7413,5 +7413,128 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261117-0727-1",
+  "createdAt": "2026-11-16T22:27:00.000Z",
+  "date": "2026-11-17",
+  "slot": "07시",
+  "category": "미국 증시",
+  "topic": "[후속] 뉴욕증시 마감 — 필라델피아 반도체 -5.28% 마감·3거래일 약 9% 급락(연합뉴스), 나스닥 -2.49%·S&P -1.92% 3일째 하락, 엔비디아 -4.1%·마이크론 -7.62%·SK하이닉스 ADR 7%대↓, VIX 22.91 — 오늘 코스피(전일 5,100.50) 반도체 시험대, 외국인 1조 매도",
+  "imageTitle": "美 반도체, 3일 만에 9% 빠졌다",
+  "imageHighlight": "9%",
+  "imageData": "필라델피아 반도체 9,610.65 (-5.28%) · 나스닥 24,509.76 (-2.49%) · VIX 22.91",
+  "body": "코스피 열리기 전, 밤사이 미국 반도체가 또 크게 빠졌음 😱\n\n1) 뉴욕증시 3대 지수 일제히 하락 마감\n나스닥 -2.49%, S&P500 -1.92%, 다우 -1.41%. S&P500은 3거래일 연속 하락임\n\n2) 제일 크게 맞은 건 반도체\n필라델피아 반도체지수 -5.28%. 최근 3거래일 동안 약 9% 빠졌다고 함\n엔비디아 -4.1%, 마이크론 -7%대, SK하이닉스 미국 상장 주식(ADR)도 7%대 하락\n\n3) 이유는 크게 두 가지\n첫째, 젠슨 황 전 CEO 사임 여파가 계속되는 중. 엔비디아 이사회는 복귀를 검토하지 않는다는 입장임\n둘째, 미국이 중국의 AI 칩 '원격 접속 우회로'를 막는 조치를 내놓으면서 AI 투자 심리가 더 식었음\n\nADR이 뭐냐면!\n해외 기업 주식을 미국 시장에서 거래할 수 있게 만든 증서임. 한국 장 열리기 전에 그 회사 분위기를 미리 볼 수 있는 지표 같은 것\n\n4) 공포지수(VIX)는 22.91로 하루 새 18% 넘게 올랐음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n코스피는 어제 이미 5,100.50까지 밀렸고, 외국인이 하루에 1조원 넘게 팔았음\n밤사이 반도체가 또 빠졌으니 오늘도 삼성전자·SK하이닉스 중심으로 다시 시험대에 오르는 셈\n그리고 바로 다음 이벤트가 엔비디아 실적 발표임\n\n개미일수록 급락장에서 바닥을 맞히려 하기보다, 엔비디아 실적 이후 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 실적 발표 직후엔 위아래로 크게 흔들릴 수 있으니 레버리지는 특히 조심!\n\n📌 투자 권유가 아닌 정보 정리용 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261117012800009"
+   },
+   {
+    "name": "디지털데일리",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xMnVSMktnLVMyd0cySEwtVEhUN3ZRcElBN01fV25sSWM1Z0p3MFpQMHBKNm5Uc21rV05kU3N0Snd3UTdlMEJmNWcxajRCUFNqMV9zVGI4RGZkZXF6dERoMlRQUDE?oc=5"
+   },
+   {
+    "name": "톱스타뉴스",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmd2lUYVNkem93cnpscVVkX3VVaFRvbmY0Y19jM01yUjJxakZNbmNGMTRDd2R0VzI0WnhzYmdDeUloSk84ekw4M09RMUZHei1OMEV3eTg0RVdXMGJDajBwNXljZzF4dldvTkR5Vk93QmNBUQ?oc=5"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-slide-on-nvidia-china-fears-ea169587?mod=rss_markets_main"
+   },
+   {
+    "name": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZNVRWNHcyLThfanFiSTBUeWtQRElWYmVCVzNIem5IcEhvZlpEeGU4by1JZ1kzTERQVmg2RWtGdmRqVFNISk14aHUwdzVuZTJxeEJ2YkpudV8yWFlDM25FVdIBeEFVX3lxTE5JZXBmRVN2aWlpaE8wMmJ1dHRhalQtOTgyOFE5S2JtYWJxeUk3S21Bd3YwVVVfWHJ5T1g4eC1PZEpFMnlrOVZ5bGxQR3psTEtKdy0xa3hYVlhVQlZrRFAtdS0zUlV1a1gzaGMyOHJOZ0RUb3RWcVdUQg?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/etc/gt/2026/11/17/PGT20261117047801009_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://images.wsj.net/im-91355651",
+    "source": "WSJ"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 코스피 열리기 전, 밤사이 미국 반도체가 또 크게 빠졌음 😱 ② 미국 반도체, 3일 만에 9%가 날아갔음 🔥 ③ 오늘 삼전·닉스, 출발부터 무거울 수 있음 👀",
+   "코스피 5,100.50은 시세 표 기준(-4.53%로 표시됨). 어제 게시글은 -3.59%로 적었으므로 등락률 기준 차이 확인",
+   "'3거래일 약 9%'는 연합뉴스 제목 기준",
+   "마이크론 -7.62%는 CBC뉴스 단독 수치, SK하이닉스 ADR '7%대'는 톱스타뉴스 제목 기준",
+   "외국인 '1조원 매도'는 뉴시스 제목 기준(16일 장)",
+   "엔비디아 실적 발표 날짜·시각(한국 시간) 확인 후 필요하면 본문에 추가"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261117-0727-2",
+  "createdAt": "2026-11-16T22:27:00.000Z",
+  "date": "2026-11-17",
+  "slot": "07시",
+  "category": "코인",
+  "topic": "엔비디아 실적 앞 코인 체크포인트 3가지 — ①엔비디아 실적이 코인 매도 키울 우려(CoinDesk) ②스테이블코인 시총 한 달 새 16조원 증발·테라 이후 최악(이데일리), ETF 유출 ③주말 청산 20억달러 뒤 하락 베팅 옵션 쏠림·6만달러 주목(Decrypt), BTC 65,297달러·8,922만원(-0.81%), 공포탐욕 10",
+  "imageTitle": "코인, 이번 주 이 3가지만 보자",
+  "imageHighlight": "3가지",
+  "imageData": "비트코인 65,297달러 · 89,222,000원 (-0.81%) · 공포·탐욕 10 (극단적 공포)",
+  "body": "비트코인 반등이 자꾸 막히는 이유, 3가지로 정리해봄 👀\n\n1) 첫 번째, 엔비디아 실적\n밤사이 나스닥 -2.49%, 반도체지수 -5.28%. AI주가 흔들리면 코인도 같이 위험자산으로 묶여서 팔리는 흐름이 이어지는 중\n해외 코인 매체들도 엔비디아 실적이 코인 매도세를 더 키울 수 있다고 짚었음\n\n2) 두 번째, 돈줄\n스테이블코인 시가총액이 한 달 새 16조원 넘게 줄었다고 함. 테라·루나 사태 이후 가장 큰 감소\n비트코인 현물 ETF에서도 돈이 계속 빠지는 중\n\n스테이블코인이 뭐냐면!\n1개 = 1달러처럼 가치를 고정해 둔 코인임. 코인 시장에 들어와 대기 중인 '현금' 같은 역할이라, 이게 줄면 살 돈이 줄었다는 뜻\n\n3) 세 번째, 하락 베팅\n주말 사이 선물시장에서 약 20억달러가 강제 청산됐고, 그 뒤 옵션 시장에선 추가 하락에 대비하는 쪽(풋옵션)으로 포지션이 몰렸다고 함\n시장에서 주목하는 가격대는 6만 2천달러, 6만달러\n\n지금 비트코인 65,297달러, 원화로는 8,922만원(-0.81%)\n코인 공포·탐욕 지수는 10, '극단적 공포' 구간임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n지금 코인은 코인 자체 뉴스보다 엔비디아·금리 같은 바깥 변수에 더 크게 움직이는 장임\n새 돈이 안 들어오는 상태라 반등이 나와도 힘이 약할 수 있음\n\n개미일수록 '많이 빠졌으니 바닥이겠지' 하고 한 번에 들어가기보다, 엔비디아 실적 이후 방향을 확인하고 나눠서 대응하는 게 안정적일 듯\n변동성 큰 구간이라 레버리지는 특히 조심!\n\n📌 투자 권유가 아닌 정보 정리용 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off"
+   },
+   {
+    "name": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1BDUlBJWWhMc09kLUNma2hzZUZUVkVfNWtxcHg0TnRlTlNXMFlLdTJjNHVLVGdHZVYway1jRnBXU0lhRXU1RzFpTkZtelFjN3BnQllkOExoOHAyNWh0clhuY1dyeW9kSGktNG1wTnVhdzQ0QVhsU243LU9kX3B0Ug?oc=5"
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1YmpaUE9Oc2FXMDlRN2tWYkU4QzJockV3WHBlNFZFczE1SzNfUFNnaFlRUUFKZnQ4RVBNbnFWdnM4bzhlWDJMVGdtVGwzRWUx?oc=5"
+   },
+   {
+    "name": "데일리안",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPMjllWUIwamkxRnE5SVhWVTZrcEVaOVdRdFBYS0hIMXQ1UmVnX0ROdHJUbHRlMXJieTBYS2dRTDc1bVpmcDRIYUtLVlRWRnZ2cEpDLS11djNyT1FkT181MUMxU0RKZG1YZDR1UVgwRlh4RVF6bGoxMkktbG5MXzBLa2tVWEFGUVRMVGZGNEUxendLeWV3NlNnbmdaX0Q2amFGczlocXh4UnRoMkcxQVFOa1JIWTUtUE8xT0o3ejZ0bGZUUUxRbXlyZjJvTkFqa2ltVWp5aTIxdldDSC1ybXFXMUR2TDF1NUtkVkMwUl93SzVvQ05WUlhrNHpTVmxreUpsdGY5cWdqNk9VdUlnaU9vZWxOdUNaRmxLUUEyb1laY3NUZw?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175821"
+   },
+   {
+    "name": "크립토 토마토 (유튜브)",
+    "url": "https://www.youtube.com/watch?v=w1qjXKVMV2k"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=FWqqD-pWcEU"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/bb223eb7b2ddf393991cceaeddd92370f4d55e1d-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   },
+   {
+    "url": "https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg",
+    "source": "Decrypt"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 반등이 자꾸 막히는 이유, 3가지로 정리해봄 👀 ② 공포지수 10, 이번 주 코인은 이 3개가 갈라놓음 🔥 ③ 비트코인 6만달러, 지켜질까? 볼 건 딱 3가지 😱",
+   "자막 못 가져옴(이 PC 크롬 연결 없음) — 영상은 제목·설명 기준으로만 반영(하락 대비 풋옵션 쏠림은 Decrypt 'crowded options trade' 요약으로 교차 확인)",
+   "스테이블코인 '한 달 새 16조원'은 이데일리 단독 보도(제목 기준), 본문 확인 필요",
+   "해외 단독 보도(Decrypt): 주말 청산 뒤 옵션 쏠림 — 요약문만 확인, 풋옵션 쏠림 세부 수치는 미확인",
+   "6.2만·6만달러 지지선은 윈터뮤트 제시(코인니스, 단독 출처) + Decrypt 제목",
+   "코인 가격은 07:27 기준, 올리기 전 다시 확인"
+  ],
+  "videos": [
+   "w1qjXKVMV2k",
+   "FWqqD-pWcEU"
+  ],
+  "status": "draft"
  }
 ]
