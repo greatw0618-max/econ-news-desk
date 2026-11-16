@@ -6499,5 +6499,48 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261116-0927-1",
+  "createdAt": "2026-11-16T00:40:00.000Z",
+  "date": "2026-11-16",
+  "slot": "09시",
+  "category": "코인",
+  "topic": "비트코인 현물 ETF 7거래일 연속 순유출·11월 누적 21억달러(디지털투데이) + 단기 보유 고래 미실현 손실 80억달러 역대 최대(코인니스) — BTC 64,973달러(+1.32%), 공포탐욕 10",
+  "imageTitle": "비트코인 ETF, 7일째 돈 빠진다",
+  "imageHighlight": "7일째",
+  "imageData": "11월 ETF 순유출 21억달러 · BTC 64,973달러 · 공포탐욕 10",
+  "body": "비트코인 ETF에서 7일 연속 돈이 빠지고 있음 😱\n\n1) 미국 비트코인 현물 ETF가 7거래일 연속 순유출을 기록했다고 함\n2) 11월에만 빠져나간 돈이 약 21억달러(우리 돈 약 2조8천억원)\n3) ETF가 뭐냐면! 주식처럼 증권사 앱에서 사고파는 비트코인 상품임. 미국 기관·개인 돈이 비트코인에 들어오는 가장 큰 통로\n4) 최근 5개월 안에 크게 산 '단기 보유 고래'들의 평가손실은 약 80억달러로 역대 최대 수준이라고 함\n5) 다만 거래소로 코인을 대량으로 옮기는 투매 신호는 아직 뚜렷하지 않다는 분석도 같이 나옴\n6) 비트코인은 지금 64,973달러로 하루 새 1.32% 반등했지만, 코인 공포·탐욕 지수는 10(극단적 공포) 그대로임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n지난 상승장은 ETF 자금이 끌고 왔음. 그 돈이 계속 빠지는 동안은 반등이 나와도 힘이 약할 수 있음. 미국 12월 금리 인상 가능성이 높게 거론되는 것도 부담이고, 이번 주 엔비디아 실적(17일)·FOMC 의사록(18일)이 분위기를 바꿀 변수임\n\n개미 입장에선 '바닥 잡기'보다 ETF 자금이 유입으로 돌아서는 걸 확인한 뒤 나눠서 대응하는 게 안정적일 듯. 단, 극단적 공포 구간에선 위아래 변동이 모두 커서 레버리지는 특히 조심!\n\n📌 투자 권유가 아닌 정보 정리입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwcEctVGN1eENicDdTUElxdzhHSG5UQ3V1b2oyQW9maTNYd2hHX1JITko1bExtM0tHSzNQX1phRjZvYTFYN0pOdVp1MVB0ZVJBT1FUZlZnaFctZTJRWGpCdmtqRDFHRzFQYVE3cXRzRmlMeXc?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175663"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfM1VrOHFKakJJRllXS2NmeU9Jbk9tSjNhUUlzN2g1Rnk3UGdSdU1hZGMtckhTc25EUDJYLWRSanYzQ1d2YXNVRFJ3?oc=5"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=3ghAgf6wq7s"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 ETF에서 7일 연속 돈이 빠지고 있음 😱 ② 11월에만 2조8천억원이 비트코인 ETF를 떠났음 👀 ③ 반등은 나왔는데, 큰돈은 아직 안 돌아왔음 🔥",
+   "ETF 7거래일 연속 순유출·11월 21억달러는 디지털투데이 단독(제목 기준) — 파사이드 등 집계로 확인",
+   "단기 보유 고래 미실현 손실 80억달러·투매 신호 약함은 코인니스(애널리스트 다크포스트 인용) 단독 출처",
+   "원화 환산 2조8천억원은 달러/원 1,333.9원 기준 계산치",
+   "BTC 64,973달러는 09:27 기준 — 올리기 전 시세 재확인",
+   "이번 주 일정(엔비디아 실적 17일, FOMC 의사록 18일)은 영상·기사 공통. 영상의 'ETF 매수자 평단 7.7만달러'는 본문에 안 씀(영상 출처 수치, 기사 확인 필요)"
+  ],
+  "videos": [
+   "3ghAgf6wq7s"
+  ],
+  "status": "draft"
  }
 ]
