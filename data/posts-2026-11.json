@@ -6542,5 +6542,90 @@
    "3ghAgf6wq7s"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261116-1127-1",
+  "createdAt": "2026-11-16T02:27:00.000Z",
+  "date": "2026-11-16",
+  "slot": "11시",
+  "category": "국내 증시",
+  "topic": "코스피 상승 출발 후 장중 -2.48%(5,159.57)·코스닥 -3.63% 급락 — 외국인 약 1조원 매도, 삼성전자 20만원 붕괴·하이닉스 -5%(서울신문), 낸드 가격 하락 우려(서울경제), 美 반도체 -3.43%·10년물 5.154%·엔비디아 실적 경계",
+  "imageTitle": "코스피, 10분 만에 뒤집혔다",
+  "imageHighlight": "뒤집혔다",
+  "imageData": "코스피 5,159.57 (-2.48%, 장중) · 코스닥 674.28 (-3.63%, 장중)",
+  "body": "상승 출발했던 코스피, 1시간 만에 3% 가까이 빠졌음 😱\n\n1) 오늘 코스피는 5,305.40(+0.28%)으로 산뜻하게 출발했음\n2) 근데 10분 만에 하락 전환… 오전 11시 기준 5,159.57(-2.48%, 장중)까지 밀렸음\n3) 코스닥은 더 아픔. 674.28(-3.63%, 장중)\n4) 주범은 외국인. 오전에만 약 1조원어치를 팔았다고 함\n5) 삼성전자는 20만원 선이 깨졌고, SK하이닉스는 -5% 안팎까지 빠졌음\n6) 낸드 가격 하락 우려까지 겹치면서 반도체주가 한꺼번에 눌렸다는 분석임\n\n왜 이렇게 됐냐면!\n지난 금요일 미국 필라델피아 반도체지수가 -3.43% 급락했고,\n미국 10년물 국채금리가 5.154%까지 올라 있음\n여기에 이번 주 엔비디아 실적(젠슨 황 사임 후 첫 실적)과 앤트로픽 상장을 앞두고 \"일단 빼고 보자\"는 심리가 강해진 것\n\n그래서 우리랑 무슨 상관이냐 ⭐\n코스피는 반도체 두 종목 비중이 워낙 커서, 미국 반도체가 흔들리면 지수가 같이 흔들리는 구조임\n이번 주 엔비디아 실적 숫자가 나오기 전까지는 출렁임이 계속될 수 있음\n\n개미일수록 장중 급락에 바로 따라 팔거나 \"싸다\"고 몰빵하기보다, 엔비디아 실적 이후 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 본 글은 정보 제공 목적이며 투자 권유가 아닙니다. 수치는 장중 기준으로 마감 때 달라질 수 있어요.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261116064400008"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnc2tkNk82clZIWV9URldpTGpocG9Ib2d3MzFGLTRMUjQyVjZSTnlySHpJTTB3bEgzdFNNRzg4aWVITWJULVd3eWg1ejUwaWNa?oc=5"
+   },
+   {
+    "name": "서울신문",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fSjdxLVZPMGZlMk5pM0Q0X3RVeUlwaFpJdm9YQWFJTW5WcE56ZzJ5bGhKcnc5eXQyMHpSZEE4RkR1czN0aVlVOEI2S0JOWEdqeU54cXdRVlYycGw0V0JhcW41ZnU2Y3FHa2p5VWhjekRTUXR5dHhXMXpuVDNNZw?oc=5"
+   },
+   {
+    "name": "서울경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPMTNuT0FHSGNWUXROdm11RV9mSnRWZ1lUTnpDWUJGemVMWjF6NnRmRlVxVkdZcU1ISHNTdXpvWUFkcFFYOURWSXhXT1kxVEN1cGc?oc=5"
+   },
+   {
+    "name": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XZTI4RVBNTW1JOTJFalJKWVNPbTlfQmMwLWpBSzNDZVFzaTU1NjNEMmVQTjJ3czlPZTFTLWlUUG1uU1QwVXU4czZwV0dGSDl2SEdSb081SEtfc2hjUG93?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111602850001300_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보 1: 상승 출발했던 코스피, 1시간 만에 3% 가까이 빠졌음 😱",
+   "첫 줄 후보 2: 삼성전자 20만원이 깨졌음… 오늘 오전 무슨 일? 👀",
+   "첫 줄 후보 3: 외국인이 오전에만 1조원 던졌음 🔥",
+   "코스피·코스닥 수치는 11:07 장중 기준 — 올리는 시점의 지수로 바꿀 것(마감 후면 종가로)",
+   "외국인 매도 규모 '약 1조원'은 블루밍비트(9,870억원) 보도 기준, 장중 수치",
+   "삼성전자 20만원 붕괴·하이닉스 -5%는 서울신문 장중 보도 기준 — 올리기 전 현재 주가 확인",
+   "'낸드 가격 하락' 원인은 서울경제 보도 — 단독 해석일 수 있음"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261116-1127-2",
+  "createdAt": "2026-11-16T02:27:00.000Z",
+  "date": "2026-11-16",
+  "slot": "11시",
+  "category": "코인",
+  "topic": "토스 '코인지갑' 출시 — 토스 앱에서 이더리움·USDT·USDC 주고받기, 가입자 누구나 별도 신청 없이(이데일리 단독, 코인니스) / 월가 21개 은행 스테이블코인 컨소시엄 2.7억달러 투입",
+  "imageTitle": "토스 앱에 코인지갑 생겼다",
+  "imageHighlight": "코인지갑",
+  "imageData": "지원: 이더리움(ETH) · 테더(USDT) · USDC",
+  "body": "매일 쓰는 토스 앱에 코인 지갑이 생긴다고 함 👀\n\n1) 토스가 '토스 코인지갑'을 선보인다는 단독 보도가 나왔음\n2) 토스 앱 안에서 이더리움(ETH)과 달러 스테이블코인(USDT·USDC)을 주고받을 수 있음\n3) 토스 가입자면 별도 신청이나 자격 제한 없이 누구나 쓸 수 있다고 함\n4) 앱 홈 화면 '자산' 카테고리에서 지갑을 만드는 방식임\n\n스테이블코인이 뭐냐면!\n가격이 1달러에 고정되도록 만든 코인임. 비트코인처럼 출렁이지 않아서 '디지털 달러'처럼 송금·결제에 쓰임\n\n5) 마침 해외에서도 골드만삭스·씨티 등 21개 은행이 달러 스테이블코인 공동 사업에 약 2.7억달러를 넣기로 했다는 소식이 나왔음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n지금까지 코인은 거래소 앱을 따로 깔아야 했는데, 생활 금융앱 안으로 들어오기 시작했다는 신호임\n시장은 극단적 공포(공포탐욕지수 10)인데도 인프라 쪽은 계속 깔리고 있다는 점이 포인트\n\n단, 지갑은 '보관·송금' 기능이라 주소를 잘못 넣으면 되돌리기 어려움. 처음 쓸 땐 소액으로 먼저 보내보는 습관이 안전할 듯\n\n📌 본 글은 정보 제공 목적이며 특정 서비스나 코인의 투자 권유가 아닙니다.",
+  "sources": [
+   {
+    "name": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yR0hINGd5X29Rc2NOczZZbURyQ1VXb3YzYVBubE1vSEdmeldBSUYxM09RcHBsWVNiejljRFdZTUI5T1NwMjNVWlQtT3IyemIyR2J1NEN5UFlsZW5qOWtnUHM1YkN4aXRTN1dyR3FCbFhjN05h?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175675"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보 1: 매일 쓰는 토스 앱에 코인 지갑이 생긴다고 함 👀",
+   "첫 줄 후보 2: 3000만 명이 쓰는 앱에 코인이 들어옴 🔥",
+   "첫 줄 후보 3: 이제 거래소 앱 없이도 코인을 주고받는다?",
+   "이데일리 단독 보도 — 정식 출시일·이용 조건을 토스 공식 발표로 확인할 것",
+   "코인 '매매(사고팔기)' 기능은 기사에 없음 — 주고받기(송금)만 쓸 것",
+   "21개 은행 스테이블코인 컨소시엄(프로젝트 파로) 2.7억달러는 코인니스(디크립트 인용) 단독 출처",
+   "공포탐욕지수 10은 수집결과 시세 표 기준(코인마켓캡 자체 지수는 13)"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
