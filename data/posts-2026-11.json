@@ -7298,5 +7298,58 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261117-0327-1",
+  "createdAt": "2026-11-16T18:27:00.000Z",
+  "date": "2026-11-17",
+  "slot": "03시",
+  "category": "미국 증시",
+  "topic": "[후속] 엔비디아 이사회 \"젠슨 황 CEO 복귀 검토 안 해\"(CNBC 소식통) vs 트럼프 복귀 지지 — 中 AI칩 원격접근 차단 규정·마이크론 급락, 나스닥 -2.34%·필라델피아 반도체 -4.92%·VIX 22.28(장중)",
+  "imageTitle": "젠슨 황 복귀, 선 그었다",
+  "imageHighlight": "선",
+  "imageData": "필라델피아 반도체 9,647 (-4.92%, 장중) · 나스닥 -2.34%",
+  "body": "엔비디아 이사회가 젠슨 황 복귀설에 선을 그었다는 소식 👀\n\n1) 엔비디아 이사회는 젠슨 황을 CEO로 다시 데려오는 걸 검토하고 있지 않다고 함 (CNBC, 소식통 인용)\n2) 젠슨 황은 지난주 33년 만에 CEO 자리에서 물러났음. 주말엔 복귀를 측근들과 논의했다는 보도도 있었는데, 이사회 쪽 분위기는 다르다는 얘기임\n3) 반면 트럼프 대통령은 젠슨 황이 복귀해도 괜찮다는 입장을 냈다고 함\n4) 여기에 미국 정부가 중국의 첨단 AI 칩 원격 접근을 막는 새 규정까지 내놓으면서 반도체주가 더 밀렸음. 마이크론도 수출 규제 여파로 급락\n5) 미국 시간 월요일 장중 나스닥 -2.34%, 필라델피아 반도체지수 -4.92%, 다우 -1.13%, 공포지수(VIX) 22.28(+15%)까지 올라옴 (장중)\n\n필라델피아 반도체지수가 뭐냐면!\n엔비디아·마이크론 같은 미국 대표 반도체 기업 30곳을 묶은 지수임. 삼성전자·SK하이닉스 다음 날 흐름에 바로 영향 줌\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 엔비디아는 이번 주 실적 발표가 예정돼 있음. CEO 공백 + 규제 + 실적이 한꺼번에 겹친 상황\n- 어제 코스피가 이미 -4.53%(5,100.50) 빠졌는데, 미국 반도체가 더 밀리면 오늘 국내 반도체주도 부담이 이어질 수 있음\n\n개미 입장에선 실적 발표 전후로 위아래 변동이 클 수 있으니, 발표 직후 급변동에 바로 따라붙기보다 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 정보 정리용이며 투자 권유가 아닙니다. 투자 판단은 본인 책임입니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/nvidia-board-not-discussing-jensen-huangs-return-as-ceo-cnbc-reports-5030688"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/trump-says-he-would-not-mind-huang-being-reinstated-as-nvidia-ceo-5030546"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories"
+   },
+   {
+    "name": "Nasdaq",
+    "url": "https://www.nasdaq.com/articles/why-micron-stock-dove-today-0"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/moved_LYNXNPEMAB24G_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "지수는 장중 수치(03:27 KST 기준) → 마감 수치로 바꿔 올리기",
+   "이사회 입장은 CNBC 소식통 보도(Investing.com 인용), 공식 발표 아님 — 해외 단독 보도(CNBC)",
+   "트럼프 발언은 Investing.com 제목 기준 — 해외 단독 보도(Investing.com), 정확한 표현 확인",
+   "엔비디아 실적 발표 날짜(현지 17일 → 한국 18일 새벽 추정) 확인",
+   "첫 줄 후보: ① \"엔비디아 이사회가 젠슨 황 복귀설에 선을 그었다는 소식 👀\" ② \"젠슨 황 돌아온다더니… 이사회는 생각이 다름 😱\" ③ \"엔비디아 실적 앞두고 반도체 -5% 가까이 빠졌음 🔥\""
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
