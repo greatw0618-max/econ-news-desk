@@ -6627,5 +6627,41 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261116-1327-1",
+  "createdAt": "2026-11-16T04:27:00.000Z",
+  "date": "2026-11-16",
+  "slot": "13시",
+  "category": "거시경제·금리",
+  "topic": "중국 10월 산업생산·소매판매·투자 모두 예상 하회(CNBC·Reuters) + 일본 3분기 GDP 예상 밖 역성장(에너지 보조금 종료·이란 전쟁發 에너지 비용, CNBC) — 아시아 증시 동반 약세, 코스피 -3.12%(장중)",
+  "imageTitle": "중국·일본, 경기 동시 급브레이크",
+  "imageHighlight": "급브레이크",
+  "imageData": "중국 10월 생산·소비·투자 모두 예상 하회 / 일본 3분기 역성장 / 코스피 5,125.71 (-3.12%, 장중)",
+  "body": "엔비디아만 문제인 줄 알았는데, 옆 나라 경기도 심상치 않음 👀\n\n1) 오늘 중국 10월 경제지표가 나왔는데 산업생산·소매판매·투자가 셋 다 시장 예상보다 낮게 나왔음\n2) 내수가 식으면서 수출(바깥 수요)에 더 기대는 구조가 됐고, 그만큼 해외 충격에 약해졌다는 분석이 나옴\n3) 일본도 3분기 경제성장률이 예상 밖 마이너스(역성장)로 나왔음\n4) 이유는 에너지 값! 9월에 가계 에너지 보조금이 끝나면서, 이란 전쟁으로 오른 기름·전기값 부담이 그대로 가계에 넘어갔다고 함\n\n역성장이 뭐냐면!\n→ 나라 경제 규모(GDP)가 직전 분기보다 줄었다는 뜻임. 쉽게 말해 경기가 뒷걸음질쳤다는 것\n\n5) 오늘 아시아 증시는 美 반도체 급락 여파까지 겹쳐 전반적으로 약세였고, 코스피도 5,125.71(-3.12%, 장중)까지 밀렸음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 중국·일본은 우리 수출의 큰 손님이자 경쟁자임\n→ 두 나라 경기가 같이 식으면 한국 수출 기업 실적 기대에도 부담이 될 수 있음\n→ 이번 주는 엔비디아 실적·FOMC 의사록에 아시아 경기 둔화까지 변수가 하나 더 붙은 셈\n\n개미일수록 악재가 겹친 날 바닥을 맞히려 하기보다, 지수가 방향을 잡는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 투자 권유가 아니며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzZkMk1FbkdXMWpRaWFDbU05ZmJGY19kTS1BT2FjRE96eGRGSzNGY1l4cnAxS2VGVEY5SjE2a0E3S3h2TnhXV1RlbE1BYUVielk3ZEN3TTlaX0pfZ2M1VnVpNmp0bVZOczJ0cThYaFFLUUtyVXB4OUZjSDI5c3VHWVk3Yk80SzhVdlJxcVlwNS1QZG9TZ0dMVExLMm4?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 엔비디아만 문제인 줄 알았는데, 옆 나라 경기도 심상치 않음 👀 ② 중국·일본이 같은 날 나쁜 성적표를 받았음 😱 ③ 아시아 경기, 동시에 브레이크 밟는 중 🔥",
+   "해외 단독 보도(CNBC·Reuters): 중국 지표의 구체적 수치(증가율)는 기사 본문 확인 후 필요 시 추가",
+   "일본 3분기 GDP 역성장 폭은 CNBC 단독 보도, 수치 확인 필요",
+   "코스피 5,125.71(-3.12%)은 13:07 장중 수치, 마감 수치로 바꿔 올릴 것",
+   "코스피 하락 원인은 기사상 외국인 매도·美 반도체 약세·금리 상승이 주된 이유. 중국·일본 지표가 직접 원인이라고 쓰지 않도록 유지"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
