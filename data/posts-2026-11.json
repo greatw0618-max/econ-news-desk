@@ -6998,5 +6998,111 @@
    "BTC 64,502달러는 19:27 KST 실시간 수치, 올리기 전 다시 확인",
    "엔비디아 실적 한국시간 18일 06:20경은 영상 일정표 기준"
   ]
+ },
+ {
+  "id": "20261116-2127-1",
+  "createdAt": "2026-11-16T12:27:00.000Z",
+  "date": "2026-11-16",
+  "slot": "21시",
+  "category": "코인",
+  "topic": "라이터(LIT) 약 1,500만달러 해킹 의혹 — 라이터 출금·유동성 풀 생성 중단, 업비트·빗썸 입출금 중단·업비트·빗썸·코인원 유의 촉구, LIT 20%↑ 급락·1시간 청산 319만달러, 마켓메이커 API 키 유출 추정, 탈취금 하이퍼리퀴드→XMR",
+  "imageTitle": "거래소 3곳, 동시 경고",
+  "imageHighlight": "동시 경고",
+  "imageData": "LIT 해킹 의혹 약 1,500만 달러 · 업비트·빗썸 입출금 중단",
+  "body": "국내 3대 거래소가 한꺼번에 경고 띄운 코인이 있음 😱\n\n1) 오늘 저녁 라이터(LIT)에서 약 1,500만 달러 규모 해킹(익스플로잇) 의혹이 터졌음\n\n2) 익스플로잇이 뭐냐면!\n→ 프로그램 허점이나 유출된 접속 키를 이용해 자금을 빼 가는 공격을 말함\n\n3) 라이터는 \"외부 제3자 한 곳의 보안 침해로 보인다\"며 조사 중이라고 밝혔고, 예방 차원에서 모든 출금과 유동성 풀 생성을 일시 중단했음\n\n4) 국내에선 업비트·빗썸이 LIT 입출금을 일시 중단했고, 업비트·빗썸·코인원이 함께 '유의 촉구' 공지를 냈음\n\n5) 소식이 나오자 LIT는 바이낸스 선물 기준 20% 넘게 급락했고, 1시간 청산액이 319만 달러로 전체 코인 중 1위였다고 함\n\n6) 다만 라이터 자체 결함이 아니라, 거래를 받쳐 주던 마켓메이커(시장 조성 업체)의 유출된 API 키를 노린 공격이라는 추정도 나옴\n→ 빼낸 자금은 하이퍼리퀴드로 옮겨져 추적이 어려운 모네로(XMR)로 바뀌는 중이라고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ '유의 촉구'는 거래소가 상황을 지켜보며 투자자에게 주의를 당부하는 단계임. 아직 상장폐지 같은 결정이 나온 건 아님\n→ 핵심은 원인 조사 결과가 나올 때까지 입출금이 막혀 있다는 점. 입출금이 막히면 국내외 가격 차이가 벌어지기 쉬움\n→ 시장 전체도 공포·탐욕 지수 10(극단적 공포), 비트코인 63,966달러로 분위기가 약한 상태라 악재에 더 크게 반응하는 중\n\n개미일수록 보안 사고 직후 급락한 코인을 '싸 보인다'고 바로 따라붙기보다, 사고 경위와 피해 규모 공지가 나온 뒤 판단하는 게 안정적일 듯\n\n📌 이 글은 정보 공유 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175729"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175730"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175735"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UV2RHWmE1dEJYQ0ZDWHk0emJkNGdYMnBieGtlTUZrMk1YNDlsVjJqemR1WWlFUHYyd1RpOGFpMGJVbFVFT011M1JR?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtQ05ZQnBKM0swX25tZWxONzBYd1RHeFZYNzc5dnpHcElra3B4RF9HVVNwcktjX2xKT0FqUkMzWWltZS1TVmlQM3MtTkVnSGc0?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175734"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175728"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175721"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 국내 3대 거래소가 한꺼번에 경고 띄운 코인이 있음 😱 ② 업비트에서 입출금 막힌 코인, 무슨 일이냐 👀 ③ 저녁에 갑자기 20% 빠진 코인 하나 🔥",
+   "피해 규모: 약 1,500만 달러(코인니스) vs 1,550만 달러(룩온체인 인용) — 올리기 전 최신 수치 확인",
+   "마켓메이커(아브락사스 캐피털) API 키 유출 추정은 단독 출처(주머뉴스→코인니스), 확정 아님",
+   "1시간 청산액 319만 달러는 블루밍비트 단독 보도",
+   "거래소 입출금 재개·유의종목 지정 여부 등 공지 최신 상태 확인",
+   "비트코인 63,966달러·공포탐욕 10은 21:27 시세 기준"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261116-2127-2",
+  "createdAt": "2026-11-16T12:27:00.000Z",
+  "date": "2026-11-16",
+  "slot": "21시",
+  "category": "거시경제·금리",
+  "topic": "달러인덱스 19개월 최고(장중 103.533, WSJ) — 연준 추가 인상 베팅·10년물 5.154%, 원·달러는 반도체 기업 달러 공급에 1,335.7원 소폭 하락 마감(베타뉴스), 이번 주 워시 연설·소매판매·FOMC 의사록·엔비디아 실적",
+  "imageTitle": "달러 19개월 최고, 원화는?",
+  "imageHighlight": "19개월",
+  "imageData": "달러인덱스 103.47 · 달러/원 1,334.4원 · 미 10년물 5.154%",
+  "body": "달러가 1년 7개월 만에 가장 세졌는데, 원화는 오늘 의외로 버텼음 👀\n\n1) 달러인덱스가 장중 103.533까지 올라 19개월 만에 최고를 찍었다고 함\n\n2) 달러인덱스가 뭐냐면!\n→ 유로·엔·파운드 등 주요 6개 통화와 비교한 달러 가치를 하나로 묶은 지표임. 오르면 달러가 강해졌다는 뜻\n\n3) 배경은 금리\n→ 미국 물가가 예상보다 높게 나오면서 연준이 금리를 더 올릴 거란 베팅이 커졌고, 미 10년물 금리는 5.154%(13일 기준)까지 올라 있음\n\n4) 그런데 원·달러 환율은 오늘 1,335.7원으로 오히려 소폭 내린 채 마감했음(기사 기준)\n→ 코스피가 -3.59% 급락했는데도 반도체 기업들이 벌어들인 달러를 시장에 내놓으면서 환율을 눌렀다고 함\n\n5) 이번 주 달러 방향을 가를 일정도 몰려 있음\n→ 워시 연준 의장 연설(현지시간 16일), 미국 소매판매, FOMC 의사록, 엔비디아 실적\n→ 미국 주가지수 선물도 엔비디아 실적과 앤트로픽 상장을 앞두고 약세라고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 달러 강세 + 고금리는 금·코인·성장주에 동시에 부담이 되는 조합임\n→ 실제로 금은 3,873.8달러로 1년여 만에 최저권, 비트코인은 63,966달러로 약세\n→ 해외 주식에 투자 중이라면 주가뿐 아니라 환율이 수익률에 어떻게 작용하는지도 같이 봐야 함\n\n개미일수록 연설·의사록 발표 직후 환율과 지수가 크게 흔들릴 수 있으니, 발표 직후 급변동을 따라가기보다 방향이 확인된 뒤 대응하는 게 안정적일 듯\n\n📌 이 글은 정보 공유 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main"
+   },
+   {
+    "name": "베타뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WcXBKYkRFbGxGNHBCTV9TYUZqZDJVWm9KYUY1NHlRTTNOSlRZUk5pYXpqRG9BdURJTmF6bVpKT3BxVWxkbkJrbWN1RkRURHJ1VHJfN2lwVUxBN012azlOQTRQd1E?oc=5"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/sp-500-nasdaq-futures-slide-as-nvidia-earnings-anthropic-debut-loom-5028900"
+   },
+   {
+    "name": "Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPLS03cnZSZWFQM2NkLVFjcVRVV2Zkb1RUXzJfWTRIS00tckYyNlItd2RFekxkMjlWNVB0Y3FjUHgzZ3ViQW9rcmhldG5vTGg1aHdZajRVMVhuN1lDallMVVJKc2otaGZwbUdCRVNCU0lDQTktNzhySUczb01rakhGQjlpWFc4LTEwaHktdlN0c3dzbjNVcjFTYmVOZWlqbzc1VXFBcWU4aUlzQVNna2RrbjVvOUZqZWZHaHZCZTJMOTFTbm1UUnd2cnZQb2ZUMmczY05ZM1JaOGZxaWI4WHpZODBWdWt5bnZSdVRTcjM4ME1WSWs3SGxLQ25Qd0E5cy0tYmfSAYcCQVVfeXFMTlU1R2psZXFqdWRiMnFMQXVTc25HNWg4YlVQUGFRcEF3M1VEXzlhck5WOWhESTZFMEJqX3pseUJlVFdMQWdqLXpwNWtWYnNjWXJCbXdIVzVOX2RBTHZuV2pUbTQ1MVdkSE5IbVJISU1vdk1GWjU2bFVxOFRZNHNsSUQ1WmlnSnlmcVBqb3pMOFV5THp4Z1gwb1BJWHFsa05lUHNFUVJTM2xCVHpzSGpNRzJLZWdxRHh6UWtvUk14SzRMcFhnVUkwNWVLeFZiNzNnMjY3QkJweUE1eGxqRVFJU0N4VGVFTVdUbkVaRjM0dDZHVW5hS0dyakdnelVIQWdwNEg5eDktZFU?oc=5"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAF0XH_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 달러가 1년 7개월 만에 가장 세졌는데, 원화는 오늘 의외로 버텼음 👀 ② 코스피 -3.6%인데 환율은 내렸다? 🤔 ③ 달러가 19개월 만에 최강, 이번 주가 고비 🔥",
+   "달러인덱스 19개월 최고(103.533)는 해외 단독 보도(WSJ), 시세표는 103.47(21:17 기준)",
+   "환율 1,335.7원 마감은 기사(베타뉴스) 기준, 시세표 야후 1,334.4원과 차이 있음",
+   "워시 의장 연설 한국 시간 확인(현지 16일)",
+   "미 10년물 5.154%는 13일(현지) 기준 — 오늘 소폭 하락 보도 있음"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
