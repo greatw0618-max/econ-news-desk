@@ -8391,5 +8391,67 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261118-0526-1",
+  "createdAt": "2026-11-17T20:35:00.000Z",
+  "date": "2026-11-18",
+  "slot": "05시",
+  "category": "거시경제·금리",
+  "topic": "미국 기술 장애 연쇄 — 대형은행 접속 장애(영상)·NSA 기밀 통신망 중단('SW 업데이트 영향', 블루밍비트)·애플/구글 장애(MarketWatch)·FAA 라우터 설치 중단(CNBC)·월러 바이낸스 해킹 언급 토큰화 경고(Cointelegraph), 다우 -1.80%·VIX 27.02(장중)",
+  "imageTitle": "미국, 또 먹통",
+  "imageHighlight": "먹통",
+  "imageData": "다우 -1.80%(장중) · VIX 27.02(+17.9%)",
+  "body": "은행 앱, 애플, 국가 통신망까지… 미국에 무슨 일이? 👀\n\n1) 지난주부터 미국에서 기술 장애가 줄줄이 터지는 중임\n2) 미국 대형은행(BoA·JP모건·웰스파고·US뱅크) 고객들이 온라인 계좌 접속이 안 된다고 신고했음\n3) 이번엔 미국 국가안보 기밀 통신망까지 한때 멈췄음 → 당국 쪽 설명은 \"사이버 공격이 아니라 소프트웨어 업데이트 영향\"이라고 함\n4) 같은 날 애플·구글 서비스 장애 신고도 이어졌고, 미 연방항공청(FAA)은 지난 금요일 전국 이륙 중단 사태 뒤 새 라우터 설치를 일단 멈췄음\n5) 여기에 웹사이트 178곳에 지갑 주소 바꿔치기 코드가 심긴 해킹까지 겹치면서 '디지털 불안'이 커지는 분위기\n6) 연준 월러 이사도 바이낸스 해킹(63억달러)을 직접 언급하면서 토큰화 금융의 보안·책임 문제를 경고했음\n7) 뉴욕증시는 엔비디아 실적 직전 투매 → 다우 -1.80%(장중), S&P500 -1.29%(장중), 공포지수 VIX 27.02(+17.9%)\n\nVIX가 뭐냐면!\n→ 앞으로 한 달 미국 증시가 얼마나 출렁일지 시장이 예상하는 값. 20 넘으면 불안, 30 가까우면 공포 구간으로 봄\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 금리 5%, 엔비디아 실적 불안에 '시스템 장애' 공포까지 얹히면서 위험자산 회피 심리가 더 세졌음\n- 코인은 거래소·지갑 보안과 바로 연결됨. 주소 바꿔치기 해킹은 송금할 때 내 실수로 돈이 날아가는 구조라 더 무서움\n\n개미 입장에선 공포 뉴스가 몰릴 때 한 번에 움직이기보다, 원인(해킹인지 단순 장애인지)이 확인된 뒤 나눠서 대응하는 게 안정적일 듯. 코인 송금할 땐 받는 주소 앞뒤 자리까지 꼭 다시 확인!\n\n📌 본 글은 투자 권유가 아닌 정보 공유 목적이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/apple-users-report-service-interruptions-the-latest-in-a-series-of-tech-outages-d1a5ff9f?mod=mw_rss_topstories"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tUng5YVJMQUlON1Nyb3dueEVHM0dYUGF2cHhSWEpZc3pzSTBLQV8zRFBlNzdmMVFnYnRNeVNYR0pUbTcxbWo1RWJyRTkyUHNS?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance"
+   },
+   {
+    "name": "포커스온경제",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxbWxEQWtaejFvWXdtYnNjZ0QzODg4QVoycjVydWpqMVhqV3QyUHQ0SEotOFk4UjJIRlJQcVMzamJPcVE4YTdWSVMxbkYyZUNvRHh3ZkZJd0hhOWduMkE?oc=5"
+   },
+   {
+    "name": "크립토 토마토 (유튜브)",
+    "url": "https://www.youtube.com/watch?v=-11HPpjOuwo"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.mktw.net/im-13932615",
+    "source": "MarketWatch"
+   },
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N66YD4VEG6WKSNQ9ZJSDDF/hi-impact-of-fed-interest-rates-on-crypto-holders-stablecoin-2.png",
+    "source": "Cointelegraph"
+   }
+  ],
+  "checks": [
+   "은행 4곳(BoA·JP모건·웰스파고·US뱅크) 접속 장애는 영상 출처 사실, 기사 확인 필요(이번 수집 기사에 없음)",
+   "다우 -1.80%·S&P -1.29%·VIX 27.02는 장중 수치(05:26 KST, 마감 전) — 마감 수치로 바꿀 것",
+   "'NSA 장애가 투매 원인'은 포커스온경제 단독 해석이라 본문에서 원인으로 단정하지 않음",
+   "첫 줄 후보: ① 은행 앱, 애플, 국가 통신망까지… 미국에 무슨 일이? 👀 ② 해킹이냐 장애냐, 미국이 일주일째 먹통 😱 ③ 엔비디아 실적 직전, 미국 증시를 흔든 '먹통' 공포 🔥"
+  ],
+  "videos": [
+   "-11HPpjOuwo"
+  ],
+  "status": "draft"
  }
 ]
