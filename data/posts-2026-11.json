@@ -7890,5 +7890,91 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261117-1727-1",
+  "createdAt": "2026-11-17T08:27:00.000Z",
+  "date": "2026-11-17",
+  "slot": "17시",
+  "category": "코인",
+  "topic": "비트코인 약세 신호 정리 — 200주 이동평균 이탈·ETF 유출·금리 인상 위험(CoinDesk, 윈터뮤트 '5만달러대 가능' 경고), 수익권 공급 52%·장기보유 물량 90일 최저(블루밍비트), BTC 64,529달러(-0.50%)·공포탐욕 12",
+  "imageTitle": "비트코인, 약세 신호 왜 계속?",
+  "imageHighlight": "약세 신호",
+  "imageData": "BTC 64,529달러(-0.50%) · 공포·탐욕 12(극단적 공포)",
+  "body": "비트코인 하락 얘기, 왜 이렇게 계속 나오는 걸까 👀\n\n1) 비트코인 64,529달러(-0.50%), 원화로는 8,784만원(-0.78%)\n코인 공포·탐욕 지수는 12로 '극단적 공포' 구간임\n\n2) 해외에선 비트코인이 200주 이동평균선을 잃었다는 분석이 나왔음\n200주 이동평균이 뭐냐면! 약 4년 동안의 평균 가격선. 장기 투자자들이 '최후의 지지선'처럼 보는 선임\n\n3) 여기에 ETF 자금 유출, 약해진 매수세, 미국 금리 인상 가능성까지 겹쳤다고 함\n대형 시장조성업체 한 곳은 5만달러대까지 밀릴 수 있다고 경고했음\n\n4) 온체인 지표도 약함\n지금 가격 기준으로 '수익 중인' 비트코인 비율이 52%까지 줄었고, 장기보유자 물량은 90일 만에 최저라고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n수익 중인 물량이 줄면 '본전 오면 팔자'는 대기 매물이 많아짐\n반등이 나와도 위에서 막히기 쉬운 구조라는 뜻\n시장에선 6만달러 선을 일단 주목하는 분위기임\n\n개미일수록 바닥을 맞히려 하기보다, 반등이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 이번 주 엔비디아 실적·미국 지표 발표 직후엔 변동이 커질 수 있으니 레버리지는 특히 조심!\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85LVhKb1lIU203Q2hWd1ZXTVZ5YzRUMVFwc1lPMENRRW95Y3psM3E1ZnR4Sl9lcEVDa2NrZjh6VkZfR3JtbW52aG5RRDd2WGRU?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGVHpCa2dLekg0TFRGOHN2QjI2V3FjTG5KdEJYWDBneDRoclpzV0VHOGxxT3Z6MmVMQnpsVkxReGltTFFyVDlDOGpR?oc=5"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=gQu4wq74Jnk"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/ec8686a4139b5ce6830180c5575523fba01b0da8-6048x4024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 하락 얘기, 왜 이렇게 계속 나오는 걸까 👀 ② 비트코인, '4년 평균선'까지 내줬음 😱 ③ 지금 비트코인 들고 있는 사람 절반만 수익 중 🔥",
+   "200주 이동평균 이탈·5만달러대 경고는 해외 단독 보도(CoinDesk, 윈터뮤트 분석)",
+   "수익권 공급 52%·장기보유 물량 90일 최저는 단독 출처(블루밍비트)",
+   "비트코인 가격·공포탐욕 지수는 17:27 KST 기준, 올리기 전 다시 확인",
+   "영상(gQu4wq74Jnk)은 자막 미확보 — 제목·설명 기준으로만 반영, 영상 속 수치는 쓰지 않음"
+  ],
+  "videos": [
+   "gQu4wq74Jnk"
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "20261117-1727-2",
+  "createdAt": "2026-11-17T08:27:00.000Z",
+  "date": "2026-11-17",
+  "slot": "17시",
+  "category": "코인",
+  "topic": "가상자산 과세 기본공제 5,000만원 상향안 불발 — 현행 250만원 유지(여야 합의, 재경위 조세소위·배준영 의원), 손실 이월공제·사업자 과세자료 제출 의무는 추가 논의(코인니스·블루밍비트·디지털애셋 등)",
+  "imageTitle": "코인 비과세 250만원 그대로",
+  "imageHighlight": "250만원",
+  "imageData": "기본공제 상향안 5,000만원 → 불발, 250만원 유지",
+  "body": "코인 세금 비과세 한도, 결국 안 올라감 😱\n\n1) 17일 국회 재정경제기획위원회 조세소위에서 가상자산 과세 기본공제를 250만원 → 5,000만원으로 올리는 안이 불발됐음\n여야가 상향하지 않기로 합의했다고 함\n\n2) 기본공제가 뭐냐면!\n1년 동안 코인으로 번 돈 중 세금을 안 매기는 금액. 지금 안대로면 250만원 넘는 수익부터 과세 대상임\n\n3) 대신 '손실 이월공제'는 추가로 논의 중\n손실 이월공제가 뭐냐면! 올해 잃은 돈을 다음 해 수익에서 빼 주는 제도. 기간을 몇 년으로 할지가 쟁점이라고 함\n\n4) 거래소 같은 사업자의 과세자료 제출 의무도 함께 논의하고 최종안을 만들 방침임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n코인 수익이 250만원을 넘으면 세금이 붙는 구조가 그대로 간다는 뜻\n이월공제 기간이 길어질수록 손실 본 투자자 부담이 줄어서, 최종안에서 이 부분을 꼭 확인해야 함\n\n개미일수록 세금 때문에 급하게 사고팔기보다, 최종안이 확정된 뒤 내 수익·손실 기록부터 정리해 두는 게 안정적일 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 세금 관련 사항은 확정된 법안과 전문가 상담을 기준으로 판단하세요.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1175868"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xT1N0YTUybUx3WFRPN0M1R0dqUk1DMUNMNi1uSHhWTC1FZDBXUl9tZXhMRkpwVXNla3NyaGlRc05mQWtNeXdJSGxfVHN3NnA5?oc=5"
+   },
+   {
+    "name": "디지털애셋",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wUGNlbV9ick1aaTVFQ2tjc05WdVRIdGNtUEpxWHc1NTJXUWI3em4wQmlGQmExbWUwcE52b3BuR1Y4U1MyeDV5Q1BEN3F1OU9QVzExV1Ewamh3d3R0cC12cng1ZWlocGhEMmlPR21QRkFOZw?oc=5"
+   },
+   {
+    "name": "블록체인투데이",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hcm9PMGRhY1Z3MTVzNWZ0eFhXTDg0YUhrVGMxXzNoZkRJaE43VHhFMDRZYU9aOTZrcVJYVFVMWGduNjBCOVJEbkxmUndxY2VTQWsxQjh2V04yekZTa0JOMVZDLTF3WlNNNUlnN3AzejY?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 코인 세금 비과세 한도, 결국 안 올라감 😱 ② 코인 비과세 5,000만원? 없던 일 됐음 👀 ③ 코인으로 250만원 넘게 벌면 세금, 그대로 감 🔥",
+   "조세소위 최종 의결 여부(디지털애셋 '오늘 의결할 듯') 올리기 전 확인",
+   "손실 이월공제 기간 결론 나왔는지 확인 — 나왔으면 3) 수정",
+   "과세 시작 시점·세율은 이번 기사에 없어 쓰지 않음"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
