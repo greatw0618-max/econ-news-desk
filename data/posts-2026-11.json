@@ -7976,5 +7976,108 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261117-1927-1",
+  "createdAt": "2026-11-17T10:27:00.000Z",
+  "date": "2026-11-17",
+  "slot": "19시",
+  "category": "코인",
+  "topic": "바이낸스 해커 18일 만에 자금 이동 재개 — 3만4,279 ETH(약 6,300만달러) 신규 주소 3곳으로(미스트트랙·CoinDesk, 북한 TraderTraitor 지목), 1시간 새 7만4,881 ETH(1.37억달러) 분할 이체·남은 세탁 대상 BTC 1만8,362개·ETH 63만2천개(엠버CN), 이더리움 244만6천원(-1.45%)",
+  "imageTitle": "바이낸스 해커, 다시 움직였다",
+  "imageHighlight": "다시",
+  "imageData": "1시간 새 7만4,881 ETH 이동 · 남은 물량 BTC 1.8만개 + ETH 63만개",
+  "body": "18일 동안 조용하던 해킹 자금, 오늘 갑자기 움직이기 시작함 👀\n\n1) 바이낸스 해커 주소(0x79e70…)가 3만4,279 ETH를 새로 만든 지갑 3곳으로 옮겼음\n10월 30일 이후 처음 움직인 거라고 함\n\n2) 금액으로 약 6,300만 달러\n해외 보도로는 북한 해킹 조직 '트레이더트레이터(TraderTraitor)'가 지목되고 있음\n\n3) 이어서 1시간 동안 7만4,881 ETH(약 1억3,700만 달러)를 잘게 쪼개서 이체\n\n잘게 쪼개 보내는 게 뭐냐면!\n→ 돈을 여러 주소로 흩고, 다른 체인으로 바꾸면서 추적을 어렵게 만드는 '자금 세탁' 초기 단계에서 자주 나오는 패턴임\n\n4) 온체인 분석 쪽 추산으로는 아직 세탁해야 할 물량이 비트코인 1만8,362개(약 11억9,000만 달러), 이더리움 63만2,000개(약 11억6,000만 달러) 남았다고 함\n\n5) 바이낸스는 사고 관련 자금 흐름을 실시간으로 볼 수 있는 추적 도구를 안내했음\n거래소·지갑들이 연관 주소를 빨리 막을 수 있게 하려는 것\n\n그래서 우리랑 무슨 상관이냐 ⭐\n해킹 자금이 거래소로 흘러가 시장에 팔리면 단기 매도 물량이 될 수 있음\n가뜩이나 이더리움이 244만6천원(-1.45%)으로 약한 상황이라, 대형 해커 지갑 움직임 소식이 나올 때마다 심리가 흔들릴 수 있음\n\n개미 입장에선 '해커 물량 나온다' 소식에 놀라서 바로 던지기보다, 실제로 거래소 입금이 확인되는지 보고 대응하는 게 덜 흔들릴 듯\n단, 아직 이체만 된 상태고 시장에 팔렸는지는 확인되지 않았음\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence"
+   },
+   {
+    "name": "코인니스(미스트트랙 인용)",
+    "url": "https://coinness.com/news/1175870"
+   },
+   {
+    "name": "코인니스(엠버CN 인용)",
+    "url": "https://coinness.com/news/1175874"
+   },
+   {
+    "name": "CoinDesk(한국어)",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV1lxZm5vTUwtdlc4d2lQS3F3UGNFaHZIaWt5VFdlbmdraGhibUVjcmVhYlNmYWNCVzY0SmpGeFhQTUtaTlE4T1BJZTZRMHpfamlQVm5KRUZWTHg1bzBZSkk3Z2d4WlZoSlBNZnJZNzUzanI5Snh4WW9PZ3dmT004VXp4cnB5dS1Qc3JTYlJ4ZURqZzVRUElkRk00R0VUQl9YMHBpbS1qZTVGeGc3MEkwcVhQVGRaVWs1MjZESTBCOHctRWs?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 18일 동안 조용하던 해킹 자금, 오늘 갑자기 움직이기 시작함 👀 ② 바이낸스 해커 지갑에서 1억 달러 넘는 이더리움이 빠져나감 😱 ③ 해커가 쪼개서 보내기 시작했다, 이거 무슨 신호임? 🔥",
+   "북한 TraderTraitor 지목·'미 법무부 압수 후' 내용은 해외 단독 보도(CoinDesk), 압수 세부 내용은 제목만 확인",
+   "7만4,881 ETH 분할 이체·잔여 BTC 1만8,362개/ETH 63만2,000개는 단독 출처(코인니스가 엠버CN 인용)",
+   "이체 후 거래소 입금·매도 여부는 미확인 — 올리기 전 추가 움직임 확인",
+   "이더리움 원화 가격은 19:27 기준, 올리기 전 다시 확인"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261117-1927-2",
+  "createdAt": "2026-11-17T10:27:00.000Z",
+  "date": "2026-11-17",
+  "slot": "19시",
+  "category": "미국 증시",
+  "topic": "엔비디아 실적 D-day(미국 17일 장 마감 후, 한국 18일 아침) — 젠슨 황 없는 첫 실적(WSJ), 주가 10월 고점 대비 40% 가까이↓·실적보다 가이던스 주목(CoinDesk), 전날 -4.1%(CNBC), 13F 인텔 지분 축소·스페이스X 최대 보유(Investing.com), 필라델피아 반도체 -5.28%·코스피 4,968.48(-2.59%) 마감, 미 소매판매도 대기",
+  "imageTitle": "엔비디아 실적, 내일 아침 나온다",
+  "imageHighlight": "내일 아침",
+  "imageData": "주가 10월 고점 대비 약 -40% · 반도체지수 -5.28% · 코스피 4,968(-2.59%)",
+  "body": "이번 주 시장을 흔든 마지막 퍼즐, 내일 아침에 나옴 🔥\n\n1) 엔비디아가 미국 시간 17일 장 마감 후 3분기 실적을 발표함\n한국 시간으로는 18일 아침\n\n2) 젠슨 황이 CEO에서 물러난 뒤 처음 나오는 실적이라 관심이 엄청 큼\n주가는 10월 고점보다 40% 가까이 빠진 상태라고 함\n\n3) 실적 앞두고 매도도 이어졌음\n전날 엔비디아 -4.1%, 필라델피아 반도체지수 -5.28%, 나스닥 -2.49%로 마감\n\n4) 그 여파로 오늘 코스피는 4,968.48(-2.59%)로 9개월여 만에 5,000선 아래에서 마감\n외국인이 1조4,000억원 넘게 팔았음\n\n5) 해외에선 이번엔 숫자 자체보다 '가이던스'가 더 중요하다는 분석이 나옴\n\n가이던스가 뭐냐면!\n→ 회사가 직접 내놓는 다음 분기 매출 전망임. 리더가 바뀐 뒤 회사가 어느 방향으로 갈지 보여주는 신호라서 이번엔 특히 중요함\n\n6) 참고로 엔비디아는 보유 주식 공시에서 인텔 지분을 줄였고, 스페이스X가 최대 보유 종목이 됐다고 함\n같은 날 미국 소매판매 지표도 기다리는 중\n\n그래서 우리랑 무슨 상관이냐 ⭐\n삼성전자·SK하이닉스 같은 국내 반도체주는 엔비디아 실적에 바로 반응하는 편임\n내일 아침 발표 내용에 따라 코스피 5,000선 회복이냐, 추가 하락이냐가 갈릴 수 있음\n\n개미일수록 발표 직후 첫 움직임에 바로 올라타기보다, 장이 열리고 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 실적 발표 직후엔 위아래 변동이 크게 나올 수 있으니 레버리지는 특히 조심\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slip-as-investors-look-to-nvidia-earnings-1007fe69?mod=rss_markets_main"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/intel-falls-premarket-as-nvidia-cuts-stake-spacex-becomes-top-holding-5032115"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/nvidia-earnings-in-focus-amid-huang-exit-fallout--whats-moving-markets-5032054"
+   },
+   {
+    "name": "CNBC(구글뉴스)",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xcWR1OGh2RVFmcDRsR1JtUDJUVFhqWFVjQ3R2V1ZjSFpqWmNtRXQweHFac0UxYllNRzJ2akQ0R2Q3dTFpTkhGeWFMS3d4MFNIX1pMWW5oUWxyQzh2bV8zcG91MlVCNm5kNlVXN3dmMG1pVWYycHFR0gF8QVVfeXFMTlpoUmZfei1Qbjl3OU9tR3A4MmlvbXNIR3FXa1JaRW5CMm5qQmgwcVBRMlFGa1BFc243bG5vR1hJVjBhYVJvMDVmNmstX2M3ME93cjZUbXc5dE5IWHJ5bndwRlJOLUNBTDBEY08tTUVMdG12c0VpemV3VUQtSw?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/a8793353bd8f3d93eff0c18b670360aa31317d77-1500x909.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   },
+   {
+    "url": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 이번 주 시장을 흔든 마지막 퍼즐, 내일 아침에 나옴 🔥 ② 코스피 5천 붕괴의 진짜 시험대는 내일 아침임 👀 ③ 젠슨 황 없는 엔비디아, 첫 성적표가 나온다 😱",
+   "'10월 고점 대비 약 40%↓'·'가이던스가 더 중요' 분석은 해외 단독 보도(CoinDesk)",
+   "인텔 지분 축소·스페이스X 최대 보유는 해외 단독 보도(Investing.com), 본문 미확인·제목 기준",
+   "발표 시각은 '미국 17일 장 마감 후'(CNBC) 기준, 한국시간 정확한 시각은 올리기 전 확인",
+   "아침에 올리면 실적이 이미 나왔을 수 있음 — 저녁(오늘) 게시 권장, 늦으면 실적 결과로 고쳐 쓸 것",
+   "외국인 순매도 1조4,000억원은 기사(인더스트리뉴스·한국증권신문) 기준"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
