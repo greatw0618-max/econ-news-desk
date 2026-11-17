@@ -7794,5 +7794,101 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261117-1527-1",
+  "createdAt": "2026-11-17T06:27:00.000Z",
+  "date": "2026-11-17",
+  "slot": "15시",
+  "category": "국내 증시",
+  "topic": "[후속] 코스피 오후 낙폭 확대 4,961.67(-2.72%, 장중 15:07)·코스닥 650.10 — 4거래일 연속 하락, 외국인 1조원 넘게 매도(뉴스1·한경·YTN), 美 대중 칩 접근 규제로 삼성전자·TSMC 하락·대만 -2.18%(Investing.com), 엔비디아 실적 18일 아침",
+  "imageTitle": "코스피, 4일째 5천 아래로",
+  "imageHighlight": "4일째",
+  "imageData": "코스피 4,961.67 (-2.72%, 장중) · 외국인 1조원+ 순매도",
+  "body": "코스피, 오늘도 5천 못 지켰음 😱\n\n1) 코스피 4,961.67(-2.72%, 장중 15:07 기준), 코스닥 650.10(-2.34%)\n2) 4거래일 연속 하락이고, 오전에 한 번 무너졌던 5,000선을 오후 들어 더 크게 내줬음\n3) 외국인이 하루에만 1조원 넘게 팔았다고 함\n4) 배경은 미국 반도체 급락(필라델피아 반도체 -5.28%)에 더해, 미국이 중국의 첨단 칩 접근을 막는 규제를 내놓으면서 삼성전자·TSMC가 같이 밀린 것\n5) 대만 증시도 -2.18%로 마감, 아시아 반도체가 한꺼번에 흔들린 날임\n\n필라델피아 반도체 지수가 뭐냐면!\n미국에 상장된 반도체 대표 기업들을 묶은 지수. 엔비디아·마이크론 같은 회사가 들어 있어서, 우리 반도체주 방향을 미리 보여주는 신호로 많이 봄\n\n그래서 우리랑 무슨 상관이냐 ⭐\n코스피는 반도체 비중이 커서, 미국 반도체가 흔들리면 외국인 매도가 바로 따라옴\n다음 분기점은 한국시간 18일 아침 엔비디아 실적 발표임\n\n개미일수록 실적 발표 직후 급변동에 바로 올라타기보다, 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리용 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53endXZjE5cWpkZ09GWHAyaUtwUVpZYkVPYk9CYUZ2R0dOaDkxYkZzV29hdGI1SHZwMTFmOXBvZzNIOHItV0JadnpncUJQTjJxT2pGN1hXRTRDOUN5d0hB?oc=5"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/202611171950i"
+   },
+   {
+    "name": "YTN",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNUWhYR1BXSzB4d2RTOTg2VjdaSl9aWWJWcTJGdUZhZzVQM1RNb19JYl9qdXY1YkNZTDk5ZGVDUFFoV3h2eVF5X0NOV2NpekpWZmlHSFpURnB1aDExM2c?oc=5"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/samsung-elec-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access-5031711"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-218-5031703"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_markets_main"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAG0D1_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "코스피·코스닥은 15:07 장중 수치 — 15:30 종가로 바꿔서 올릴 것",
+   "외국인 순매도액 최종치 확인(장중 9,600억~1조원 보도)",
+   "삼성전자·TSMC 하락 원인(美 대중 칩 접근 규제)은 해외 단독 보도(Investing.com·WSJ)",
+   "첫 줄 후보: ① 코스피, 오늘도 5천 못 지켰음 😱 ② 외국인이 하루에 1조 넘게 던졌음 🔥 ③ 4일 연속 빠진 코스피, 내일 아침이 분기점 👀"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261117-1527-2",
+  "createdAt": "2026-11-17T06:27:00.000Z",
+  "date": "2026-11-17",
+  "slot": "15시",
+  "category": "거시경제·금리",
+  "topic": "IMF 한국 올해 성장률 3.3→3.9%(한 달 새 +0.6%p) 상향·내년도 상향, 반도체 수출 사상 최대 반영, 잠재성장률 2.5% 개선, 물가 목표 상회 우려(매일경제·연합뉴스) — 같은 날 코스피 5천 붕괴",
+  "imageTitle": "IMF, 한국 성장률 확 올렸다",
+  "imageHighlight": "확 올렸다",
+  "imageData": "올해 성장률 전망 3.3% → 3.9% (+0.6%p)",
+  "body": "IMF는 한국 성장률을 확 올렸음 👀\n\n1) 국제통화기금(IMF)이 올해 한국 경제성장률 전망을 3.3% → 3.9%로 올렸음\n2) 한 달 만에 0.6%p나 올린 것. 내년 전망치도 함께 크게 올렸다고 함\n3) 이유는 반도체. AI 호황으로 반도체 수출이 사상 최대 기록을 다시 쓴 걸 반영했음\n4) 한국의 잠재성장률도 2.5%까지 좋아졌다고 봤음\n5) 다만 물가가 목표치를 웃돌 거라는 걱정도 함께 나왔음\n\n잠재성장률이 뭐냐면!\n물가를 크게 자극하지 않고 한 나라 경제가 낼 수 있는 '기본 체력' 성장률. 이게 올라가면 경제 바닥 힘이 세졌다는 뜻\n\n그래서 왜 중요하냐 ⭐\n같은 날 코스피는 4,961.67(-2.72%, 장중)로 5천 아래까지 밀렸음\n경제 전망은 반도체 덕에 좋아지는데, 주가는 그 반도체 걱정 때문에 빠지는 엇갈린 그림임\n물가가 높게 남으면 한국은행 금리 인상 압력으로 이어질 수 있다는 점도 체크 포인트\n\n단, 성장률 전망은 '지금까지 좋았던 실적'을 반영한 거라 주가 방향을 바로 정해주지는 않음\n개미일수록 좋은 뉴스 하나에 기대기보다, 추세가 돌아서는 걸 확인하고 움직이는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리용 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261117087051002"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/economy/12211127"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261117087000002"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/17/PYH2026111712000001301_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/17/news-p.v1.20261117.15c3e478c3684624be31e265fc3a65a6_R.png",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "내년 성장률 전망 수치는 수집 요약에 없음 — 기사 본문에서 확인 후 넣을지 결정",
+   "코스피 4,961.67은 장중(15:07) 수치 — 종가로 교체",
+   "한은 금리 인상 압력 문장은 일반적 해석임(씨티 \"한은 이달 추가 인상\" 전망은 이투데이 단독)",
+   "첫 줄 후보: ① IMF는 한국 성장률을 확 올렸음 👀 ② 경제는 좋다는데 주가는 왜 빠질까 🤔 ③ 한 달 만에 0.6%p 올린 IMF 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
