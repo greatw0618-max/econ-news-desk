@@ -8269,5 +8269,69 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261118-0126-1",
+  "createdAt": "2026-11-17T16:26:00.000Z",
+  "date": "2026-11-18",
+  "slot": "01시",
+  "category": "미국 증시",
+  "topic": "[후속] 젠슨 황 사임 후 첫 입장문 '이사회 요청 시 CEO 복귀 의향'(CNBC·Investing.com), 엔비디아 이사회 국가안보·수출통제 위원회 신설, 황 12월 의회 청문회 출석 — 실적 직전 다우 -1.52%(750p↓)·나스닥 -1.25%·VIX 24.71(장중), NSA 통신망 장애 보도",
+  "imageTitle": "젠슨 황, \"돌아갈 수 있다\"",
+  "imageHighlight": "돌아갈",
+  "imageData": "다우 50,823(-1.52%) · 나스닥 24,204(-1.25%) · VIX 24.71 (장중)",
+  "body": "엔비디아 실적 몇 시간 앞두고 젠슨 황이 입을 열었음 👀\n\n1) 사임 후 처음 낸 입장문에서 \"이사회가 요청하면 CEO로 돌아갈 의향이 있다\"고 밝힘\n2) 투자자·직원들의 지지를 봤다는 게 이유라고 함. 이 소식에 엔비디아 주가는 장중 오름세로 돌아섰다는 보도도 나옴\n3) 불과 하루 전엔 이사회 쪽에서 \"복귀 검토 안 한다\"는 얘기가 나왔었음. 이번엔 본인이 직접 문을 연 셈\n4) 같은 날 엔비디아 이사회는 국가안보·수출통제를 감독하는 위원회를 새로 만들었고, 황은 12월 미 의회 청문회에 나가 증언하기로 함\n5) 그런데 시장 전체는 반대로 감. 다우 -1.52%(750포인트대↓), 나스닥 -1.25%, S&P500 -1.18% (장중)\n6) 기술주 약세에 미 국가안보국(NSA) 내부 통신망 장애 보도까지 겹치면서 VIX(공포지수)가 24.71까지 올라옴 (장중)\n\nVIX가 뭐냐면!\nS&P500 옵션 가격으로 계산한 \"앞으로 한 달 시장이 얼마나 출렁일지\" 기대치임. 20을 넘으면 불안이 커졌다는 신호로 봄\n\n그래서 우리랑 무슨 상관이냐 ⭐\n엔비디아 실적은 한국 시간 오늘(18일) 아침 나옴\n이번엔 숫자만큼 \"CEO 공백·중국 규제를 어떻게 설명하느냐\"가 같이 평가받을 가능성이 큼\n코스피·SK하이닉스·삼성전자도 이미 반도체 급락에 4거래일 연속 빠진 상태라, 오늘 장 시작 분위기가 여기서 갈릴 수 있음\n\n개미 입장에선 실적 발표 직후 첫 몇 시간 급등락에 바로 따라붙기보다, 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 레버리지 상품은 발표 직후 변동성에 특히 조심!\n\n📌 정보 공유 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/jensen-huang-says-he-would-return-as-nvidia-ceo-if-asked-shares-gain-5033563"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/nvidia-board-forms-committee-for-national-security-and-export-control-oversight-5032154"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/former-nvidia-ceo-huang-to-appear-before-us-congressional-committees-in-december-5033461"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261117178600009"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmUlJEUVBqX1YwU1FPNnFTZnFvUS1BV1d5M09Lc0RJTEp5TXJQb2NQR0JWYnNXUVhNN2M2TG1CRXBMaUlQb0dCLWptUURaZ0hy?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/moved_LYNXNPEMAG1HA_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://img.yna.co.kr/photo/reuters/2026/11/17/PRU20261117331001009_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "지수·VIX는 장중(01:26 KST) 수치 — 마감 수치로 바꿀 것",
+   "'엔비디아 주가 장중 상승'은 Investing.com 제목 기준, 마감 등락 확인",
+   "청문회 12월 1일은 블루밍비트 단독 표기(Investing.com은 12월만) — 단독 출처",
+   "NSA 네트워크 장애는 원인·영향 미확인 보도(CNN 인용)",
+   "해외 단독 보도(CNBC·Investing.com): 황 입장문 내용, 수출통제 위원회 신설",
+   "첫 줄 후보1: 엔비디아 실적 몇 시간 앞두고 젠슨 황이 입을 열었음 👀",
+   "첫 줄 후보2: 젠슨 황 \"부르면 돌아간다\"… 근데 시장은 왜 빠졌지? 🔥",
+   "첫 줄 후보3: 다우 750포인트 빠진 날, 젠슨 황 한마디에 엔비디아만 버팀 😱"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
