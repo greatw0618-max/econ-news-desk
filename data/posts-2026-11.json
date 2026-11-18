@@ -9435,5 +9435,134 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261119-0527-1",
+  "createdAt": "2026-11-18T20:27:00.000Z",
+  "date": "2026-11-19",
+  "slot": "05시",
+  "category": "코인",
+  "topic": "[후속] 비트코인 채굴원가(6.2만달러) 근접·손바뀜 — 62,517달러(-3.66%)·공포탐욕 11, 크립토퀀트 주기영 채굴원가 6.2만·해시레이트 유지, MARA 13,597BTC·Riot 20,264BTC 매도(Decrypt)·MARA 1.85억달러 채권, 골드만 BTC ETF 12.8억달러(+121%, 9월말 13F)·뱅가드 메타플래닛 확대, 200주선 올해 두 번째 붕괴",
+  "imageTitle": "비트코인, 원가선까지 왔다",
+  "imageHighlight": "원가선",
+  "imageData": "BTC 62,517달러(-3.66%) · 채굴 원가 약 6.2만달러 · 공포·탐욕 11",
+  "body": "비트코인, 채굴 원가까지 내려왔음 👀\n\n1) 비트코인 62,517달러(-3.66%), 원화로는 8,519만원(-3.56%)\n공포·탐욕 지수는 11, '극단적 공포' 구간임\n\n2) 크립토퀀트 대표 분석으로는 지금 가격이 채굴 원가(약 6.2만달러) 수준이라고 함\n\n3) 채굴 원가가 뭐냐면!\n비트코인 1개를 캐는 데 드는 전기·장비 비용임. 이 밑으로 가면 캘수록 손해라서 채굴업체가 버티기 힘들어짐\n\n4) 그런데 해시레이트(채굴 경쟁 강도)는 아직 높게 유지 중이라고 함\n채굴업체들이 당장 손 떼지 않고 버티고 있다는 뜻\n\n5) 파는 쪽: 채굴업체\nMARA는 9월 이후 13,597BTC, Riot은 9월까지 20,264BTC를 팔았음. 빚 갚고 AI 데이터센터 짓는 데 쓰는 돈\nMARA는 여기에 1.85억달러 채권(금리 8.75%)까지 새로 발행함\n\n6) 사는 쪽: 월가 기관\n골드만삭스의 비트코인 현물 ETF 보유액은 12.8억달러로 전분기보다 121% 늘었음(9월 말 기준 공시)\n뱅가드 펀드도 비트코인 보유 기업 메타플래닛 지분을 늘렸음\n\n7) 비트코인 200주 이동평균선(약 4년 평균 가격선)도 올해 두 번째로 깨졌음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n채굴업체·코인 보유 기업은 팔고, 월가 기관은 ETF로 담는 '손바뀜'이 진행 중임\n다만 골드만 수치는 9월 말 기준이라 최근 급락 뒤에도 계속 샀는지는 아직 모름\n가격이 채굴 원가 아래에 오래 머물면 채굴업체 추가 매도가 나올 수 있다는 점은 체크해 두자\n\n개미일수록 바닥을 맞히려 하지 말고, 원가선 근처에서 버티는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 이번 주는 연준 금리 인상 우려까지 겹쳐 있어서 레버리지는 특히 조심\n\n📌 이 글은 정보 공유 목적이며 투자 권유가 아님. 투자 판단과 책임은 본인에게 있음.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176132"
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176137"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176138"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176136"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ob0doRkxkR3VnemhtVU5TM2cxUmJuSzYzVEdwZXVsb1pwbUNkaXkzRGprbVpnMk9QLVd0LWZzaFdzWnYtUGFxNV9B?oc=5"
+   },
+   {
+    "name": "크립토 토마토 (유튜브)",
+    "url": "https://www.youtube.com/watch?v=bnfHr3KljJU"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png",
+    "source": "Decrypt"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인, 채굴 원가까지 내려왔음 👀 ② 캐는 사람은 팔고, 월가는 샀다? 🔥 ③ 6.2만달러, 비트코인 채굴업체의 마지노선 😱",
+   "채굴 원가 6.2만달러는 크립토퀀트 대표 분석(코인니스 단독 출처)",
+   "MARA·Riot 매도 수량은 해외 단독 보도(Decrypt, 글래스노드 인용)",
+   "골드만 ETF 보유액은 9월 30일 기준 13F 공시(코인니스, 크립토브리핑 인용) — 현재 보유와 다를 수 있음",
+   "200주선 붕괴는 코인리더스 단독 보도",
+   "BTC 가격은 05:27 기준, 올리기 전 최신 가격 확인",
+   "영상(크립토 토마토 11/19) 자막 못 가져와 제목의 \"매도세·고래 손바뀜\" 주제만 반영, 영상 속 숫자는 쓰지 않음"
+  ],
+  "videos": [
+   "bnfHr3KljJU"
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "20261119-0527-2",
+  "createdAt": "2026-11-18T20:27:00.000Z",
+  "date": "2026-11-19",
+  "slot": "05시",
+  "category": "거시경제·금리",
+  "topic": "연준 10월 FOMC 의사록 공개 — 거의 모든 참석자 추가 인상 필요, 10월 일부 0.25%p 인상 주장, 소수 12월 0.25%p 초과 거론, AI 투자의 물가·금융안정 영향 논의, 바 이사 추가 인상 지지·데일리 총재 점진 인상, 10년물 5.07%·금 3,758달러(-2.75%)·다우 -1.32%(장중)",
+  "imageTitle": "연준 회의록, \"더 올리자\"",
+  "imageHighlight": "더 올리자",
+  "imageData": "미 10년물 5.07% · 금 3,758달러(-2.75%) · 다우 -1.32% (장중)",
+  "body": "연준 회의록 열어보니 \"거의 다 올리자\"였음 😱\n\n1) 미국 연준(중앙은행)이 10월 회의 의사록(회의 내용 기록)을 공개했음\n10월엔 기준금리를 3.75~4.00%로 동결했었음\n\n2) 그런데 거의 모든 참석자가 \"앞으로 몇 달간 추가 금리 인상이 필요할 수 있다\"고 봤다고 함\n\n3) 10월 회의 때도 일부는 이미 0.25%p 인상을 주장했고,\n소수는 물가가 안 잡히면 12월 인상 폭이 0.25%p보다 커야 할 수도 있다고 했음\n\n4) 빅스텝이 뭐냐면!\n금리를 한 번에 0.5%p 올리는 것. 보통의 두 배 폭이라 시장 충격이 큼\n\n5) 같은 날 바 연준 이사는 \"추가 인상 적절\", 샌프란시스코 연은 총재는 \"인상 필요하지만 신중하고 점진적으로\"라고 말함\n앞서 월러 이사는 12월 빅스텝까지 촉구했었음\n\n6) AI 투자 붐이 물가와 금융 안정에 미치는 영향도 회의에서 논의됐다고 함\n\n7) 시장 반응(장중): 미 10년물 국채금리 5.07%, 금 3,758달러(-2.75%), 달러인덱스 103.83(+0.33%), 다우 -1.32%\n\n그래서 우리랑 무슨 상관이냐 ⭐\n이제 쟁점은 금리를 '올리느냐'가 아니라 '얼마나 올리느냐'임\n금리가 오르면 주식·코인·금처럼 위험하거나 이자 없는 자산에 부담이 되고, 달러 강세로 원화 환율도 흔들릴 수 있음\n\n개미일수록 금리 발표나 물가 지표 발표 직후 급변동에 휩쓸리지 말고, 방향이 확인된 뒤 대응하는 게 안정적일 듯\n\n📌 이 글은 정보 공유 목적이며 투자 권유가 아님. 투자 판단과 책임은 본인에게 있음.",
+  "sources": [
+   {
+    "name": "연준 보도자료",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/couple-of-policymakers-see-more-than-a-25-bp-rate-hike-in-december--fed-minutes-5036867"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176135"
+   },
+   {
+    "name": "중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zSmtqMkEwSFozVGxmNWFMS19NZFplX1llYmhrUHo1aW5yRFBKSDBsZTFGQzM2cFNna25WMldyaVVJc2tkaGdnLWhMTlBXb0xzY0Rub1JlYXpVSkE?oc=5"
+   },
+   {
+    "name": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVHdzb2RNZXpXRUx3ZDRlSmZDVk5fLTV2dVNhZmlkLU1Ud0RmZHhyYXNqWXhZc0pDeF9waG9ZNXdDSHBjX0dXcW5RS1pwZi1OaTNiRHN0SXdMSWR1NlB2QzBwRkJob3ZvekFXNFp3Q2lQQQ?oc=5"
+   },
+   {
+    "name": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13aHhSSDdwbzlJellwYkM0dlN5U2J4TE5DckhfVzNKdFJValhfTDBpRjRxckp5UzIyRkswd3owejR4RlBQRnlMSkdZb0NaMXBSQWIySkI4U1gwc1BOTFAtUkR3YlNPYURmVUpEVDczMGNmZw?oc=5"
+   },
+   {
+    "name": "연합인포맥스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOR3JsbC1jZU9LSEI5SXFWd1VYMnhyLXlEaFlXdUpGYmRGaE5oMDBGUmJSUEo5Ynh4OUpoWmRwT3BRR3F3Tm1PaXRhdzVNeFY5NmlDLVYtNklfUWJDTHYzcl9IeTVjWFZpUEd5THh4aHE?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/moved_LYNXMPEI710GU_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://images.mktw.net/im-43212358",
+    "source": "MarketWatch"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 연준 회의록 열어보니 \"거의 다 올리자\"였음 😱 ② 금리, 이제 '얼마나' 올리냐의 싸움 🔥 ③ 12월 빅스텝, 진짜 나올까? 👀",
+   "10년물·금·달러·다우 수치는 시세 표 00:37~00:52 기준 장중 값 — 미국 마감 후 수치로 바꿔 쓸지 확인",
+   "12월 FOMC 날짜는 수집 기사에 없어 본문에 넣지 않음",
+   "AI 투자 관련 논의는 CNBC·코인니스 보도 기준"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
