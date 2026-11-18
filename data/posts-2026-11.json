@@ -9279,5 +9279,112 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261119-0127-1",
+  "createdAt": "2026-11-18T16:27:00.000Z",
+  "date": "2026-11-19",
+  "slot": "01시",
+  "category": "코인",
+  "topic": "[후속] 비트코인 6.3만달러 이탈 — 62,475달러(-3.73%), 1시간 1.02억달러·24시간 4.52억달러 강제청산, 고래 1,040BTC 바이낸스 입금, K33 '6주 연속 하락·RSI 19.95·전체 BTC 51.5% 손실', 업비트·빗썸 3분기 적자·예치금 2.5조 이탈, 공포탐욕 11",
+  "imageTitle": "비트코인, 6.3만 깨졌다",
+  "imageHighlight": "6.3만",
+  "imageData": "BTC 62,475달러 (-3.73%) · 공포·탐욕 11 (극단적 공포)",
+  "body": "비트코인, 밤사이 또 한 칸 내려갔음 😱\n\n1) 비트코인이 63,000달러 밑으로 내려왔음. 새벽 1시 반 기준 62,475달러로 하루 새 -3.73%\n2) 원화로는 8,527만원(-3.48%), 이더리움(-3.75%)·솔라나(-3.08%)도 같이 빠짐\n3) 지난 1시간에만 1.02억달러(약 1,360억원) 규모 선물 포지션이 강제 청산됨. 24시간으로는 4.52억달러\n\n강제 청산이 뭐냐면!\n빌린 돈으로 베팅(레버리지)했다가 가격이 반대로 가면, 거래소가 포지션을 강제로 정리해 버리는 것. 이게 몰리면 하락이 하락을 부름\n\n4) 한 고래는 24시간 동안 1,040BTC(약 6,717만달러)를 바이낸스에 입금했다고 함. 거래소 입금은 보통 매도 준비로 봄\n5) 리서치 업체 K33은 6주 연속 하락, 일주일 새 -14%, 전체 비트코인의 51.5%가 손실 상태라고 분석했음. 이런 연속 하락은 과거 두 번뿐이었다고 함\n6) 국내도 썰렁함. 업비트·빗썸이 3분기에 나란히 적자를 냈고 예치금 2.5조원이 빠져나갔다는 보도\n\n그래서 우리랑 무슨 상관이냐 ⭐\n공포·탐욕 지수는 11, '극단적 공포' 구간임. 미국 금리 인상 우려에 금·주식까지 같이 빠지는 장이라 코인만 따로 반등하기 어려운 환경\n\n개미일수록 바닥을 맞히려 하기보다, 하락이 멈추고 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯. 특히 이런 장에서 레버리지는 청산 1순위임\n\n📌 투자 권유가 아닌 정보 정리 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176110"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176101"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176095"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176094"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OZFM1QV9tcnZlR0JrYmZQTGZZZTlNNERJN2k5X01tbnhFRUNaZkpQTEYwTl96Rk1LZTNqXzdRSXNHcm55S0R3MzdEOU5Pb2po?oc=5"
+   },
+   {
+    "name": "Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHlWQ3J4ZFVfMllxcHpsOEFLZHFfZmtDVG95WVBUSWZnOG9uczRFbGRJUS1HR1ZJUHhSQVNhNmk4bjJmOWFWRDB3al8xOVhfRmdUdkhGZWZJRnNoYkpKZkZPWFN3M3E5djUtcld1YWlnVjZXazlRV1p6aUFqSmlrQ0JwN3RjbGxN0gGcAUFVX3lxTE5wT25tdnhNcW5laDQtYmRsck5jbXB2TGFDeHRDY212d2xlZ3pLNHRHU3l5cTdFVENMRC1KdU9fbTYzZUtoQmJCeFB1NXlJTEJLVkdVUGFYQm8xMjAxNXJOdS1Ka1N0amNtZThRWlh1dTV6RlZYb1VFTGhFNDE2Nk0xbDk5dllpV0RObVp4Z2t6dmxkOTB4b1JIblN6RQ?oc=5"
+   },
+   {
+    "name": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/workflow_Article-cover-image-Free-metaphor-choice_2026-11-18_13-40-40.png",
+    "source": "The Block"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인, 밤사이 또 한 칸 내려갔음 😱 ② 6.3만달러도 못 지켰음 👀 ③ 1시간 만에 1,360억원이 강제로 정리됨 🔥",
+   "BTC 가격은 새벽 1시 27분 기준 — 올리기 전 최신 시세로 고칠 것",
+   "청산·고래 입금 수치는 코인니스 단독 출처(룩온체인 인용)",
+   "업비트·빗썸 3분기 적자·예치금 2.5조는 조선비즈 단독 보도, 제목 기준(본문 미확인)",
+   "1.02억달러 원화 환산은 환율 1,332원 기준 대략치",
+   "K33의 '7만달러 아래 매수 기회' 의견은 투자 권유 소지가 있어 본문에서 뺌"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261119-0127-2",
+  "createdAt": "2026-11-18T16:27:00.000Z",
+  "date": "2026-11-19",
+  "slot": "01시",
+  "category": "미국 증시",
+  "topic": "[후속] 엔비디아 호실적 반등 하루 만에 소멸 — 시간외 상승 후 정규장 하락·네오클라우드 동반 약세(CNBC), 다우 600p 하락(장중 -1.32%)·S&P500 -0.50%·나스닥 보합, 월러 빅스텝 발언에 선물 상승분 반납, 이사회 황 복귀 불가(Reuters)",
+  "imageTitle": "엔비디아, 실적 약발 하루",
+  "imageHighlight": "하루",
+  "imageData": "다우 50,089 (-1.32%, 장중) · S&P500 -0.50% · 나스닥 -0.02%",
+  "body": "실적은 역대급이었는데, 주가는 왜 안 갈까 👀\n\n1) 엔비디아가 예상보다 좋은 3분기 실적을 냈고 시간외 거래에서는 주가가 올랐었음\n2) 그런데 정규장이 열리자 반등이 꺼지고 오히려 하락 전환. 엔비디아 칩을 빌려 쓰는 AI 클라우드 기업들(네오클라우드)까지 같이 끌려 내려갔다고 함\n3) 다우는 장중 600포인트 넘게 빠졌음. 새벽 1시 기준 다우 -1.32%, S&P500 -0.50%(장중), 나스닥은 보합권\n\n네오클라우드가 뭐냐면!\n엔비디아 GPU를 대량으로 사서 AI 기업에 빌려주는 신생 클라우드 회사들. 엔비디아 주가와 같이 움직이는 경우가 많음\n\n4) 발목을 잡은 건 금리. 월러 연준 이사가 12월 0.5%p 인상까지 언급하면서 개장 전 오르던 선물이 상승분을 반납했음\n5) 회사 쪽 불확실성도 남아 있음. 이사회가 젠슨 황 복귀는 없다고 못 박았고, 후계·수출 규제·중국 문제가 숙제로 꼽힘\n\n그래서 우리랑 무슨 상관이냐 ⭐\n오늘 코스피는 어제 엔비디아 기대로 5천을 되찾았는데, 정작 미국에서 그 기대가 하루 만에 식은 셈. 오늘 장(수능날 10시 개장) 반도체 흐름에 바로 영향이 갈 수 있음\n\n개미일수록 '실적 좋으니 오르겠지'로 먼저 들어가기보다, 시장이 그 실적을 어떻게 받아들이는지 확인한 뒤 움직이는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1hUb0ZMNTdVdlRaU3NVMXlUODNRZmhzZjVNRFVocktEWXJ4ZkF5eTVmVXBQcXRMOWFpdHZMQ2hxeUE1OER5TkpmRTlLV0JBdGV5RWVDVTl2TWtZamNmMXBTV2Y4eTVXdFpBdmZNSlFtZklNQnBLWHNDU251eElyd191OGs4ajktX2NvRVpNQ1M1cDNEU0ZzYnpWMmpnQ1E1d3NuUzhMSXZfdEowVWN6QWZldW0?oc=5"
+   },
+   {
+    "name": "재경일보",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55Vm9WZU5fZkZHUDNwSUhrckItc1dsdXJoV1lQSUVsdlZRSDJXRnRjR3pzbEI2eUtfTWpHcy1nTzBycXZRVWhtWEVGcw?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.mktw.net/im-19052338",
+    "source": "MarketWatch"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 실적은 역대급이었는데, 주가는 왜 안 갈까 👀 ② 엔비디아 효과, 딱 하루였음 😱 ③ 시간외 반등 → 정규장 하락, 무슨 일? 🔥",
+   "모든 지수는 장중(새벽 1시 무렵) 수치 — 미국 마감 후 종가로 고칠 것",
+   "엔비디아 정규장 하락폭은 기사(CNBC) 제목에 숫자가 없어 본문에 넣지 않음, 마감 등락률 확인 후 추가",
+   "'다우 600포인트 하락'은 CNBC 라이브 기사 제목 기준(해외 단독 보도, CNBC)",
+   "후계·수출 규제·중국 숙제는 MarketWatch 요약 기준(해외 단독 보도, MarketWatch)"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
