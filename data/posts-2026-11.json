@@ -9221,5 +9221,63 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261118-2327-1",
+  "createdAt": "2026-11-18T14:27:00.000Z",
+  "date": "2026-11-18",
+  "slot": "23시",
+  "category": "거시경제·금리",
+  "topic": "월러 연준 이사 12월 0.5%p(빅스텝) 인상 촉구 — 물가 확산·연율 3.5% 향함·기업 3%+ 가격 전가, '충격 줘야', 뉴욕 연은 총재 신중론, 국채금리↑·나스닥 선물 상승분 반납, 달러 19개월 최고 근처, 금 3,781.7달러(-2.13%), 美 모기지 금리 3주 최고",
+  "imageTitle": "연준 이사, \"빅스텝 가자\"",
+  "imageHighlight": "빅스텝",
+  "imageData": "美 10년물 5.093% · 달러인덱스 103.80 · 금 3,781.7달러(-2.13%)",
+  "body": "미국 금리, 0.25%p가 아니라 0.5%p 올리자는 말이 나왔음 😱\n\n1) 미 연준 크리스토퍼 월러 이사가 12월에 금리를 0.5%p 올려야 한다고 말했음\n2) 이유는 물가. 인플레이션이 잘못된 방향으로 가면서 더 넓게 퍼지고 있다고 함 (연율 3.5% 쪽으로 가는 중이라고 설명)\n3) 기업들이 3% 넘는 가격 인상을 소비자에게 그대로 넘기고 있다는 점도 짚었음. \"물가를 잡으려면 충격을 줘야 한다\"는 말까지 나옴\n\n빅스텝이 뭐냐면!\n→ 보통 금리는 0.25%p씩 움직이는데, 그 두 배인 0.5%p를 한 번에 올리는 걸 빅스텝이라고 함\n\n4) 발언 직후 미 국채금리가 오르고, 엔비디아 실적으로 올랐던 나스닥 선물이 상승분을 반납하는 모습이 나왔음\n5) 달러는 19개월 만에 최고 수준 근처, 금은 3,781.7달러(-2.13%)로 1년여 만에 최저 구간. 미국 30년 주택담보대출 금리도 3주 만에 최고\n6) 단, 뉴욕 연은 총재는 신중론을 폈다고 함. 연준 안에서도 의견이 갈리는 중\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 금리 인상 폭이 커질수록 달러는 강해지고, 주식·코인 같은 위험자산엔 부담이 되는 구조\n→ 오늘 밤 나오는 10월 FOMC 의사록에서 \"인상 폭\" 얘기가 얼마나 나오는지가 다음 변수\n\n개미일수록 발표 직후 급변동에 따라 들어가지 말고, 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kbE02Ty1sR0E0TWY5bHh4OVpUcHFESURjRVcwN05XYWNYcFh3Uk9EUXFnVEwwNzRjVDlFbDFERTRHTzBLU01BdGJxMklZaDZPQ1hzR3Q5bm9HLUgz?oc=5"
+   },
+   {
+    "name": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnQ1lXNk92UXU2aTFpcEZZV0JPZVFXdmVVYTVxb29qS2hHemt6WXRROTF2VE83aGZOMWxEXzc4WXdlX2FRN05YSjJ2YmlaMHlkRkZpUnRmTzJBUQ?oc=5"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3c2VrRkNiMXpaMlNQSG9WVUxpd25WS3FqSHBuMEVCUDFzbTBvSUFKQ1pNMTg0TnJTMWtvYm5jdFRXd21xaWwxa3dJNGpqU0xFV1dFUThzcWNoUQ?oc=5"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/feds-waller-warns-inflation-is-worsening-floats-50basispoint-december-hike-5035893"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/dollar-holds-near-19month-high-as-data-supports-case-for-us-rate-hikes-5034498"
+   },
+   {
+    "name": "NDTV Profit",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNGluTi1HcXlqbGt3R0p5SlJMM0F3d3FyOThNYWxzZEQ3bDRhN1NVWEZSejEzMFJRSTkyZmJwMXR2TnRKckw5clVheWpTSEE2TVdpd1VzaGhrV0tqQzVwdzZ1WC0zaDNHU1hYcmktOEZsNktDWnhIRk9rLXNtdjd6alhrWERaN1VZRld1dzdCY0RBY1FrQVAtT1RwWjNnQnpCQ08zRWpoWXkxZ3J3Zkh0elB3YS1wcWVVWXlDckYwRHJjUURQMjl5R21HdE5xVXl2NEHSAdoBQVVfeXFMTjNRc1RDTzRSMkNuVTU1Q2FxNjZyT1d3eDAxMkUxRjJuaTl2Z0N5MnVUOWZfSzlpTGd4YmtJekRWLXV1WUNNb0pSUzRKTURZTFIxSEY2S3dkNExhVjNHdl9SaUhYX2g1RkRxUXpVM1NkMllaalVXWXRrbXVfYXQ4STZHeWtNa0ZvUGJSUXozMjNuemVqaER0R3dUR3JubHNHS0xmZkVxeXBKM0xsRW03WUtSdDdvTG5BTUdFT1FycERCS0dWREIydnowRHp3WGw3ZF9GTmxfOXA0Y3c?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/mortgage-demand-turns-lower-as-interest-rates-shoot-back-up-to-the-highest-level-in-three-weeks.html"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/moved_LYNXMPEL3N0UA_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 미국 금리, 0.25%p가 아니라 0.5%p 올리자는 말이 나왔음 😱 ② 연준 안에서 '충격 요법' 얘기가 나왔음 🔥 ③ 12월 금리, 더 세게 올릴 수도 있다는 신호 👀",
+   "'연율 3.5% 향함', '기업 3% 이상 가격 전가', '1월 인상 신호 없으면' 조건은 코인니스 속보 기준 — 원문 발언 확인",
+   "'12월 인상 확률 95%'는 24/7 Wall St. 단독(해외 단독 보도) — 본문에는 넣지 않음",
+   "나스닥 선물 상승분 반납은 NDTV Profit 보도(해외) — 올리기 전 선물 흐름 재확인",
+   "10년물 5.093%·달러인덱스 103.80·금 3,781.7달러는 23:12~23:17 KST 시세표 기준(장중)",
+   "FOMC 의사록 공개 시각 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
