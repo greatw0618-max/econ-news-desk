@@ -10064,5 +10064,55 @@
    "TAJCzWziAlo"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261119-1927-1",
+  "createdAt": "2026-11-19T10:27:00.000Z",
+  "date": "2026-11-19",
+  "slot": "19시",
+  "category": "코인",
+  "topic": "미국 비트코인 현물 ETF 자금 이탈 — 11월 누적 순유출 29억달러(Decrypt), 수요일 하루 3.06억달러 유출·순자산 777억달러 3개월 최저, 2026년 누적 순유출 25억달러+(Cointelegraph·블루밍비트), 일주일 -13%, 10BTC+ 주소 15만770개 1월 이후 최다지만 4주간 보유량 1만BTC+ 감소(샌티멘트), BTC 63,753달러(+1.21%)·공포탐욕 10",
+  "imageTitle": "비트코인 ETF, 돈이 빠진다",
+  "imageHighlight": "빠진다",
+  "imageData": "11월 ETF 순유출 29억달러 · 순자산 777억달러(3개월 최저) · BTC 63,753달러",
+  "body": "비트코인 ETF에서 이번 달에만 4조원 넘게 빠져나갔음 👀\n\n1) 미국 비트코인 현물 ETF에서 11월 들어 순유출이 29억달러(약 3.9조원)까지 불어났다고 함\n2) 수요일(미국) 하루에만 3억600만달러가 빠지면서 ETF 전체 순자산은 777억달러, 3개월 만에 최저로 내려옴\n3) 올해 전체로 봐도 들어온 돈보다 나간 돈이 25억달러 이상 많아진 상황임\n\n현물 ETF가 뭐냐면!\n👉 주식처럼 증권 계좌로 사고파는데, 운용사가 실제 비트코인을 사서 들고 있는 상품. 돈이 빠지면 그만큼 비트코인을 팔아야 하는 구조임\n\n4) 그 사이 비트코인은 일주일 새 13% 가까이 밀렸다가, 지금은 63,753달러(+1.21%)로 6.3만달러대를 겨우 지키는 중\n5) 재밌는 건 10BTC 이상 들고 있는 지갑 수는 15만770개로 올해 1월 이후 가장 많음\n6) 다만 이 지갑들이 가진 전체 물량은 최근 4주 동안 1만BTC 넘게 줄었음 → 큰손 물량이 여러 지갑으로 나뉘거나 일부는 팔고 있다는 뜻으로 읽힘\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 올해 비트코인을 받쳐 준 게 ETF 자금이었는데, 그 돈이 거꾸로 나가는 중임\n→ 연준 추가 인상 우려까지 겹쳐서 공포·탐욕 지수는 10, '극단적 공포' 구간\n→ ETF 자금이 다시 들어오는 날이 나와야 바닥 얘기가 힘을 받을 듯\n\n개미 입장에선 '많이 빠졌으니 반등하겠지'보다, ETF 순유입 전환처럼 움직임이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 공포 구간에선 위아래 변동이 크니 레버리지는 특히 조심\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VVHNQelpWbmR6YVJnRS1ETEF2TXd3QkRjd1MzNWZjM1h0MFhIOHU1ZjZNdDIyY0FTcEhmNkZJa3o3Y3R6WlZzYlBHZ01neUtT?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176209"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg",
+    "source": "Decrypt"
+   },
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SA53P2GHC309QBB97B4KW6/lost-bitcoins-etf-hack-hacking-falling-jeans-1.jpg",
+    "source": "Cointelegraph"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 ETF에서 이번 달에만 4조원 넘게 빠져나갔음 👀 ② 비트코인 받쳐주던 돈, 거꾸로 나가는 중 😱 ③ 큰손 지갑은 늘었는데 물량은 줄었다? 🔥",
+   "11월 누적 순유출 29억달러·일주일 -13%는 해외 단독 보도(Decrypt)",
+   "수요일 3.06억달러 유출·순자산 777억달러·2026년 순유출 25억달러+는 해외 보도(Cointelegraph), 국내는 블루밍비트 제목만 확인",
+   "원화 환산 약 3.9조원은 원/달러 1,328.9원(시세 표) 기준 계산값",
+   "10BTC+ 주소 수·4주 보유량 감소는 단독 출처(코인니스 인용 샌티멘트)",
+   "비트코인 가격·공포탐욕 지수는 올리기 직전 다시 확인(19:27 기준)"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
