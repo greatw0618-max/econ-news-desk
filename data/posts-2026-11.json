@@ -10312,5 +10312,71 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261120-0127-1",
+  "createdAt": "2026-11-19T16:28:00.000Z",
+  "date": "2026-11-20",
+  "slot": "01시",
+  "category": "미국 증시",
+  "topic": "[후속] 앤트로픽 나스닥 데뷔 당일 — 개장 전 호가 105달러(공모가 83달러 대비 약 26.5%↑, CNBC·Cointelegraph), 로이터 시총 1.8조달러 전망, 나스닥 1.5~1.9%↑ 출발 뒤 유가·금리 부담에 다우 -1.06%·S&P -0.30% 하락 전환, 나스닥 +0.24%·반도체 +1.24%(장중), 공모주 단타 매도 시 증권사 불이익 가능(CNBC)",
+  "imageTitle": "앤트로픽 데뷔, 다우는 빠졌다",
+  "imageHighlight": "다우",
+  "imageData": "다우 -1.06% · S&P500 -0.30% · 나스닥 +0.24% · 필라델피아반도체 +1.24% (장중) | 앤트로픽 공모가 83달러 → 개장 전 호가 105달러",
+  "body": "앤트로픽 데뷔날, 근데 다우는 500포인트 빠졌음 👀\n\n1) 앤트로픽(클로드 개발사)이 오늘 밤 나스닥에 'ANT'로 상장 중\n공모가는 83달러였는데, 개장 전 호가가 105달러 안팎으로 잡혔다고 함 (약 26% 위)\n\n2) 로이터는 첫날 기준 몸값을 1조8,000억달러 수준으로 봤음\n직원 수천 명이 백만장자가 될 거란 보도까지 나옴\n\n3) 그래서 뉴욕증시도 상승 출발했음\n나스닥은 장 초반 1.5~1.9%까지 올랐음\n\n4) 근데 유가·금리가 오르면서 분위기 바뀜\n지금(장중) 다우 -1.06%, S&P500 -0.30%로 하락 전환\n나스닥은 +0.24%로 상승폭 대부분 반납, 반도체지수만 +1.24%로 버티는 중\n\n5) 미 10년물 금리는 5.07%대로 소폭 상승\n연준 추가 인상 우려가 아직 시장을 누르고 있다는 뜻\n\n호가가 뭐냐면!\n정식 거래 시작 전에 사려는 쪽·팔려는 쪽이 부르는 가격임. 실제 첫 체결가는 달라질 수 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n앤트로픽 하나로 AI 주식 전체가 살아나느냐가 관건인데, 지금은 '기술주만 웃고 나머지는 금리에 눌리는' 그림임\n내일 아침 코스피도 이 분위기(AI·반도체 vs 금리 부담)를 그대로 이어받을 가능성이 큼\n\n그리고 하나 더!\n공모주를 받자마자 바로 팔면, 다음 공모주 배정에서 불이익을 주는 증권사도 있을 수 있다고 함\n\n개미일수록 상장 첫날 출렁임을 다 먹으려 하기보다, 거래가 며칠 쌓이고 방향이 보인 뒤 판단하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5"
+   },
+   {
+    "name": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkozS3U3U05LNGRJZTcza3JMSmtaWVdGT00zUGdlMzVHcUdZc2tzRlJPcVIzbFhtSDhRZWNLZGtjZTVUemlNSnJQRUYtU0l0T2Q4ZGFLbUdEb1N3RFVkc0FLR0wxblBRSWVHZzQ5eDd5cU9BQTdVMzhwVVMzMUNaMWFab1AzRXUw?oc=5"
+   },
+   {
+    "name": "문화일보",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wT2FQNWR1QzJXN1E2QTNha1JrOXFZRkRuRVg4Ri16bnJvbEM1b1g2bXVrQm9nVjkzeWdSZ0gyeEZoTXBvWklxOUtFeXkyb0RT?oc=5"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261119185800091"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/etc/af/2026/11/19/PAF20261119239601009_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7T8ETDTK3X1WT0HPSKQE0AH/hi-the-company-launches-pre-ipo-markets.jpg",
+    "source": "Cointelegraph"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 앤트로픽 데뷔날, 근데 다우는 500포인트 빠졌음 👀 ② 공모가 83달러짜리가 105달러에 불렸음 🔥 ③ 앤트로픽은 웃는데 뉴욕증시는 왜 빠지냐 😱",
+   "올리기 전 실제 첫 체결가(개장가)와 마감가 확인 — 105달러는 개장 전 호가(CNBC 소식통 보도, 해외 단독 보도(CNBC))",
+   "시총 1.8조달러는 해외 단독 보도(Reuters) 전망치, 제목만 확인",
+   "지수 수치는 모두 장중(11/20 01:27 KST 기준). 마감 수치로 바꿔 쓸지 확인",
+   "공모주 단타 시 불이익은 미국 증권사 관행(해외 단독 보도(CNBC)) — 국내 투자자 해당 여부 단정하지 않기",
+   "미 10년물 5.076%(+0.010) 시세 표 기준"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
