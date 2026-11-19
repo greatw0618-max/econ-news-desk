@@ -10114,5 +10114,121 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261119-2127-1",
+  "createdAt": "2026-11-19T12:27:00.000Z",
+  "date": "2026-11-19",
+  "slot": "21시",
+  "category": "미국 증시",
+  "topic": "[후속] 앤트로픽 오늘밤(미국 19일) 나스닥 ANT 상장 직전 — 나스닥 선물 개장 전 2% 가까이↑, 개장 전 호가 공모가 대비 최대 24%↑(CoinDesk), 완전희석 1.5조달러, 나스닥100 고점 대비 -14%, 코스피 앤트로픽 효과 5,137.89(+1.39%), 유럽 혼조(WSJ·Reuters·CoinDesk·Investing.com·연합뉴스TV)",
+  "imageTitle": "앤트로픽 상장, 나스닥 들썩",
+  "imageHighlight": "들썩",
+  "imageData": "공모가 83달러 · 기업가치 약 1.5조달러 · 나스닥 선물 +2% 안팎(개장 전)",
+  "body": "오늘밤 역대 최대 IPO가 열림, 나스닥이 벌써 들썩임 🔥\n\n1) 앤트로픽(클로드 개발사)이 공모가 83달러로 오늘밤(미국 19일) 나스닥에 'ANT'로 상장함\n2) 완전희석 기준 기업가치 약 1조5천억달러, 사상 최대 공모 규모라고 함\n3) 상장 앞두고 나스닥 선물이 개장 전 2% 가까이 뛰었음 (개장 전 기준)\n4) 개장 전 호가로는 공모가보다 최대 20%대 높게 거래될 거란 관측도 나옴\n5) 앞서 끝난 아시아·유럽도 영향 받음. 코스피는 장중 5,000 깨졌다가 5,137.89(+1.39%)로 반등 마감, 유럽 증시는 혼조\n\n완전희석 기준이 뭐냐면!\n→ 스톡옵션 같은 앞으로 주식이 될 수 있는 것까지 다 합쳐서 계산한 기업가치임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 나스닥100은 최고점 대비 14% 빠진 상태에서 이 상장을 맞음\n→ 엔비디아 실적도 못 살린 AI 투자 심리를 이 상장이 되살리느냐가 오늘밤 관전 포인트\n→ 반대로 첫날 흥행이 시원찮으면 AI주 전반에 부담이 될 수 있음\n\n개미 입장에선 상장 첫날 급등락에 따라붙기보다, 며칠 지나 가격이 자리 잡는 걸 확인하고 판단하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f?mod=rss_markets_main"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/european-stocks-inch-up-as-massive-anthropic-ipo-counters-hawkish-fed-5037955"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories"
+   },
+   {
+    "name": "연합뉴스TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PTnhWLVQ0UFI3VGE2Z05sSEFWOHZCbkdYTVlDeTB4RnJQWXR3dFRYNG9YOHVqdl9WODZ0WkJYVWhYM2YzZklpU1p2Ti02eGFXOHN5eGh3TkY5UU1WY1QwdEsza0lzdW8?oc=5"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/202611198484i"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.wsj.net/im-23860304",
+    "source": "WSJ"
+   },
+   {
+    "url": "https://content-media.investing.com/news/LYNXMPEM5713J_1200_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 오늘밤 역대 최대 IPO가 열림, 나스닥이 벌써 들썩임 🔥 ② 엔비디아도 못 살린 AI 심리, 오늘밤 이 상장이 살릴까? 👀 ③ 공모가 83달러, 오늘밤 첫 거래가 시작됨 🔥",
+   "나스닥 선물 \"2% 가까이\", 개장 전 호가 \"최대 24%↑\"는 개장 전 수치(CoinDesk 해외 단독 보도). 올리는 시점에 실제 시초가·장중 가격으로 바꿀 것",
+   "공모 규모가 매체마다 다름: CoinDesk 1,070억달러, 한국경제 143조원, 코인리더스 813억달러, 이전 보도 약 940억달러 → 본문에선 \"사상 최대\"로만 씀. 확정 수치 확인 필요",
+   "\"나스닥100 최고점 대비 -14%\"는 CoinDesk 해외 단독 보도",
+   "상장은 한국시간 20일 새벽(미 동부 19일 오전). 올리는 시점이 상장 후라면 문장 시제 수정"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261119-2127-2",
+  "createdAt": "2026-11-19T12:27:00.000Z",
+  "date": "2026-11-19",
+  "slot": "21시",
+  "category": "거시경제·금리",
+  "topic": "JP모건 \"연준 내년까지 금리 3차례 인상, 2028년 25bp씩 2차례 인하\" 전망 — 월러 빅스텝·의사록 매파 기조 이어, 금 14개월 최저(Mining.com)·현재 3,716.4달러(-0.68%), 미 국채금리 소폭↑(블루밍비트·코인니스·Mining.com·CNBC·WSJ)",
+  "imageTitle": "JP모건 \"3번 더 올린다\"",
+  "imageHighlight": "3번",
+  "imageData": "JP모건 전망: 내년까지 3차례 인상 → 2028년 2차례 인하 · 금 3,716달러(-0.68%)",
+  "body": "연준 금리 인상, 한 번으로 안 끝난다는 전망이 나왔음 👀\n\n1) JP모건이 연준(미국 중앙은행)이 내년까지 금리를 세 차례 더 올릴 거라고 전망했음\n2) 금리를 다시 내리는 건 2028년, 0.25%p씩 두 번으로 봤다고 함\n3) 배경엔 매파 신호가 쌓여 있음. 월러 이사가 12월 0.5%p 인상(빅스텝)을 주장했고, 10월 회의록에선 거의 모든 참석자가 추가 인상 필요를 말했음\n4) 시장도 바로 반응함. 금값은 1년 2개월 만에 최저 수준까지 밀렸고, 지금 3,716달러(-0.68%)\n5) 미 국채금리도 연준 금리 경로를 보며 소폭 오르는 흐름이라고 함\n\n매파가 뭐냐면!\n→ 물가 잡는 걸 우선해서 금리 인상 쪽에 무게를 두는 사람들임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 미국 금리가 오래 높게 가면 대출금리·성장주·코인에 계속 부담\n→ 국내도 이미 주담대 변동금리가 6%를 넘었음. 한은도 금리 결정이 더 어려워짐\n→ 단, 은행 한 곳의 전망일 뿐이고 실제 결정은 물가·고용 지표에 달려 있음\n\n개미일수록 금리 뉴스 하나에 몰빵하지 말고, 12월 연준 회의 전후 급변동을 조심하면서 나눠서 대응하는 게 좋을 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CYlc1b0pDOEs0cFpHQjZSaXdBTUZSZ2JCbHJJMFhjVWNXTVdscHhnWWppcUtKT3duQWFvOEhRWUxrZ0JWZ3RwMEhaQnAta0M2?oc=5"
+   },
+   {
+    "name": "bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YZEdPNHFQbTUwRW9kcmhWem8xdDZXZVA1WTlOVHo4UjF3dTEtQlI1RThsYWw5eTVVSnJObVlSdTFzZjRpOVlvaUxCTUgwSU1ZSHp0eQ?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176225"
+   },
+   {
+    "name": "Mining.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzJ3SW41M0FnMmVhbTNmV0xqR3dfYlZLMV9nM0FDNzMydGI3MFdLVmJWYnZLRFVyd2pWdGZucHl6SGdqdDZTekg4NmE0TVNHVGFIb09Zc1gxdHk3TjBicmdIYWhmQkZnUDVobWJvTk83U0pCSEdLbXBfTWMyUThHb2JwVjU5OFFOWHBxbk5NR01ReVdseDVhalB1cGYtWncyZFV4cVhPOUVIZw?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNkZZT1lIeU1WR19KR0NSTzF2YzA4dnQwalkwYTZKRUpJOW9DWldwNHdfZ1d1eXFmcHU0WHNlTXVocTNaQks3Tm9UalRQUFFGOXp3VkNNdDRHV1Y5czJQZ29fblFmcENfSnZUQWJsU3FjeWNfVTFVM1kxZzlUUWhuOTBB0gGHAUFVX3lxTE0ydXg2dUZCNEs4WnNRc2ZhUmFxR19LRkRzREFLOFc0aWxWSDJFTFJXaEQxdTJtQkg5Smo4azh3bXdRc1VveW9aYk5Rbzc0bGRxZng5dVhQWXhCV0syX09tVHRxclg1b2hiMnJjSzZjSm9LUWh1azA2bjZVbkNkY3cwRmpYT2ZiSQ?oc=5"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUxqWVA1Y044cTZjWkE0VlVFR3hrRVh1S0ZsLW5VVDZfNlRsT0dmNElmUG1ocmh5Wi11eGhRZEFTbEJpbjVjM3F4b0t1TGtiYTZ5UFlMdFBZSXBQdlNUQ2gxMklZclRVOG9JSkVBNFRmMmVSckpzeFQyZ1RxN250RjZpWXJUTnBKQmhhRXBCV2FERE50STNlZU5n?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 연준 금리 인상, 한 번으로 안 끝난다는 전망이 나왔음 👀 ② 금리 내리는 건 2028년? JP모건 전망 나왔음 😱 ③ 미국 금리, 세 번 더 오른다는 얘기 나옴 🔥",
+   "JP모건 전망은 블루밍비트·코인니스 보도(기사 제목·요약 기준). 인상 폭·시점(12월 포함 여부) 원문 확인 필요",
+   "금 \"14개월 최저\"는 Mining.com 기준. 금 시세 3,716.4달러는 21:17 기준",
+   "국채금리 \"소폭 상승\"은 CNBC·WSJ 제목 기준, 시세 표의 10년물(5.066%, -0.037%p)은 04:59 기준이라 숫자는 본문에 안 씀"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
