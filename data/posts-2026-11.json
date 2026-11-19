@@ -10378,5 +10378,115 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261120-0327-1",
+  "createdAt": "2026-11-19T18:27:00.000Z",
+  "date": "2026-11-20",
+  "slot": "03시",
+  "category": "미국 증시",
+  "topic": "[후속] 앤트로픽 상장 첫날 시초가 111.5달러(공모가 83달러 대비 +34%)·시총 2조달러 돌파 → 장중 115달러 뒤 100달러 아래(시초가 대비 약 -10%), 뉴욕증시 동반 하락 다우 -1.59%·S&P -1.24%·나스닥 -1.23%(장중), VIX 27.84(+13%), AMD 공매도 리포트(헌터브룩, 중국 유출 의혹) 급락(연합뉴스·Reuters·CNBC·Cointelegraph·KB Think·Nasdaq)",
+  "imageTitle": "앤트로픽 뜨자 증시는 빠졌다",
+  "imageHighlight": "빠졌다",
+  "imageData": "ANT 시초가 111.5달러(+34%) · 다우 -1.59% · 나스닥 -1.23% (장중)",
+  "body": "앤트로픽 상장 첫날, 34% 뛰고 시작했는데 뉴욕증시는 왜 빠졌을까? 😱\n\n1) 앤트로픽(ANT), 19일(미국) 나스닥 데뷔. 시초가 111.5달러로 공모가 83달러보다 34% 높게 출발했음\n2) 시초가 기준 시가총액 2조달러를 넘겼다고 함. 6월 스페이스X 상장 기록도 넘어선 역대급 데뷔\n3) 근데 장중 115달러 찍은 뒤 100달러 아래로 밀림. 시초가 대비 10% 가까이 빠진 롤러코스터\n4) 지수는 같이 미끄러짐. 다우 -1.59%, S&P500 -1.24%, 나스닥 -1.23% (장중)\n5) 공포지수(VIX)는 27.84로 하루 13% 넘게 뛰었음\n6) 여기에 AMD는 공매도 리포트(칩이 제재 대상 중국 기업에 흘러갔다는 주장)에 급락. 회사는 \"미국 법 준수한다\"는 입장\n\n공매도 리포트가 뭐냐면!\n주가 하락에 베팅한 투자사가 \"이 회사 문제 있다\"는 보고서를 내는 것. 사실 여부와 별개로 발표 직후 주가가 크게 흔들림\n\n그래서 우리랑 무슨 상관이냐 ⭐\n\"앤트로픽 상장이 AI 랠리를 다시 살린다\"는 기대가 컸는데, 막상 상장하자 차익실현이 먼저 나왔음\n연준 추가 인상 우려, 유가·금리 부담까지 겹쳐서 오늘 코스피·반도체주 출발도 이 분위기를 받을 가능성이 있음\n\n개미 입장에선 대형 공모주 첫날 급등락을 다 먹으려 하기보다, 며칠 지나 가격이 자리 잡는 걸 확인하고 보는 게 안정적일 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261120003100091"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   {
+    "name": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56SHpIUlJtb1JySFk3S3pXRERGeWVDQW9jQ19XUkZ3c3FpS09TcW5hczNZemZIbG9zaE1zbkVmT3hfVkdHaWoyY3hxXzFZV25EQnBTRDlBRGo3OW5sMEpnMGZHcWZTVExGRURPdlFRRWdhZw?oc=5"
+   },
+   {
+    "name": "Nasdaq",
+    "url": "https://www.nasdaq.com/articles/why-amd-stock-was-plunging-thursday"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/ap/2026/11/20/PAP20261120011901009_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://images.wsj.net/im-23860304",
+    "source": "WSJ"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 앤트로픽 상장 첫날, 34% 뛰고 시작했는데 뉴욕증시는 왜 빠졌을까? 😱 ② 역대급 IPO 날, 오히려 다우는 800포인트 가까이 빠졌음 🔥 ③ 앤트로픽 시총 2조달러… 근데 시초가 산 사람은 벌써 -10%? 👀",
+   "지수·VIX는 03:27(KST) 장중 수치 — 마감 수치로 바꿔 올릴 것",
+   "앤트로픽 현재 주가(100달러 아래)는 Cointelegraph·KB Think 기준 장중 수치, 마감가 확인 필요",
+   "시총 2조달러는 시초가 기준(Reuters·연합뉴스·CoinDesk). WSJ는 1.5조~2조달러 계산 방식 차이 지적",
+   "AMD 하락률은 기사에 수치 없음 — 마감 등락률 확인 후 넣을지 결정. 공매도 리포트 주장은 회사가 부인(미국법 준수)"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261120-0327-2",
+  "createdAt": "2026-11-19T18:27:00.000Z",
+  "date": "2026-11-20",
+  "slot": "03시",
+  "category": "코인",
+  "topic": "비트코인 증시 급락에도 63,152달러 보합(6.2만달러 3번째 재시험, Cointelegraph) / 갤럭시리서치: 미 기관 3분기 현물 ETP로 약 4.9만BTC(49,229) 순매수·작년 2분기 이후 최대, 9/30 보유량 356,491BTC 사상 최대 vs 현재 ETF 하루 4,153억원 유출·상장 채굴업체 1월 이후 보유량 절반 매각(글래스노드), 공포탐욕 10(코인니스·코인리더스)",
+  "imageTitle": "기관은 샀는데, 지금은?",
+  "imageHighlight": "지금은",
+  "imageData": "기관 3분기 +4.9만 BTC · 현재 BTC 63,152달러 · 공포탐욕 10",
+  "body": "나스닥은 1% 넘게 빠졌는데, 비트코인은 6.3만달러에서 버티는 중 👀\n\n1) 앤트로픽 상장날 뉴욕증시 3대 지수 모두 1%대 하락(장중). 비트코인은 63,152달러로 거의 제자리(+0.26%)\n2) 다만 이게 강하다는 뜻은 아님. 6.2만달러를 세 번째로 다시 시험하는 자리라고 함\n3) 갤럭시리서치 분석: 미국 기관들이 3분기에 비트코인 현물 ETF로 약 4.9만 BTC를 순매수했음. 작년 2분기 이후 최대\n4) 9월 30일 기준 기관 보유량은 약 35.6만 BTC로 사상 최대\n5) 근데 지금은 분위기가 반대. 현물 ETF에서 하루 4,153억원이 빠져나갔고, 상장 채굴업체들은 올해 1월 이후 보유 BTC의 거의 절반을 팔았다고 함(AI·데이터센터 투자 자금)\n6) 공포·탐욕 지수는 10, '극단적 공포' 구간\n\n13F가 뭐냐면!\n미국 대형 운용사가 분기마다 \"우리 이거 들고 있음\"을 공개하는 보고서. 그래서 지금 나오는 숫자는 9월 말 기준, 즉 두 달 전 얘기임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n\"기관이 사상 최대로 샀다\"는 뉴스만 보면 든든해 보이지만, 그건 가격이 높던 3분기 얘기\n지금 실제 돈 흐름(ETF 유출·채굴업체 매도)은 아직 반대 방향이라, 두 숫자를 같이 봐야 함\n\n개미일수록 \"기관이 샀다\"는 헤드라인만 보고 들어가기보다, ETF 자금이 다시 들어오는 게 확인된 뒤 추세를 보는 게 안정적일 듯\n단, 극단적 공포 구간은 작은 뉴스에도 위아래로 크게 흔들릴 수 있으니 레버리지는 특히 조심\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176257"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176262"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1elNhb3dTc2lsdGlVLUJpQjVVUldHY2c1RFMzbXBqTEQ2YVQtT2Q0OGtfR2RaaE5HdWl6dHRPTVhNQmhiMDQ1elh3?oc=5"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TCJA0M8WRD0SM02A6P1Y5K/ai-machine-cyber-mind-960x644.webp",
+    "source": "Cointelegraph"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 나스닥은 1% 넘게 빠졌는데, 비트코인은 6.3만달러에서 버티는 중 👀 ② 기관이 비트코인 사상 최대로 샀다는데, 왜 가격은 이럴까? 🤔 ③ '기관 매수 사상 최대' 뉴스, 그대로 믿으면 안 되는 이유 🔥",
+   "갤럭시리서치 3분기 수치(49,229 BTC·356,491 BTC)는 코인니스 단독 출처 — 원 보고서 확인 필요",
+   "ETF 하루 4,153억원 유출은 코인리더스 단독 출처(제목 기준), 어느 날짜 기준인지 확인 필요",
+   "비트코인 가격·공포탐욕 지수는 03:27(KST) 기준, 올리기 전 최신 값으로 바꿀 것",
+   "ETF 유출·채굴업체 매도는 11/19 05시·19시 글과 일부 겹침 — 같은 날 함께 올리면 중복 표현 정리"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
