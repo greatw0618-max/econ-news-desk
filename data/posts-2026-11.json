@@ -10597,5 +10597,118 @@
    "OglS63S7rpk"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261120-0727-1",
+  "createdAt": "2026-11-19T22:35:00.000Z",
+  "date": "2026-11-20",
+  "slot": "07시",
+  "category": "미국 증시",
+  "topic": "[후속] 뉴욕증시 마감 — 다우 49,097(-2.19%) 5만선 붕괴·나스닥 -2.25%·S&P -2.02% 6거래일 연속 하락, 앤트로픽 97.17달러(공모가 대비 +17%) 마감, 4대 지수 2025년 4월 이후 최악의 주 페이스(MarketWatch), VIX 28.44",
+  "imageTitle": "다우 5만선, 결국 붕괴",
+  "imageHighlight": "붕괴",
+  "imageData": "다우 49,097 (-2.19%) · 나스닥 23,879 (-2.25%) · S&P 7,175 (-2.02%)",
+  "body": "역대급 상장이 열린 날, 뉴욕증시는 오히려 1,100포인트 빠졌음 😱\n\n1) 밤사이 뉴욕 3대 지수 모두 2%대 급락 마감\n다우 49,097(-2.19%), 나스닥 23,879(-2.25%), S&P500 7,175(-2.02%)\n\n2) 다우는 하루에 1,101포인트 빠지면서 5만선 아래로 내려왔음\nS&P500은 6거래일 연속 하락이라고 함\n\n3) 주인공 앤트로픽은 상장 첫날 97.17달러로 마감\n공모가 83달러보다 17% 높지만, 시초가 111.5달러에서는 꽤 밀린 채 끝났음\n\n4) 문제는 나머지 AI주\n앤트로픽에 돈이 몰리면서 기존 AI·반도체·데이터센터주를 파는 흐름이 나왔다는 분석\n필라델피아 반도체지수도 -2.41%\n\n5) 공포지수(VIX)는 28.44로 하루 새 15.8% 뛰었음\nVIX가 뭐냐면! 앞으로 미국 증시가 얼마나 출렁일지에 대한 시장의 예상치임. 20을 넘으면 불안이 크다는 뜻\n\n6) 미국 4대 지수 모두 2025년 4월 '관세 쇼크' 이후 가장 나쁜 한 주로 갈 페이스라는 보도도 나왔음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n오늘 국장도 반도체주가 다시 시험대에 오를 가능성이 큼. 대형 상장이 '호재'가 아니라 기존 AI주 '자금 빼기'로 작용했다는 게 핵심임\n\n개미일수록 급락 다음 날 바로 반등을 노리기보다, 지수가 바닥을 다지는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 본 글은 정보 제공 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories"
+   },
+   {
+    "name": "Nasdaq",
+    "url": "https://www.nasdaq.com/articles/stock-market-today-nov-19-dow-plunges-1100-points-sp-500-suffers-its-6th-straight-day"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261120014100091"
+   },
+   {
+    "name": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWV9PanAybzhlYWk2aktENUpNRE45bDFhLU5RdkczS2tSc1hZNmR3ZFc4S3R3Q3VDQUpwZUNVNkF4RTh4WE1YVXcxWXZlQzYzTlhxdllrMWRaSVJDVzBNN19ZOTRubTlSbHVpajU3R0FKSHNDaHIxVDR0eU1kVDdmcWNHNGdSWGI4?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAI2EZ_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://img.yna.co.kr/photo/ap/2026/11/20/PAP20261120002001009_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 역대급 상장이 열린 날, 뉴욕증시는 오히려 1,100포인트 빠졌음 😱 ② 다우 5만, 결국 지키지 못했음 👀 ③ 앤트로픽은 +17%인데 시장은 왜 -2%? 🔥",
+   "'2025년 4월 이후 최악의 주 페이스'는 해외 단독 보도(MarketWatch), 금요일 마감 전 표현",
+   "'S&P500 6거래일 연속 하락'은 해외 단독 보도(Nasdaq.com)",
+   "'앤트로픽으로 자금 이동' 해석은 Reuters 요약 기준",
+   "지수는 시세 표 기준(11/20 07시 수집)"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261120-0727-2",
+  "createdAt": "2026-11-19T22:35:00.000Z",
+  "date": "2026-11-20",
+  "slot": "07시",
+  "category": "코인",
+  "topic": "AI 대어 IPO와 코인 — 앤트로픽 상장날 기존 AI주 매도와 함께 비트코인 62,001달러(-1.57%)·6.2만달러 하회, 공포탐욕 10, 크립토 선물이 앤트로픽 시초가 1% 이내 예측(Hyperliquid)·토큰화 ANT 거래 83% 유니스왑",
+  "imageTitle": "AI 상장날, 코인도 흔들",
+  "imageHighlight": "흔들",
+  "imageData": "비트코인 62,001달러 (-1.57%) · 공포·탐욕 지수 10 (극단적 공포)",
+  "body": "AI 역대급 상장날, 왜 비트코인까지 같이 빠졌을까? 👀\n\n1) 앤트로픽이 나스닥 상장 첫날 공모가보다 17% 높은 97.17달러로 마감\n그런데 같은 날 나스닥은 -2.25%\n\n2) 새로 상장한 AI 대어로 돈이 옮겨가면서, 기존 AI주를 파는 흐름이 나왔다는 분석\n엔비디아·AMD·마이크론 같은 반도체주가 같이 밀렸음\n\n3) 비트코인도 따라 내려갔음\n새벽 한때 6만 2천달러 아래로 내려갔고, 지금 62,001달러(-1.57%)\n지난 1시간 동안 선물 1.11억달러어치가 강제 청산됐음\n\n4) 코인 공포·탐욕 지수는 10\n공포·탐욕 지수가 뭐냐면! 0~100 사이로 시장 분위기를 숫자로 나타낸 것. 10이면 '극단적 공포' 구간임\n\n5) 재밌는 건 코인 시장이 이번 상장에 꽤 깊게 엮여 있었다는 점\n하이퍼리퀴드의 앤트로픽 선물 가격은 실제 나스닥 시초가와 1% 이내로 맞았고, 온체인에서 거래된 토큰화 앤트로픽 주식은 83%가 유니스왑에서 처리됐다고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n요즘 코인은 'AI 기술주'와 같이 움직이는 위험자산처럼 거래되는 중임. 큰 AI 상장이나 AI주 급락이 있는 날엔 코인도 같은 방향으로 흔들릴 수 있다는 것\n\n개미일수록 극단적 공포 구간에서 레버리지로 반등을 노리기보다, 가격이 다시 자리 잡는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 본 글은 정보 제공 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=rWmGNHEA8-c"
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261120014100091"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176293"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176294"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176297"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pSFRoa0hhc25nS3VqUDRLQVIxbVR3cFZ4cm4yNi1iaTF6X3lIRVZPR3FTRjMzektCaHRsbUJTTXZwb3ZsQnljVFZR?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png",
+    "source": "Decrypt"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① AI 역대급 상장날, 왜 비트코인까지 같이 빠졌을까? 👀 ② 앤트로픽 +17%, 비트코인은 -1.57% 😱 ③ 공포지수 10… 코인이 AI주를 따라가는 중 🔥",
+   "자막 못 가져옴 — 영상 제목·설명(AI IPO와 비트코인 상관관계)만 반영, 영상 속 수치는 쓰지 않음",
+   "'토큰화 앤트로픽 83% 유니스왑'은 단독 출처(코인니스, 유니스왑 창립자 SNS 인용)",
+   "'하이퍼리퀴드 선물 시초가 1% 이내'는 해외 단독 보도(Cointelegraph)",
+   "선물 청산 1.11억달러는 06:26 기준 1시간치(코인니스)",
+   "비트코인 가격은 올리기 직전 다시 확인"
+  ],
+  "videos": [
+   "rWmGNHEA8-c"
+  ],
+  "status": "draft"
  }
 ]
