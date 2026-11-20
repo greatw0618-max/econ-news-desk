@@ -11219,5 +11219,63 @@
    "WC9DEdqh1Iw"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261120-1927-1",
+  "createdAt": "2026-11-20T10:27:00.000Z",
+  "date": "2026-11-20",
+  "slot": "19시",
+  "category": "미국 증시",
+  "topic": "[후속] 오늘밤(20일) 뉴욕 7거래일 연속 하락 기로 — S&P 6일 연속 하락 7,175.83(-2.02%), 하루 더 빠지면 2020년 이후 최장(WSJ), 나스닥 선물 재하락, 앤트로픽 프리마켓 -6%·엔비디아·AMD 약세(CNBC), 유럽 5일 연속 하락·3월 이후 최악 주, VIX 29.53, 과거 6일 연속 하락 뒤 성적 분석(MarketWatch)",
+  "imageTitle": "오늘밤 뉴욕, 7일째 빠지나",
+  "imageHighlight": "7일째",
+  "imageData": "S&P 500 7,175.83(-2.02%) · 6거래일 연속 하락 · 앤트로픽 프리마켓 -6%",
+  "body": "오늘밤 뉴욕증시, 2020년 이후 최장 연속 하락 기록 쓸 수도 있음 👀\n\n1) S&P 500은 어제(19일)까지 6거래일 연속 하락, 7,175.83(-2.02%)으로 마감했음\n2) 오늘밤도 나스닥 선물이 다시 밀리는 중. 하루 더 빠지면 2020년 이후 가장 긴 연속 하락이라고 함(WSJ)\n3) 상장 이틀째 앤트로픽은 개장 전 거래에서 6% 하락. 엔비디아·AMD도 같이 빠지는 중(CNBC)\n4) 유럽증시도 5거래일 연속 하락, 3월 이후 최악의 주를 향해 가는 중이고 아시아는 2020년 이후 최악의 주였음\n5) 공포지수 VIX는 29.53까지 올라옴\n\nVIX가 뭐냐면!\nS&P 500 옵션 가격으로 계산한 '앞으로 한 달 출렁임 예상치'임. 20 위면 불안, 30 근처면 꽤 겁먹은 상태로 봄\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 뉴욕이 오늘밤 또 빠지면 월요일 코스피·코인도 그 분위기로 출발할 가능성이 큼\n→ 반대로 과거 S&P 6일 연속 하락 뒤에는 이후 성적이 오히려 괜찮았던 경우가 많았다는 분석도 있음(MarketWatch). 다만 과거 통계가 이번에도 맞는다는 보장은 없음\n\n개미일수록 바닥 맞히기보다, 하락이 멈추고 반등이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유 아님, 판단과 책임은 본인에게",
+  "sources": [
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/heres-what-happened-next-after-previous-times-the-s-p-500-losing-streak-reached-six-sessions-13ff7704?mod=mw_rss_topstories"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/european-shares-head-for-steepest-weekly-drop-since-march-5040936"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate-5040496"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.wsj.net/im-925349",
+    "source": "WSJ"
+   },
+   {
+    "url": "https://images.mktw.net/im-43594431",
+    "source": "MarketWatch"
+   }
+  ],
+  "checks": [
+   "오늘밤 개장 직전 나스닥 선물·앤트로픽 프리마켓 등락률 다시 확인(19시 기준 기사)",
+   "\"2020년 이후 최장 연속 하락\"은 오늘 하락 마감 시에만 성립(WSJ 해외 단독 보도)",
+   "앤트로픽 프리마켓 -6%는 해외 단독 보도(CNBC)",
+   "과거 6일 연속 하락 뒤 성적은 해외 단독 보도(MarketWatch), 구체 수치는 본문 확인 필요",
+   "VIX 29.53은 19:12 기준",
+   "첫 줄 후보: ① 오늘밤 뉴욕증시, 2020년 이후 최장 연속 하락 기록 쓸 수도 있음 👀 ② S&P 6일 연속 하락… 오늘밤이 7일째 될까? 😱 ③ 앤트로픽 상장 이틀째, 프리마켓 -6% 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
