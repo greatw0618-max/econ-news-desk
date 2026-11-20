@@ -11443,5 +11443,124 @@
    "WC9DEdqh1Iw"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261121-0127-1",
+  "createdAt": "2026-11-20T16:27:00.000Z",
+  "date": "2026-11-21",
+  "slot": "01시",
+  "category": "미국 증시",
+  "topic": "[후속] 필라델피아 반도체 -7.45%·나스닥 -2.74%(장중) 올해 상승분 반납(CNBC), 엔비디아 7일간 시총 8110억달러 증발·2008년 이후 최장 주간 하락 행진(MarketWatch), 앤트로픽 87달러 공모가 83달러 근접(Cointelegraph·MarketWatch), 다우 -0.09% 보합, 구글 브로드컴 TPU 축소 보도, 미 10년물 4.956%",
+  "imageTitle": "반도체지수, 하루 7% 폭락",
+  "imageHighlight": "7%",
+  "imageData": "필라델피아 반도체 8,717.96 (-7.45%) · 나스닥 23,225.57 (-2.74%) · 다우 49,053.91 (-0.09%) (장중)",
+  "body": "오늘 밤 뉴욕, 반도체가 통째로 무너지는 중 😱\n\n1) 필라델피아 반도체지수 8,717.96(-7.45%, 장중)\n하루에 7% 넘게 빠지는 건 흔한 일이 아님\n\n2) 나스닥도 23,225.57(-2.74%, 장중)\n장중에 올해 오른 걸 전부 반납하고 마이너스 전환했다고 함\n\n3) 반면 다우는 49,053.91(-0.09%, 장중)으로 거의 보합\n같은 미국 증시인데 기술주만 집중적으로 맞는 모습임\n\n4) 엔비디아는 최근 7일 동안 시가총액이 약 8,110억 달러 증발\n주간 하락이 이렇게 길게 이어지는 건 2008년 이후 처음이라고 함\n\n5) 이틀 전 상장한 앤트로픽도 87달러 근처까지 밀림\n공모가 83달러가 코앞이라 \"AI 기대감이 꺾였다\"는 해석이 나옴\n\n6) 여기에 구글이 브로드컴이 설계하는 AI 칩(TPU) 계획을 줄인다는 보도까지 나옴\n\n필라델피아 반도체지수가 뭐냐면!\n엔비디아·AMD·브로드컴 같은 미국 반도체 대표 30개 종목을 묶은 지수임\n삼성전자·SK하이닉스 다음 날 흐름이랑 같이 움직이는 경우가 많음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 금요일 코스피가 이미 -5.21%로 10개월 만에 최저였는데\n- 밤사이 반도체가 더 빠지면 다음 주 월요일 국내 반도체주 출발이 부담됨\n- 대신 돈은 채권으로 몰리는 중(미 10년물 금리 4.956%, -0.096%p)\n\n개미일수록 \"많이 빠졌으니 반등하겠지\"로 바로 들어가기보다, 하락이 멈추는 게 확인된 뒤에 나눠서 대응하는 게 안정적일 듯\n단, 장 마감까지 숫자가 크게 바뀔 수 있으니 마감 수치 꼭 다시 보기\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-fall-as-anthropic-debut-fails-to-revive-ai-trade-5040450"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-5042253"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.mktw.net/im-34722118",
+    "source": "MarketWatch"
+   },
+   {
+    "url": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 오늘 밤 뉴욕, 반도체가 통째로 무너지는 중 😱 ② 나스닥, 올해 오른 거 다 토해냈음 👀 ③ 엔비디아 일주일에 1,000조원 넘게 날아갔다 🔥",
+   "지수는 모두 장중 수치(01:27 KST 기준). 마감 수치로 바꿔서 올릴 것",
+   "나스닥 올해 마이너스 전환은 CNBC·Investing.com 제목 기준(장중 일시 전환일 수 있음)",
+   "엔비디아 7일간 시총 8,110억달러 증발·2008년 이후 최장 주간 하락은 MarketWatch 해외 단독 보도",
+   "앤트로픽 87달러는 Cointelegraph 기준 장중 가격",
+   "구글 브로드컴 TPU 축소는 '보도(reportedly)' 수준, Investing.com 해외 단독"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261121-0127-2",
+  "createdAt": "2026-11-20T16:27:00.000Z",
+  "date": "2026-11-21",
+  "slot": "01시",
+  "category": "코인",
+  "topic": "[후속] 비트코인 6만달러 붕괴 — 7월 이후 처음(BeInCrypto), 59,074달러(-4.57%)·바이낸스 58,828달러(코인니스), 원화 8,133.9만원(-3.46%), 1시간 7.68억달러·24시간 15.42억달러 선물 청산(코인니스), 이더 -5.82%·도지 -6.69%, 공포탐욕 12, 증시와 동반 하락 '디지털 금' 시험 실패(CNBC), 트럼프미디어 11/30 전환사채 최대 8.83억달러 상환·BTC 매도 가능성(코인니스)",
+  "imageTitle": "비트코인 6만달러 깨졌다",
+  "imageHighlight": "6만달러",
+  "imageData": "BTC 59,074달러 (-4.57%) · 1시간 청산 7.68억달러 · 공포·탐욕 12",
+  "body": "비트코인, 결국 6만 달러 아래로 내려옴 😱\n\n1) 비트코인 59,074달러(-4.57%)\n바이낸스에선 한때 58,828달러까지 밀렸음\n6만 달러 아래는 7월 이후 처음이라고 함\n\n2) 원화로는 8,133.9만원(-3.46%, 전일 0시 대비)\n이더리움 -5.82%, 솔라나 -5.18%, 도지코인 -6.69%로 알트가 더 크게 빠짐\n\n3) 떨어지는 속도가 빨라지면서 선물 강제 청산이 쏟아짐\n지난 1시간에만 7.68억 달러, 24시간 기준 15.42억 달러\n\n강제 청산이 뭐냐면!\n빌린 돈으로 크게 베팅한 포지션이 일정 손실을 넘으면 거래소가 자동으로 정리해 버리는 것\n이게 한꺼번에 터지면 매도가 매도를 부르면서 하락 폭이 커짐\n\n4) 같은 시간 나스닥 -2.74%, 반도체지수 -7.45%(장중)\n비트코인이 '디지털 금'처럼 버티지 못하고 기술주랑 같이 빠지는 중이라는 분석이 나옴\n\n5) 다음 변수 하나 더\n트럼프미디어가 11월 30일까지 최대 8.83억 달러 전환사채를 갚아야 함\n보유 비트코인 약 1.56만 개, 다른 자금이 부족하면 매도할 수도 있다고 밝힘\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 공포·탐욕 지수 12, '극단적 공포' 구간이 계속되는 중\n- 코인은 주말에도 24시간 거래돼서, 증시가 쉬는 주말에 변동이 더 커질 수 있음\n\n개미일수록 레버리지는 특히 조심하고, 바닥을 맞히려 하기보다 하락이 멈추는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176397"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176398"
+   },
+   {
+    "name": "BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82VFBnMnR6TjI1ZENjN3paa2ljUkd0OThNcmxPU0ZnZjBrQnM2NENyOVB2S2VWQVBDSjE2UGRWa0lNVFdGMGpzRk5LRVBlbW9sZlRVbmhZTGI1OXF3SXYwcDFncnBtSTRpeW5XaC1iOXFicnluOGdv?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5paEdaQloxWGc3QUg5MnlqcXhHd054dGEzdFI1bUMtQkpSYmVaUVRlTks5T1RwY25VWUg2MFBqTlR0cHFoX1BhZFZNOUlid29m?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176393"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WQNA6474S1X1PQY3N7WJMX/hi-bollinger-band-explained2-960x640.webp",
+    "source": "Cointelegraph"
+   },
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/821262fb4f697ff07420d4aa3b5969e9eb886658-5424x3616.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인, 결국 6만 달러 아래로 내려옴 😱 ② 1시간에 청산 1조원 넘게 터졌음 🔥 ③ 7월 이후 처음 보는 비트코인 가격 👀",
+   "코인 가격은 01:27 KST 기준, 올리기 직전 다시 확인",
+   "'7월 이후 처음'은 BeInCrypto 기준(Cointelegraph는 20주 최저로 표현)",
+   "1시간 7.68억달러·24시간 15.42억달러 청산은 코인니스 집계(블루밍비트는 24시간 10.9억달러로 집계 기준 다름)",
+   "트럼프미디어 전환사채 상환·BTC 보유량은 코인니스(비트코인뉴스 인용) 단독 출처"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
