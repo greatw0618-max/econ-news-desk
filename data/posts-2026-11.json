@@ -11562,5 +11562,122 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261121-0327-1",
+  "createdAt": "2026-11-20T18:27:00.000Z",
+  "date": "2026-11-21",
+  "slot": "03시",
+  "category": "미국 증시",
+  "topic": "[후속] S&P 500·다우 조정 영역 진입, 나스닥 올해 상승분 전부 반납 — S&P -2.16%·나스닥 -3.48%·다우 -0.78%·필라델피아 반도체 -8.34%(장중 03:27), 앤트로픽 상장 이튿날 약 13% 급락·개인 손실(Investing.com), VIX 32.36, 10년물 4.934%(CNBC·WSJ·Reuters·Nasdaq)",
+  "imageTitle": "S&P·다우, 결국 조정장 진입",
+  "imageHighlight": "조정장",
+  "imageData": "S&P 500 7,020.98 (-2.16%) · 나스닥 -3.48% · 반도체 -8.34% (장중)",
+  "body": "뉴욕증시, 결국 '조정장' 들어갔음 😱\n\n1) S&P 500 -2.16%, 다우 -0.78%, 나스닥 -3.48% (장중, 한국시간 새벽 3시 반 기준)\n2) S&P 500과 다우가 고점 대비 10% 넘게 빠지며 '조정 영역'에 진입했다고 함 (CNBC·WSJ)\n3) 나스닥은 올해(2026년) 오른 걸 전부 반납했음\n4) 반도체가 제일 아팠음. 필라델피아 반도체지수 -8.34% (장중)\n\n조정이 뭐냐면!\n👉 최근 고점에서 10% 이상 떨어진 상태를 말함. 20% 넘게 빠지면 '약세장'이라고 부름\n\n5) 방아쇠는 이번에도 앤트로픽. 상장 다음 날 주가가 13% 가까이 빠지면서 첫날 따라 산 개인투자자들 손실 보도까지 나옴 (Investing.com)\n6) \"대어 상장도 AI 매수세를 못 살렸다\"는 해석에 엔비디아 등 AI주 전반으로 매도가 번졌음\n7) 공포지수(VIX)는 32.36으로 +13.78%, 돈은 미국 국채로 피신 중 (10년물 4.934%, -0.118%p)\n\n그래서 우리랑 무슨 상관이냐 ⭐\n👉 어제 코스피가 -5.21% 빠진 것도 이 AI 매도 흐름 때문이었음\n👉 뉴욕이 이렇게 끝나면 월요일 국내 반도체 대형주 출발도 부담이 될 수 있음\n👉 주말 동안 24시간 거래되는 코인 쪽도 같이 흔들릴 수 있음\n\n개미일수록 떨어지는 칼날을 잡으려 하기보다, 바닥 신호가 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 장 마감까지 2시간 넘게 남아서 숫자는 더 바뀔 수 있음\n\n📌 본 글은 정보 공유 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-retail-traders-face-losses-as-shares-dive-13-the-day-after-debut-5042375"
+   },
+   {
+    "name": "Nasdaq",
+    "url": "https://www.nasdaq.com/articles/why-nvidia-stock-down-today"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.wsj.net/im-04359818",
+    "source": "WSJ"
+   },
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ1P0_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "모든 지수는 장중 수치(11/21 03:27 KST). 06시 마감 후 종가로 고쳐서 올릴 것",
+   "'조정 영역 진입'은 CNBC 제목(장중) 기준, Reuters는 '진입 직전(on track)'으로 표현 — 마감 후 실제 진입 여부 확인",
+   "앤트로픽 약 13% 하락은 Investing.com 단독 수치(해외 단독 보도), 장중 기준",
+   "첫 줄 후보: ① 뉴욕증시, 결국 '조정장' 들어갔음 😱 ② 나스닥, 올해 오른 거 다 토해냈음 🔥 ③ 반도체지수 하루 -8%, 이게 실화임? 👀"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261121-0327-2",
+  "createdAt": "2026-11-20T18:27:00.000Z",
+  "date": "2026-11-21",
+  "slot": "03시",
+  "category": "거시경제·금리",
+  "topic": "연준 쿡 이사 '금리 인상 더 필요·9월 인상만으론 부족·AI 자금조달 주시' vs 베센트 재무장관 '인상 폭 작게'·월러 빅스텝 비판, 트럼프 '금리 너무 높다', 금 3,524.2달러(-4.38%, 장중) 주간 9% 가까이 급락(Investing.com·연합인포맥스·블루밍비트·코인니스·IBT·FXStreet·WSJ)",
+  "imageTitle": "연준 \"금리 더 올려야\"",
+  "imageHighlight": "더 올려야",
+  "imageData": "금 3,524.2달러 (-4.38%, 장중) · 미 10년물 4.934%",
+  "body": "연준에서 \"금리 더 올려야 한다\"는 말이 또 나왔음 👀\n\n1) 리사 쿡 연준 이사가 \"높은 물가를 잡으려면 금리 인상이 필요하다\"고 말했음\n2) \"9월 한 번 올린 걸로는 물가 압력을 잡기 부족할 수 있다\"는 발언도 함\n3) AI 산업에 돈이 어떻게 흘러가는지(자금 조달)도 지켜보고 있다고 밝혔음 (Investing.com)\n\n빅스텝이 뭐냐면!\n👉 금리를 한 번에 0.5%p 올리는 것. 보통은 0.25%p씩 움직임\n\n4) 반대로 베센트 미 재무장관은 \"에너지 충격을 감안해 인상 폭을 더 작게 가야 한다\"는 쪽\n5) 빅스텝을 꺼낸 월러 연준 이사를 향해 \"다소 종잡을 수 없다\"고 꼬집기도 했음 (연합인포맥스)\n6) 트럼프 대통령도 \"금리가 지나치게 높다, 연준이 정치적이라서\"라고 압박 (코인니스)\n\n7) 이 와중에 금값은 3,524.2달러로 -4.38% (장중). 이번 주 9% 가까이 빠져 3월 이후 최악의 한 주 페이스라고 함 (IBT·FXStreet)\n👉 금리 인상 전망 + 강한 달러 + 손실 메우려는 매도가 겹친 것\n\n그래서 우리랑 무슨 상관이냐 ⭐\n👉 '금리 더 오른다'는 신호는 주식·코인·금 모두에 부담\n👉 연준 안에서도 인상 폭을 놓고 말이 엇갈리는 중이라, 발언 하나에 시장이 크게 출렁일 수 있음\n👉 다음 주 미국 물가(PCE) 발표가 다음 방향을 정할 변수\n\n개미일수록 연준 인사 발언 직후 급변동에 바로 따라가기보다, 지표로 방향이 확인된 뒤 대응하는 게 안정적일 듯\n\n📌 본 글은 정보 공유 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/feds-cook-says-rate-hikes-needed-to-lower-high-inflation-5042321"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/feds-cook-says-september-rate-hike-likely-insufficient-to-curb-price-pressures-5042348"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/feds-cook-says-central-bank-watching-ai-industry-financing-5042385"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/bessent-advocates-lower-fed-rate-hike-cites-energy-shock-5042202"
+   },
+   {
+    "name": "연합인포맥스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrbVlMNXM2WTRTWjJGUkZSbG5XRFFpY3VCNF9rX1MyWkVmY2VwRWpTTjkwZmUzSE9DU09EUGRub0RpNG5JOFhDU1FyZ09sTmhfUEhGSmNkYWVhZkhtaFFNR1h6ZjB4SkRsdWR6a1lENUo?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4a0tJdXQ5aGZneHJSSDBsQTY2NWpRb1ZFQ2wweDlSUHIzVk5ZUmd2MkZtdkZqU2xiMFlDQ2U5N0NuY2locXFYanU0cnVndmdG?oc=5"
+   },
+   {
+    "name": "International Business Times",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGJvRnQ4MTdnYUlZcmVjZzI5V3JuZ3dFaHZtNVNwN214RVhBSzZqdHdaS3k1LWNwY01ZTzRKTkI2Q2FQQVkwZDRmMENSQ19fMGNlMFA2TDJkRlA0V2gxa0RjY0dxMGtNbzE2N2daZ2JBa3hfYTdDY2RwZWZqU0pibQ?oc=5"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ1KL_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAJ1EM_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "쿡 이사 발언은 기사 제목 기준 — 원문에서 정확한 표현(인상 폭·시점 언급 여부) 확인",
+   "베센트 '인상 폭 작게'는 Investing.com 제목 기준(해외 단독 보도), 월러 비판은 연합인포맥스",
+   "금 3,524.2달러·-4.38%는 장중 수치, 주간 9% 가까이 하락은 IBT 보도 수치",
+   "'다음 주 미국 PCE 발표'는 전날 국내 기사(머니투데이 등) 기준 — 날짜 확인",
+   "첫 줄 후보: ① 연준에서 \"금리 더 올려야 한다\"는 말이 또 나왔음 👀 ② 금값이 일주일 새 9% 빠진 이유 🔥 ③ 연준 vs 재무장관, 금리 놓고 정면충돌? 😱"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
