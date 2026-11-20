@@ -11811,5 +11811,147 @@
    "16KC4_vKKt4"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261121-0727-1",
+  "createdAt": "2026-11-20T22:27:00.000Z",
+  "date": "2026-11-21",
+  "slot": "07시",
+  "category": "미국 증시",
+  "topic": "[후속] 뉴욕증시 '검은 금요일' 마감 — 나스닥 22,617.73(-5.28%) 올해 상승분 반납·필라델피아 반도체 -10.73%·S&P 6,910.39(-3.70%)·다우 48,147.33(-1.93%) S&P·다우 조정장 진입, 나스닥 2020년 이후 최악의 주(MarketWatch), 엔비디아 -14% 7주 연속 하락 2008년 이후 최장(CNBC), VIX 35.89(+26%), 다음 주 블랙프라이데이 소비 주목(Reuters)",
+  "imageTitle": "나스닥 하루 5% 폭락 마감",
+  "imageHighlight": "5% 폭락",
+  "imageData": "나스닥 22,617.73 (-5.28%) · 필라델피아 반도체 -10.73% · VIX 35.89",
+  "body": "밤사이 뉴욕, 결국 최악으로 끝났음 😱\n\n1) 나스닥 22,617.73(-5.28%) 마감. 올해 오른 걸 하루 만에 전부 토해냄\n2) S&P 500 6,910.39(-3.70%), 다우 48,147.33(-1.93%). 두 지수 다 '조정장' 들어감\n\n조정장이 뭐냐면! 최근 고점에서 10% 넘게 빠진 상태를 말함. 20% 넘으면 '약세장'\n\n3) 반도체가 제일 아팠음. 필라델피아 반도체지수 하루 -10.73%\n4) 엔비디아는 하루 14% 급락, 7주 연속 하락. 2008년 금융위기 이후 가장 긴 내리막이라고 함\n5) 나스닥은 2020년 이후 최악의 한 주. S&P 500 11개 업종이 이번 주 전부 1% 넘게 빠진 것도 2025년 4월 이후 처음\n6) 공포지수(VIX)는 35.89로 하루 만에 26% 뜀\n\n그래서 우리랑 무슨 상관이냐 ⭐\n이번 하락은 실적이 아니라 'AI 거품' 공포가 이끄는 중. 반도체 비중이 큰 우리 증시도 같은 이유로 흔들리고 있어서, 다음 주 월요일 장도 이 분위기를 이어받을 가능성이 큼\n다음 주엔 미국 블랙프라이데이 소비가 새 변수로 들어옴\n\n개미일수록 공포지수가 이렇게 높을 땐 바닥 맞히려 하지 말고, 하락이 멈추는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유 아님. 정보 정리용이며 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261121009252072"
+   },
+   {
+    "name": "연합인포맥스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QZW1hdWJHM2lHdEotYzFRbF9Ydlpma0VJdVBTZmh2S29YVTZyNVFqTWsxWnJzcUw4NzNtUFRDemNUTEtSU0NlNUEyWWN1RjBXZDFwdi00SjJZSEVCd3ZpRFdNR0otYjN5eWJqVV84OVM?oc=5"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5041258"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/reuters/2026/11/21/PRU20261121030301009_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://images.mktw.net/im-22825043",
+    "source": "MarketWatch"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 밤사이 뉴욕, 결국 최악으로 끝났음 😱 ② 나스닥, 올해 오른 거 하루 만에 다 토해냄 🔥 ③ 반도체지수 하루 -10%, 이게 실화임 👀",
+   "엔비디아 -14%는 CNBC 제목 기준(국내 기사는 13.8%로도 보도). 해외 단독 보도(CNBC): 7주 연속 하락 2008년 이후 최장",
+   "11개 업종 동반 1%+ 하락(2025년 4월 이후 처음), 2020년 이후 최악의 주: 해외 단독 보도(MarketWatch)",
+   "11/21은 토요일. 미국 지수는 11/20(금) 종가, 국내 증시는 휴장",
+   "VIX 35.89는 06:15 기준 시세 표 값"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261121-0727-2",
+  "createdAt": "2026-11-20T22:27:00.000Z",
+  "date": "2026-11-21",
+  "slot": "07시",
+  "category": "코인",
+  "topic": "[후속·주간] 비트코인 7주 연속 하락 2022년 이후 최장 약세(뉴시스·연합뉴스TV), 58,980달러(-4.72%)·원화 8,145.1만원, 트럼프 취임 이후 상승분 반납·2년여 만에 최저(블루밍비트), 11월에만 20%↓·고점 대비 반토막(코인리더스), 나스닥 -5.28%와 동반 하락 — 올해 내내 하락한 코인, AI주 랠리 꺾인 뒤 반등 여지는(영상 제목·설명 반영), 공포탐욕 12",
+  "imageTitle": "비트코인, 7주째 내리막",
+  "imageHighlight": "7주째",
+  "imageData": "BTC 58,980달러 (-4.72%) · 공포·탐욕 12(극단적 공포)",
+  "body": "비트코인, 이번 주도 결국 빨간불로 끝나는 중 👀\n\n1) 비트코인 58,980달러(-4.72%). 원화로는 8,145만원(-3.32%)\n2) 이걸로 7주 연속 하락. 2022년 이후 가장 긴 약세라고 함\n3) 11월에만 20% 넘게 빠졌고, 고점이랑 비교하면 반토막 수준\n4) 트럼프 대통령 취임 이후 오른 걸 전부 반납. 2년여 만에 최저 수준임\n5) 밤사이 나스닥이 5.28% 폭락할 때 같이 무너짐. 올해 내내 코인은 'AI 주식이 갈 때 같이 가고, 빠질 때 같이 빠지는' 흐름이었음\n\n위험자산이 뭐냐면! 주식·코인처럼 값이 크게 출렁이는 자산. 시장이 겁먹으면 이런 것부터 팔고 채권 같은 안전자산으로 옮겨감\n\n그래서 우리랑 무슨 상관이냐 ⭐\n지금 코인을 움직이는 건 코인 자체 뉴스보다 AI 주식 분위기임. AI주 매도가 멈춰야 코인도 숨 돌릴 틈이 생긴다는 얘기\n코인 공포·탐욕 지수는 12로 '극단적 공포' 구간\n\n개미일수록 '이 정도면 바닥이겠지' 하고 한 번에 들어가기보다, 하락이 멈추는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯. 단, 주말엔 코인만 24시간 거래돼서 변동이 더 커질 수 있으니 레버리지는 특히 조심\n\n📌 투자 권유 아님. 정보 정리용이며 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xSUI1UW94R0pHNmJpSnZqYWxXUWNRMERGNU91dXJKclZra0VfZ19hUUNuSzdBRy1MMHpjd3hNU3I0ZjBabnJxMGdPRldHSkVNWEpvN3ctT0ppcEYtMlMyd0M5aUxsbVpoNnBtZG04QVllVmVPNTlQTdIBeEFVX3lxTE1xSUI1UW94R0pHNmJpSnZqYWxXUWNRMERGNU91dXJKclZra0VfZ19hUUNuSzdBRy1MMHpjd3hNU3I0ZjBabnJxMGdPRldHSkVNWEpvN3ctT0ppcEYtMlMyd0M5aUxsbVpoNnBtZG04QVllVmVPNTlQTQ?oc=5"
+   },
+   {
+    "name": "연합뉴스TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93UElNLU1RODZScW1sVi0xQm1vYk10dTdtRGljQmxmd0U4QTRETUcwNHlWbi00MEs4UG9aV2hDWlp3czNESExWaU5KVW5YbTJ0aVFFQmhDeGlnQXJWNFRRTzBPWTE0bG8?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13RXBlaS1wUlRnaFhUcHZoUFVRdkdFR3NZWWRiekNSQlNPc1NHN3NENjRidWdyc2xqYmpOeWhNMHNkVlpoQkFCcWdkM1N6Rkda?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBoZ2JkZzQtM0d1Skk4cFFFQ1hjbUZ0WTlvRGN5cUVZNmdiMXY3WW9LZlFzLUZwWE4wZ2VPal9Sd1JSVTdReXcyLXBn?oc=5"
+   },
+   {
+    "name": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kRnk2S0NhUzdlNm9VREtPNlc3Y3NlNjZEaUlWTjlTdDl0dkxkTWp6YnRyNndZUGZDMHVNSnZkTlBMZVdXeW94TFpXUlM0Q0ZXSU1hSTJsbHNGcmI3QkRRU2VTTEpDZw?oc=5"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=KzLj9DQtl_I"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 비트코인, 이번 주도 결국 빨간불로 끝나는 중 👀 ② 7주 연속 하락, 2022년 이후 처음임 😱 ③ 트럼프 취임 후 오른 거, 비트코인 다 토해냄 🔥",
+   "자막 못 가져옴(이 PC 크롬 연결 없음) → 영상은 제목·설명만 반영. 'AI주와 동반 흐름'은 영상 설명과 오늘 시세(나스닥 -5.28%, BTC -4.72%)로 쓴 내용",
+   "'7주 연속 하락'은 주간 마감(일요일) 전 기준 보도. 주말 반등 시 문구 수정 필요",
+   "'고점 대비 반토막'은 코인리더스 단독 표현, '2년여 만에 최저'는 블루밍비트 보도. 원문 확인",
+   "BTC 58,980달러는 07:27 기준, 주말 24시간 거래라 올리기 직전 가격 다시 확인"
+  ],
+  "videos": [
+   "KzLj9DQtl_I"
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "20261121-0727-3",
+  "createdAt": "2026-11-20T22:27:00.000Z",
+  "date": "2026-11-21",
+  "slot": "07시",
+  "category": "거시경제·금리",
+  "topic": "다음 주 올해 마지막 한은 금통위 — 기준금리 3.25% 인상에 무게(이투데이), 반도체 호황에 성장률 전망 상향·인상 여부 주목(이데일리), 증시 급락·원/달러 1,346.1원(+15.7원) 속 결정, 미 연준 인상 논쟁(쿡·필라델피아 연은 '더 올려야' vs 트럼프 '너무 높다')",
+  "imageTitle": "다음 주 한은, 금리 올릴까",
+  "imageHighlight": "금리",
+  "imageData": "올해 마지막 금통위 · 시장 전망: 기준금리 3.25%로 인상",
+  "body": "증시가 이렇게 빠지는데, 다음 주 한국은행은 금리를 올릴까? 🤔\n\n1) 다음 주 올해 마지막 금융통화위원회(금통위)가 열림\n\n금통위가 뭐냐면! 한국은행에서 기준금리를 정하는 회의. 여기서 정한 금리가 대출·예금 금리의 기준이 됨\n\n2) 시장에선 기준금리를 3.25%로 올릴 거란 전망에 무게가 실리는 중\n3) 이유는 반도체 수출 호황. 한은이 성장률 전망을 올릴 거란 관측이 함께 나옴\n4) 그런데 바로 이번 주에 코스피가 10개월 만에 최저(4,869.96)까지 밀렸고, 원/달러 환율도 1,346원 수준(+15.7원)으로 올라옴\n5) 미국도 시끄러움. 연준 안에선 '금리 더 올려야 한다'는 말이 나오고, 트럼프 대통령은 '금리가 너무 높다'고 압박 중\n\n그래서 우리랑 무슨 상관이냐 ⭐\n금리가 오르면 대출 이자 부담이 커지고, 주식 같은 위험자산엔 보통 부담이 됨. 반대로 '증시 급락 때문에 쉬어 간다'는 쪽으로 가면 분위기가 달라질 수 있어서, 결과와 총재 발언이 다음 주 국내 증시의 큰 변수\n\n개미일수록 금리 발표 직후엔 주가·환율이 크게 출렁일 수 있으니, 발표 전에 미리 베팅하기보다 결과 확인 뒤 대응하는 게 안정적일 듯\n\n📌 투자 권유 아님. 정보 정리용이며 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JMGxhaHc5ZWhYaU1IaWwzWnNsb2EzLWJGUldaS3RXanNSa1dlMGFwcEZxbl9NQm5xbWZ5WVB6VkN2Q1UzdmNONEhiaUdHZzc4TzNNQw?oc=5"
+   },
+   {
+    "name": "이데일리",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSV9sXzJhMXlZMXlPTmRzbl9HdU1SMjFOSzE2NUR2eGY5VHNna3NFeklEMWlvQTJta2pETHBYZ1NBSXcyTUJhRkNrLUE4MVhPendLZFNwQ05jZHRxdWpjc0hZcWV5VkNJQS1DQlZKRVpvMGl5Q1RBN05lZzNnOHVCaQ?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 증시가 이렇게 빠지는데, 다음 주 한은은 금리를 올릴까? 🤔 ② 다음 주, 올해 마지막 금리 결정 있음 👀 ③ 대출 있는 사람이면 다음 주 이 발표 꼭 봐야 함 🔥",
+   "금통위 정확한 날짜·현재 기준금리를 기사 본문으로 확인 후 본문에 날짜 추가(제목만 수집됨)",
+   "'3.25% 인상에 무게'는 이투데이 제목 기준, 성장률 전망 상향은 이데일리 제목 기준. 확정 아님 → '전망'으로 유지",
+   "환율 1,346.1원은 야후(KRW=X) 07시 값. 국내 기사 기준(11/20 종가 1,336.2원)과 차이 있음, 기사 기준으로 바꿔 쓸지 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
