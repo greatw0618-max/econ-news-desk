@@ -12120,5 +12120,103 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261121-1327-1",
+  "createdAt": "2026-11-21T04:35:00.000Z",
+  "date": "2026-11-21",
+  "slot": "13시",
+  "category": "코인",
+  "topic": "[후속] 비트코인 5만7천·5만6천달러 연달아 하회, 2년 만에 최저(CoinDesk) — 55,658달러(13:27), 원화 7,701.4만원 8천만원선 붕괴, 1시간 6.35억달러·24시간 24.1억달러 선물 청산(코인니스), 7월 저점 57,800달러 이탈, 예측시장 '5만달러 하락' 확률 50%(하루 새 +27%p, 코인리더스), 공포탐욕 12",
+  "imageTitle": "비트코인 5만6천도 깨졌다",
+  "imageHighlight": "5만6천",
+  "imageData": "BTC 55,658달러 · 원화 7,701만원 · 24시간 청산 24.1억달러",
+  "body": "주말 오전, 비트코인이 또 한 칸 내려갔음 😱\n\n1) 비트코인이 5만7천 → 5만6천달러를 연달아 깨고 55,658달러까지 밀렸음 (13:27 기준)\n2) 5만7천달러 아래는 약 2년 만에 처음이라고 함. 원화로는 7,701만원, 8천만원선도 무너졌음\n3) 7월에 찍었던 저점(약 5만7,800달러)도 이번에 뚫렸음. 차트에서 보던 마지막 지지선 하나가 사라진 셈\n4) 낙폭이 커지자 선물 청산이 쏟아졌음. 1시간 만에 6.35억달러, 24시간 기준 24.1억달러가 강제 청산\n\n강제 청산이 뭐냐면!\n빚(레버리지)으로 산 포지션이 일정 손실을 넘으면 거래소가 자동으로 팔아버리는 것. 이게 연쇄로 터지면 가격이 더 빨리 빠짐\n\n5) 예측시장에서는 '비트코인 5만달러 하락' 확률이 하루 새 27%p 뛰어 50%가 됐다고 함\n6) 공포·탐욕 지수는 12로 여전히 '극단적 공포'. 평일엔 나스닥 폭락, 주말엔 24시간 열린 코인으로 매도가 몰리는 모양새\n\n그래서 우리랑 무슨 상관이냐 ⭐\n주말엔 주식시장이 닫혀 있어서 위험을 줄이려는 돈이 코인으로 몰려 나옴. 청산이 연쇄로 터지면 짧은 시간에 몇 %씩 움직일 수 있음\n\n개미 입장에선 떨어지는 칼날 잡으려 하기보다, 바닥 다지는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯. 레버리지는 특히 조심!\n\n📌 투자 권유 아님. 정보 공유 목적이며 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176447"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176449"
+   },
+   {
+    "name": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXejY2a2Zzb3U3MkozOWVZdG9TTmhvNEtKU3ZzR2REYko0eXlZTGtRRVJhNWx2N2l3QmppOFFqRGNwcHBCdElQRkRmVUNQODVwX2stVE9XR0FQdktORjMxOdIBeEFVX3lxTE5fbDRKRVRYUlBIRm84VlYxMElTclRaY19EWXgzQWRyTGVJX0xwVk9jSndsNTE4VkkyZmFBU2tsaGd3Z0x3Zl9OZ3h1RUliejBZNWRDcVhGNHY2NHZ1Z1FIYnljN1FCdFd2WjNoQW55b3NQSTNMbWxOTQ?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VbWlwczktSDBqRWxNREdwNVE2WE14WlFCUEJZZFZ6TlBKX0RKc1ZISmJtSGVaOTV4VllCeHFqNFc1ejdqS1prUjhB?oc=5"
+   },
+   {
+    "name": "크립토 토마토 (유튜브)",
+    "url": "https://www.youtube.com/watch?v=16KC4_vKKt4"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/c4a0fdccd8d94e89522ad3903cb55ceb60c5e3d6-2158x1102.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 주말 오전, 비트코인이 또 한 칸 내려갔음 😱 ② 5만7천도, 5만6천도 하루 아침에 깨졌음 👀 ③ 2년 만에 보는 비트코인 가격 🔥",
+   "BTC 55,658달러·원화 7,701.4만원은 13:27 시세 표 기준. 주말 24시간 거래라 올리기 직전 다시 확인",
+   "'2년 만에 최저(5만7천달러 하회)'는 CoinDesk 기준",
+   "7월 저점 약 5만7,800달러: 영상 출처 수치, 기사(CoinDesk 앞선 보도 57,700달러)와 약간 차이 — 확인 필요",
+   "'5만달러 하락 확률 50%'는 코인리더스 예측시장 기사 단독 출처",
+   "청산 규모(1시간 6.35억·24시간 24.1억달러)는 코인니스 기준, 시간이 지나면 바뀜"
+  ],
+  "videos": [
+   "16KC4_vKKt4"
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "20261121-1327-2",
+  "createdAt": "2026-11-21T04:36:00.000Z",
+  "date": "2026-11-21",
+  "slot": "13시",
+  "category": "코인",
+  "topic": "이더리움 1,600달러 일시 하회 뒤 회복(토큰포스트), 원화 2,138,000원(-4.43%) — 이더 현물 ETF 하루 1억3,124만달러 유출·블랙록 1억2,422만달러(영상·전일 기사), F2Pool 공동창업자 왕춘 급락장서 18,177 ETH 저가 매수·평균 1,849달러(코인니스), 1,500달러가 다음 관심 가격대",
+  "imageTitle": "이더리움 1,600달러 깨졌다",
+  "imageHighlight": "1,600달러",
+  "imageData": "ETH 2,138,000원(-4.43%) · ETF 하루 1.31억달러 유출",
+  "body": "비트코인만 빠지는 게 아님. 이더리움도 1,600달러가 깨졌음 👀\n\n1) 이더리움이 오늘 한때 1,600달러(약 214만원) 아래로 내려갔다가 다시 올라왔음\n2) 원화로는 2,138,000원, 전일 대비 -4.43%\n3) 이더리움 현물 ETF에서는 하루에 1억3,124만달러가 빠져나갔고, 그중 블랙록 상품에서만 1억2,422만달러 유출이었음\n\n현물 ETF가 뭐냐면!\n주식처럼 증권 계좌에서 사고파는 이더리움 상품. 여기서 돈이 빠지면 운용사가 실제 이더리움을 팔아야 해서 가격에 부담이 됨\n\n4) 반대로 사는 쪽도 있음. 대형 채굴풀 F2Pool 공동창업자 왕춘은 이번 급락장에서 이더리움 18,177개를 사들였다고 함. 평균 매입가 1,849달러\n5) 2,000달러 아래에서 한 번, 1,600달러까지 밀렸을 때 또 한 번 나눠서 산 것\n6) 시장에서는 이제 1,500달러를 다음 관심 가격대로 보고 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\nETF로 들어왔던 기관 돈이 빠지는 속도가 아직 안 줄었음. 큰손 일부가 저가 매수에 나섰다는 소식은 있지만, 유출이 멈추는 게 먼저 확인돼야 분위기가 바뀔 수 있음\n\n개미일수록 바닥을 맞히려 하기보다, ETF 유출이 멈추고 가격이 버티는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유 아님. 정보 공유 목적이며 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "토큰포스트",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXbTNTbFVMaGp5X1pxaDJMQ2JVZnVsbXNxQy1EeFFVZEZleTlKODJLNTFXZE1pNGdCTW5fYVVuTzVPWmhsQ3pfbS0yR1dQTmhBSEtqZTdBU2gydHk3NTN4dtIBZkFVX3lxTE14MnItNXlqd1ptSlZBVlpLU290ZUN0bXc3LVR5RERlNjU0WGpqbGJZT3VsSzFoXzRnQVZGb0JqOGdveUVJbXlDZDFxVExGQV9uZmhYc2FhaDBLcU02dXJsanFUVk1zQQ?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176439"
+   },
+   {
+    "name": "CBC뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00aEdZU0M1eG9iXzdIaDZDbFFIV3J5UHo3QXVTLW9uWmZpbjdrb0M2bHZ4Vy1VMW1LMmZVNFhleldYRHhaRUpIRktBODBOVzNrYl9lZmJuQkVGUHk2S3p3RUpmamkwR3o2?oc=5"
+   },
+   {
+    "name": "크립토 토마토 (유튜브)",
+    "url": "https://www.youtube.com/watch?v=16KC4_vKKt4"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 비트코인만 빠지는 게 아님. 이더리움도 1,600달러가 깨졌음 👀 ② 이더리움 1,600달러, 깨졌다가 겨우 버팀 😱 ③ 다들 파는데 이더리움 1.8만 개 산 사람이 있음 🔥",
+   "ETF 유출액(이더 1억3,124만·블랙록 1억2,422만달러): 영상 출처 수치. 전날(11/20) 코인니스·블루밍비트 기사의 1억3,124만달러와 일치, 블랙록 수치는 기사 확인 필요",
+   "'1,500달러 관심 가격대'는 영상에서 소개된 BeInCrypto 경고 기반 — 기사 확인 필요, 가격 예측처럼 쓰지 않도록 유지",
+   "왕춘 매수는 온체인 분석가 엠버 인용 코인니스 단독 출처",
+   "원화 가격 2,138,000원은 13:27 기준, 올리기 직전 확인"
+  ],
+  "videos": [
+   "16KC4_vKKt4"
+  ],
+  "status": "draft"
  }
 ]
