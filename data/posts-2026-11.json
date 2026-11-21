@@ -12457,5 +12457,49 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261121-2327-1",
+  "createdAt": "2026-11-21T14:28:46.984Z",
+  "date": "2026-11-21",
+  "slot": "23시",
+  "category": "코인",
+  "topic": "[후속] 비트코인 6만달러 회복 — 낮 저점 55,658달러에서 60,265달러(+2.49%, 23:27)·원화 8,287.2만원, 이더 +3.93%, 24시간 선물 청산 25.97억달러(코인니스), 크라켄 BTC/CAD 한때 2.7만달러 이상 거래(코인니스), 공포탐욕 12",
+  "imageTitle": "비트코인, 6만달러 회복",
+  "imageHighlight": "회복",
+  "imageData": "BTC 60,265달러(+2.49%) · 원화 8,287.2만원 · 공포·탐욕 12",
+  "body": "비트코인, 5만5천달러대까지 밀렸다가 다시 6만달러 위로 올라옴 👀\n\n1) 오늘 낮 한때 5만5천달러대까지 빠졌던 비트코인이 밤 10시 반쯤 6만달러를 다시 넘었음\n2) 지금 60,265달러(+2.49%), 원화로는 8,287만원 수준. 이더리움도 +3.93%로 같이 반등함\n3) 다만 하루 동안 강제 청산된 선물 포지션이 약 26억달러. 그만큼 위아래로 크게 흔들린 하루였음\n강제 청산이 뭐냐면! 빚 내서 베팅한 포지션이 담보 부족으로 거래소에 의해 자동 정리되는 것\n4) 급락 와중에 크라켄 거래소 BTC/캐나다달러 시장에서는 한때 약 2만7천달러에 체결되는 이상 거래까지 나왔음 (유동성 공급 문제 가능성 거론)\n5) 그래도 공포·탐욕 지수는 12로 여전히 '극단적 공포' 구간\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 6만달러는 이번 주에 깨졌던 심리적 가격대라, 여기를 지키는지가 주말 분위기를 가를 수 있음\n→ 미국 증시는 주말 휴장이라, 24시간 도는 코인 쪽으로 변동성이 몰릴 수 있다는 점도 기억해두자\n\n개미일수록 바닥 한 번에 잡으려 하지 말고, 반등이 며칠 이어지는지 확인한 뒤 나눠서 대응하는 게 안정적일 듯. 레버리지는 특히 조심!\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176484"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176483"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176477"
+   },
+   {
+    "name": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkZGRteXR5VG9PREhiamE2OHAtcVd5czMzaTBtdGJONk5JZ0VNOVdPekdfaDQyYmZFa0k0RlhLcnBBTDhKV3lGOFpmSUVIOWN1SkEyVGU1Z0RhZ1hQMndSOFVCUGdJcS1ES3p1TFVJbjk5NG10VXfSAXtBVV95cUxOMkRMd2d3R3kzckFIaEUySDRqNldyRTZEakJIVVpqMnhubmhsWlh5cXV6a0VFR2liS1ducEowUVgwZVpHNjFHaFh2MHNkVmR6QUg2V3BoN1dkbzJtYXo0VFlYTVBqRmNaR0M1Yk9KUXRtX1pNa1BCUktvMzA?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xYWQwendIYVVmSXFwSURueFRxWkFMaDY1aGNHUjNjNG4ydURyZHU1VlZvNG4tQk1sVGNsM0dCWmdORFpoYjJjamZ3?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① \"비트코인, 5만5천달러대까지 밀렸다가 다시 6만달러 위로 올라옴 👀\" ② \"하루 청산 26억달러… 그래도 비트코인 6만달러 회복 🔥\" ③ \"바닥 찍었나? 비트코인 6만달러 재진입 👀\"",
+   "비트코인·이더 가격은 23:27 기준, 올리기 전 현재가 확인",
+   "크라켄 2만7천달러 이상 거래: 코인니스 단독 출처",
+   "24시간 청산 25.97억달러: 코인니스 단독 출처",
+   "낮 저점 55,658달러는 13:27 회차 시세 기준"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
