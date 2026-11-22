@@ -13162,5 +13162,45 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261122-2327-1",
+  "createdAt": "2026-11-22T14:27:00.000Z",
+  "date": "2026-11-22",
+  "slot": "23시",
+  "category": "거시경제·금리",
+  "topic": "중국 AI·기술주 약 2,289조원 증발(매일경제·한국경제 2300조), 중국 거래소 신용거래(마진) 요건 완화(Reuters) — 미국 급락 후 각국 증시 방어, 한국 증안펀드 준비와 병행 / 나스닥 -5.28%·필라델피아 반도체 -10.73%",
+  "imageTitle": "중국 기술주 2300조 증발",
+  "imageHighlight": "증발",
+  "imageData": "中 기술주 시총 약 2,289조원 증발 / 나스닥 -5.28% · 코스피 -5.21%",
+  "body": "AI 랠리 식자 중국 증시까지 흔들렸음 😱\n\n1) 딥시크 흥행 이후 달아올랐던 중국 AI·기술주 투자 열기가 식으면서\n   중국 기술주에서 약 2,289조원(우리 돈 기준)이 사라졌다고 함\n2) 같은 주에 나스닥은 -5.28%, 필라델피아 반도체지수는 -10.73%\n   → AI 거품 우려가 미국·한국·중국을 한꺼번에 덮친 모양새임\n3) 그러자 중국 거래소들이 신용거래(마진 트레이딩) 요건을 완화했음\n4) 신용거래가 뭐냐면! 증권사에서 돈을 빌려 주식을 사는 것\n   → 문턱을 낮추면 시장에 들어올 돈이 늘어나니 일종의 유동성 카드임\n5) 한국도 정부가 증안펀드 가동 준비·자사주 매수 한도 완화(24일부터)를 꺼냈음\n   → 미국 급락 이후 각국이 동시에 '증시 방어'에 나선 상황\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 이번 급락은 한 나라 문제가 아니라 'AI 기대'가 전 세계적으로 꺾인 흐름임\n- 정부 대책은 급락 속도를 늦출 수는 있어도 방향을 바로 바꾸진 못함. 결국 내일 미국·아시아 장이 어떻게 받는지가 먼저임\n\n빚으로 사는 신용거래가 늘어나는 장일수록 반대매매로 낙폭이 커질 수 있음. 개미일수록 레버리지는 줄이고, 반등이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 본 글은 정보 공유 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/world/12215746"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026112226427"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHZKRlQ0Y0pzZDRaTzJIdHRfX2dkZkVVUUh4YXotTkpLQTdrQ0NPTzVXTzVjczF2aUdKYTRtTHg5Wl9GLU1VbjFkREJ0bXY5S2RDdXphbnowRFdsUldyVGZsZFVIY1N0VTg0Q3RYOWp6TDVlb2lhOEhpM3M2d1NFZDhtdExWcERBS3BmVFNiVEprV0swRWhORV94MG1rcWhYUGpEQnR5akI5cXN0ZEhr?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/22/news-p.v1.20261122.4ee0c37b4a8d4b47bfcceeb2f95c8e41_R.png",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① AI 랠리 식자 중국 증시까지 흔들렸음 😱 ② 미국만 빠진 게 아니었음 👀 ③ 2300조가 사라지자 중국이 꺼낸 카드 🔥",
+   "2,289조원 증발은 매일경제·한국경제(2300조) 보도 기준 — 산정 기간·환산 기준 기사 본문으로 확인",
+   "중국 신용거래 완화 세부 내용은 Reuters 제목 기준(해외 단독 보도(Reuters), 본문 미확인)",
+   "지수는 11/20~21 종가 기준"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
