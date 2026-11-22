@@ -13232,5 +13232,53 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261123-0327-1",
+  "createdAt": "2026-11-22T18:27:00.000Z",
+  "date": "2026-11-23",
+  "slot": "03시",
+  "category": "거시경제·금리",
+  "topic": "미 재무장관 \"연준 과잉 긴축 시 실수 가능성\" 경고·증시 투매 이유로 지목(KB Think·데일리바이트) + 엔비디아 대중국 칩 판매 경위 요구(Investing.com) / 미 10년물 4.912%(-0.14%p)·나스닥 -5.28%·12/9 FOMC",
+  "imageTitle": "재무장관, 연준에 경고장",
+  "imageHighlight": "경고장",
+  "imageData": "미 10년물 금리 4.912% (-0.14%p) · 나스닥 -5.28% · VIX 35.89",
+  "body": "미국 재무장관이 연준한테 대놓고 경고를 날렸음 👀\n\n1) 미국 재무장관이 \"연준이 과하게 긴축하면 실수가 될 수 있다\"고 경고함\n2) 지난주 증시 투매가 나온 이유로 이 '과잉 긴축' 우려를 직접 꼽았다고 함\n3) 지난주 금요일 나스닥 -5.28%, 필라델피아 반도체 -10.73%, VIX(공포지수) 35.89까지 치솟았음\n4) 시장에서는 12월 9일 FOMC에서 금리 인상 가능성까지 거론되는 상황임\n\n긴축이 뭐냐면!\n금리를 올리거나 시중 돈을 거둬들여서 물가를 잡는 것. 너무 세게 하면 경기·주식시장이 같이 얼어붙음\n\n5) 발언 뒤 미국 10년물 국채금리는 4.912%로 하루 0.14%p 내려왔음\n6) 별개로 재무장관은 엔비디아의 중국 칩 판매에 대해서도 경위를 따져 묻겠다고 밝힘\n\n그래서 우리랑 무슨 상관이냐 ⭐\n정부(재무부)와 연준이 금리 방향을 두고 다른 목소리를 내기 시작했다는 것\n연준이 이 경고를 받아들이면 긴축 속도 조절 기대 → 증시엔 숨 돌릴 틈, 그대로 밀어붙이면 변동성 계속\n이번 주 PCE 물가, 26일 한은 금통위까지 금리 이벤트가 몰려 있음\n\n개미일수록 발언 한마디에 바로 올라타기보다, 연준이 실제로 어떤 신호를 주는지 확인된 뒤 움직이는 게 안정적일 듯\n단, 연준은 독립 기관이라 재무장관 말대로 바로 바뀐다는 보장은 없음\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5LUUyWERKc05DSHFWVXRZR0gwSGM5OUdIV2dCWUdrSDJmQk5UeXU0c2R0Q0tRbjU4STNoNHNiVkI1LUVtUDFDUHJQR19aNmFXZU9nVE5yVzdrblU0dm5zaGFCSnlLTURwclNlQTg4RllYdw?oc=5"
+   },
+   {
+    "name": "데일리바이트(DAILY BYTE)",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU3N5U1U4TlVRTTNWUUZMWkgxaDNOMUdxZ204bUZJMFNqRDRMN3pmem9CaDJXQ1djZWRQTkhVbVJHUGItaTg5QmZfcFhkMnYxM0dPaDh3Ny11N3dQTHJlQ2VsTzRaeVBrWDF5bmdrYmxxTk40b3Y3U09Ga3VnN2wwWlM0WlFubzgxcm1CZlFhbF9jOVhqc1pUNg?oc=5"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says-5044083"
+   },
+   {
+    "name": "Nasdaq",
+    "url": "https://www.nasdaq.com/articles/prediction-dec-9-will-be-huge-day-stock-market"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAL0E2_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보 1: 미국 재무장관이 연준한테 대놓고 경고를 날렸음 👀",
+   "첫 줄 후보 2: 증시 폭락의 범인, 미국 정부가 직접 지목했음 🔥",
+   "첫 줄 후보 3: \"연준이 너무 세게 조이면 실수다\" 이 말이 왜 나왔냐면 👀",
+   "재무장관 발언 원문·시점은 국내 기사 제목 기준(KB Think·데일리바이트) — 본문 확인 필요",
+   "12/9 FOMC 금리 인상 전망은 Nasdaq(Motley Fool) 단일 기사 요약 기준, 해외 단독 보도(Nasdaq)",
+   "엔비디아 대중국 칩 판매 경위 요구는 해외 단독 보도(Investing.com)",
+   "10년물 금리 하락이 발언 때문인지는 확인 안 됨 — \"발언 뒤\"로만 표현함",
+   "미국 지수는 11/20(현지) 종가 기준, 월요일 장 열리면 수치 갱신 필요"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
