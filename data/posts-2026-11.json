@@ -12933,5 +12933,78 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261122-1327-1",
+  "createdAt": "2026-11-22T04:27:00.000Z",
+  "date": "2026-11-22",
+  "slot": "13시",
+  "category": "국내 증시",
+  "topic": "[후속] 블랙먼데이 우려에 정부 긴급 F4회의 소집, '두 번째 증시안정대책' 주목(블루밍비트·스마트투데이) / 코스피 4,869.96(-5.21%)·나스닥 -5.28%",
+  "imageTitle": "정부, 긴급 F4회의 소집",
+  "imageHighlight": "긴급",
+  "imageData": "코스피 4,869.96 (-5.21%) · 코스닥 645.68 (-5.71%)",
+  "body": "내일 장 열리기 전에 정부가 먼저 움직였음 👀\n\n1) 경제부총리가 긴급 F4 회의를 소집했다고 함\n\n2) F4가 뭐냐면! 경제부총리·한국은행 총재·금융위원장·금융감독원장, 이렇게 4명이 모여서 시장 상황을 점검하는 회의임\n\n3) 배경은 지난 금요일(20일) 쇼크. 코스피 4,869.96(-5.21%), 코스닥 645.68(-5.71%)로 마감했음\n\n4) 그 뒤 미국장에서 나스닥 -5.28%, 필라델피아 반도체지수 -10.73%까지 빠졌고, 코스피200 야간선물도 7% 안팎 급락했다는 보도가 나왔음\n\n5) 정치권에선 '블랙먼데이' 대비 긴급조치를 요구했고, 시장은 '두 번째 증시안정대책'이 나올지 지켜보는 중\n\n6) 다만 어떤 대책이 나올지는 아직 발표 전임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 월요일 아침 시장은 '미국발 충격'과 '정부 대응 강도'를 동시에 반영하게 됨\n→ 대책이 나와도 미국 반도체 흐름이 안 돌아서면 효과가 짧을 수 있다는 점도 같이 봐야 함\n\n개미일수록 장 초반 급변동에 바로 반응하기보다, 대책 내용과 외국인 수급이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SMk1RM1NFSUVXME1aZ1BDRDBxbjhsV0h2N2wyTmdfMTlRNTFHbEFadDhjaFZNVTluSDhvRUw1OERZa3E4ZXB3OV9BN1pqSHNB?oc=5"
+   },
+   {
+    "name": "스마트투데이",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkbzR6Vm9lNzFGLTJqYWIwOEFmNFY4RThabkxGVEFCLUlmY0JEV0VweS04bzlRMzNjYnlkcWVnRkVNNW1FMzJtSVhOUDN1YjNJQUQyY25YNnZOaVFob0Nr?oc=5"
+   },
+   {
+    "name": "매일경제 마켓",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41TVViY1l6a2RYMVFtVDNKenVQLUxEWVVlcHl3amtONjVXaU9XaGd5M2JaOU5oczFwc2pJOWR1OXNxZ3lXcGNxS09kVmVMY2plVmc?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 내일 장 열리기 전에 정부가 먼저 움직였음 👀 ② 블랙먼데이 막으려고 F4가 모인다 🔥 ③ 월요일 코스피, 정부가 막아낼 수 있을까? 😱",
+   "F4 회의 일시·장소·논의 결과는 기사 본문에서 확인 필요(수집 시점엔 제목만 확인). 회의 결과가 나오면 6)번 문장 수정",
+   "'두 번째 증시안정대책'은 스마트투데이 제목 표현 — 확정된 대책 아님",
+   "코스피200 야간선물 -7% 수치는 정치권 발언·이코노미트리뷴 보도 기준"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261122-1327-2",
+  "createdAt": "2026-11-22T04:27:00.000Z",
+  "date": "2026-11-22",
+  "slot": "13시",
+  "category": "거시경제·금리",
+  "topic": "40대 마이너스통장 연체액 10개월 새 82% 급증·하반기 가팔라져(노컷뉴스·시사저널·뉴스핌·EBN·시장경제) — 금리 상승·증시 급락에 빚투 부담, 26일 금통위 인상 전망",
+  "imageTitle": "40대 마통 연체 82% 급증",
+  "imageHighlight": "82%",
+  "imageData": "40대 마이너스통장 연체액 10개월 새 +82%",
+  "body": "금리는 오르고 주가는 빠지고… 40대 지갑에 경고등 켜졌음 😱\n\n1) 40대 마이너스통장 연체액이 10개월 새 82% 급증했다는 집계가 나왔음\n\n2) 특히 하반기 들어 늘어나는 속도가 더 가팔라졌다고 함\n\n3) 마이너스통장이 뭐냐면! 정해진 한도 안에서 필요할 때 꺼내 쓰는 신용대출임. 대부분 변동금리라 금리가 오르면 이자 부담이 바로 늘어남\n\n4) 배경 ① 대출금리 상승. 게다가 이번 주 목요일(26일) 금통위에서 한은이 금리를 또 올릴 거란 전망이 우세함\n\n5) 배경 ② 증시 급락. 코스피가 4,869.96으로 연초 수준까지 밀리면서 마통으로 투자한 '빚투' 부담이 커졌다는 분석\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 금리 인상이 현실화되면 마통·신용대출 이자는 더 오를 수 있음\n→ 빚투 비중이 큰 시장은 급락 때 손절 압박이 몰리면서 하락 폭이 커지기도 함\n\n개미일수록 하락장에서 대출로 물타기보다, 내 레버리지 비중부터 점검하고 감당 가능한 범위에서 나눠서 대응하는 게 안정적일 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "노컷뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MMlpONUY4UW9UWjdoem1MYWNibEFLRkZud2NobHNXRlVUSGsxWDlaSVI1MTJxaWtDVWw3NXQ4NUp6MVpFSF9PYkgteEtVNHhVRnc?oc=5"
+   },
+   {
+    "name": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JWDNtRFBsUWhFa2ljcjFJWVRzX1BxcXIwSGZvNS0tdmttUW9BbzYyNllkcXBZa2ZiNGNtYzlvTzJSa2Y3OVVya2ZyWi1nVFBJeWdXYW1nenFnak1l?oc=5"
+   },
+   {
+    "name": "시사저널",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ibGhyaXk2T0RybFZlczBmc0E0TmpKWVhXR3NXYm1DNHBySzhOZWhMak5ZdmVYZ1FNZFRUbmR1bHA2aFQzbVJlSE5URFJjNUNaYm9BN09iN3FxaFdDakktaTltYjVreUwtVnlRTHViSdIBc0FVX3lxTE1vUjA1ckhoN2ZWamE1LXFLc1puRXhMdGVoNnhJRTItd20xMTM0RFhGZ0o2SjhQV3huWl8xNnFaSmFMVlUxM1c5Q2FjblBKclFXUkJtQWNtNjNobVpULTEyVFhOVDhLZU9hV1U0SDJKQ25FRjA?oc=5"
+   },
+   {
+    "name": "EBN",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYWDJUdl9uSHNPQjRTd1o4eWpVTUIxeE1YOEUzcFkwcGIxa3pVUWhuUi0wRHBwYTdUTFZGWDdxUVN0NjJ3VFFUSW05TlZfNmNpZjNNQ3ZPM25JX0w4ZHNwcjgxWXpKdk1Z?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 금리는 오르고 주가는 빠지고… 40대 지갑에 경고등 켜졌음 😱 ② 40대 마통 연체, 10개월 만에 거의 2배 👀 ③ 빚투한 40대가 제일 아프다 🔥",
+   "연체 '금액'(원 단위)·집계 기관·기준 시점은 기사 본문에서 확인 필요(수집 시점엔 제목만 확인)",
+   "26일 금통위 인상 전망은 전망 — 확정 아님(07시 게시글 참고)"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
