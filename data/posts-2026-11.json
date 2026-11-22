@@ -12771,5 +12771,76 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261122-0927-1",
+  "createdAt": "2026-11-22T00:27:00.000Z",
+  "date": "2026-11-22",
+  "slot": "09시",
+  "category": "국내 증시",
+  "topic": "코스피 급락장에 개인 ETF 두 달 새 9.6조원 순매수(이투데이)·ETF 순매수 5조원 돌파(핀포인트뉴스), 레버리지 ETF 매수 개인 손실 우려(에너지경제) / 코스피 4,869.96(-5.21%)·주간 -8%(세계일보)",
+  "imageTitle": "폭락장에 ETF 쓸어 담은 개미",
+  "imageHighlight": "쓸어 담은",
+  "imageData": "개인 ETF 순매수 두 달 새 9.6조원 · 코스피 4,869.96 (-5.21%)",
+  "body": "코스피가 5천을 내주는 동안 개미들은 반대로 움직였음 👀\n\n1) 코스피는 금요일 4,869.96으로 마감, 하루 -5.21%\n이번 주에만 8% 가까이 빠졌다는 집계도 나옴\n\n2) 그런데 이 기간 개인은 ETF를 계속 샀음\n두 달 새 ETF 순매수만 9.6조원이라는 보도가 나왔음\n\n3) 문제는 그중 상당수가 레버리지 ETF라는 점\n코스피 4,900선이 깨지면서 레버리지 ETF를 산 개인들 손실이 커졌다는 얘기가 나오는 중\n\n레버리지 ETF가 뭐냐면!\n지수가 하루 1% 움직이면 2%씩 움직이도록 설계된 상품임\n오를 땐 두 배로 벌지만, 빠질 땐 두 배로 잃음\n\n4) 더 무서운 건 '음의 복리'\n오르락내리락을 반복하면 지수가 제자리로 돌아와도 레버리지 ETF는 손실이 남을 수 있음\n지금처럼 하루 5%씩 흔들리는 장에서는 이 효과가 더 커짐\n\n그래서 우리랑 무슨 상관이냐 ⭐\n이번 주는 26일 한은 금통위, 미국 PCE 물가 발표가 겹친 변동성 큰 주임\n방향이 맞아도 흔들림에 버티지 못하면 손실이 확정될 수 있다는 것\n\n개미일수록 폭락장에 레버리지로 반등을 한 번에 먹으려 하기보다, 비중을 줄이고 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MSks3U1pfZDBFMC1Gb3VHRFJqQ3A4eGl2NVBULVBOWGNBRTVvT0ZuM29CYmNIcktTUHRsWkpGUDRfMGVkbkd5SENPMGxGV0VpLThnYklkY3o2MkNEU0pGcVVxUEtuSEpZQjlvYzdQQkxCZ1dJ?oc=5"
+   },
+   {
+    "name": "에너지경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5TlljeG5XVEJsQXM4RlFDc3ZOQXJhWUdYMGxDcXA0dVJyM1dValVxTGtDVnR1N3RzQ2ppb2dUem5hWHlscUxBX1RBWlN3ME9XNFFtREs3dkU3Wms?oc=5"
+   },
+   {
+    "name": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82VHJDUUEtWmJxdFNkbFJBLTdxSTNIZnQwR2w1NEFyQ08tWTBxWGxkeEJobkVhdU9YUUpFTU1GTURCX1FsWlliNDNMZFVONUJYU2hVbUtOaWxvS2V6b1JsMG1GdVVBVGdXQ1VRTjdPTXNTOFk?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 코스피가 5천을 내주는 동안 개미들은 반대로 움직였음 👀 ② 두 달 새 9.6조원, 개미가 폭락장에 쓸어 담은 것 🔥 ③ 레버리지 ETF 산 개미들, 지금 제일 아픈 이유 😱",
+   "9.6조원(두 달)은 이투데이 단독 수치, 기간·집계 기준(개인 ETF 전체 순매수인지) 기사 본문 확인 필요",
+   "'ETF 순매수 5조원 돌파'(핀포인트뉴스)는 집계 기간이 달라 본문에 쓰지 않음",
+   "'이번 주 8% 하락'은 세계일보 제목 기준, 주간 등락률 확인 필요",
+   "레버리지 ETF 손실 규모·종목은 기사 제목에만 있어 본문에 숫자를 넣지 않음"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261122-0927-2",
+  "createdAt": "2026-11-22T00:27:00.000Z",
+  "date": "2026-11-22",
+  "slot": "09시",
+  "category": "코인",
+  "topic": "리플(XRP) 1달러 붕괴·7주 연속 하락·고점 대비 -45%·데드크로스 경고, 0.905달러대 반등(+2.32%), 갈링하우스 '앤트로픽 등 대형 IPO로 돈 쏠려'(코인리더스) / 리플 원화 1,281원·공포탐욕 11",
+  "imageTitle": "리플, 7주째 쉬지 않고 빠졌다",
+  "imageHighlight": "7주째",
+  "imageData": "리플(XRP) 1,281원 · 고점 대비 약 -45% · 공포·탐욕 11",
+  "body": "리플이 1달러를 내주고 7주째 내리막임 😱\n\n1) 리플(XRP)이 1달러 아래로 내려왔음\n지금은 0.90달러대, 원화로 1,281원 수준\n\n2) 7주 연속 하락, 고점 대비 약 45% 빠졌다는 집계\n주말 사이 2%대 반등은 나왔지만 추세를 바꿨다고 보긴 이른 상황\n\n3) 차트에서는 '데드크로스' 경고까지 나왔음\n\n데드크로스가 뭐냐면!\n짧은 기간 평균 가격선이 긴 기간 평균선 아래로 내려가는 것\n하락 흐름이 길어질 수 있다는 신호로 보는 사람이 많음\n\n4) 리플 CEO 갈링하우스는 앤트로픽 같은 대형 IPO로 돈이 쏠린 게 원인이라고 봤음\n코인으로 갈 돈이 새로 상장한 AI 주식으로 빠져나갔다는 얘기\n\n그래서 우리랑 무슨 상관이냐 ⭐\n국내 거래소에서 리플은 개인 보유가 많은 대표 알트코인임\n비트코인이 6만달러를 되찾아도 알트코인은 반등 폭이 작을 수 있다는 걸 보여주는 사례\n공포·탐욕 지수도 11, '극단적 공포' 구간이 이어지는 중\n\n개미일수록 바닥을 맞히려 하기보다, 하락 추세가 멈추는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PWHhPc3U3NjdXM1pXa3R3OWNGV0lKMzJLdW5sMnZTOElaMjlzNVkxd2lPNFZLSUxzOGphbFBXZlJsOE5wTDdFSUdB?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DUlRDTUFIV0xxY1NqWXNOeURIM2dpQmxyME9nbW9hbkZEWHFaZ0FIMXJ3V0QyOEY3amhSSEE4T2Z3QmhFa1ZhNnhB?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qTXZ0Ulh6ek5QNFZCVDUtdWtsWEJJSlM5SHZldDZOM2k5XzI2NmRVZFJtQ2txejhrdEM1NS11ZFl5UEdtb2UyLVF3?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 리플이 1달러를 내주고 7주째 내리막임 😱 ② 비트코인은 6만달러 찾았는데 리플은 왜 이럴까 👀 ③ 고점 대비 반토막 가까이, 리플 지금 어디쯤이냐 🔥",
+   "단독 출처(코인리더스): 7주 연속 하락·고점 대비 45%·데드크로스·갈링하우스 발언은 모두 코인리더스 기사 제목 기준",
+   "달러 가격 0.905달러·+2.32%는 코인리더스 시세 기사 기준(09시 무렵), 올리기 전 시세 재확인",
+   "리플 원화 1,281원·공포탐욕 11은 수집결과 시세 표(09:27) 기준, 올리기 전 재확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
