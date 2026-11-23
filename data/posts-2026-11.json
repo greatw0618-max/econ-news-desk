@@ -13942,5 +13942,104 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261123-1927-1",
+  "createdAt": "2026-11-23T10:27:00.000Z",
+  "date": "2026-11-23",
+  "slot": "19시",
+  "category": "미국 증시",
+  "topic": "미국 선물 반등 — 나스닥100 선물 +2.8%(스페셜타임스·뉴시스), 앤트로픽·엔비디아·반도체·네오클라우드 프리마켓 상승(CNBC·WSJ·Investing.com), 유럽 기술주 반등, 미 국채금리 되돌림 상승·뉴욕연은 윌리엄스 연설 대기(CNBC·WSJ) / 지난주 나스닥 약 -10%·VIX 30.12",
+  "imageTitle": "미국 선물, 일단 반등 시도",
+  "imageHighlight": "반등",
+  "imageData": "나스닥100 선물 +2.8% (19시 무렵) · 직전 금요일 나스닥 22,617.73 (-5.28%)",
+  "body": "폭락 다음 주 첫날, 미국은 일단 반등부터 시도 중 👀\n\n1) 한국시간 저녁 나스닥100 선물이 2.8% 오름. 지난주 AI 매도세 뒤 '저가 반등' 기대가 붙는 중임\n\n2) 지난주 나스닥은 10% 가까이 빠지면서 2020년 코로나 초기 이후 최악의 한 주였음. 금요일 하루에만 -5.28%, 필라델피아 반도체지수는 -10.73%\n\n3) 개장 전 거래(프리마켓)에서는 앤트로픽·엔비디아, 반도체·네오클라우드(AI용 클라우드 업체) 주식이 먼저 반등 중이라고 함\n\n4) 유럽도 기술주 위주로 반등 출발. 공포지수(VIX)는 30.12로 하루 새 16% 내려옴\n\n5) 대신 지난주 크게 떨어졌던 미 국채금리가 다시 오르는 중. 오늘 밤 뉴욕연은 윌리엄스 총재 연설이 금리 방향의 다음 변수임\n\n선물이 뭐냐면!\n본장(밤 11시 30분 개장) 전에도 24시간 가까이 거래되는 지수 계약이라, 오늘 밤 장 분위기를 미리 보여주는 '예고편' 같은 것임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n오늘 코스피 급락(-3.31%)의 출발점이 미국 AI주 폭락이었음. 미국이 본장에서도 반등을 지켜내면 내일 아침 코스피·반도체주 분위기도 달라질 수 있음\n단, 선물은 본장에서 얼마든지 뒤집힐 수 있고, 하루 반등만으로 '바닥'이라고 보긴 이름\n\n개미일수록 선물 숫자만 보고 따라가기보다, 본장 마감과 다음 날까지 반등이 이어지는지 확인한 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적이며, 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "스페셜타임스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qOXM5ZE1kQkZUUVNXS0M2QWVBZlYtSlZxRE81WDNBQ2ZTYTZ0eEhsbzBvMTNOTHdZcm1NSlVHTi1lVGJrT2g4b1daLW1jTC1BUmZSTWlTMGFud0tQWHUzZngwSUpRdzdYMlIySkxDZ3J4Unc?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09?mod=rss_markets_main"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/us-chip-and-neocloud-stocks-rally-premarket-after-last-weeks-selloff-5044782"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://images.wsj.net/im-63238648",
+    "source": "WSJ"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 폭락 다음 주 첫날, 미국은 일단 반등부터 시도 중 👀 ② 나스닥 선물 +2.8%… 오늘 밤 반등 나올까? 🔥 ③ 최악의 한 주 끝, 미국 선물이 먼저 움직였음 👀",
+   "나스닥100 선물 +2.8%는 한국시간 19시 무렵 기사 기준 — 올리기 전 최신 선물 수치로 바꾸고 '(선물)' 표시 유지",
+   "'지난주 나스닥 약 10% 하락·코로나 초기 이후 최악'은 CNBC 보도(해외 단독 보도(CNBC))",
+   "앤트로픽·엔비디아·반도체 프리마켓 상승 폭은 기사에 구체 수치 없음 — 수치 넣지 말 것",
+   "WSJ 기사는 유료 — 제목·요약 범위에서만 사용",
+   "윌리엄스 연설 시각은 기사에 없음 — 올리기 전 확인"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261123-1927-2",
+  "createdAt": "2026-11-23T10:27:00.000Z",
+  "date": "2026-11-23",
+  "slot": "19시",
+  "category": "코인",
+  "topic": "한국 디지털자산기본법 초안 이번 주 공개 예정 — 가상자산 사업자 인가제·은행 중심 원화 스테이블코인 발행 구조(The Block 단독), 네이버파이낸셜·두나무 결합에 '지분 규제' 변수(동아일보·뉴스워커)",
+  "imageTitle": "코인 기본법, 이번 주 공개",
+  "imageHighlight": "기본법",
+  "imageData": "원화 스테이블코인 '은행 중심' 발행 · 사업자 인가제 포함 전망",
+  "body": "국내 코인 판의 '규칙'이 이번 주 나올 수도 있음 👀\n\n1) 한국 정부가 가상자산을 종합적으로 다루는 법(디지털자산기본법) 초안을 이번 주 공개할 예정이라는 해외 보도가 나왔음\n\n2) 초안에는 코인 사업자 인가(라이선스) 제도와, 원화 스테이블코인을 은행 중심으로 발행하는 구조가 담길 것으로 전망됨\n\n스테이블코인이 뭐냐면!\n1코인 = 1원(또는 1달러)처럼 가치가 고정되게 만든 코인. 결제·송금용으로 쓰여서 '디지털 현금'에 가까움\n\n3) 이 법은 네이버파이낸셜의 두나무(업비트 운영사) 인수에도 변수로 거론됨. 법이 나오면 거래소 대주주 지분 규제가 생길 수 있어, 공정위 심사를 넘어도 지분을 줄여야 할 수 있다는 분석임\n\n4) 시장은 아직 바닥 공방 중. 비트코인 61,266달러(+0.17%), 공포·탐욕 지수 11(극단적 공포)\n\n그래서 우리랑 무슨 상관이냐 ⭐\n지금까지 국내 코인 시장은 '이용자 보호법' 정도만 있었고, 사업자·스테이블코인 규칙은 비어 있었음. 기본법 내용에 따라 거래소, 원화 스테이블코인 관련 기업, 은행의 판이 바뀔 수 있음\n단, 아직 '초안 공개 예정' 단계라 국회 논의에서 내용이 얼마든지 바뀔 수 있음\n\n개미일수록 '법 나온다' 기대감에 관련 코인을 급하게 쫓기보다, 실제 초안 내용과 시장 반응이 확인된 뒤 움직이는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적이며, 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "The Block",
+    "url": "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881"
+   },
+   {
+    "name": "동아일보",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TYXp1NlpvbGpiNXEwcmhXeDJCeVVHTV9SUGpwTTlqRVVVZWtlbWN2NVc3WkVOUnBKT0IxZmhfenc4SWZ4R0dpWjhoLUdTTDZjcUZLRVNvQUQzOWlOYkR5MDRTeEpVZ9IBZkFVX3lxTE1TYXp1NlpvbGpiNXEwcmhXeDJCeVVHTV9SUGpwTTlqRVVVZWtlbWN2NVc3WkVOUnBKT0IxZmhfenc4SWZ4R0dpWjhoLUdTTDZjcUZLRVNvQUQzOWlOYkR5MDRTeEpVZw?oc=5"
+   },
+   {
+    "name": "뉴스워커",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMTJtMGl6TGtZcDJEZVRrNEtUSEdIaWNCTHBvSEdqQ1dnWFNNWnFGVWUya1NvZFJ5U3pVWWpyQ3lGRldCY0YydFBibkpqNkpDNDloTHctMGpHZ1ZhekpVbTVFQ3FUTUxtZlc2clhoeGrSAXRBVV95cUxQV2R3bkRYWFZLRUc4S2tneWJSWDhhQ1A4VFZZNnhCWk45ajRJRllMdGo2Zkc3a1JnWUtydlprT1VLVC0zbVhobnMwQlpudTUyVU1zWWlFT1BmQmpvNjFURGFHaDVhcndBa0c3bDFJZVRuNlE5SA?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/korea-flag-scaled-e1795426962703.jpg",
+    "source": "The Block"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 국내 코인 판의 '규칙'이 이번 주 나올 수도 있음 👀 ② 원화 스테이블코인, 결국 은행이 찍는다? 🔥 ③ 업비트·빗썸 판도 바뀔 법안, 이번 주 공개 예정 👀",
+   "초안 이번 주 공개·인가제·은행 중심 스테이블코인 발행은 해외 단독 보도(The Block) — 국내 기사로 공개 일정 확인 필요",
+   "'국내엔 이용자 보호법 정도만 있었다'는 일반 설명 — 표현 과하지 않은지 확인",
+   "네이버파이낸셜·두나무 지분 규제는 언론 분석(동아일보·뉴스워커), 확정 아님",
+   "비트코인 61,266달러는 19:27 시세 표 기준 — 올리기 전 최신 가격 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
