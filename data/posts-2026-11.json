@@ -13729,5 +13729,106 @@
    "E5d8FLTgb5w"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261123-1527-1",
+  "createdAt": "2026-11-23T06:27:00.000Z",
+  "date": "2026-11-23",
+  "slot": "15시",
+  "category": "국내 증시",
+  "topic": "금융위, 상장사 자사주 1일 취득한도 3개월간 완화(내일부터 취득신고 물량 전량 주문 가능, 한국경제·연합뉴스·문화일보·블루밍비트) — 코스피 장중 4,500선 찍고 기관 매수로 4,730선 회복(15:07, -2.82%)",
+  "imageTitle": "자사주 매수 한도, 3개월 푼다",
+  "imageHighlight": "자사주",
+  "imageData": "코스피 4,732.82 (-2.82%, 15:07 장중) · 장중 저점 4,500선",
+  "body": "급락장에 정부가 꺼낸 다음 카드 👀\n\n1) 금융위원회가 상장사 자사주 1일 매수 주문 한도를 3개월간 완화한다고 23일 발표했음\n2) 내일(24일)부터 회사가 취득 신고한 자사주 물량을 하루에 전량 주문할 수 있게 된다고 함\n\n자사주 매입이 뭐냐면!\n회사가 자기 회사 주식을 시장에서 직접 사들이는 것. 시장에 도는 주식 수가 줄고, 급락장에선 '받쳐주는 매수세' 역할을 함\n\n3) 오늘 코스피는 장중 5% 가까이 빠지며 4,500선까지 밀렸고, 이틀 연속 매도 사이드카까지 나왔음\n4) 오후엔 기관 매수가 들어오면서 4,732.82(-2.82%, 15:07 장중)로 낙폭을 꽤 줄였음\n5) 같은 시간 미국 주가지수 선물은 2~3%대 반등 중. 지난주 AI주 매도세가 조금 진정되는 분위기라고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n증안펀드 준비에 이어 자사주 한도까지 풀면서, 정부가 '수급'으로 바닥을 받치려는 그림임. 다만 실제로 회사들이 자사주를 얼마나 사느냐는 내일부터 공시로 확인해야 함\n\n개미일수록 정책 발표 하나로 바닥을 단정하지 말고, 지수가 며칠 버티는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 오늘 밤 미국장이 선물만큼 반등하는지가 내일 출발을 좌우할 변수\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261123120600002"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026112344646"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WVzBRVzBtNThfdXJKMDBQTUZsTUFWbXhubVBmQmF3NU5zSWZ6TFRaY0g2NEFQeXhGQ3VfZ1RlZDdjUnREaDNpb3lvM0taM0VL?oc=5"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/202611234249i"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261123123500009"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/cms/2018/11/26/84/PCM20181126000184990_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 급락장에 정부가 꺼낸 다음 카드 👀 ② 내일부터 회사들이 자기 주식 '맘껏' 산다? 🔥 ③ 증안펀드 다음은 자사주였음 👀",
+   "코스피 4,732.82는 15:07 장중 수치 — 올리기 전 종가로 바꿀 것",
+   "'취득신고 물량 전량 주문 가능' 표현은 블루밍비트 제목 기준 — 금융위 보도자료로 기존 한도와 세부 조건 확인",
+   "미국 선물 반등률(2~3%)은 오후 기준, 올릴 때 다시 확인"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261123-1527-2",
+  "createdAt": "2026-11-23T06:27:00.000Z",
+  "date": "2026-11-23",
+  "slot": "15시",
+  "category": "코인",
+  "topic": "미국 비트코인 현물 ETF 지난주 17억9천만달러 순유출(역대 3번째, The Block·블루밍비트, '구조적 유출' 분석) vs BTC 61,459달러(+2.27%) 반등, 12월 연준 50bp 인상 확률 0%·동결 12%(CoinDesk·코인니스)",
+  "imageTitle": "비트코인 ETF, 한 주에 2.4조 빠졌다",
+  "imageHighlight": "2.4조",
+  "imageData": "현물 ETF 주간 순유출 17.9억달러 · BTC 61,459달러 (+2.27%)",
+  "body": "비트코인은 반등하는데 ETF 돈은 계속 빠지는 중 😱\n\n1) 미국 비트코인 현물 ETF에서 지난주 한 주 동안 17억9천만달러(약 2.4조원)가 순유출됐음\n2) 역대 세 번째로 큰 주간 유출 규모라고 함\n3) 분석가들은 12월 금리 인상을 예상하는 투자자들이 위험자산에서 발을 빼면서 유출이 '구조적'으로 바뀌고 있다고 봤음\n\n현물 ETF가 뭐냐면!\n주식 계좌로 비트코인을 간접 보유하는 상품. 기관·연기금 돈이 코인에 들어오는 대표 통로라서, 유출이 이어지면 시장 체력이 약해졌다는 신호로 읽힘\n\n4) 그런데 오늘 비트코인은 61,459달러로 하루 +2.27% 반등했음. 미국 증시 선물이 2~3% 오른 영향이 큼\n5) 금리 쪽 분위기도 바뀌었음. 지난주 급락 이후 12월 0.5%p 인상(빅스텝) 확률은 0%가 됐고, 동결 확률이 12%까지 올라왔다고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n가격은 반등했지만 큰돈의 흐름(ETF)은 아직 빠지는 쪽임. 이번 주 ETF 유입 전환 여부와 12월 9일 FOMC 전 금리 기대가 반등이 이어질지 가를 두 가지 체크포인트\n공포·탐욕 지수는 여전히 11(극단적 공포)\n\n개미일수록 하루 반등에 바로 올라타기보다, ETF 자금이 유입으로 돌아서는 게 확인된 뒤 대응하는 게 안정적일 듯\n단, 변동성이 큰 구간이라 레버리지는 특히 조심\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5USGRzbzBGSXRJdG9IaVJlTXYzcUxJSVhKSmV6LUNYQzdMa215U3RHVkIxb1c2cHk1RllDTU0xUGV0eFBZaUZjY3JualJNU0N2?oc=5"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176547"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261123123500009"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/cropped-bitcoin-.jpg",
+    "source": "The Block"
+   },
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/86094ea78f944f140cc21b29434392b1d1380382-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인은 반등하는데 ETF 돈은 계속 빠지는 중 😱 ② 한 주에 2.4조, 역대 세 번째 탈출 👀 ③ 가격은 올랐는데 큰손은 나갔다? 🔥",
+   "원화 환산(약 2.4조원)은 17.9억달러×달러/원 1,346.4원으로 계산한 값",
+   "BTC 61,459달러는 15:26 기준 — 올릴 때 다시 확인",
+   "'구조적 유출' 분석은 해외 단독 보도(The Block)",
+   "50bp 확률 0%·동결 12%는 CoinDesk(코인니스 인용) 기준 CME 페드워치 수치 — 올릴 때 재확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
