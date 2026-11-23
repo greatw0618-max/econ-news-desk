@@ -14041,5 +14041,106 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261123-2127-1",
+  "createdAt": "2026-11-23T12:27:00.000Z",
+  "date": "2026-11-23",
+  "slot": "21시",
+  "category": "코인",
+  "topic": "업비트·빗썸 SKY·USDS 거래 유의 종목 지정(업비트 입금 중단) — USDS 업비트 원화마켓 일시 2000원 약 40% 디페깅(코인니스, 95% 급등 보도도), 스카이 프로토콜 예치금리 50% 육박·일주일 넘게 출금 차질(블루밍비트)",
+  "imageTitle": "1달러 코인이 2000원 됐다",
+  "imageHighlight": "2000원",
+  "imageData": "USDS 업비트 장중 최고 2,000원 (정상 약 1,346원) · 업비트·빗썸 유의 종목 지정",
+  "body": "업비트에서 '1달러짜리' 코인이 2000원까지 튀었음 😱\n\n1) 업비트·빗썸이 오늘 저녁 8시쯤 스카이프로토콜(SKY)과 유에스디에스(USDS)를 거래 유의 종목으로 지정했음\n2) 이유는 \"사업의 실재성·지속가능성, 운영 주체의 신뢰성\" 관련 투자자 보호가 필요하다는 것. 업비트는 입금도 막았음\n3) 그런데 지정 직후 업비트 원화마켓에서 USDS가 일시적으로 2000원까지, 약 40% 급등했다고 함 (한때 95% 급등 보도도 있음)\n4) 같은 시기 스카이 프로토콜은 예치 금리가 50%에 육박하고, 일주일 넘게 출금 차질이 이어지고 있다는 보도가 나왔음\n\n스테이블코인이 뭐냐면!\n달러 같은 법정화폐에 1:1로 가치를 맞추도록 만든 코인임. USDS는 1달러, 즉 1,346원 안팎이 정상 가격인데 그보다 40% 넘게 비싸게 거래된 것. 이걸 '디페깅(가치 연동 실패)'이라고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 입금이 막히면 해외에서 물량이 못 들어와서 국내 가격만 따로 튀는 일이 생김\n- 유의 종목은 기간 안에 문제가 안 풀리면 상장 폐지로 이어질 수 있음\n- \"안전하다\"는 스테이블코인도 발행처가 흔들리면 가격이 어디로든 튈 수 있다는 걸 보여준 사례\n\n개미 입장에선 유의 종목 지정 직후 급등은 따라 들어가지 말고, 거래소 공지와 발행처 해명이 나온 뒤에 판단하는 게 안전할 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176573"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176574"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zNHdiN2VwTjFGdDYwd19rUEUybXRiMWRHZEdJV1ZRU3ZNYTBZa1RiT010cUJBaEcxUU90dnRJekl4b1I0R1U3SXBR?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UbFpJMl9Vb19naktXSTU3QWEtcmpWR1ZHUFNNRnZWeEFDMFBxTXY3bWxQWGE0TTljYklaVUx0SjFsY1JGaGh0QjVaZWxLbzIw?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XWlpxLVdNNEZDU0hDNUVpLXlKZVpvUHMwNUlEWW1JYmxES1Z2bnJwcTctYXJ5NFFJQ3lMVjNZdjNuYWNsNE9TMXJMSnZZeUJC?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 업비트에서 '1달러짜리' 코인이 2000원까지 튀었음 😱 ② 스테이블코인이 40% 비싸게 팔렸다고? 👀 ③ 업비트·빗썸이 동시에 경고 딱지 붙인 코인 🔥",
+   "USDS 상승폭: 코인니스 '약 40%(2000원)' vs 블루밍비트 '장중 95%' — 보도마다 다름, 올리기 전 현재가 확인",
+   "빗썸의 입금 중단 여부는 기사로 확인 못 함(업비트만 입금 중단 보도)",
+   "스카이 프로토콜 '예치금리 50%·출금 차질'은 블루밍비트 단독 출처",
+   "정상가 1,346원은 달러/원 시세 표(1,346.4원) 기준 환산"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261123-2127-2",
+  "createdAt": "2026-11-23T12:27:00.000Z",
+  "date": "2026-11-23",
+  "slot": "21시",
+  "category": "미국 증시",
+  "topic": "크라우드스트라이크, 지스케일러 약 439억달러(약 59조원) 전액 주식 교환 인수 발표(Reuters·CNBC·MarketWatch·한국경제) — 프리마켓 크라우드스트라이크 하락(Investing.com), 엔비디아 9% 급등(뉴스핌)",
+  "imageTitle": "59조원 보안 공룡 탄생",
+  "imageHighlight": "59조원",
+  "imageData": "크라우드스트라이크 → 지스케일러 인수 439억달러(전액 주식) · 직전 주 나스닥 -5.28%",
+  "body": "미국 장 열리기 전에 59조원짜리 인수 소식 떴음 👀\n\n1) 사이버보안 회사 크라우드스트라이크가 지스케일러를 인수한다고 23일(현지시간) 발표했음\n2) 인수 규모는 약 439억달러, 우리 돈으로 약 59조원. 현금 없이 전부 주식으로 사는 방식임\n3) 크라우드스트라이크는 PC·서버 보안, 지스케일러는 네트워크(클라우드 접속) 보안이 강점이라 이번에 둘을 합치는 것\n4) 다만 프리마켓에선 인수하는 쪽인 크라우드스트라이크 주가가 내렸다고 함. 같은 시간 엔비디아는 9% 급등하며 반도체가 반등을 이끌었음\n\n주식 교환 인수가 뭐냐면!\n돈 대신 우리 회사 주식을 새로 찍어서 상대 회사 주주에게 주는 방식임. 기존 주주 입장에선 주식 수가 늘어나 지분이 희석되니까 인수하는 회사 주가가 빠지는 경우가 많음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 지난주 나스닥이 5.28% 빠진 급락장 바로 다음 장에 초대형 인수가 나왔다는 건, 기업들은 이 가격대를 '살 만한 가격'으로 본다는 신호로 읽힐 수 있음\n- 보안 업종은 AI가 커질수록 수요가 늘어나는 분야라 업계 재편이 빨라질 수 있음\n- 실제 거래 성사까진 규제 당국 심사가 남아 있음\n\n개미 입장에선 인수 발표 당일 급등락은 크게 흔들리니, 첫날 추격하기보다 며칠 흐름이 정리된 뒤 보는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUdmOUFLaEppLU9uMl80V2x1RTg4YWg3VUc5cWZsVzNfUWJBN2pFY3BhTndKanI0U2gzZHMzZVdpeWlkVkdBMkxGZkEtNFYyYmhteTQ5MHM0NnhkN2lfVk1WcDRxZDluQzVXNll2OWhodnVmaG9qNm15SWdweEM4YmxSWXVKd21mNW9uWW82MHUyWlJLTEE?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html"
+   },
+   {
+    "name": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/202611235261i"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/premarket-movers-chip-stocks-lead-ai-rebound-crowdstrike-falls-5045110"
+   },
+   {
+    "name": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hTnpJbHVST0p3djBfZWJjM2VuRU9TRGI3U0k5aTBMZHpJZERlbVVnaTA1Q3gyX3VMMkhac1BIVjJLTG9Xb19EN2ZCZmxSUHVhUHNlNW1ienlWLWgx?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.mktw.net/im-00182443",
+    "source": "MarketWatch"
+   },
+   {
+    "url": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 미국 장 열리기 전에 59조원짜리 인수 소식 떴음 👀 ② 급락장 한복판에 보안 공룡이 탄생했음 🔥 ③ 산 회사 주가가 빠졌다? 이상한 인수 소식 👀",
+   "59조원은 439억달러 × 달러/원 1,346.4원 환산값",
+   "크라우드스트라이크 프리마켓 하락폭·엔비디아 +9%는 프리마켓(장중) 수치 — 본장 결과로 갱신 필요",
+   "본문 유료 기사(MarketWatch 등)는 제목·요약 범위만 사용, 각 사업 설명은 일반 정보 — 기사 확인 권장",
+   "규제 심사 언급은 일반적인 M&A 절차 설명(기사 명시 확인 안 됨)"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
