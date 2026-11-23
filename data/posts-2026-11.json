@@ -14530,5 +14530,161 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261124-0727-1",
+  "createdAt": "2026-11-23T22:30:00.000Z",
+  "date": "2026-11-24",
+  "slot": "07시",
+  "category": "코인",
+  "topic": "비트코인 핵심 가격대 3개 — 사이클 저점 55,501달러·실현가격 53,200달러(비트파이넥스, 코인니스), 단기 보유자 매입가 저항 65,000달러 일봉 마감 관건(글래스노드), 그레이스케일 '과매도·역대 최장 약세장 411일'(The Block) / BTC 61,162달러, 공포탐욕 11 | 이미지: 비트코인, 이 3개 가격만 보면 됨 | 영상: y8AL9j6S654, XClViBo02Bg",
+  "imageTitle": "비트코인, 이 가격 3개만 보면 됨",
+  "imageHighlight": "3개",
+  "imageData": "BTC 61,162달러 · 저점 55,501 · 실현가격 53,200 · 저항 65,000",
+  "body": "나스닥은 6.5% 날았는데 비트코인은 왜 6만 달러에서 멈췄을까 👀\n\n1) 젠슨 황 복귀로 미국 증시가 폭등 마감했음. 나스닥 +6.51%, 필라델피아 반도체 +14.03%\n2) 근데 비트코인은 61,162달러로 거의 제자리임. 원화로는 8,373만원대\n3) 그래서 지금 시장이 보는 가격대 3개를 정리해봄\n\n4) 첫 번째, 55,501달러 = 이번 사이클 최저점\n이번 하락장에서 찍은 가장 낮은 가격임. 여기를 다시 깨느냐가 1차 체크포인트\n\n5) 두 번째, 53,200달러 = 실현가격\n실현가격이 뭐냐면! 모든 비트코인이 마지막으로 움직였을 때 가격의 평균, 쉽게 말해 '시장 전체의 평균 매입 단가'임. 저점보다 약 4% 아래에 있음\n\n6) 세 번째, 65,000달러 = 위쪽 저항\n최근에 산 사람들(단기 보유자)의 매입가가 몰린 구간이라, 본전 오면 팔려는 물량이 나온다고 함. 이 위에서 하루(일봉)를 마감해야 그 물량을 소화했다는 신호라는 분석임\n\n7) 분위기는 아직 차가움. 공포·탐욕 지수 11(극단적 공포), 비트코인 ETF는 3주 연속 주간 10억 달러 넘게 빠져나갔음\n8) 반대로 그레이스케일은 이번 약세장이 최소 411일로 기록상 가장 길고, 주요 코인이 '과매도' 상태라고 봤음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n주식이 반등해도 코인이 바로 따라가지 않는 구간임. 위로는 6.5만, 아래로는 5.5만 → 5.3만이 '어느 쪽으로 방향이 나느냐'를 가르는 자리\n\n개미일수록 바닥을 맞히려 하지 말고, 6.5만 돌파처럼 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯. 단, 극단적 공포 구간은 위아래 변동이 크니 레버리지는 특히 조심\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스(비트파이넥스 인용)",
+    "url": "https://coinness.com/news/1176643"
+   },
+   {
+    "name": "코인니스(글래스노드 인용)",
+    "url": "https://coinness.com/news/1176649"
+   },
+   {
+    "name": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176651"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81ZFVTYWw2aFJmWlB4MjdQVmx5alJYSS1fMl8yUmRRdUt1N3ZsM2g5a2JHOHk3OS1qOGUtLUs4QThvaUpTdWdOdGZn?oc=5"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=y8AL9j6S654"
+   },
+   {
+    "name": "크립토 토마토 (유튜브)",
+    "url": "https://www.youtube.com/watch?v=XClViBo02Bg"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/GettyImages-2217532638-scaled.jpg",
+    "source": "The Block"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 나스닥은 6.5% 날았는데 비트코인은 왜 6만 달러에서 멈췄을까 👀 ② 비트코인, 지금 딱 이 가격 3개만 보면 됨 🔥 ③ 주식은 폭등했는데 코인은 제자리… 어디서 방향 나올까 👀",
+   "사이클 저점 55,501달러·실현가격 53,200달러·ETF 3주 연속 10억달러↑ 유출은 비트파이넥스 발표(코인니스 단독 출처). 코인리더스는 저점 5만5,500달러로 보도",
+   "65,000달러 저항은 글래스노드 분석(코인니스 단독 출처)",
+   "그레이스케일 '최소 411일 최장 약세장'은 해외 단독 보도(The Block)",
+   "BTC 61,162달러·원화 8,373만원·공포탐욕 11은 07:27 시세, 올리기 전 다시 확인",
+   "유튜브 자막 못 가져옴(이 PC 크롬 연결 없음) — 영상은 제목·설명만 반영, 영상 속 수치는 쓰지 않음"
+  ],
+  "videos": [
+   "y8AL9j6S654",
+   "XClViBo02Bg"
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "20261124-0727-2",
+  "createdAt": "2026-11-23T22:30:00.000Z",
+  "date": "2026-11-24",
+  "slot": "07시",
+  "category": "거시경제·금리",
+  "topic": "11월 소비자심리지수 103.1(전월比 -2.3p) 두 달 연속 하락·7개월 만에 최저 — 증시 조정·대출금리 상승 영향, 집값 상승 기대 8개월 만에 최대폭 하락(한은 발표, 연합뉴스·매일경제·조선일보 등 12건) | 이미지: 소비심리 7개월 만에 최저",
+  "imageTitle": "소비심리, 7개월 만에 최저",
+  "imageHighlight": "최저",
+  "imageData": "소비자심리지수 103.1 (전월 대비 -2.3p, 두 달 연속 하락)",
+  "body": "주가가 반토막 나니까 지갑도 닫히기 시작했음 😱\n\n1) 한국은행 11월 소비자동향조사 결과, 소비자심리지수가 103.1로 전달보다 2.3포인트 떨어졌음\n2) 두 달 연속 하락이고, 7개월 만에 가장 낮은 수준임\n\n소비자심리지수가 뭐냐면!\n사람들이 경기·살림살이를 어떻게 느끼는지 설문으로 모은 지수임. 100보다 높으면 장기 평균보다 낙관적, 낮으면 비관적이라는 뜻\n\n3) 떨어진 이유로는 국내외 증시 조정과 대출금리 상승이 꼽혔음\n4) 집값이 오를 거라는 기대도 8개월 만에 가장 크게 꺾였음\n5) 코스피는 전날 4,708.54로 마감하면서 이틀 새 8% 넘게 빠진 상태라, 이번 조사 이후 분위기는 더 식었을 가능성도 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n아직 100 위라 '비관'까진 아니지만 방향이 아래로 꺾였음. 주가 하락 → 소비 위축 → 기업 실적 부담으로 이어지면 내수주에는 부담이 될 수 있음. 26일 한은 금통위에서 이런 지표를 어떻게 보는지도 체크 포인트\n\n개미 입장에선 지표 하나로 결론 내기보다, 금통위 결과와 다음 달 지표까지 흐름이 이어지는지 확인하고 움직이는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261123156700002"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/economy/12216709"
+   },
+   {
+    "name": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakVWZy1mWU9zMUpWd1NYSF9XMm1RUmtKSkNtRHViSUY0czNkN01KVjMzN01NWGZlY3Q3N2lnQ1BFTGMwd0hxaXZVWkY2QXZYS1hhUFNndDFNMTRZbmtMTUFSaU5hajFUUVNITTlBSGdLQy1oc2hVQjNvZk1xVC1LWTJZZ3BpQzAybVpESURR?oc=5"
+   },
+   {
+    "name": "아시아투데이",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jVzZtV2dVdm9RVWJXNVJJZ0F3bnlYYlNIdlpMa0hwVkQzOVNPMjBpc0R0TGJyNWRoM3BBb1ZNT2dGRk53aWZRN21Yd1VfRnFqTHNGX2lIY2ZWa2NMMDV5S3QxNTJFYXh5ME5PMmxn?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/10/21/PYH2026102111740001301_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/24/rcv.YNA.20261113.PYH2026111310910001300_R.jpg",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 주가가 반토막 나니까 지갑도 닫히기 시작했음 😱 ② 소비심리, 7개월 만에 가장 차가워졌음 👀 ③ 증시 폭락이 이제 내 지갑까지 왔다 🔥",
+   "103.1·-2.3p·7개월 만 최저는 매일경제 요약 기준, 한은 원문 수치와 대조",
+   "이번 조사 시점(11월 중순 추정)은 23일 코스피 급락 전일 수 있음 — 본문에 '가능성'으로만 씀",
+   "한은 금통위 26일 일정 확인"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261124-0727-3",
+  "createdAt": "2026-11-23T22:30:00.000Z",
+  "date": "2026-11-24",
+  "slot": "07시",
+  "category": "코인",
+  "topic": "가상자산사업자 28곳 전원 개정 특금법 부칙 신고 완료 — FIU·금감원 24일부터 심사, 대주주 적격성 첫 심사·부채비율 등 재무건전성·공정거래법 위반까지 점검, 적자 중소 거래소 퇴출 위기(연합뉴스·헤럴드경제·이투데이·전자신문·뉴스웨이 등 13건) | 이미지: 코인 거래소 28곳, 대주주까지 심사",
+  "imageTitle": "코인 거래소 28곳, 대주주까지 본다",
+  "imageHighlight": "대주주",
+  "imageData": "가상자산사업자 28곳 전원 신고 · 11/24부터 심사 착수",
+  "body": "코인 거래소도 이제 은행처럼 '주인'까지 검사받음 👀\n\n1) 국내 가상자산사업자 28곳이 개정 특정금융정보법(특금법) 부칙에 따라 모두 신고를 냈음\n2) 금융정보분석원(FIU)과 금융감독원이 오늘(24일)부터 심사에 들어감\n\n특금법이 뭐냐면!\n자금세탁을 막기 위한 법인데, 코인 거래소는 이 법에 따라 신고·수리를 받아야 영업할 수 있음\n\n3) 이번이 다른 점은 대주주까지 처음으로 심사 대상이 됐다는 것\n4) 부채비율 같은 재무 건전성, 공정거래법 위반 여부까지 들여다본다고 함. 관리 수준을 금융회사급으로 올린다는 평가가 나옴\n5) 그래서 적자를 내는 중소 사업자는 퇴출 위기라는 보도도 나왔음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n내가 쓰는 거래소·지갑 서비스가 심사를 통과하느냐가 걸린 문제임. 이번 주 공개 예정인 디지털자산기본법 초안과 함께 국내 코인 시장 판이 다시 짜이는 흐름\n\n개미 입장에선 규모가 작은 거래소에 자산을 몰아두기보다, 심사 결과가 나올 때까지 이용 중인 거래소 공지를 꼼꼼히 확인하는 게 안전할 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JSHFURXRkY2xfRHpOdDdteGZTby1mSGt2S0pxNzNpWlFsYV91cjh4X2xnenh1akNwTU41MHV6V182eGIxUzNhbEpudEh0R2xJcDJaRzVnNjdEdzTSAWBBVV95cUxORnhXZjFYTzZWNlcwRU9fSzFwcGtUa2ZUWjN1OFFDbWdyUmRvQVdIOS1Wb001WjVKSm9lYmdsVnhndFhFR2dYX2JRU2RoRVhlTUw4MU90Z3VzTk9sZlFnbW8?oc=5"
+   },
+   {
+    "name": "헤럴드경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSY3VTekdUX21Tdlp4SGVyLUc1Q3RFOUQ4dWxNLUdrV204Sjh0RmpRYUFha0VZNTUxQXRkbnkzeG9rdDJhWUMyaU5YUlQ4NTVrNW9fSU1R?oc=5"
+   },
+   {
+    "name": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzckZob2I4dTB5VFljLVczdi1ibGtoQ01pYlpTOGJyVktNRzdPYWNQWjlZQ2hwOE9mTUNlVlpKWktOZmFBOVFHRnYyYW1iZTdDMmZpcA?oc=5"
+   },
+   {
+    "name": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nSldMQnNZYUpjVkdOdEgyX3JZRmwyMXRna19yMk5uV2JnU2hqemsyaHhQaXc3bTFXeDdHMl80SnA5UFl5TmxGdXFoRGlYZw?oc=5"
+   },
+   {
+    "name": "재경일보",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jb21mMnR3R3lBdWg1WUp4QnBhM01JS1VoUDVlSE9QZzAyWlRlMVlGVVVQd25fUU1reWFTU0tiZ1ZOYmY4NmxpeUc4NA?oc=5"
+   },
+   {
+    "name": "뉴스웨이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50R0ZhUXJzTC1FWTRtZTR4bVFZQU41YTBTaTVJX2otaVlNOEM0VllvOWJVbUdHbDFaSXpvRnBhSlZaSTVJS1NrOEJuRXViemJGVFMyYTc1RUx3dWJxUzlIY2JHbTdpQ1NZdUE?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 코인 거래소도 이제 은행처럼 '주인'까지 검사받음 👀 ② 국내 코인 거래소 28곳, 오늘부터 심사대 올랐음 🔥 ③ 내가 쓰는 거래소, 이번 심사 통과할까? 👀",
+   "부채비율 점검은 이투데이 제목, 공정거래법 위반 심사는 재경일보 제목 기준 — 기사 본문 확인",
+   "'퇴출 위기'는 뉴스웨이 단독 표현",
+   "심사 기간·결과 발표 시점은 기사에서 확인 못 함 — 본문에 쓰지 않음"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
