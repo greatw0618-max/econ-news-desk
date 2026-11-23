@@ -14142,5 +14142,136 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261123-2327-1",
+  "createdAt": "2026-11-23T14:27:00.000Z",
+  "date": "2026-11-23",
+  "slot": "23시",
+  "category": "미국 증시",
+  "topic": "엔비디아 이사회, 젠슨 황 CEO 만장일치 복귀 결정(11/17 '복귀 계획 없음' 번복) — 프리마켓 엔비디아 26~31% 급등·나스닥 선물 6~7%↑(CNBC·WSJ·Investing.com·CoinDesk·Decrypt), 트럼프 환영, 유럽 반도체주 급반등, 달러 강세 / 금요일 나스닥 -5.28%·필라델피아 반도체 -10.73%",
+  "imageTitle": "젠슨 황 복귀, 엔비디아 급등",
+  "imageHighlight": "복귀",
+  "imageData": "엔비디아 프리마켓 +26~31% · 나스닥 선물 +6~7% (장전) | 금요일 반도체지수 -10.73%",
+  "body": "지난주 시장을 무너뜨린 그 회사가, 오늘은 시장을 살리고 있음 🔥\n\n1) 엔비디아 이사회가 젠슨 황을 사장·CEO·이사로 즉시 복귀시키기로 만장일치 의결했음\n불과 11월 17일엔 \"복귀 계획 없다\"고 했던 이사회가 일주일 만에 결정을 뒤집은 것\n\n2) 이사회는 미국 정부 고위층 의견을 듣고, 복귀에 국가안보 위험이 없다고 판단했다고 함\n외국 정보 활동 의혹을 따로 조사할 위원회도 만들기로 했음\n\n3) 반응은 즉각적이었음\n미국 장 시작 전 거래(프리마켓)에서 엔비디아가 20%대 후반~30% 안팎 뛰었고, 나스닥 선물도 6~7% 올랐다는 보도가 나왔음 (장전)\n\n4) 트럼프 대통령도 \"올바르고 적절한 결정\", \"미국에 그의 리더십이 필요하다\"며 환영했음\n유럽 반도체·AI주도 같이 급반등했다고 함\n\n프리마켓이 뭐냐면!\n정규장(한국 시간 밤 11시 30분) 전에 미리 열리는 거래임. 거래량이 적어서 가격이 크게 튀기도 하고, 정규장에서 그대로 이어진다는 보장은 없음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n금요일 필라델피아 반도체지수가 하루에 -10.73%, 나스닥이 -5.28% 빠졌던 출발점이 바로 엔비디아였음\n그 불씨가 꺼지면 삼성전자·SK하이닉스 같은 국내 반도체, 그리고 같이 흔들렸던 코인까지 내일 아침 분위기가 달라질 수 있음\n\n개미일수록 장전 급등을 보고 바로 따라붙기보다, 정규장 마감까지 반등이 유지되는지 확인한 뒤 움직이는 게 안정적일 듯\n단, 지난주 낙폭이 워낙 커서 반등 폭도 커 보이는 것일 수 있음. 하루 반등만으로 추세가 바뀌었다고 보기엔 이름\n\n📌 투자 권유가 아닌 정보 정리이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-jump-6-as-nvidia-reinstates-jensen-huang-as-ceo-5045819"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27"
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026112353317"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026112353387"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176595"
+   },
+   {
+    "name": "WSJ (유럽 반도체)",
+    "url": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.wsj.net/im-63238648",
+    "source": "WSJ"
+   },
+   {
+    "url": "https://content-media.investing.com/news/moved_LYNXNPEI2D0Y2_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보 1: 지난주 시장을 무너뜨린 그 회사가, 오늘은 시장을 살리고 있음 🔥",
+   "첫 줄 후보 2: 일주일 만에 결정 뒤집은 엔비디아 이사회, 주가가 먼저 답했음 👀",
+   "첫 줄 후보 3: 젠슨 황 돌아오자마자 나스닥 선물이 6% 넘게 뜀 😱",
+   "엔비디아 프리마켓 상승률이 매체별로 다름(Decrypt 26%·CoinDesk 27%·CNBC 31%·블루밍비트 30%) — 올리기 전 최신 수치 확인, 장전 수치라 정규장에서 달라질 수 있음",
+   "나스닥 선물 상승률도 보도 시점별로 3%~7%로 다름(뉴스핌 나스닥100 선물 3.6%, Investing.com 6%, CoinDesk 약 7%) — 최신치 확인",
+   "'미국 정부 고위층 의견 반영'은 CNBC·Decrypt 보도 기준. 의혹 조사 위원회 구성은 코인니스(블룸버그 인용) 기준",
+   "WSJ는 본문 유료 — 제목·요약 내용만 사용",
+   "정규장 개장(한국 시간 11/23 23:30) 이후 실제 등락 확인 후 올릴 것"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261123-2327-2",
+  "createdAt": "2026-11-23T14:27:00.000Z",
+  "date": "2026-11-23",
+  "slot": "23시",
+  "category": "코인",
+  "topic": "[후속] 비트코인 6만4천달러 회복(+5.32%) — 젠슨 황 복귀 소식 직후 5분 새 3.84% 급등, 1시간 숏 청산 2.47억달러·1시간 전체 청산 3.1억달러(코인니스), 알트 동반 급등(솔라나 +10.11%·리플 +9.87%), 공포탐욕 11 그대로 / 저점 55,130달러",
+  "imageTitle": "비트코인, 한 시간 만에 6.4만",
+  "imageHighlight": "6.4만",
+  "imageData": "BTC $64,415 (+5.32%) · 1시간 청산 3.1억달러 · 공포탐욕 11",
+  "body": "비트코인, 한 시간 만에 숏 3천억원 넘게 터졌음 😱\n\n1) 비트코인이 6만4천달러를 넘었음. 지금 64,415달러, 하루 +5.32%\n주말 저점이 55,130달러였으니 바닥에서 약 1만달러 가까이 올라온 셈\n\n2) 방아쇠는 엔비디아였음\n젠슨 황 CEO 복귀 소식 직후 비트코인이 5분 만에 3.84% 뛰면서 6만2천 → 6만3천 → 6만4천달러를 차례로 넘었음\n\n3) 그 과정에서 1시간 동안 약 3.1억달러 규모 선물 포지션이 강제 청산됐음\n그 직전 1시간 청산분 2.6억달러 중 2.47억달러가 숏(하락 베팅)이었다고 함\n\n숏 청산이 뭐냐면!\n가격이 떨어진다고 빚내서 베팅한 사람들이, 가격이 오르자 강제로 되사게 되는 것임. 이 되사기가 또 가격을 밀어 올려서 짧은 시간에 급등이 나옴\n\n4) 알트코인은 더 크게 움직였음 (원화 기준, 전일 0시 대비)\n솔라나 +10.11%, 리플 +9.87%, 도지 +8.34%, 이더리움 +6.34%\n\n그래서 이게 왜 중요하냐 ⭐\n지난주 코인 급락은 미국 기술주 폭락과 같이 움직였음. 오늘 반등도 결국 엔비디아 뉴스 한 방에서 나온 것\n즉 코인 혼자 힘이 아니라 미국 증시 따라 움직이는 장이라는 뜻이고, 오늘 밤 미국 정규장이 반등을 지켜내는지가 바로 다음 관문임\n그런데 공포·탐욕 지수는 여전히 11(극단적 공포) 그대로임\n\n개미일수록 청산으로 튄 급등 캔들을 쫓아가기보다, 미국 장 마감 뒤에도 6만달러대가 유지되는지 확인하고 나눠서 대응하는 게 안정적일 듯\n이런 장에선 레버리지가 양쪽 다 터질 수 있으니 특히 조심!\n\n📌 투자 권유가 아닌 정보 정리이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176603"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176602"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176600"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176597"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176575"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vOFBsY2FoTl9WaGpSRHpxa2xWczdRU0NURnVqVm9KdHRhX295NkNRN21CSEhHNGNBaDE2SFI1VHAwRUhBQ3B0WUhJTG9ZWm1x?oc=5"
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png",
+    "source": "Decrypt"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보 1: 비트코인, 한 시간 만에 숏 3천억원 넘게 터졌음 😱",
+   "첫 줄 후보 2: 엔비디아 뉴스 한 줄에 비트코인이 5분 만에 4% 뛰었음 👀",
+   "첫 줄 후보 3: 5만5천까지 밀렸던 비트코인, 6만4천 찍었음 🔥",
+   "청산 규모(1시간 3.1억달러, 숏 2.47억달러)는 코인니스 단독 출처. '숏 3천억원 넘게'는 2.47억달러×1,340원(약 3,310억원) 환산치",
+   "BTC 64,415달러는 23:27 KST 시세 표 기준, 실시간 변동 큼 — 올리기 전 가격 재확인",
+   "주말 저점 55,130달러는 BIT 보고서(코인니스) 기준",
+   "알트코인 등락률은 원화(전일 0시 KST 대비) 기준"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
