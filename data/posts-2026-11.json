@@ -15211,5 +15211,82 @@
    "WSJ 기사는 유료, 제목·요약 내용만 반영",
    "미 정규장 개장 시각(한국 시간 23:30, 서머타임 해제 기준) 확인"
   ]
+ },
+ {
+  "id": "20261124-2127-1",
+  "createdAt": "2026-11-24T12:27:00.000Z",
+  "date": "2026-11-24",
+  "slot": "21시",
+  "category": "코인",
+  "topic": "비트코인 손실 구간 물량 1160만개 역대 최대 — 55K 급락 후 수익 구간 물량 2022 FTX 붕괴 저점보다 적음, 100~10,000 BTC 대형 보유자는 매집 지속(CoinDesk·블루밍비트·코인리더스) / BTC 60,189달러(-1.67%), 공포탐욕 11",
+  "imageTitle": "비트코인 1160만개 물렸다",
+  "imageHighlight": "물렸다",
+  "imageData": "손실 구간 BTC 1,160만개 역대 최대 · BTC 60,189달러(-1.67%) · 공포탐욕 11",
+  "body": "비트코인 들고 있는 사람 절반 넘게 지금 손해 보는 중이라고 함 😱\n\n1) 비트코인이 55,000달러까지 빠졌을 때, 산 가격보다 싸진 '손실 구간' 비트코인이 약 1160만개로 역대 최대를 찍었음\n2) 수익 구간에 있는 물량은 2022년 FTX 붕괴 때 저점보다도 적어졌다고 함\n3) 손실 구간이 뭐냐면! 각 코인이 마지막으로 옮겨진 가격보다 지금 가격이 낮은 상태. 쉽게 말해 '물린 코인'임\n4) 반대로 100~10,000개를 가진 대형 보유자들은 이 구간에서 계속 모으는 중이라고 함\n5) 지금 비트코인은 60,189달러(-1.67%), 공포·탐욕 지수는 11로 '극단적 공포'\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 물린 물량이 많으면 반등할 때마다 \"본전 오면 판다\"는 매물이 쏟아질 수 있음\n→ 대신 손실 물량이 최대치일 때가 과거에 바닥 근처였던 적도 있어서, 시장이 이 숫자를 주목하는 중\n\n개미 입장에선 \"바닥이다\" 한 번에 베팅하기보다, 반등이 실제로 이어지는지 확인하고 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UNU44Ny1OQ1B0OGdiOG13OG1VRUJoMWpQcTJFeUV3elk3cnZGYXlmR3hBazRkbU9qR2p3dHBmbFRZTVdQMWlyeTU2OThLdkZ1?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54MGFiNjVma2JiLVRVS3M2YVlVM2c2OEI1emlVWWZSMFFZOWEtWUhnMHE4dmVVM3FEVllzQWRTRk9Qc1pIUlNiYUxn?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/2b098a6feb0cd5770e6197c36731d893b5fedc70-3200x1800.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 들고 있는 사람 절반 넘게 지금 손해 보는 중이라고 함 😱 ② FTX 터졌을 때보다 지금이 더 아프다고? 👀 ③ 비트코인 1160만개가 지금 물려 있음 🔥",
+   "1,160만개·FTX 저점 비교는 CoinDesk 기준(블루밍비트·코인리더스가 같은 내용 보도)",
+   "'절반 넘게'는 유통량 약 2,000만개 기준 계산(약 58%) → 올리기 전 확인",
+   "BTC 60,189달러는 21:27 시세 기준, 올리기 직전 갱신"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261124-2127-2",
+  "createdAt": "2026-11-24T12:27:00.000Z",
+  "date": "2026-11-24",
+  "slot": "21시",
+  "category": "코인",
+  "topic": "미 법무부, 북한의 바이낸스 해킹 자금 12억달러 이상 법원 승인 동결·해킹 인프라 차단, 동결 USDC 11억달러 회수 추진(CoinDesk), 바이낸스 법무부와 반환 공조(코인니스) — 수십억달러 행방 미확인·북한 자금 계속 이동",
+  "imageTitle": "해킹 자금 12억달러 동결",
+  "imageHighlight": "동결",
+  "imageData": "법원 동결 12억달러+ · USDC 11억달러 회수 추진(미 법무부)",
+  "body": "북한이 털어간 코인, 미국이 잡아냈음 👀\n\n1) 미국 법무부가 북한의 대규모 코인 탈취에 대응해 해킹 인프라를 차단했다고 발표했음\n2) 바이낸스에서 빠져나간 코인 중 12억달러(약 1조6천억원) 이상을 법원 승인 받아 '동결'했다고 함\n3) 동결이 뭐냐면! 압수 확정 전까지 그 돈을 옮기거나 쓰지 못하게 묶어 두는 것\n4) 이 중 동결된 USDC(달러 연동 코인) 약 11억달러는 회수 절차를 추진 중\n5) 바이낸스도 피해 자금이 빨리 돌아오도록 법무부와 공조하겠다고 밝힘\n6) 단, 해킹 자금 수십억달러는 아직 행방이 확인 안 됐고, 북한 쪽 자금은 계속 옮겨지는 중이라고 함\n\n그래서 이게 왜 중요하냐 ⭐\n→ 스테이블코인은 발행사가 동결할 수 있어서 해커가 써먹기 어렵다는 게 다시 확인된 셈\n→ 반대로 아직 못 찾은 자금이 거래소로 풀리면 해당 코인에 매도 압력이 될 수 있음\n\n개미 입장에선 해킹·회수 뉴스 직후 관련 코인이 크게 출렁일 수 있으니, 발표 직후 급변동에 따라붙지 말고 흐름이 정리된 뒤 보는 게 안전할 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176721"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/564bac7203c6e38e89eb4093ecb221b0bbe4e205-3200x1800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 북한이 털어간 코인, 미국이 잡아냈음 👀 ② 해킹당한 코인 1조 넘게 묶였다고? 🔥 ③ 바이낸스 털어간 돈, 다시 돌아올까? 👀",
+   "동결 '12억달러 이상'은 코인니스(단독 출처), 'USDC 11억달러 회수 추진'은 CoinDesk 기준 — 두 숫자 원문 확인",
+   "해외 단독 보도(CoinDesk): 수십억달러 행방 미확인, 북한 자금 계속 이동",
+   "원화 환산 1조6천억원은 환율 1,343.5원 기준 계산",
+   "해킹 발생 시점·전체 피해 규모는 수집 기사에 없어 쓰지 않음"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
