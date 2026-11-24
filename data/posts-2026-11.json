@@ -14893,5 +14893,120 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261124-1527-1",
+  "createdAt": "2026-11-24T06:28:00.000Z",
+  "date": "2026-11-24",
+  "slot": "15시",
+  "category": "코인",
+  "topic": "[후속] 디지털자산기본법 정부안 실제 공개 — 거래소 대주주 지분 원칙 20%(금융위 승인 시 최대 34%, 3+3년 유예), 원화 스테이블코인 은행 합산 50% 초과 컨소시엄, 국내 ICO 허용(백서 신고·공시), 해킹 시 무과실 배상·최대 1000억대 과징금(연합뉴스·매일경제·조선일보·뉴시스·비즈워치 등 30건 안팎)",
+  "imageTitle": "코인 거래소, 지분 20%로 묶인다",
+  "imageHighlight": "20%",
+  "imageData": "디지털자산법 정부안 · 대주주 20%(최대 34%) · 유예 최장 6년",
+  "body": "코인 거래소 대주주, 이제 지분 20%까지만 가질 수 있음 👀\n\n1) 오늘(24일) 정부가 디지털자산기본법 정부안을 공개했음\n지난주 \"이번 주 공개\"라던 그 법안이 드디어 나온 것\n\n2) 제일 큰 건 거래소 지분 규제임\n대주주 지분은 원칙적으로 20%까지만, 금융위 승인을 받으면 금융회사 등은 최대 34%까지 허용한다고 함\n\n3) 바로 팔라는 건 아님\n3년 + 3년, 최장 6년 유예를 주고, 넘는 지분은 의결권을 제한하는 방식이라고 함\n\n4) 원화 스테이블코인은 은행이 주도함\n은행들 지분을 합쳐 50%가 넘는 컨소시엄부터 발행을 허용하는 구조임\n\n스테이블코인이 뭐냐면!\n1코인 = 1,000원처럼 가치를 법정화폐에 묶어 둔 코인임\n\n5) 국내 코인 발행(ICO)도 길이 열림\n백서를 신고하고 거래소 공시를 의무로 하는 조건임\n\n6) 대신 책임은 금융회사급으로 무거워짐\n해킹·전산장애가 나면 과실이 없어도 배상하고, 최대 1000억원대 과징금까지 가능하다고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 거래소 주인이 바뀔 수 있는 큰 판이 시작된 것\n→ 업계는 \"혁신 위축\", 위헌 논란도 나오는데 금융위는 \"위헌 소지 검토 끝냈다\"는 입장임\n→ 이건 정부안이고, 국회 통과 과정에서 바뀔 수 있음\n\n규제 뉴스 나올 때마다 관련 코인이 크게 출렁일 수 있음. 개미일수록 발표 직후 급변동에 따라붙기보다, 국회 논의가 어떻게 흘러가는지 확인하면서 보는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261124124400002"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12217102"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261124124200002"
+   },
+   {
+    "name": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9raUIzcHYwU3lFMDdfZnpWU3lBTzVMUVBMT0hNYzcyVE04Ukk2ekdsNWlrZUVsczE1R2M5c0R1cC1mVUtwU05PVXZKeU9WVVppRlhRSzgzcDVlenN6b0xPVdIBeEFVX3lxTE83UHlYLXYtcXBxd2M4U3hDdURDeEs2S2JXNTNqRGFMZzNxbl9UTlRfeTB2Vk01TGhuLTAtQV9pdll1UE5SRmEybVl6VlhobEJ1VmFCdER3Y3Z4UmxjMkJhUTRLeFhCTmlzcU8yMzk4Y1N4OHJhbFc4LQ?oc=5"
+   },
+   {
+    "name": "조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTJUdTF2LWdveWJ0dWNVbHZxamlQaURUZE5YZDU3QnQ1NnpmUUFBcHhCR0ljNm5HRzJiQ2NaUmdxY3k3YUNERWF5S0lKcU9JblQ4U2dJUmFkaWNnRU1Qcl9WX0VHQXV4dUFfRmRPdS0tSnJzUWRFcWtKRWlPbE1kay1KbXF6czRZdjhwRU1R?oc=5"
+   },
+   {
+    "name": "비즈워치",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nMEVDeDh5TTY2WFRSaHM0T0VMNE9Ed0pueU02ZUVYMnp1aE00cldMUFZ3enNvc3NXWjhMQnN4LUlmRFJFRHFBaU5lcDJSMVJaa2pyWEFSd1dJQmRIQ1NWcDc4dlNyNGNvRTM4?oc=5"
+   },
+   {
+    "name": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2M1k3Y0JrcmdBOVp1SjNPbzJMeDNSbWU4V1c0Zi1KTzNGeGVSSXVrZ1Q1SkxRc3hKcGFhTng3V1p6SE9KdXUycjc3V2UtZklBdzlSZGRKbU1UV2dqWG9pb29zWUxiRHJo0gFuQVVfeXFMUEZWOUhidHI5Q0pfLURRUDdJLVhuSmRGdGNhVEVZdzFMMDJmSGJONjVOZXp0R0x2VnJNTEw0c1V2Zmh5cEw1a3ZZVDQzX3ZRbVNVbV9Zb2xyWHJMdXEtNERWSTl3WVBadUNxWFJRWUE?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/24/news-p.v1.20261124.6e223097384745bcb3891beeff30e3e8_R.jpg",
+    "source": "매일경제"
+   },
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/24/PYH2026112414460001300_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 코인 거래소 대주주, 이제 지분 20%까지만 가질 수 있음 👀 ② 업비트·빗썸 주인이 바뀔 수도 있는 법이 나왔음 🔥 ③ 국내 코인 발행, 9년 만에 다시 열린다 👀",
+   "최대 34% 허용 대상(금융회사 등)과 '테크기업 최대주주 허용'(매일경제)의 정확한 조건 원문 확인",
+   "은행 합산 지분 '50% 초과(과반)' 표현 기사별 확인",
+   "과징금 '최대 1000억대'는 비즈워치 제목 기준 — 다른 기사로 교차 확인",
+   "정부안 단계이며 국회 통과 전 — 확정 표현 쓰지 않았는지 확인",
+   "지난 11/23 19시 '이번 주 공개 예정' 글의 후속"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261124-1527-2",
+  "createdAt": "2026-11-24T06:28:00.000Z",
+  "date": "2026-11-24",
+  "slot": "15시",
+  "category": "거시경제·금리",
+  "topic": "골드만삭스 내년 한국 전망 — 성장률 3.2%, 한은 기준금리 상단 3.5%(인상 끝 보인다), 내년 말 원·달러 1,280원(원화 강세), 반도체 낙수효과 한계로 소비는 약할 것(연합뉴스·매일경제·뉴시스·이투데이·머니투데이·한국경제 등) / 달러/원 1,342.9",
+  "imageTitle": "골드만 \"환율 1280원 간다\"",
+  "imageHighlight": "1280원",
+  "imageData": "달러/원 1,342.9 → 골드만 내년 말 전망 1,280 · 성장률 3.2%",
+  "body": "골드만삭스가 내년 원·달러 환율을 1,280원으로 봤음 👀\n\n1) 글로벌 투자은행 골드만삭스가 오늘(24일) 내년 한국 경제 전망을 내놨음\n\n2) 성장률은 3.2%\n반도체 수출과 투자 덕에 내년에도 3%대 성장을 이어갈 거라고 함\n\n3) 환율은 내년 말 1,280원\n지금 달러/원이 1,342.9원 수준이니까, 원화가 꽤 강해진다는 전망임\n\n4) 한은 기준금리는 3.5%가 꼭대기\n금리를 더 올리더라도 연 3.5%를 넘기긴 어렵다고 봤음\n\n기준금리 상단이 뭐냐면!\n이번 인상 사이클에서 금리가 올라갈 수 있는 끝 지점이라는 뜻임\n\n5) 대신 내수는 약하다고 함\n반도체 호황이 다른 산업과 소비로 퍼지는 '낙수효과'엔 한계가 있다는 진단임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 모레(26일) 한은 금통위 앞두고 \"인상은 하되 끝이 보인다\"는 시각이 하나 더 나온 것\n→ 환율이 내려가면 해외주식·달러 자산은 원화 기준 수익이 줄 수 있고, 수입 물가 부담은 줄어듦\n→ 다만 이건 한 투자은행의 전망이지 확정된 숫자가 아님\n\n전망 숫자 하나에 환전·투자 타이밍을 다 맞추려 하기보다, 실제 금통위 결과와 환율 흐름을 확인하면서 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 정리입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261124112800008"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12217095"
+   },
+   {
+    "name": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EYzJTWjhHemNldFgyS0t0WmEyUHFxZUJ0bTNfYjBGaHVXQjY0NWE3cnkwWFpfXzJxaW5jSENaY09KOTlwRWxHQVdWc1dyMVJUS0YyNQ?oc=5"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yXzBHQWg3cW9FVFRPd3ZDNE1NMmJWZG02b19pOXNkb3FaZmtFdkk4NkhMTGVsYjJ0Q2t5SWltVllrenJXblRkOUZnQ0JMQlN6Zm1tMW5CVWdOUQ?oc=5"
+   },
+   {
+    "name": "머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qZk9Uakh4UHpVWWVVSnc2U0FTZmZZTy11bnRCQW9Id2djTTRVOWM1aFd6Y0Vyc0plNlJ1X1pxQ3hnZGR2c3lZeTZTMXpzWWltZWFjS2hMSFRFOXBOMXFDTHFuR3Foa0Vi0gFuQVVfeXFMT0ttV1VWVXdTMHBHQUNzdnVLYlMxZTdCVUZ0WTRlUV9oQy1nOEY3NndMWFlJcXZ2WTAtRVZvaFdsdjF2anBJYmxfZlljeG8yY3Q5cm5fX1RKSFpjMWlMdnZNck1RQkZNd2pTSXRvSmc?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/etc/inner/KR/2026/11/24/AKR20261124112800008_01_i_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/24/news-p.v1.20261124.d999c94f57fa4bc5a634b18e41667c3a_R.jpg",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 골드만삭스가 내년 원·달러 환율을 1,280원으로 봤음 👀 ② 한은 금리 인상, 끝이 보인다는 전망 나왔음 👀 ③ 반도체는 웃는데 내수는 못 웃는다? 🔥",
+   "환율 1,342.9원은 야후 기준(15:27) — 올리기 전 기사 기준 환율로 다시 확인",
+   "'내년 말' 1,280원인지 연평균인지 기사 원문 확인(이투데이 '내년 말' 표현)",
+   "기준금리 상단 3.5%: 현재 기준금리 수준과 26일 금통위 결과 확인 후 표현 조정",
+   "11/24 11시 '한은 이번 주 금리 올리나' 글과 연결되는 내용 — 중복되지 않게 전망 중심으로 썼음"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
