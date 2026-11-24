@@ -14686,5 +14686,110 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261124-0927-1",
+  "createdAt": "2026-11-24T00:27:00.000Z",
+  "date": "2026-11-24",
+  "slot": "09시",
+  "category": "국내 증시",
+  "topic": "[후속] 코스피 매수 사이드카(09:06)·장초반 6.16% 급등 4,998.69, 장중 5천선 회복(개장 4,880.16 +3.64%), 삼성전자 8%·SK하이닉스 11% 급등 출발 — 젠슨 황 복귀 효과, 직전 두 거래일 매도 사이드카에서 반전",
+  "imageTitle": "코스피, 하루 만에 5천 탈환",
+  "imageHighlight": "5천",
+  "imageData": "코스피 4,975.35 (장중 09:07) · 개장 4,880.16 (+3.64%)",
+  "body": "어제 '반토막' 소리 듣던 코스피, 오늘 아침 완전히 다른 얼굴임 🔥\n\n1) 코스피 171.62p(+3.64%) 오른 4,880.16으로 출발\n2) 9시 6분, 코스피200 선물이 5% 넘게 오른 상태가 1분 이어지면서 '매수 사이드카' 발동\n3) 장 초반 한때 6.16% 오른 4,998.69까지, 장중 5,000선도 다시 밟았음 (장중)\n4) 삼성전자 8%, SK하이닉스 11% 급등 출발. 반도체가 끌고 가는 장\n5) 배경은 밤사이 젠슨 황 엔비디아 복귀 → 엔비디아 31.5%, 필라델피아 반도체지수 14.03% 급등\n\n매수 사이드카가 뭐냐면!\n선물이 갑자기 크게 오를 때 프로그램 매수 주문을 5분간 멈춰서 과열을 식히는 장치임. 직전 두 거래일엔 '매도' 사이드카였는데, 하루 만에 방향이 정반대로 뒤집힌 것\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 어제 마감 4,708.54에서 하룻밤 사이 분위기가 확 바뀐 건 맞음\n- 다만 이번 반등은 '한 사람의 복귀'라는 이벤트가 만든 것. 올해 코스피에서 224조원을 판 외국인이 진짜 돌아오는지는 아직 확인 전\n- 이번 주 목요일 미국 PCE 물가, 26일 한은 금통위, 12월 9일 연준까지 금리 변수가 줄줄이 남아 있음\n\n개미일수록 사이드카 뜬 날 장 초반 급등을 쫓기보다, 마감까지 5천선을 지키는지 확인하고 움직이는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261124038100008"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12216778"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261124036700008"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261124037600008"
+   },
+   {
+    "name": "뉴스1",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IN2RuUWJOdEhVUjJucGs2ZWhkXzhjS3Nsek5sTzhHUTlQVVhYb01pcGR0TFN4YndScVZzbmVEVnBGU3BCcHF3ak0wQ3p4TnNramZwVUlhN0x3WTg?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/24/news-p.v1.20261124.3488a617e49e41b1b31e9f7eda2d035d_R.png",
+    "source": "매일경제"
+   },
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112316190001300_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 어제 '반토막' 소리 듣던 코스피, 오늘 아침 완전히 다른 얼굴임 🔥 ② 이틀 전엔 매도, 오늘은 매수 사이드카 😱 ③ 하룻밤 사이에 코스피 5천이 돌아왔다 👀",
+   "시세 표 코스피 4,975.35는 09:07 장중 값. 표의 변동률(+2.16%)은 전일 종가 4,708.54 기준 계산(+5.67%)과 맞지 않으니 올리기 전 최신 지수·등락률로 갱신",
+   "6.16%·4,998.69는 뉴스1 2보 기준 장중 수치",
+   "외국인 올해 224조원 순매도는 매일경제 보도 수치",
+   "장 마감 후 5천선 유지 여부 확인 후 올리면 좋음"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261124-0927-2",
+  "createdAt": "2026-11-24T00:27:00.000Z",
+  "date": "2026-11-24",
+  "slot": "09시",
+  "category": "거시경제·금리",
+  "topic": "뉴욕연은 윌리엄스 '인플레 너무 높아 추가 금리 인상 필요'·연말 물가 3.5% 전망 vs 블랙록 '내년 2회 추가 인상 전망 과도' — 12/9 인상 확률 98%, 목요일(26일) 새벽 10월 PCE, 증시 폭등에도 10년물 4.918%",
+  "imageTitle": "증시는 환호, 연준은 '더 올린다'",
+  "imageHighlight": "더 올린다",
+  "imageData": "12월 인상 확률 98% · 미 10년물 4.918%",
+  "body": "나스닥이 6% 넘게 뛴 날, 연준에서는 정반대 얘기가 나왔음 👀\n\n1) 뉴욕 연은 윌리엄스 총재: \"인플레이션이 아직 너무 높다, 추가 금리 인상이 필요하다\"\n2) 올해 말 미국 물가가 3.5%에서 끝날 것으로 봄 → 목표치 2%와 거리가 멂\n3) 시장도 그대로 반영 중. 12월 9일 연준 금리 인상 확률 98% 수준\n4) 증시가 폭등했는데도 미 10년물 금리는 4.918%로 안 내려옴\n5) 반면 블랙록은 \"내년 두 번 추가 인상 전망은 과도하다, 연준은 덜 공격적으로 긴축할 것\"이라는 입장\n\n이번 주 PCE가 뭐냐면!\n연준이 소비자물가(CPI)보다 더 중요하게 보는 물가 지표임. 한국 시간 26일(목) 새벽에 10월치가 나옴. 에너지·식품 뺀 근원 PCE가 끈적하게 나오면 인상 쪽에 힘이 더 실림\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 젠슨 황 복귀는 'AI 이벤트'고, 금리는 '돈의 값' 문제임. 반등이 이어지려면 결국 금리 부담이 풀려야 함\n- 12월 인상은 사실상 가격에 반영된 상태라, 시장은 '12월 이후 몇 번 더 올리냐'를 보는 중\n- 같은 26일 한은 금통위도 있음. 이번 주 일정이 촘촘함\n- 참고로 유가 하락은 대부분 11월에 나와서, 10월 물가에는 덜 반영됐을 수 있음\n\n개미일수록 물가 발표 직후 몇 분간의 급변동에 올라타기보다, 발표 뒤 방향이 확인된 다음 움직이는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/ny-feds-williams-says-high-inflation-necessitates-more-rate-hikes-93CH-5046727"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/fed-has-work-to-do-to-lower-inflation-williams-says-5046374"
+   },
+   {
+    "name": "Sahi",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTVZrT3dUazNkWE9yTHJISGVkTkhjWjBseml1SWRMUzAtTnUtdTlOM29TQ1FfUEprUVFtTkxGT2ZhMXlZNGpteUlyRDJ2WFpKSEJyMjVjUDlrY0xoYkFfR01QN2d4SW54QTVVdGNwUTM1RjY0TmpuMXNFNnVlRHRMbTBnNWxhVVdfcnQ0WXg4elJsaFU?oc=5"
+   },
+   {
+    "name": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zZ0YwUVdSWWtwbE01QlI2OUhtTkN6WDVhSGdFUzlsRXRTOWFleG01OXR0cG9EZFJJWHRaSm9tTldhdWpOZDNEY3AtUW5WZDFaaTNaMHZNLVBrRFFZelJUZWM4RHJGMlJleFdKY2RkZ1lYQQ?oc=5"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=y8AL9j6S654"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 나스닥이 6% 넘게 뛴 날, 연준에서는 정반대 얘기가 나왔음 👀 ② 주식은 축제인데 금리는 안 내려온다 😱 ③ 연준 2인자급 한마디: '더 올려야 함' 🔥",
+   "연말 물가 3.5% 전망은 해외 단독 보도(Sahi)",
+   "블랙록 '2회 추가 인상 전망 과도'는 KB Think 단독 출처",
+   "12월 인상 확률 98%는 직전 회차(뉴스1) 기준. 올리기 전 CME FedWatch 최신값 확인",
+   "PCE 발표 시각(한국 시간 26일 새벽 2시 30분)은 영상 출처 수치, 기사 확인 필요 — 본문엔 '새벽'으로만 씀",
+   "'유가 하락이 10월 물가엔 덜 반영' 부분은 영상의 추정을 일반 설명으로 쓴 것. 빼도 무방"
+  ],
+  "videos": [
+   "y8AL9j6S654"
+  ],
+  "status": "draft"
  }
 ]
