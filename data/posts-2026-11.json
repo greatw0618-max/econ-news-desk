@@ -15488,5 +15488,69 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261125-0527-1",
+  "createdAt": "2026-11-24T20:27:00.000Z",
+  "date": "2026-11-25",
+  "slot": "05시",
+  "category": "코인",
+  "topic": "[후속·체크포인트] 비트코인 6만 재하회 59,581달러(-2.66%)·공포탐욕 11 — 이번 주 변수 3개: 미국 16개 경제권 추가 관세 추진(블록미디어), 반도체 -8.02%·나스닥 -1.92%(장중, AI 우려 재부상 WSJ), 12월 인상 베팅·PCE / 실현 손실 FTX 이후 최대(글래스노드, Decrypt), 강제 청산(21Shares)",
+  "imageTitle": "비트코인, 변수는 딱 3개",
+  "imageHighlight": "3개",
+  "imageData": "BTC 59,581달러(-2.66%) · 공포탐욕 11 · 반도체지수 -8.02%(장중)",
+  "body": "비트코인 다시 6만 달러 아래… 이번 주 뭘 봐야 하냐 👀\n1) 비트코인 59,581달러(-2.66%)로 6만 달러 다시 내줬음\n공포·탐욕 지수는 11, '극단적 공포' 구간 그대로임\n\n2) 첫 번째 변수, 관세\n미국이 중국 등 16개 경제권에 추가 관세를 추진한다는 보도가 나옴\n반등 하루 만에 다시 관세 얘기가 나오면서 위험자산 전반이 움츠러듦\n\n3) 두 번째 변수, 반도체·AI\n전날 역대급 반등 뒤 필라델피아 반도체 지수 -8.02%(장중), 나스닥 -1.92%(장중)\nAI 트레이드 우려가 다시 고개 들었다는 평가\n\n4) 세 번째 변수, 금리\n미국 12월 금리 인상 베팅이 커지는 중\n이번 주 PCE(개인소비지출 물가) 발표가 다음 분수령\n\n5) 온체인도 아직 무거움\n일주일 새 실현 손실이 거의 두 배로 늘며 FTX 붕괴 이후 최대 규모\n레버리지 청산(빚투 강제 정리)이 하락을 키웠다는 분석도 나옴\n\n실현 손실이 뭐냐면!\n코인을 산 가격보다 싸게 팔아서 실제로 확정된 손실임. 이게 크게 늘면 '버티던 사람들이 던졌다'는 뜻\n\n그래서 우리랑 무슨 상관이냐 ⭐\n지금 코인은 코인 자체 뉴스보다 관세·반도체·금리 같은 바깥 변수에 더 크게 흔들리는 중\n세 가지가 한 주에 몰려 있어서 변동성이 커질 수 있는 구간임\n\n개미 입장에선 바닥을 맞히려 하기보다, 큰 발표 지나고 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯. 레버리지는 특히 조심\n\n📌 투자 권유가 아닌 정보 정리용 글입니다. 투자 판단은 본인 책임입니다.",
+  "sources": [
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near"
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors"
+   },
+   {
+    "name": "블록미디어",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11dVVpTVoyVWduWjRmM2lYdldpeC1wREIyUjRKT29jNURYZVphVDBUSHlpT3lLRUdXMFBuSy1mRkpNYjV5TWx4Nk9ac2tpZ0sxUUloYU0wOHM?oc=5"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares"
+   },
+   {
+    "name": "FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTJBZ2IxMXZjaVpPUXZjS2lSVDh6Rk16OS03VUh5czRBU0FxSml6VC1LVVVCalFyOXVMV2Q3clhLWjdmT3FtQzdiSWR2WkpmVS1qZ1ppU0tyWFBEQVk2UHowcG11eU1TblE2Z1hodjFxUVFaV1NidS02N3pxQkJ5cFRjYmtJdzVVdFJReHJ1UmtJdE1wS2pyeGNaVHdiSGZVaHM3RGhUQlE?oc=5"
+   },
+   {
+    "name": "크립토 토마토 (유튜브)",
+    "url": "https://www.youtube.com/watch?v=mxdFfLRml-c"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+    "source": "Decrypt"
+   },
+   {
+    "url": "https://images.wsj.net/im-89305301",
+    "source": "WSJ"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 다시 6만 달러 아래… 이번 주 뭘 봐야 하냐 👀 ② 코인이 코인 뉴스로 안 움직인다 😱 ③ 이번 주 코인, 이 3가지만 보면 됨 🔥",
+   "반도체 -8.02%·나스닥 -1.92%는 05:27 장중 수치, 마감 수치로 바꿀 것",
+   "16개 경제권 추가 관세는 블록미디어 단독 보도(제목 기준), 대상국·시점 확인 필요",
+   "실현 손실 FTX 이후 최대는 글래스노드 자료(Decrypt·블루밍비트 인용)",
+   "PCE 발표 시각(한국 시간) 확인 필요",
+   "자막 못 가져옴: 영상은 제목(트럼프 관세·비트·이더리움·수이)만 반영"
+  ],
+  "videos": [
+   "mxdFfLRml-c"
+  ],
+  "status": "draft"
  }
 ]
