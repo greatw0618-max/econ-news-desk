@@ -14836,5 +14836,62 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261124-1327-1",
+  "createdAt": "2026-11-24T04:27:00.000Z",
+  "date": "2026-11-24",
+  "slot": "13시",
+  "category": "코인",
+  "topic": "[후속] 비트코인 6만달러 하회(12:05, 바이낸스 59,995달러) — 간밤 6.4만 터치 후 반락, 나스닥 +6.51%·코스피 +7.27%와 디커플링, 미 비트코인 ETF 이달 41억달러 이탈·4주 연속 순유출(EBN·코인리더스), 마라 276.7 BTC 매도 추정 vs 스트래티지 457개 추가 매수·고래 726 BTC 매수 / BTC 60,452달러(-1.16%), 공포탐욕 11",
+  "imageTitle": "증시 7% 뛸 때 비트는 6만 붕괴",
+  "imageHighlight": "6만 붕괴",
+  "imageData": "나스닥 +6.51% · 코스피 +7.27% vs 비트코인 60,452달러(-1.16%) · 공포탐욕 11",
+  "body": "증시는 폭등했는데 비트코인은 왜 6만달러 밑으로 갔을까 😱\n\n1) 오늘 낮 12시쯤 비트코인이 6만달러 아래로 내려갔음\n바이낸스 기준 한때 59,995달러, 지금은 60,452달러(-1.16%) 근처에서 버티는 중\n\n2) 간밤엔 젠슨 황 복귀 소식에 6만4천달러까지 튀었던 코인임\n그런데 그 상승분을 하루도 안 돼 거의 다 반납함\n\n3) 같은 시간 다른 시장은 완전 딴 세상\n나스닥 +6.51%, 필라델피아 반도체 +14.03%, 코스피는 +7.27%로 5,050선(장중)\n\n4) 발목 잡는 건 돈의 흐름\n미국 비트코인 현물 ETF에서 이달에만 41억달러가 빠져나갔고, 4주 연속 순유출이라고 함\n\nETF 순유출이 뭐냐면!\n비트코인 ETF를 판 돈이 산 돈보다 많다는 뜻 → 그만큼 시장에서 비트코인이 팔려 나간다는 얘기임\n\n5) 파는 쪽과 사는 쪽이 갈리는 중\n채굴업체 마라홀딩스는 276.7 BTC를 거래소 쪽으로 옮겨 매도 추정\n반면 스트래티지는 457개를 더 샀고, 1년 쉬던 고래 지갑도 9일간 726 BTC를 평균 6만3천달러대에 사들였다고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n이번 반등장에서 비트코인은 '위험자산이니까 같이 오른다'는 공식이 안 먹히고 있음\n이번 주 연준 금리 인상 전망(12월 인상 확률 90%대)과 ETF 자금이 계속 빠지는지가 방향을 정할 듯\n공포·탐욕 지수는 여전히 11, '극단적 공포' 구간임\n\n개미일수록 6만달러 공방에서 바닥을 맞히려 하지 말고, ETF 자금이 다시 들어오는 게 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 변동성 큰 구간이라 레버리지는 특히 조심!\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176686"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BZm9FdTJ5RmRrZmlFaWxmTGZReUdHcUJKOWd1UXBvY1U1Rko1emtjX1Vzd19LVFNRcDdRS21CbHZOZldqaGJ6SjJjQk9sSTVj?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnZXI0b1RIR3FwYnFKRVNyUnBDT2IyMjdDSHZwNThWdmh6aFZpQ21YNTdDWG5pUzgyVENTeWZJdjM5amI5WUxWUFVXUDdnRFNZ?oc=5"
+   },
+   {
+    "name": "EBN",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ib3NtV0tsbGxvS09SWWNxRWlmMVF1Sm95cnFtWGZfNmtRc2R5SzRqZ0hGVkFtbDR3OGZuTWlBd0lER0FraTQ3TVZEYUt4YWktdGdib1hSN1l5dk1kdjU0VXIzYnk2aWRz?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5JTGV3SzVpX1YyaTNhUjV2YjA1M2ExOGpQZVNOY2ZPQUJtd214OFlQZkJsTjZjZUZBVjhCX3RseGVDRlNFTGZLeHZR?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176689"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41MnUwb1JSWmRqUmlqN296dXVqeEFfVEtsNXRQY0p5TWtzU2V3N3d5b1Z1djE4VERQa2tlWURLQWl2Q0lNWkxSMHhIVlctdU40ZlE?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176687"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 증시는 폭등했는데 비트코인은 왜 6만달러 밑으로 갔을까 😱 ② 나스닥 6.5% 오를 때 비트코인은 거꾸로 갔음 👀 ③ 젠슨 황 효과, 비트코인만 하루 만에 끝났음 🔥",
+   "비트코인 가격은 올리기 직전 다시 확인(13:27 기준 60,452달러, 6만 재붕괴/회복 여부)",
+   "코스피 5,050(+7.27%)은 장중 수치, 마감치로 바꿀지 확인",
+   "마라홀딩스 매도는 룩온체인 '추정'·고래 726 BTC 매수는 단독 출처(코인니스·룩온체인)",
+   "'간밤 6.4만 터치'는 CBC뉴스 보도 기준",
+   "12월 연준 인상 확률 90%대는 오전 보도(뉴스1 98%) 기준, 올리기 전 최신 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
