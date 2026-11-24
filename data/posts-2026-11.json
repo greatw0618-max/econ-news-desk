@@ -15101,5 +15101,115 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "createdAt": "2026-11-24T10:27:00.000Z",
+  "date": "2026-11-24",
+  "slot": "19시",
+  "status": "draft",
+  "videos": [],
+  "id": "20261124-1927-1",
+  "category": "국내 증시",
+  "topic": "[후속] 코스피 6.32% 급등 5,006.03 마감·3거래일 만에 5천선 회복(이틀 낙폭 70% 만회), 코스닥 +4.79% — 공매도 하루새 16조원 손실(한국경제), 대만 9% 급등·TSMC 상한가(연합뉴스), 환율 3.5원 내린 1,342.4원 마감, \"AI 랠리 재개 vs 2~3일 더 지켜봐야\"",
+  "imageTitle": "코스피 6% 급등, 5천 마감",
+  "imageHighlight": "5천",
+  "imageData": "코스피 5,006.03 (+6.32%) · 코스닥 665.88 (+4.79%)",
+  "body": "코스피, 하루 만에 5천 다시 찍고 끝냈음 🔥\n\n1) 오늘 코스피 5,006.03으로 마감, 하루에 +6.32% 올랐음\n2) 장중 반짝이 아니라 종가로 5천선 지킨 거라 의미가 있음. 3거래일 만의 회복임\n3) 직전 이틀 동안 빠진 폭의 약 70%를 하루 만에 되찾았다고 함\n4) 코스닥도 665.88로 +4.79% 마감\n5) 이유는 하나, 엔비디아 젠슨 황 CEO 복귀 → AI 반도체 투자심리가 한 번에 살아남\n6) 대만 증시도 9% 급등, 시총 1위 TSMC는 상한가까지 갔음\n7) 반대로 하락에 베팅했던 공매도 쪽은 하루 새 16조원 손실을 봤다고 함\n\n공매도가 뭐냐면!\n주식을 빌려서 먼저 팔고, 나중에 싸게 사서 갚는 거래임. 주가가 오르면 손해가 남\n\n8) 환율도 위험선호 회복에 3.5원 내려 1,342.4원에 마감(기사 기준)\n\n그래서 우리랑 무슨 상관이냐 ⭐\n하루 급등의 이유가 '실적'이 아니라 '사람 한 명의 복귀'라는 점은 기억해 둘 필요가 있음\n증권가 의견도 \"AI 랠리 재개\"와 \"2~3일은 더 지켜봐야\" 로 갈림\n게다가 이번 주는 목요일(26일) 한은 금통위, 미국 물가(PCE) 발표가 줄줄이 있음\n\n개미일수록 하루 급등에 바로 따라 붙기보다, 5천선이 며칠 버티는지 확인하고 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 시장 정리 글이에요. 투자 판단은 본인 책임!",
+  "sources": [
+   {
+    "name": "연합뉴스TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JT1VyYWpXdmlaWm9BRkpGS041NGpsTUplaHQtLWRDUjlzQ3VWQ1B2R2c2bnVadG5RSWZNRTRNTi1NM1YzSGVaaUZ0c2NFeVRZbUZqX0FBQlBUbDlxUkhXTnZaT1Q3S3M?oc=5"
+   },
+   {
+    "name": "인더스트리뉴스",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pNDdUbTRVLV9Iek1YLVpDREJYUnZaSUFOVW02VFlmOEdsaTZzSzhydjhkcGREd2Vob19wYnZOQkhGdFJWSVN4SEZmelNWenR5ZGEtNmZrRHplMUVaM05sZWhGUGJWQk5QaFd6NGtPN3FvQQ?oc=5"
+   },
+   {
+    "name": "우먼타임스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82WDdpcW1UZklKWi1IeFNScWZsVWRkWTQwVWdRZ3RTYUNnTGN5eUp6RWExeGdHT0MweFF6RnhmR0NHWjR4dnNUYXd3SlBxZjdYMUx1LWtYRUJ3TnJ4dEdjTXdZNlc5a3NRUkhOTmd5a0nSAXRBVV95cUxPVjJ3aW1uWlpaWS1xRnA3amxXQzFTWDNsWnV4dFpqTjhPUnVLWXlZblYyUl83VlUxX0xkdG1WdklMaUw0OS1LVDZrZHZTVU82OHVaZ2l3dnV3R0VPcHBSMHA3b01EXzVGQUhGbUVkUWM0bWtCWg?oc=5"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026112476961"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026112476941"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261124085751083"
+   },
+   {
+    "name": "베타뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WcTVLbFpWYlExaFZQcm92dFZ3emdpX3Jsa3JWOFFkRWpTdWxjVHlibGhVOFk5ZlJhWURkUDRfcWJXUG1ySTBhSDc5NWEtSGkwTkVqZzNoQkc5OEwzWnVhRnRxTDM?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/etc/epa/2026/11/06/PEP20261106215001009_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/25/20261125_01160103000001_L00.jpg",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 코스피, 하루 만에 5천 다시 찍고 끝냈음 🔥 ② 이틀 동안 빠진 거, 하루 만에 70% 되찾았음 👀 ③ 공매도 하루에 16조 날린 날 😱",
+   "공매도 16조원 손실은 한국경제 단독 보도 수치",
+   "이틀 낙폭 70% 만회는 우먼타임스 보도 기준",
+   "환율 1,342.4원은 서울 외환시장 마감 기사 기준(시세 표 1,342.7원은 19:27 기준)",
+   "대만 9%·TSMC 상한가는 연합뉴스 단독 확인"
+  ]
+ },
+ {
+  "createdAt": "2026-11-24T10:27:00.000Z",
+  "date": "2026-11-24",
+  "slot": "19시",
+  "status": "draft",
+  "videos": [],
+  "id": "20261124-1927-2",
+  "category": "미국 증시",
+  "topic": "[후속·오늘밤 예고] 역대급 반등 다음 날 뉴욕 선물 하락 — 엔비디아 프리마켓 3% 넘게 하락(Investing.com), 나스닥100 선물 약 1% 하락·달러인덱스 104 위(CoinDesk), WSJ \"AI 트레이드 의문 여전\", 유럽 반도체주 하락(WSJ) / 전일 S&P +4.73%·나스닥 +6.51%·반도체 +14.03%(2025년 4월 이후 최고의 하루, CNBC), 5년물 입찰 대기",
+  "imageTitle": "역대급 반등 다음 날, 선물은 하락",
+  "imageHighlight": "하락",
+  "imageData": "전일 나스닥 +6.51% · 반도체 +14.03% → 오늘 선물 약 -1%",
+  "body": "어제 미국장 역대급이었는데, 오늘 밤은 분위기가 좀 다름 👀\n\n1) 어제(월) 뉴욕 마감: S&P500 +4.73%, 나스닥 +6.51%, 필라델피아 반도체지수 +14.03%\n2) S&P500과 나스닥 모두 2025년 4월 이후 가장 좋은 하루였다고 함\n3) 그런데 오늘 저녁 나스닥100 선물은 약 1% 하락 중\n4) 엔비디아도 프리마켓에서 3% 넘게 빠지는 중\n\n프리마켓이 뭐냐면!\n정규장(한국 시간 밤 11시 30분) 열리기 전에 미리 거래되는 시간임. 그날 분위기를 먼저 보여줌\n\n5) 유럽 반도체주도 하루 만에 하락 전환, 황 CEO 복귀 효과가 식는 모습\n6) 해외 언론에선 \"황 CEO 복귀 후에도 AI 투자 관련 의문은 남아 있다\"는 분석이 나옴\n7) 이번 주엔 미 국채 5년물 입찰, 목요일 새벽 물가(PCE) 발표가 이어짐\n\n그래서 우리랑 무슨 상관이냐 ⭐\n오늘 코스피 +6.32%도 결국 어제 밤 미국장을 따라간 거임\n오늘 밤 미국이 쉬어가면 내일 국내 반도체주도 숨 고르기가 나올 수 있음\n급반등 다음 날에는 차익 실현이 나오는 일이 흔함\n\n개미일수록 하루 급등 뒤 이틀째 흐름을 확인하고 움직이는 게 안정적일 듯. 단, 장 시작 직후 급변동은 조심\n\n📌 투자 권유가 아닌 시장 정리 글이에요. 투자 판단은 본인 책임!",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-surge-30-as-board-announces-jensen-huangs-reinstatement-5045795"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.wsj.net/im-89305301",
+    "source": "WSJ"
+   },
+   {
+    "url": "https://content-media.investing.com/news/moved_LYNXMPEM811C3_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 어제 미국장 역대급이었는데, 오늘 밤은 분위기가 좀 다름 👀 ② 하루 14% 뛴 반도체, 이틀째는? 🔥 ③ 엔비디아, 프리마켓에서 벌써 빠지는 중 😱",
+   "나스닥100 선물 약 1% 하락은 CoinDesk, 엔비디아 프리마켓 3%대 하락은 Investing.com 해외 단독 보도 — 올리는 시점 선물·프리마켓 수치 다시 확인",
+   "\"2025년 4월 이후 최고의 하루\"는 CNBC 해외 단독 보도",
+   "WSJ 기사는 유료, 제목·요약 내용만 반영",
+   "미 정규장 개장 시각(한국 시간 23:30, 서머타임 해제 기준) 확인"
+  ]
  }
 ]
