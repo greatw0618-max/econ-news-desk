@@ -15441,5 +15441,52 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261125-0327-1",
+  "createdAt": "2026-11-24T18:35:00.000Z",
+  "date": "2026-11-25",
+  "slot": "03시",
+  "category": "거시경제·금리",
+  "topic": "금값 -2.44% 3,562달러 급락 — 달러 약세(달러인덱스 -0.50%)에도 연준 12월 인상 베팅이 금 끌어내림(FXStreet·TMGM), 인도 MCX 은 6% 급락(Zee Business), 웰스파고 '실질금리 상승 압박', 이번 주 PCE가 다음 변수",
+  "imageTitle": "달러 약한데 금이 왜 빠짐?",
+  "imageHighlight": "금",
+  "imageData": "금 3,562.3달러 (-2.44%) · 달러인덱스 103.80 (-0.50%) · 미 10년물 4.904%",
+  "body": "보통은 달러 약하면 금이 오르는데… 오늘은 반대였음 👀\n\n1) 금값 하루 만에 2.44% 하락, 온스당 3,562달러까지 밀렸음\n2) 이상한 건 달러가 약했다는 점. 달러인덱스도 0.5% 내렸는데 금은 같이 빠졌음\n3) 해외 시장에서는 원인을 '연준 금리 인상 베팅'으로 봄. 12월 인상 가능성이 거의 기정사실처럼 가격에 반영되는 중이라고 함\n4) 은은 더 셌음. 인도 선물시장에서 은 가격이 하루 6% 가까이 급락했다고 함\n\n실질금리가 뭐냐면!\n👉 금리에서 물가상승률을 뺀 '진짜 이자'임. 이게 오르면 이자 안 주는 금을 들고 있을 이유가 줄어듦\n5) 미 대형은행 웰스파고도 실질금리 상승이 금에 다시 부담이 되고 있다고 짚었음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n👉 지금 시장은 '금리 더 오른다'에 모든 자산이 반응하는 중임. 나스닥·비트코인에 이어 안전자산이라던 금까지 같이 흔들림\n👉 이번 주 미국 물가지표(PCE) 발표가 인상 베팅을 더 키울지, 식힐지가 다음 갈림길\n\n개미일수록 안전자산이라고 무조건 버틴다 생각 말고, 물가 발표 뒤 방향이 확인되면 그때 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTJBZ2IxMXZjaVpPUXZjS2lSVDh6Rk16OS03VUh5czRBU0FxSml6VC1LVVVCalFyOXVMV2Q3clhLWjdmT3FtQzdiSWR2WkpmVS1qZ1ppU0tyWFBEQVk2UHowcG11eU1TblE2Z1hodjFxUVFaV1NidS02N3pxQkJ5cFRjYmtJdzVVdFJReHJ1UmtJdE1wS2pyeGNaVHdiSGZVaHM3RGhUQlE?oc=5"
+   },
+   {
+    "name": "TMGM",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE4xS2l0TEtubWpVeVRVTXVSZWRnem04U25QVVhKY1pWY1RPS2VqSUlhTkM1amY5LVk3NEdyV1k3eXlMUVV4dWM1ZGtMdHdsVDVPa1ZHY01jUmEwYXpBNGJnQkZ5SHl6M3Q4RHpjM05oZVR1dFFQaVNjQjJGc2loWmN5OVZ0Z0dlbko4ZUduNV9tMlBiaDcwS1g0YTNZZGtxSzl6MmJlQmMzQlN5VFk5Mm1oNDFhYllpbWg1RFBqb2cxeFJmWUY4?oc=5"
+   },
+   {
+    "name": "Zee Business",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNnFKbWVJeTdwQlZEbnRTN0ZmSTZzZDhwT0R6bVdvbDVUblhIZmxFRXV6OXUwTDctTzJGUE1Id1NSOUF0Yk03WmpfTnotNkxwUU5LRHFyN2xkUktyaVdhcEhaTFNObERmUXo4TXo5SDFmS19TZ0ZQQ1lwa0gtOEppWGItQlhzUERSUUhHTGZjM0RrLXVLdDBqYWJaOHFXbHFOU0o4VUFQSFk3NFkyRW44VzFFeENMaVJlMzBzREhfdEtxdzJiX1RBQTQ1TDY3WGZCWGdDd3h2Z3JkZl9N?oc=5"
+   },
+   {
+    "name": "TradingView (Wells Fargo)",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2R3d3BBOFhlOFZ3NU1MSk9HcG1RR3hwVjMwRGhtY0Etb1VsSFhKelFEWHVLeEFOdlptREdxcTRqRzJOemxHLVVFNllIcllBam9qaHJwM19Jc2dYZ1hLYVNuTGYwUGtlUVRLdFNidXM0RTZldE5xS0hIcFpRVkhEWmtUS0hsSDlsZ0lWbVVsZHNIeWR2UVBmTllqU0tOREE0YmFXUlpERXFobWg4Tk01WFRyTU04czU2ZGFDQUxORl9kNXRB?oc=5"
+   },
+   {
+    "name": "Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFoyQkFQYlRvOGJRODN5cFRyV0dBSGE3OHVaVjRvX1hjM092aGotbXNMcGVOTUNKVkNzamdXNzlyTTRydk1oXzJvcXhNOGFQNVpSeWFUenNITW4tNExfdU1EaTdMLVNfVXhsX0x2Q0tSVERPVDJPNlRfZlZRTHdRYkh0RlhjVmhVYUhqcFNrc0ZCVDUwb19XUjk2UQ?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보 1: 보통은 달러 약하면 금이 오르는데… 오늘은 반대였음 👀",
+   "첫 줄 후보 2: 안전자산이라던 금까지 하루 2% 넘게 빠졌음 😱",
+   "첫 줄 후보 3: 주식·코인 다음은 금? 금리 인상 공포가 금까지 번졌음 🔥",
+   "금 가격 3,562.3달러(-2.44%)는 03:17 KST 야후 시세 기준(장중), 올리기 전 최신 시세로 갱신",
+   "은 6% 급락은 인도 MCX 선물 기준(Zee Business 해외 단독 보도), 국제 은 시세로 재확인",
+   "웰스파고 '실질금리 압박'은 TradingView 제목 기준(해외 단독 보도)",
+   "PCE 발표 일시(미국 26일 오전 / 한국 26일 밤 또는 27일 새벽 여부) 확인 후 필요하면 본문에 구체 시각 추가",
+   "'12월 인상 가능성 거의 기정사실' 표현은 이전 보도(인상 확률 98%) 기준, 최신 페드워치 확률 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
