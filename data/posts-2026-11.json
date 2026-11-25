@@ -15659,5 +15659,111 @@
    "1H-U96uMAFk"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261125-0927-1",
+  "createdAt": "2026-11-25T00:27:00.000Z",
+  "date": "2026-11-25",
+  "slot": "09시",
+  "category": "국내 증시",
+  "topic": "[후속] 코스피 하루 만에 4%대 급락·매도 사이드카 발동 — 3.94% 내린 4,809 개장 후 4,761선(-4.89%, 장중)까지 밀림, 삼성전자 18만·SK하이닉스 110만원 깨지며 6%대 하락(연합뉴스·매일경제·뉴스1 등 20건), 美 반도체 -7.88%·관세 우려 / 전날 5,006.03 마감",
+  "imageTitle": "5천피 하루 만에 반납, 사이드카",
+  "imageHighlight": "사이드카",
+  "imageData": "코스피 4,761 (-4.89%, 장중) · 개장 4,809.00(-3.94%) · 전날 5,006.03",
+  "body": "어제 6% 올랐는데 오늘 바로 4%대 급락 😱\n\n1) 코스피 3.94% 내린 4,809.00으로 출발함\n어제 6.32% 급등하며 지켜낸 5,000선을 하루 만에 내줌\n\n2) 장 초반 낙폭이 4%대로 커지면서 '매도 사이드카'까지 발동됨\n한때 4,761선(-4.89%, 장중)까지 밀렸다고 함\n\n매도 사이드카가 뭐냐면!\n코스피200 선물이 크게 떨어진 상태가 이어지면, 컴퓨터가 자동으로 내는 프로그램 매도 주문을 5분간 멈추는 장치임\n급락이 더 번지지 않게 잠깐 숨 고르게 하는 브레이크라고 보면 됨\n\n3) 삼성전자·SK하이닉스 6%대 하락\n삼성전자 18만원, SK하이닉스 110만원 선이 장중에 깨졌음\n\n4) 원인은 간밤 미국 반도체\n필라델피아 반도체 지수 -7.88%, 엔비디아 5%대·마이크론 11% 하락\n'젠슨 황 복귀' 효과가 하루 만에 식었고, 미국 추가 관세 우려까지 겹쳤음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 사흘 동안 -3%대 → +6%대 → -4%대, 하루하루 방향이 뒤집히는 장임\n- 어제 급등장에서 개인은 2조원 넘게 팔았다는 보도도 있음. 따라가다 보면 사고 팔 때마다 엇갈리기 쉬움\n- 오늘 밤 미국 PCE(개인소비지출 물가), 내일 한은 금통위까지 변수가 줄줄이 남아 있음\n\n개미일수록 이렇게 출렁이는 날 바닥을 맞히려 하기보다, 변동성이 가라앉고 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261125041100008"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12217745"
+   },
+   {
+    "name": "위키리크스한국",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rbThDQ3hiMGRXbzFXc1lsZ19tc2tEUFlFVmp0YzVuVnhjc3psREdqM0RWYm9NN1NKYThLa0ZjaV9VN0VzVmVWUW53WlpNZ05tWnhQZUt5TG1IYktxV2pIVExZaFg2LW1CZjVzZ1JBWmk?oc=5"
+   },
+   {
+    "name": "서울신문",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qSUc1dUotWmRPbXUtQ0Jqd3ZTbXBOU3lUWDNZRm5ncjZWWnJ3d25EVk95RTVydnlRajZYRFkwLWpTU0hDMDF0Y1ZGZUh3aFFBVjhLMXRCZmktQTZCQ3g5MXk0MkRKOEtlVFpNN3RsSndHODVMOTFmM2JLUTI1UQ?oc=5"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12217723"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/11/25/PYH2026112501940001300_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.beca972024674901adf9999a41270a46_R.png",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 어제 6% 올랐는데 오늘 바로 4%대 급락 😱 ② 5천피, 딱 하루 버텼음 👀 ③ 사이드카까지 걸린 아침, 무슨 일? 🔥",
+   "장중 수치(4,761선 -4.89%, 4700대)는 올리기 직전 최신 지수로 갱신. 시세 표는 09:07 기준 4,782.03인데 표의 변동률(+1.56%)은 기준가가 잘못 잡힌 것으로 보임(전날 종가 5,006.03 대비 약 -4.5%)",
+   "삼성전자 18만·SK하이닉스 110만원 하회, 6%대 하락은 장 초반 기사 기준 — 올리기 전 현재가 확인",
+   "개인 2조원 순매도는 매일경제 보도(전날 기준)",
+   "사이드카 설명은 일반 제도 설명(코스피200 선물 5% 이상 하락 1분 지속 시 프로그램 매도 5분 정지) — 표현 단순화함"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261125-0927-2",
+  "createdAt": "2026-11-25T00:27:00.000Z",
+  "date": "2026-11-25",
+  "slot": "09시",
+  "category": "거시경제·금리",
+  "topic": "[후속·D-1] 내일(26일) 한은 금통위 — 이코노미스트 23명 중 21명 인상 전망(중앙일보), SK증권 3.25% 인상·내년 2월 3.50% 전망(비즈니스포스트), 외국인 10년 국채선물 5거래일 연속 매수 '마지막 인상' 베팅(연합뉴스·서울경제TV), 단기금리는 인상 반영 vs 골드만 등 동결(KB Think), 美 연은 3분의 2 10월 인상 지지(연합뉴스) / 달러/원 1,344.0",
+  "imageTitle": "내일 금리 인상, 마지막일까?",
+  "imageHighlight": "마지막",
+  "imageData": "이코노미스트 23명 중 21명 '인상' · 외국인 10년 국채선물 5일 연속 매수",
+  "body": "내일 한은이 금리 올리면, 이번이 마지막일까? 👀\n\n1) 내일(26일) 한국은행 금융통화위원회(금통위)가 열림\n기준금리를 정하는 회의임\n\n2) 시장은 '인상' 쪽으로 기울어 있음\n이코노미스트 23명 중 21명이 인상을 예상했다고 함\nSK증권은 이번에 3.25%로 올리고, 내년 2월 3.50%까지 갈 수 있다고 봄\n\n3) 단, 전망이 다 같지는 않음\n단기금리는 이미 인상을 거의 확신하는 흐름인데, 골드만삭스 등 일부는 동결을 예상함\n\n4) 재밌는 건 외국인 움직임\n외국인이 10년 국채선물을 5거래일 연속 사들였음\n\n국채선물 매수가 뭐냐면!\n앞으로 금리가 내려갈(채권값이 오를) 쪽에 거는 거래임\n그래서 '이번 인상이 거의 마지막'에 베팅한 것이라는 해석이 나옴\n\n5) 미국도 매파 분위기\n지난 10월 회의 때 미국 지역 연은 3분의 2가 금리 인상을 지지했다고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 대출 금리: 인상되면 변동금리 대출 이자 부담이 더 커질 수 있음\n- 증시·환율: '올리긴 하는데 끝이 보인다'는 신호가 나오면 시장엔 오히려 숨통이 될 수 있음\n- 결국 금리 숫자보다 총재가 '추가 인상'을 어떻게 말하는지가 더 중요함\n\n개미 입장에선 발표 직후 몇 시간은 지수·환율이 크게 흔들릴 수 있으니, 결과와 기자회견 내용을 확인한 뒤 움직이는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QOElwUzIyd1hpejMzUF9rcDRyY3l4RGpSTVhXYk9WYUhtQ0xQenhnajRiWE9lN0lGcC1qRGxLcjVkbHBFTlNhWktraHVCWkhudFZvZzQzcV8wcWM?oc=5"
+   },
+   {
+    "name": "비즈니스포스트",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpTS1GY2VyTlItd2p5bVI0djVrRmFPX0hCVWVFeklVTFJLU0hXa2wxUWlqS2E5czYwMEFiR21KU3ZNbmtOSVlDdWhvZjdmVDdPNlhVY1R3b1VLSGxJZGRnY21ORHRfQ2ZEQVV3RUZiSmM5Sms?oc=5"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261124171200008"
+   },
+   {
+    "name": "서울경제TV",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12YjJjSFRPa0tjMXZBX0ZMRVpuV1k1aDJaclVHa3h0UzRNd3lRbUVueHgyV095YUs1aVAyN3RsSnNqWXRYZVFRb0dsUThzOWUweElpT00wbVM5eVFTWHBBSjlUSUk?oc=5"
+   },
+   {
+    "name": "KB Think",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FZWxEVlhqQTBaR0NValRxR0dxWGt6bkdMSTFsY1kwN1EzVUM4QndBY2N1d2JJREs1VTdiQXd0UEJnR0FuRHFxTm1aalpOdkktaF85TktmNXUtSTJjaVpoaG8tekQ1OVNDY1dRS2lQY0psdw?oc=5"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wLW9UVURrWkUxcGpCMzJ3N2t1b1J0N251WFcwSng2eU41N0w0eGxZQ2J3NUJPdHF6RmxTbXZpQlBSbnZ5NXpjdUdXTlRMVWt6WWtOSFVQUjFzTFHSAWBBVV95cUxPa2JITkpnamk0TkdmTHNyQzQwb1FEdU54anJvZXUxbHNBZkFNajBncUUySy02SmNaOS1pU2dMTU9iMnlWSVJmdExMX1JmWFVwaVM3Zjg0eGtwRlYzRmlZRE4?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/10/22/PYH2026102214330001300_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 내일 한은이 금리 올리면, 이번이 마지막일까? 👀 ② 외국인은 벌써 '금리 끝'에 베팅 중 🔥 ③ 내일 오전, 대출 이자 갈림길 😱",
+   "현재 기준금리 3.00%(→3.25% 인상 예상)는 SK증권 전망 기사에서 추론 — 올리기 전 현재 기준금리 확인",
+   "'23명 중 21명'은 중앙일보 단독 집계, 'SK증권 3.25%·내년 2월 3.50%'는 비즈니스포스트 단독 보도",
+   "11/24 11:27 게시글(금통위 인상 유력)의 후속 — 같은 날 함께 올리면 내용 겹침 주의",
+   "금통위 결과 발표 시각 확인 후 본문에 넣을지 판단"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
