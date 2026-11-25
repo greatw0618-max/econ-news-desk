@@ -16200,5 +16200,102 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261125-2127-1",
+  "createdAt": "2026-11-25T12:27:00.000Z",
+  "date": "2026-11-25",
+  "slot": "21시",
+  "category": "미국 증시",
+  "topic": "[후속·오늘밤] 나스닥 선물 2~3% 급락(Investing.com·Reuters·CNBC, 엔비디아·앤트로픽 주도, 관세 보도) + VIX 30.99(+17.56%) 30 돌파, 오늘 밤 PCE(근원 3.2% 예상, 12월 인상 선반영 CoinDesk) → 내일 금통위",
+  "imageTitle": "공포지수 30 넘었다",
+  "imageHighlight": "30",
+  "imageData": "VIX 30.99(+17.56%) · 나스닥 선물 2~3%↓(기사 시점) · 반도체지수 -7.88%(전날)",
+  "body": "오늘 밤 미국장, 출발부터 불안함 😱\n\n1) 나스닥 선물이 2~3% 급락 중이라고 함\n엔비디아·앤트로픽이 AI 매도를 다시 이끌고, 미국 관세 보도까지 겹쳤음\n\n2) 공포지수(VIX)는 30.99로 하루 새 17% 넘게 뛰었음\nVIX가 뭐냐면! S&P500 옵션 가격으로 계산한 '앞으로 한 달 변동성 예상치'임. 보통 30을 넘으면 시장이 꽤 겁먹은 상태로 봄\n\n3) 전날 미국장은 이미 반도체지수 -7.88%, 나스닥 -1.48%로 마감했음\n젠슨 황 복귀 랠리가 딱 하루 만에 꺼진 셈\n\n4) 여기에 오늘 밤 PCE(개인소비지출) 물가가 나옴\n연준이 가장 중요하게 보는 물가 지표고, 12월 FOMC 전 마지막 PCE임. 근원 PCE는 3.2%로 오를 거란 예상이 나옴\n\n5) 시장은 이미 12월 금리 인상을 가격에 반영한 상태라는 분석도 있음\n예상보다 높게 나오면 '추가 인상'까지 걱정해야 하는 구조\n\n그래서 우리랑 무슨 상관이냐 ⭐\n미국 반도체가 흔들리면 내일 코스피 삼성전자·SK하이닉스도 바로 영향 받음. 게다가 내일은 한은 금통위까지 있음. 오늘 밤 PCE 숫자 → 미국장 마감 → 내일 아침 금통위, 이 순서로 하루가 결정됨\n\n개미일수록 발표 직후 급변동에 바로 뛰어들기보다, 미국장 마감과 내일 장 초반 방향이 확인된 뒤 대응하는 게 안정적일 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://www.investing.com/news/economy-news/nasdaq-futures-slide-over-2-on-fresh-us-tariff-concerns-inflation-data-in-focus-5050138"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in"
+   },
+   {
+    "name": "BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZNmxfM2hJQXZzaDlzbzRHNlEybzhSZUJuckhtRXMyVkR2OFRxQXN5WkdHQU5jSUE2NmEyYWQ2eUwxaWNrZ0JnRE1uUW1tLVlZMXY2aDRUSjUtcVp0bExaUmxKQ1lMaDNCVmZDdndEcV9LWkhQSXc?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 오늘 밤 미국장, 출발부터 불안함 😱 ② 공포지수 30 돌파, 이게 무슨 뜻이냐면 👀 ③ 랠리 하루 만에 끝… 오늘 밤 PCE가 진짜 승부 🔥",
+   "나스닥 선물 낙폭은 기사마다 2%~3%로 다름 — 올리기 직전 확인",
+   "근원 PCE 3.2% 예상은 해외 단독 보도(BigGo Finance)",
+   "PCE 발표 시각(한국 시간 밤 10시 30분 예상) 확인, 발표 후 올리면 실제 숫자로 고칠 것",
+   "VIX 30.99는 21:12 기준 수치"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261125-2127-2",
+  "createdAt": "2026-11-25T12:27:00.000Z",
+  "date": "2026-11-25",
+  "slot": "21시",
+  "category": "코인",
+  "topic": "빗썸 해킹 추가 피해 확인 — 피해자 당초 7,159명보다 증가(규모 미공개), 유출 기간 보름 이상, 직장 정보 등 항목 추가(연합뉴스·EBN·코인니스·한국NGO) + 한국투자저축은행 8.6만명 유출(업권 최대)",
+  "imageTitle": "빗썸 해킹, 보름 몰랐다",
+  "imageHighlight": "보름",
+  "imageData": "당초 발표 피해자 7,159명 → 추가 확인(규모 미공개)",
+  "body": "빗썸 쓰는 사람이면 꼭 봐야 할 소식 👀\n\n1) 지난달 빗썸 해킹 사고, 피해가 처음 발표보다 커졌음\n당초 7,159명이라고 했는데, 후속 점검에서 피해자가 더 있는 걸로 확인됐다고 함\n\n2) 정확한 추가 규모는 아직 공개 안 했음\n빗썸은 \"아직 정확한 규모를 밝히기 어렵다\"는 입장\n\n3) 유출 기간도 늘어났음\n처음엔 짧은 시간으로 알려졌는데 실제로는 보름 넘게 이어졌다고 함. 그동안 해킹 사실을 몰랐다는 얘기\n\n4) 유출 항목도 추가됐음\n직장 정보 같은 개인정보가 더 나간 걸로 확인됨\n\n5) 오늘은 한국투자저축은행에서도 고객 8만6천여 명 정보가 유출됐음. 저축은행 업권 역대 최대 규모라고 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n개인정보가 나가면 그걸 이용한 피싱 문자·전화가 따라오는 경우가 많음. 거래소·금융사를 사칭한 \"보안 확인\" 연락이 오면 링크 누르지 말고 공식 앱으로 직접 확인하는 게 기본임\n\n코인 계좌라면 2단계 인증, 출금 주소 화이트리스트 같은 보안 설정부터 점검해 두는 게 안전할 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261125176100002"
+   },
+   {
+    "name": "EBN",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MVzRQeHRsekgwQkhza1QwMExqUzc3YjNHcC1pRlhidEswRUx4OTV6dU4waG9sMkY4WGllN3M0U09IU2E1N2d3UFhYdUQyM01JYmFYMU5QeGt1ZlNPSUpnMnNHV25FR05Z?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176850"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/economy/12218530"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/yna/YH/2026/10/28/PYH2026102812140001300_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/25/news-p.v1.20261125.481e2d8da48c4e5daaac6d75b8d223f0_R.png",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 빗썸 쓰는 사람이면 꼭 봐야 할 소식 👀 ② 해킹이 1시간이 아니라 보름이었다고? 😱 ③ 빗썸 해킹, 피해가 더 커졌음 🔥",
+   "추가 피해 규모는 빗썸 공식 공지로 재확인",
+   "'보름 이상' 유출 기간은 연합뉴스·EBN·코인니스(서울경제 인용) 기준",
+   "내 정보 포함 여부 조회 방법이 공지에 있는지 확인해 한 줄 추가 검토"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
