@@ -16419,5 +16419,113 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261126-0127-1",
+  "createdAt": "2026-11-25T16:27:00.000Z",
+  "date": "2026-11-26",
+  "slot": "01시",
+  "category": "미국 증시",
+  "topic": "[후속·본장] 美 PCE 뒤 나스닥 -3.76%(장중)·필라델피아 반도체 -6.98%(장중)·S&P -2.46%·VIX 33.73(+27.96%) — 엔비디아 주도 AI 매도 재개·14개국 관세안, 월가 다시 '조정 국면'(Investing.com·Reuters·CNBC), 앤트로픽 공모가 하회 부담(CNBC)",
+  "imageTitle": "나스닥 4% 급락, 공포지수 33",
+  "imageHighlight": "4% 급락",
+  "imageData": "나스닥 22,840 (-3.76%) · 반도체 -6.98% · VIX 33.73 (장중)",
+  "body": "물가 발표 끝나자마자 미국장이 무너지는 중 😱\n\n1) 나스닥 22,840(-3.76%, 장중), S&P500 7,023(-2.46%, 장중), 다우 49,420(-1.20%, 장중)\n2) 제일 크게 빠진 건 반도체. 필라델피아 반도체지수 -6.98%(장중)로 어제(-7.88%)에 이어 이틀 연속 급락임\n3) 엔비디아가 AI주 매도를 다시 이끌었고, 미국이 14개 경제권에 새 관세안을 내놓은 것도 겹쳤다고 함\n4) 상장 후 공모가 아래에서 거래 중인 앤트로픽 주가도 AI주 전체에 부담이 되고 있다는 분석\n5) 월가는 다시 '조정 국면'에 들어갔다는 평가. 조정이 뭐냐면! 고점 대비 10% 이상 빠진 상태를 말함\n6) 공포지수(VIX)는 33.73(+27.96%)까지 뛰었음. 20 아래면 평온, 30 넘으면 불안이 커진 구간으로 봄\n\n그래서 우리랑 무슨 상관이냐 ⭐\n어제 6% 넘게 빠진 코스피도 반도체 두 종목 비중이 커서, 미국 반도체 흐름을 그대로 받는 구조임\n여기에 오늘 오전엔 한은 금리 결정까지 있어서 아침 장은 변동이 클 수 있음\n\n개미일수록 바닥을 맞히려 하기보다, 급락이 멈추고 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯. 레버리지는 특히 조심!\n\n📌 투자 권유가 아닌 정보 공유 목적이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+   },
+   {
+    "name": "중앙일보·매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sbEhyVW5EVzJWRnM0c0RncWhBUmhPT1pVNURsT3cxQWFtNW1HZU9pME43UE9OZkxWNUdEUjUweW5kbm1DQjB4YnVYUGJaVElZMnRGVHNn?oc=5"
+   },
+   {
+    "name": "KBS·뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53YkNjUXNJRDV4TWhEc2xOZ0VDTUkzN0NCa2NGeGdpWkZlVE5jeVhsM2tTWkxMMXdpaFFVUEhGUHJsNERxNllYdVdGazAtbkZJTUpPd2hLcGlXUVU?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAO0RG_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "모든 지수는 장중(01:27 KST) 수치 — 올리는 시점의 마감 수치로 바꿀 것",
+   "'조정 국면 재진입'은 Investing.com 제목 기준(해외 보도), 어느 지수 기준인지 확인",
+   "앤트로픽 공모가 하회 부담은 해외 단독 보도(CNBC)",
+   "첫 줄 후보: ① 물가 발표 끝나자마자 미국장이 무너지는 중 😱 ② 반도체 이틀 연속 7% 안팎 급락, 무슨 일? 👀 ③ 공포지수 33… 미국장 지금 분위기 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261126-0127-2",
+  "createdAt": "2026-11-25T16:27:00.000Z",
+  "date": "2026-11-26",
+  "slot": "01시",
+  "category": "거시경제·금리",
+  "topic": "[후속] 금 3,500달러 붕괴 3,475.4달러(-2.43%)·약 15개월 최저(1월 고점 대비 약 38%↓, 블루밍비트) vs 美 10년물 4.807%(-0.097%p) 하락 — 뜨거운 PCE에도 증시 급락에 안전자산 수요는 국채·달러로(CNBC·Investing.com), 12월 인상 베팅이 금 압박, 은 -4.6%",
+  "imageTitle": "금은 빠지고 국채는 산다",
+  "imageHighlight": "국채",
+  "imageData": "금 3,475달러 (-2.43%) · 美 10년물 4.807% (-0.097%p)",
+  "body": "주식이 폭락하는데 금도 같이 빠짐. 돈은 어디로 갔을까? 👀\n\n1) 금 3,475.4달러(-2.43%)로 3,500달러 선이 깨졌음. 약 15개월 만에 최저 수준이라고 함\n2) 반대로 미국 10년 국채금리는 4.807%로 하루에 0.097%p 내려감. 금리가 내렸다는 건 국채를 사는 사람이 많았다는 뜻임\n3) 물가(PCE)가 예상보다 뜨겁게 나왔는데도 국채로 돈이 몰린 건, 주식 급락에 '피난처'를 찾은 수요 때문이라는 분석\n4) 달러도 안전자산 수요로 올랐음(달러인덱스 103.94, +0.12%)\n5) 금이 힘을 못 쓰는 이유는 12월 금리 인상 베팅. 금은 이자가 안 나오는 자산이라, 금리가 오를수록 상대적 매력이 떨어짐\n6) 은 선물도 -4.6% 빠졌다는 보도까지 나옴\n\n그래서 우리랑 무슨 상관이냐 ⭐\n이번 급락장에선 '안전자산 = 금'이라는 공식이 안 통하고 있음\n금리 인상 국면에선 같은 안전자산이라도 움직임이 다를 수 있다는 걸 보여준 하루임\n\n개미일수록 '떨어졌으니 싸다'로 바로 들어가기보다, 금리 방향(12월 FOMC)을 확인한 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적이며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "TradingKey",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV19kUDREYUlJUFVvQlZUVEt5RzRzSnBUajRmblN3bm11b0s3ZGh6MExKSjE2SzJEZmNhSngwYjdFeGV1eTNqRzJnQ04zNHZVZlpMTXNSVDZjeTJOMmd0QWRJWG5rRkZBdXdoNHZud3lQU2hOdVJ4ZGdnRTk2SUZVZDc0bnV1OThvN2JuenZpd3gtMGRaQURlaVVNYmJfNk0zRFB6NHJCaXU3Z2NmekdpN3Z1UW9ncHdTR0dvSHdyVXQ3a2VCNk1HMWY0d1RYX2ZUejk4Vm5B?oc=5"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGeGhOeTU2OGhJNjJXVUIydDhTUnhBRl92aWU3ZzU3eDdqZE9faEFoSTlZSDRaQkJLRHFVMnlEQ0NNbWktRVJ5WWhDeHRLVFF2?oc=5"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/eurozone-bond-yields-edge-down-as-aifueled-stock-ructions-drive-haven-demand-5050128"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi-5049486"
+   },
+   {
+    "name": "Wisevoter",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2hJZTBrY1E0RmdOTlZQTUNXbGtHalE1NWlnR2ZBUGNPRG9HWl82Mk5RdTVRVHVrbnFGbGwxMkk3alM1eTVNc0E4SDM4NEVuTU9odnVRZDdtSFlfZ1dwblZQYTFCZEJJd0FoVDBxdGlsMDdscUxyTkFWdW1LaFBOVHd4V1FYSDUyaDBRdTNIbw?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://content-media.investing.com/trkd-images/LYNXNPEMAO03H_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "금·국채금리·달러인덱스는 01:12~01:17 KST 장중 수치",
+   "'약 15개월 최저'는 해외 단독 보도(TradingKey), '1월 고점 대비 약 38% 하락'은 블루밍비트 단독 — 본문에는 15개월만 씀, 확인 필요",
+   "은 선물 -4.6%(38.90달러)는 단독 출처(Around Prague), 시세 표에 없음",
+   "첫 줄 후보: ① 주식이 폭락하는데 금도 같이 빠짐. 돈은 어디로 갔을까? 👀 ② 금 3,500달러 깨졌음 😱 ③ 이번 급락장, 피난처는 금이 아니었다 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
