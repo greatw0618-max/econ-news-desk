@@ -16527,5 +16527,62 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261126-0327-1",
+  "createdAt": "2026-11-25T18:27:00.000Z",
+  "date": "2026-11-26",
+  "slot": "03시",
+  "category": "미국 증시",
+  "topic": "[후속·장중] 美 증시 낙폭 축소 — 나스닥 장중 -3.98%(오전)→-1.27%, S&P -2.69%→-0.53%, 다우 -2%대→+0.39% 50,214 상승 전환, 반도체 -6.98%→-2.81%, VIX 29.12, 엔비디아 장중 8%↓(파이낸셜뉴스·YTN), 추수감사절 연휴 앞둠 / 오늘 오전 금통위",
+  "imageTitle": "나스닥 4% 급락, 절반 넘게 회복",
+  "imageHighlight": "회복",
+  "imageData": "나스닥 -1.27% · S&P -0.53% · 다우 +0.39% (장중, 11/26 03:27 KST)",
+  "body": "뉴욕증시, 오늘 밤 롤러코스터였음 👀\n\n1) 오전엔 나스닥이 4% 가까이 빠졌었음 (미 동부 11시 반 기준 -3.98%, S&P도 7,000선 코앞까지)\n2) 그런데 오후 들어 낙폭을 크게 줄였음. 지금 나스닥 -1.27%, S&P -0.53% (장중)\n3) 다우는 한때 2% 넘게 빠졌다가 오히려 +0.39%로 돌아섰음 (장중, 50,214)\n4) 반도체지수도 한때 -7%까지 밀렸다가 지금 -2.81% (장중)\n5) 원인은 그대로임. 뜨거운 PCE 물가 + 14개국 새 관세안 + AI주 매도, 엔비디아가 장중 8% 넘게 빠지며 매도 주도\n6) 공포지수(VIX)는 29.12, 아직 30 근처라 불안감은 안 꺼졌음\n\nVIX가 뭐냐면! 앞으로 30일간 S&P500이 얼마나 출렁일지 시장이 예상하는 값임. 20 넘으면 불안, 30 넘으면 공포 구간이라고 봄\n\n그래서 우리랑 무슨 상관이냐 ⭐\n어제 6% 넘게 빠진 코스피(4,697.51)는 오늘 미국 마감 분위기를 그대로 받음. 오늘 오전엔 한은 금리 결정까지 겹쳐서 장 초반 변동성이 클 수 있음\n그리고 미국은 추수감사절 연휴 직전이라 거래가 얇음. 막판 30분에 숫자가 또 바뀔 수 있으니 마감 확인이 먼저임\n\n개미일수록 장중 반등 하나 보고 바로 따라붙기보다, 마감과 다음 날 흐름까지 확인한 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 투자 권유가 아니며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "Investing.com (Reuters)",
+    "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469"
+   },
+   {
+    "name": "Nasdaq.com",
+    "url": "https://www.nasdaq.com/articles/stock-market-midday-nov-25-nasdaq-plunges-4-ai-sell-deepens-and-inflation-remains-stubborn"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
+   },
+   {
+    "name": "파이낸셜뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BOFQ3Q3VILW1DNm94eVRnLVVBcXVBTGVuQWxkS1pMVUhTT1pTcV9hdFlKSkpwb3lJRWRuY0tzcEtKNEladkNHR3ppYXY5WWFNaEF5TkFxSGlhdw?oc=5"
+   },
+   {
+    "name": "YTN",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41dWw3b0RoZFM0elZqcVFoYXFFSk9rOWZQY2loWTFhMnF2WXpJUWY3cy1xejI0dWNfOThHOEJ5N1g4dmJEMDFqY2J6OGxubGxVM01ReUJMVFFTYVFvLXAzRjZkaG92ZHczdi15OGV5QlltYlp4Vnc?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://images.wsj.net/im-48917090",
+    "source": "WSJ"
+   }
+  ],
+  "checks": [
+   "모든 지수는 장중 수치(11/26 03:27 KST). 마감 수치로 바꿔서 올릴 것",
+   "오전 낙폭(나스닥 -3.98%, S&P -2.69%)은 Nasdaq.com 미 동부 11:31 기준, 다우 '2% 넘게 하락 후 만회'는 Investing.com(Reuters) 제목 기준",
+   "엔비디아 8%↓는 장중 기사(파이낸셜뉴스·YTN) 기준, 지금 낙폭은 다를 수 있음",
+   "추수감사절 휴장 일정(26일 목 휴장, 27일 조기 폐장)은 거래소 일정으로 확인",
+   "첫 줄 후보: ① 뉴욕증시, 오늘 밤 롤러코스터였음 👀 ② 나스닥 -4%였는데… 지금은? 😱 ③ 다우는 오히려 올랐다고? 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
