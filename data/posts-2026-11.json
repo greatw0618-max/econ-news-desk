@@ -15765,5 +15765,65 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261125-1127-1",
+  "createdAt": "2026-11-25T02:28:13.000Z",
+  "date": "2026-11-25",
+  "slot": "11시",
+  "category": "미국 증시",
+  "topic": "트럼프 '젠슨 황 사면 가능'·미 정부 엔비디아 지분 언급(NYP, Investing.com) — 황 CEO 복귀 후 '승계계획 불필요'(연합뉴스), 아시아 AI주 동반 급락 소프트뱅크 -14%(CNBC) / 필라델피아 반도체 -7.88%, 코스피 -5.19%(장중)",
+  "imageTitle": "트럼프, 엔비디아 지분까지?",
+  "imageHighlight": "지분",
+  "imageData": "필라델피아 반도체 8,832.50 (-7.88%) · 소프트뱅크 -14%(장중)",
+  "body": "엔비디아 얘기에 이번엔 트럼프가 직접 등판함 👀\n\n1) 트럼프 대통령이 젠슨 황 엔비디아 CEO에 대해 \"필요하면 사면도 가능하다\"고 말했다고 함\n2) 젠슨 황이 의회에서 묵비권(수정헌법 5조)을 쓸 필요 없이 사실대로 증언하길 바란다는 입장도 냈음\n3) 여기에 미국 정부가 엔비디아 지분을 갖는 방안까지 꺼냈다는 보도가 나옴 (아직 구체 내용은 없음)\n4) 젠슨 황은 이사회 결정이 뒤집히며 CEO로 복귀했고, 복귀 후 전사회의에서 \"별도 승계 계획은 필요 없다\"고 했다고 함\n\n사면이 뭐냐면!\n👉 대통령이 형사 처벌을 면제해 주는 권한임. 아직 기소나 처벌이 정해진 게 아니라 \"필요하면\"이라는 조건부 발언임\n\n5) 시장은 반대로 움직였음. 전날 미국 반도체 지수 -7.88%, 오늘 아시아에서는 소프트뱅크가 14% 급락(장중)하는 등 AI·반도체주가 같이 밀리는 중\n\n그래서 우리랑 무슨 상관이냐 ⭐\n👉 엔비디아는 삼성전자·SK하이닉스 주가와 같이 움직이는 대장주임\n👉 CEO 거취, 정부 개입 같은 '실적 밖 변수'가 커질수록 반도체주 변동성도 커질 수 있음\n👉 오늘 코스피 -5%대 급락(장중)도 이 반도체 약세 흐름과 이어져 있음\n\n개미일수록 뉴스 한 줄에 바로 반응하기보다, 정책이 구체화되고 주가 흐름이 진정되는 걸 확인한 뒤 움직이는 게 안정적일 듯\n단, 정부 지분 얘기는 아직 '언급' 단계라 확정된 정책처럼 받아들이면 안 됨\n\n📌 본 게시글은 정보 제공 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/trump-says-he-could-pardon-jensen-huang-floats-us-govt-stake-in-nvidia--nyt-5049530"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/2026112590127"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261125066800009"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261125031651009"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/huang-returns-as-nvidia-ceo-after-trump-intervention-in-abrupt-board-reversal-5049490"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://content-media.investing.com/news/moved_LYNXNPEMAN0YV_1200_L.jpg",
+    "source": "Investing.com"
+   },
+   {
+    "url": "https://img.yna.co.kr/photo/reuters/2026/11/25/PRU20261125153701009_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 엔비디아 얘기에 이번엔 트럼프가 직접 등판함 👀 ② 트럼프가 엔비디아 지분을 갖겠다고? 🔥 ③ CEO 사면 얘기까지 나온 엔비디아 😱",
+   "정부 지분 언급은 해외 단독 보도(Investing.com, 뉴욕포스트 인용) — 제목만 확인, 구체 방식·규모 미확인",
+   "소프트뱅크 -14%는 CNBC 기사 시점 장중 수치",
+   "코스피 -5.19%는 11:07 기준 장중 수치"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
