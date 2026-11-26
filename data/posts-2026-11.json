@@ -17081,5 +17081,87 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261126-1727-1",
+  "createdAt": "2026-11-26T08:27:00.000Z",
+  "date": "2026-11-26",
+  "slot": "17시",
+  "category": "미국 증시",
+  "topic": "'빅쇼트' 마이클 버리 AI주 공매도 접었다는 보도(에너지경제) — 나스닥 장중 -3.98%→-0.62% 마감, 5대 빅테크 CDS 최고치(PANews), 오늘 밤 美 추수감사절 휴장·27일 조기 폐장",
+  "imageTitle": "빅쇼트, AI주 공매도 접었다",
+  "imageHighlight": "공매도",
+  "imageData": "나스닥 23,585.80 (-0.62%) · 장중 한때 -3.98%",
+  "body": "AI주 하락에 베팅하던 '빅쇼트'가 손을 뗐다는 소식 👀\n\n1) 영화 '빅쇼트'로 유명한 마이클 버리가 AI주 공매도 포지션을 접었다는 보도가 나왔음\n2) 공매도가 뭐냐면! 주식을 빌려서 먼저 팔고, 값이 떨어지면 싸게 사서 갚는 하락 베팅임\n3) 마침 나스닥은 어제 장중 한때 약 4% 빠졌다가 -0.62%로 마감, 다우는 +0.33%로 오히려 올랐음\n4) 다만 시장 불안은 아직 남아 있음. 공포지수(VIX)는 28.29로 여전히 높고, 5대 빅테크의 부도 위험 지표(CDS)는 또 최고치라고 함\n5) 미국 증시는 오늘 밤 추수감사절로 휴장, 내일(27일)은 조기 폐장이라 거래가 얇을 수 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n하락에 크게 베팅하던 쪽이 물러나면 '바닥이 가까운가' 하는 해석이 나옴. 하지만 한 사람의 포지션 변화가 곧 반등 신호는 아님. 국내 반도체주도 AI주 흐름을 그대로 따라가는 중이라 같이 봐야 함\n\n개미일수록 '고수가 숏 접었으니 바닥'이라고 바로 뛰어들기보다, 실제로 반등 추세가 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "에너지경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSUkkwcmFpc0JEYVlOV3FUaGJiSHNMdVp2bVh6UFI3RXVqTDF1Zm1lQXItT0syR2E4YU1yUDNJMDUxbWdFVjYwTkZtb0RONzN5ZkJtUE5DUngwQzhHb0ZvLTEtcw?oc=5"
+   },
+   {
+    "name": "크립토tv (유튜브)",
+    "url": "https://www.youtube.com/watch?v=MTXW0EuBdVQ"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① AI주 하락에 베팅하던 '빅쇼트'가 손을 뗐다는 소식 👀 ② 4% 빠지던 나스닥, 숏 고수는 왜 발을 뺐을까 🔥 ③ '빅쇼트'가 공매도 접었다, 바닥 신호일까? 😱",
+   "버리 공매도 청산은 에너지경제 1곳 제목만 확인(본문·청산 시점·규모 미확인) — 단독 출처, 원문 확인 필요",
+   "5대 빅테크 CDS 최고치는 PANews 제목 기준 — 단독 출처",
+   "자막 못 가져온 영상(제목에 '마이클버리 공매도', 설명란 '숏 고수들 태세전환')이 주제 근거 — 영상 내용은 미확인",
+   "나스닥·다우·VIX는 시세표(11/26 새벽 마감) 기준"
+  ],
+  "videos": [
+   "MTXW0EuBdVQ"
+  ],
+  "status": "draft"
+ },
+ {
+  "id": "20261126-1727-2",
+  "createdAt": "2026-11-26T08:27:00.000Z",
+  "date": "2026-11-26",
+  "slot": "17시",
+  "category": "코인",
+  "topic": "디지털자산법(디지털자산업 혁신·이용자 보호법) 정부안 국회 제출 — 유동수 정무위원장 대표발의, 거래소 대주주 지분 20% 제한·코인 리딩방 신고제, 금융위 '법 시행 전 결합도 예외 없어'(네이버·두나무), 위헌 논란, 국부펀드 거래소 지분 보유 길(한국경제 단독)",
+  "imageTitle": "코인 거래소, 지분 20% 넘으면 안 된다",
+  "imageHighlight": "20%",
+  "imageData": "디지털자산법 국회 발의 · 대주주 지분 상한 20%",
+  "body": "코인 거래소 주인이 지분을 팔아야 할 수도 있다고? 😱\n\n1) 디지털자산법 정부안이 오늘 국회로 넘어갔음. 유동수 국회 정무위원장이 대표발의했다고 함\n2) 핵심 쟁점은 거래소 대주주 지분을 20%로 제한하는 내용임\n3) 대주주 지분 제한이 뭐냐면! 한 사람(회사)이 거래소 지분을 일정 비율 넘게 갖지 못하게 하는 규칙임. 넘는 만큼은 팔아야 함\n4) 금융위는 법 시행 전에 이미 합친 회사도 예외가 없다는 입장. 네이버·두나무 결합도 해당된다는 보도가 나왔음\n5) 업계에선 '해외에서도 유례가 드물다', '위헌 소지가 있다'는 반발이 나오는 중\n6) 이 밖에 코인 리딩방 신고제, 새 법정 협회 추진, 국부펀드의 거래소 지분 보유 허용 같은 내용도 거론되고 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n거래소 지배구조가 바뀌면 거래소 전략, 상장·서비스 방향까지 달라질 수 있음. 리딩방 신고제처럼 이용자 보호 장치도 같이 들어가서, 법이 어떤 모습으로 통과되는지가 코인 투자 환경을 바꿀 수 있음\n\n개미 입장에선 아직 '발의' 단계라 국회 심사에서 내용이 바뀔 수 있음. 규제 뉴스 하나에 급하게 움직이기보다 확정 내용을 확인하고 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "SBS Biz",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBZ1NWcTdCMzl0Z21JekxRMm05TmJxQ0ZtMHMxY0VOMEQ0d05tOFJHVkpSNnhRcUJYamtSUDhCZnJ5dXo1Vnl1VEV1anJ6RE1jUm1N0gFYQVVfeXFMT2ZVWEVSdU1aLWNSV2dfOTJrdlNKdmhqd0szRHNNWFFEOG0yeUtUVlhCSkZzNlNRM3ZtbnM4Zy1zQ3k3WUJNdktKTGExM3ZNR2NQOHl4dFBFLQ?oc=5"
+   },
+   {
+    "name": "아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XdlRyZDEzR0pDX2gzRENranhRUGdCTkdVMG1MVUp6ZGZ5T3dqSU1lZEoxZkZRRm9DLTFQU2pLM05ieVRZZHFwRkpQN0xGQ3BUSEhvRmlwT0xOYUlKTmpVX19n?oc=5"
+   },
+   {
+    "name": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WG8zXzlLbjhJN0s0YlFyanh0NThUalVfOWt4ZkFjdWlqY0pRRFRiYkhCWDlxNlhnbGZSQkNfemswRkpTV0g4Z2prQUdDbWIxSFdIeA?oc=5"
+   },
+   {
+    "name": "시사저널e",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jXzZyMGVJeTVkdEtMMnRtTmlIOXppS3VGamVPaVJSdzc1ZFkyNHRuWk93cDVObjBPWVZfQ19jYzdSOEVrMllEWjlKZTVSZm1ubkVsYUF1ekZGVjFFRWZ4eTNXRnU5aGFyZWxVRDlBemhEZ9IBdkFVX3lxTE5WbEtKUEVickxNNW1yeE0xQ2ZRUG9JWGFCTGhQVVdLZjR5eFlva3Nya0ZMZkdGUWpnUENMYlk1VHF4WnN5U3FHTzRHZWRjTFdoTFYxWF9hQ3RTNTdDdTc4Z1ZNWHhBcnBNTm92Y2t0TzRvWnNXeUE?oc=5"
+   },
+   {
+    "name": "전자신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0bGZvZW9EeFZCT3pqa2ZPZ2hsbmJqRW5fUGZfSEtDTEw0UFNhVTUxTGNLTG0xdWpXWWF3MDY4b0cwVHM0U1BBWHZpYXVrdw?oc=5"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43QVhobzhaT1lLWi1MaGl6LUtNd2tkNkprbWJ4OXduOFNNbUkwMlpCQ0kyQXZOLWNqUjZlOWpLa1AxN0UzckZiZG9WbHlYcFJuN1RUUVFySURuQQ?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 코인 거래소 주인이 지분을 팔아야 할 수도 있다고? 😱 ② 업비트·빗썸 지배구조, 국회 손에 넘어갔음 🔥 ③ 코인판 판 바꿀 법안, 오늘 국회로 👀",
+   "20% 상한의 적용 대상(대주주 범위)·유예 기간은 제목 기준이라 원문 확인 필요",
+   "네이버·두나무 '예외 없음'은 시사저널e 제목 기준 — 단독 출처",
+   "국부펀드 거래소 지분 보유는 한국경제 단독 보도",
+   "아직 발의 단계 — '추진'·'거론' 표현 유지"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
