@@ -17163,5 +17163,107 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261126-1927-1",
+  "createdAt": "2026-11-26T10:27:00.000Z",
+  "date": "2026-11-26",
+  "slot": "19시",
+  "category": "국내 증시",
+  "topic": "[후속·마감] 코스피 장중 4800선 찍고 반납, 4,711.21(+0.29%) 강보합 마감 — '전강후약', 한은 인상에 상승폭 반납·외국인 매도 전환 vs 기관 7,500억 순매수, 코스닥 655.71(+0.78%), 거래량 17%↓·공매도 5%↑(매일경제) / 증안펀드 증액 검토",
+  "imageTitle": "코스피, 4800 찍고 미끄러졌다",
+  "imageHighlight": "미끄러졌다",
+  "imageData": "코스피 4,711.21 (+0.29%) · 코스닥 655.71 (+0.78%) · 장중 4800선",
+  "body": "코스피 오늘 장, 아침이랑 저녁이 완전 달랐음 👀\n\n1) 어제 6%대 급락 뒤 오늘은 반등 출발 → 장중 4800선까지 올라갔음\n2) 근데 오후 들어 상승폭 대부분 반납, 결국 4,711.21(+0.29%)로 마감함\n3) 코스닥은 655.71(+0.78%)로 조금 더 버텼음\n4) 발목 잡은 건 한은 기준금리 인상(3.25%) + 외국인 매도 전환이라고 함. 기관은 7,500억원 가까이 사들였음\n5) 거래량은 줄었는데(최근 17%↓) 공매도는 오히려 늘었다는 집계도 나옴\n\n전강후약이 뭐냐면!\n→ 장 초반엔 강하고 후반엔 약해지는 흐름. 위에서 파는 물량이 아직 많다는 신호로 보기도 함\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- 하루 만에 반등은 했지만 '추세가 돌아섰다'고 보기엔 아직 이름\n- 금리 인상·외국인 매도·공매도 증가가 한꺼번에 겹친 상태라, 정부가 검토 중인 증안펀드 증액 같은 변수도 같이 봐야 함\n\n개미일수록 반등 첫날 따라붙기보다, 고점(4800선)을 다시 넘는지 확인한 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "알파경제(Investing.com 한국어)",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HdHdITGNiTUpmanBGSGt1cVpOelhIRVd3c05KOEQtVWF4UDV0Si1xWkt1S1BXZDRVYTkzV09RU01aRE1URWJiNjFWLVk1YXlDNmVRWnBHU3N5N0dVRV9BUl95Q0RadFB5UGFVU0p2UWo?oc=5"
+   },
+   {
+    "name": "SBS 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TcDVWcUZXbmxSS042SjV2X1d5eExVdExaQXBfODU0enV0ZVk1SlFudHpwTXZjYUN2T1NRTHRSNkVrTjkwSFVBb21qd056eXJaSGk0ZFZZX0h5Q1NnTnFYQXFQUFdXUGdBSlE?oc=5"
+   },
+   {
+    "name": "인더스트리뉴스",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zcVoyTjdsME5PRFNfUV9qQTZ1czhyQjhvRjNrT2FvWmZzallGN2t0R1o4bFoyYVVZRFlfQXpMUE9XQUYwYWhDQlBvOFVKLUJaZDBtSXpsYkRSdmd5bWpGSTk4YThSOE9TSEQxNWY1NzZjUQ?oc=5"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12219652"
+   },
+   {
+    "name": "한국일보",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTTU91YWNGeUlGOUtHbkNFYmxhZEJtMHd5R09fbS1SZU9OdjlOa1JqUHdPVWdKQ011bnZnZ253TjlLNGREcUtmS3dQeDZSUlBqVXRQSmE4VzJoVElPcFVIZVlKRXMyYWVsSDdzMTl3?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/27/20261127_01110121000003_L00.jpg",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 코스피 오늘 장, 아침이랑 저녁이 완전 달랐음 👀 ② 4800 찍고 4711… 오후에 무슨 일? 😱 ③ 반등은 했는데, 이거 믿어도 됨? 🔥",
+   "장중 4800선 터치는 알파경제 보도 기준 — 장중 고점 정확한 수치 확인",
+   "기관 순매수 7,500억원은 인더스트리뉴스 보도 기준(단독 출처) — 거래소 확정치 확인",
+   "'거래량 17%↓·공매도 5%↑'은 매일경제 집계(비교 기간 확인 필요, 단독 출처)",
+   "13시 게시글(코스피 4,762.70 장중)의 마감 후속 글임"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261126-1927-2",
+  "createdAt": "2026-11-26T10:27:00.000Z",
+  "date": "2026-11-26",
+  "slot": "19시",
+  "category": "국내 증시",
+  "topic": "민간 자본시장 개혁기구 출범 — 위원장 김용범 메리츠지주 부회장, 대통령 직보·민간에 전권, 주주가치 제고·코스닥 재설계 논의 + 삼성SDI 1.4조원 자사주 전량 소각·삼성카드 배당성향 50% 상향(연합뉴스·한국경제·매일경제)",
+  "imageTitle": "자본시장 개혁, 민간이 맡았다",
+  "imageHighlight": "민간",
+  "imageData": "개혁기구 위원장 김용범 · 삼성SDI 자사주 1.4조 소각 · 삼성카드 배당성향 50%",
+  "body": "증시 급락한 주에, 정부가 꺼낸 카드가 하나 더 있음 🔥\n\n1) 정부가 자본시장 개혁 전담기구를 출범시켰음. 위원장은 김용범 메리츠지주 부회장\n2) 특징은 '민간 주도'. 금융당국이 아니라 민간이 정책을 권고하면 정부가 대응하는 구조이고, 대통령에게 바로 보고하는 방식이라고 함\n3) 주로 다룰 건 주주가치 제고, 코스닥 재설계 같은 주제\n4) 같은 날 기업 쪽에서도 움직임이 있었음. 삼성SDI가 1.4조원어치 자사주를 전량 소각하기로 했고, 삼성카드는 배당성향을 50%로 올린다고 함\n\n자사주 소각이 뭐냐면!\n→ 회사가 갖고 있던 자기 주식을 아예 없애는 것. 전체 주식 수가 줄어서 1주당 가치가 올라가는 효과가 있음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n- '코리아 디스카운트(한국 주식이 싸게 평가받는 현상)'의 원인으로 꼽히던 낮은 주주환원을 고치려는 흐름이 정책·기업 양쪽에서 나오는 중\n- 다만 기구는 이제 막 출범했고, 실제 권고안과 시행까지는 시간이 걸림. 당장 지수를 끌어올리는 재료라기보단 중장기 변수에 가까움\n\n개미일수록 '정책 기대감' 테마에 급하게 올라타기보다, 실제 권고안 내용과 기업들의 이행 여부를 확인하면서 대응하는 게 안정적일 듯\n\n📌 본 글은 정보 제공용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261126171651002"
+   },
+   {
+    "name": "한국경제",
+    "url": "https://www.hankyung.com/article/202611262896i"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12219562"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12219678"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261126170400002"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/etc/inner/KR/2026/11/26/AKR20261126171651002_01_i_P2.jpg",
+    "source": "연합뉴스"
+   },
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/27/20261127_01110123000005_L00.jpg",
+    "source": "매일경제"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 증시 급락한 주에, 정부가 꺼낸 카드가 하나 더 있음 🔥 ② 자본시장 개혁, 이번엔 민간이 칼 잡았음 👀 ③ 삼성 계열사들이 자사주를 왜 이렇게 태우나? 🔥",
+   "기구 공식 명칭·출범 일정·위원 구성 확인(기사마다 '자본시장개혁기구'/'자본시장 개혁기구' 표기 다름)",
+   "삼성SDI 소각 규모 1.4조원·주식 수는 매일경제 기준 — 공시 원문 확인",
+   "매일경제가 '삼성 계열사 이틀 연속 조 단위 소각'이라고 썼음 — 전날 소각한 계열사 확인 후 본문에 넣을지 결정",
+   "김용범 위원장 '메리츠 주주환원 주도' 평가는 한국경제 표현 — 본문에는 넣지 않음"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
