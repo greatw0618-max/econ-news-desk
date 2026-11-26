@@ -16764,5 +16764,101 @@
    "tGMDcmo69pQ"
   ],
   "status": "draft"
+ },
+ {
+  "id": "20261126-0927-1",
+  "createdAt": "2026-11-26T00:27:00.000Z",
+  "date": "2026-11-26",
+  "slot": "09시",
+  "category": "국내 증시",
+  "topic": "[후속·반등] 코스피 -6.16% 급락 하루 만에 1.01% 반등 출발 4,745.10→4,727.35(장중)·4700선 회복 — 삼성전자 +1.6%·SK하이닉스 +3.9%(장 초반), 개인·기관 매수 vs 외국인 순매도(이달 15조), 10조원대 증안펀드 확대 검토(매일경제), 오늘 금통위",
+  "imageTitle": "코스피, 하루 만에 반등",
+  "imageHighlight": "반등",
+  "imageData": "코스피 4,727.35 (+0.6%, 장중) | 전날 -6.16%",
+  "body": "어제 6% 폭락한 코스피, 오늘은? 👀\n\n1) 코스피가 오늘 1.01% 오른 4,745.10으로 출발했음\n2) 지금은 4,727.35(장중). 전날 종가 4,697.51보다 0.6% 안팎 오르면서 하루 만에 4700선을 되찾았음\n3) 어제 급락을 이끈 반도체 투톱도 반등. 장 초반 삼성전자 1.6%, SK하이닉스 3.9% 올랐다고 함\n4) 코스닥도 반도체·2차전지 강세에 660선을 넘어섰음\n5) 다만 사는 쪽은 개인·기관이고, 외국인은 오늘도 순매도라고 함. 외국인은 이달에만 15조원을 팔았음\n6) 정부는 10조원대 증안펀드 확대를 검토 중. 산업은행이 금융사들의 추가 출자 여력을 파악하고 있다고 함\n\n증안펀드가 뭐냐면! 증시가 크게 흔들릴 때 금융회사들이 돈을 모아 주식을 사서 시장을 받쳐 주는 펀드임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n간밤 나스닥이 장중 4%대 급락했다가 -0.62%로 마감하며 충격이 줄어든 게 반등 배경임. 하지만 외국인 매도는 그대로고, 오늘 오전 올해 마지막 금통위(기준금리 3.00%→3.25% 인상 유력)도 남아 있음. 아직 '바닥 확인'이라고 보긴 이름\n\n개미일수록 급락 다음 날 반등에 바로 올라타기보다, 외국인 매도가 멈추는지 확인한 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 투자 권유가 아닌 정보 공유 목적이며, 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "연합뉴스TV",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pX0FtSXVUNHVlUzFSSVZqaFpuMFZLUkRUTFZPTHZOT0JFSEE5U1k4cjhpbHJKRlJJSlVJdVZLcXlxQ2pDZXAtclNDdHJ5aEJoMkEzX2xValpDUWxySUhsM2oya2lSMXc?oc=5"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12218953"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261126044200008"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yeTdxbzhnSU9rWFdnY1J2dEhjczB1STg4QzVJaWM0SUpLUE84WWVzLXQ4QkhCUEEtaGFIWjZPcVJpQlVlZGp2bW1rd2NzRVpO?oc=5"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://www.mk.co.kr/news/stock/12218903"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://pimg.mk.co.kr/news/cms/202611/26/news-p.v1.20261126.05ffb3ef71ba4fdb81822d245711ae94_R.png",
+    "source": "매일경제"
+   },
+   {
+    "url": "https://img.yna.co.kr/photo/cms/2026/10/29/29/PCM20261029000029990_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 어제 6% 폭락한 코스피, 오늘은? 👀 ② 사이드카 다음 날, 코스피가 돌아왔다 🔥 ③ 삼전·하이닉스 반등, 근데 외국인은? 👀",
+   "코스피 4,727.35·코스닥 수치는 09시 7분 장중 기준 — 올리기 전 최신 수치로 갱신",
+   "시세 표의 코스피 -5.57%·코스닥 -0.46%는 야후 전일 종가 오류(실제 전날 종가 4,697.51 기준 +0.6%). 대시보드 시세는 기사 기준으로 고쳐 올림",
+   "삼성전자 +1.6%·SK하이닉스 +3.9%는 장 초반(연합뉴스) 수치",
+   "오전 10시 무렵 금통위 결과 나오면 문장 수정 필요(인상 유력 → 결과)"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261126-0927-2",
+  "createdAt": "2026-11-26T00:27:00.000Z",
+  "date": "2026-11-26",
+  "slot": "09시",
+  "category": "코인",
+  "topic": "빗썸 3분기 가상자산 처분손실 690억원(작년 동기 86배·매출 상회, 처분가액 2조5,061억원, 렌딩·이벤트·수수료 영향 설명) + 업비트→바이낸스 6개월 4,131억원 순유출(파생상품 영향) — 연합뉴스·매일경제·아주경제 등",
+  "imageTitle": "빗썸, 코인 처분손실 690억",
+  "imageHighlight": "690억",
+  "imageData": "3분기 처분손실 690억원 | 작년 동기 대비 86배",
+  "body": "거래소가 코인 처분하다 매출보다 큰 손실? 😱\n\n1) 빗썸의 올해 3분기 가상자산 처분손실이 690억원으로 나왔음\n2) 작년 같은 기간의 86배이고, 빗썸 3분기 매출보다도 큰 규모라고 함\n3) 3분기에 빗썸이 자체 보유 코인을 처분한 금액은 2조5,061억원. 장부에 적힌 값과 처분한 값의 차이만큼 손실이 났음\n\n처분손실이 뭐냐면! 장부에 적어 둔 가격보다 낮은 값에 팔거나 내보내서 생긴 손실임\n\n4) 처분한 코인은 비트코인, 이더리움, 테더, 엑스알피, 솔라나, 도지코인 등\n5) 빗썸은 코인 대여(렌딩) 서비스, 이벤트 지급, 전산망 수수료 영향이라고 설명함\n6) 한편 최근 6개월간 업비트에서 바이낸스로 4,131억원어치 코인이 순유출됐다는 집계도 나왔음. 파생상품 거래 영향으로 풀이됨\n\n그래서 우리랑 무슨 상관이냐 ⭐\n비트코인이 6만달러 안팎(60,737달러)까지 밀리고 공포·탐욕 지수가 11(극단적 공포)인 약세장에서, 거래소 실적에도 부담이 드러나는 중. 빗썸은 개인정보 유출 피해까지 겹친 상황이라 거래소별 재무·보안 공지를 한 번씩 챙겨 볼 때임\n\n개미 입장에선 한 거래소에 자산을 다 몰아 두기보다, 거래소 공지와 공시를 확인하면서 나눠서 관리하는 게 안전할 듯\n\n📌 투자 권유가 아닌 정보 공유 목적이며, 투자 판단과 책임은 본인에게 있음",
+  "sources": [
+   {
+    "name": "연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wTk01THV2YnhnVXJXbWlJaXdwcndWQ050eWU0YTR5ZFdSeGxSc0dsUHczN1Z3Y3FqNE5za3VKaE82OWlqV1JtNC1BSm1EcG90T1lnU3RnV1d1R0p2M3FNRNIBYEFVX3lxTE1wTk01THV2YnhnVXJXbWlJaXdwcndWQ050eWU0YTR5ZFdSeGxSc0dsUHczN1Z3Y3FqNE5za3VKaE82OWlqV1JtNC1BSm1EcG90T1lnU3RnV1d1R0p2M3FNRA?oc=5"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wV3JWUFRoQ3BvakVUcUJrNUNfeUEzM2Y5LXBmSHRqU00ycm50M1BZdHpHUUVIT2NUMDJZTy04OV9SYjJBbHQ0LWdzbjdfQ0U4OGc?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176937"
+   },
+   {
+    "name": "아주경제",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VUC1UMXBuYmxhS2lUMEVVeXNQSENtLTVCUVZEXzhaQjB1bGl5MjlnOXZtRmU3ZlNTXzZrSDFRUVhlazNZdnFRY1UyaE1PSkZmcDFkUi1GYk05Z9IBWEFVX3lxTE42c0RBR3RjM214MnVXWTZVRmFsZS1LRklHeldxNEpsbUpsMFJ0SDgyS2lFVFo3cXZ5ZjJ0VjlyNmhLWXFYZkw0OU85c2JsVHFfejdxaG5FS3c?oc=5"
+   },
+   {
+    "name": "SBS Biz",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GUXREbVN6ZEtpZEZzU21SNG1DaUVENFFuOUNjV0Jnc0NqMEdmbDRoSDRtT1lrQTJxMHR6blZTUGs1dHMzeW1LSXdfUW1QLVNXdmk40gFYQVVfeXFMTmpYUXBGYkFfT1RMVzhRUXFydTNhbHN2RllTeVlWbUlKSXNjTk1YSWxKMVQxUTNjdkFVajZtNC1TT3I2Z3BtUU96YkNjMVVxd24zY085ZWxwZA?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 거래소가 코인 처분하다 매출보다 큰 손실? 😱 ② 빗썸 3분기, 코인에서 690억 날렸다 👀 ③ 작년보다 86배, 거래소도 약세장 직격탄 🔥",
+   "\"매출보다 큰 규모\"는 기사 표현 — 빗썸 3분기 매출 정확한 액수는 기사에서 확인 못 함",
+   "업비트→바이낸스 4,131억원은 아주경제 수치(다른 기사는 \"4천억원 넘는\")",
+   "BTC 60,737달러·공포탐욕 11은 09시 27분 기준, 올리기 전 갱신"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
