@@ -17265,5 +17265,67 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261126-2127-1",
+  "createdAt": "2026-11-26T12:27:00.000Z",
+  "date": "2026-11-26",
+  "slot": "21시",
+  "category": "코인",
+  "topic": "[후속·예고] 비트코인 70억~76억달러 옵션 만기 임박(이번 주 금요일 예상) + 美 추수감사절 얇은 유동성(Talos) + 현물 ETF 11월 사상 최대 월간 순유출 전망(CoinDesk) / BTC 6만달러 회복(60,579달러), 수요일 저점 57,500달러, 숏 청산 반등, 공포탐욕 11",
+  "imageTitle": "비트 옵션 만기, 70억달러 몰린다",
+  "imageHighlight": "옵션 만기",
+  "imageData": "BTC 60,579달러(+0.33%) · 공포탐욕 11(극단적 공포) · 현물 ETF 11월 사상 최대 유출 전망",
+  "body": "비트코인 6만달러 겨우 되찾았는데, 이번 주 고비가 하나 더 남았음 👀\n\n1) 비트코인 지금 60,579달러(+0.33%)\n수요일 57,500달러까지 밀렸다가 6만달러 위로 돌아온 상태임\n반등엔 하락에 걸었던 숏 포지션이 대거 정리된 영향이 컸다는 분석\n\n2) 근데 이번 주 비트코인 옵션 약 70억~76억달러어치가 만기를 맞음\n옵션 만기가 뭐냐면!\n정해진 가격에 사고팔 권리가 끝나는 날임. 물량이 크면 만기 전후로 가격이 크게 흔들리기 쉬움\n\n3) 게다가 미국은 추수감사절 연휴\n미국 증시는 오늘 휴장, 내일은 조기 폐장\n거래하는 사람이 적으면 적은 돈으로도 가격이 크게 움직일 수 있음 (얇은 유동성)\n\n4) 기관 돈은 계속 빠지는 중\n미국 비트코인 현물 ETF는 11월 한 달 기준 사상 최대 순유출을 기록할 거라는 전망까지 나옴\n공포·탐욕 지수는 11, '극단적 공포' 구간임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 6만달러 회복은 반가운 일이지만, 아직 '추세 전환'보다는 '숏 청산 반등'에 가깝다는 시각이 많음\n→ 옵션 만기 + 연휴 얇은 거래 + ETF 유출, 세 가지가 겹친 주말이라 위아래로 출렁일 가능성이 큼\n\n개미일수록 만기 전후 급변동에 휘둘리지 말고, 만기 지나고 방향이 확인된 뒤에 움직이는 게 안정적일 듯\n단, 레버리지 포지션은 이런 날 청산 위험이 특히 큼\n\n📌 본 글은 투자 권유가 아니며, 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qZzNGZnBQek1BajE2MUl2RUNNODVUWG1pSkliTElPV0hOenBwMmlYck1SZmE2UVhHLVZVSkptNE91Y1RPZnMwdHJOYWFRa2pOQkJVSmlMVEVLOHlQ?oc=5"
+   },
+   {
+    "name": "코인리더스",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1TZWdMd3lWQXRQc202b1lXWnloOG1DcTlUZklJRERmLVN1ZGJhWDRERnhMeHpPYl9DRnBCSnRZTmlwX1J5X2R5WmZ3?oc=5"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help"
+   },
+   {
+    "name": "CoinDesk(한국어)",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1ptaDZaSHAzRk5KeHE1VVExbXlEWE1mMjBKV25OaEdXT0N3V1pJVHZrMGhoY2ZsQjJWUW9SU0dXQnpiWktzOXRVUEgtYmlleG1odmpla0U1U2pYa3NKdTYtTmlPV0p2dUVoWlhDRDY4X1VlYjlKd0ZNSmpGS0ZmbVB5V1FoMGFybVBCdUNmeFd1VUZvcXhFUmc3VlowRTJfU3hneE0yWmpoTHk5SHRJaW5R?oc=5"
+   },
+   {
+    "name": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRZmFnak52WmQwa3R5dnNkclhMVWRLMWhQZTlQZ19meHJZZUhoVnQwc0NCX3BwZWhRYURPUVJJV3lxQTJxVWVJaUVmc3VKUWVJYmxCRVNQNjU5RGxRUk1mT1RhdHV0UzVUYVUyekE0djF4VXPSAXdBVV95cUxPQ041dzBtWWY4U0JFWkYxbjZCTkp0cGhVdU1oQlBBZnExS1h5UjEzTE9aZFVtS2FWOTF0MVJhZzhwS3ROMEtrM1dkbWZRTkp6dzRPV2JLVkVYQnhDN012VG5HM24zcjlaWDFUVzdleENLenRTRlRXbw?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/55b49d453bf3450dcd675d81c5c526ac29136550-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   },
+   {
+    "url": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BQ97HCB2ACESRYJR5JD6PP/article-covers-233023-bitcoin-bounces-seven-day-high-can-btc-break-95k-thanksgiving-960x640.webp",
+    "source": "Cointelegraph"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인 6만달러 겨우 되찾았는데, 이번 주 고비가 하나 더 남았음 👀 ② 이번 주 비트코인, 70억달러짜리 시험대 남았음 🔥 ③ 연휴에 옵션 만기까지… 비트코인 이번 주말 조심해야 하는 이유 😱",
+   "옵션 만기 규모가 매체별로 다름(뉴스핌 76억달러, 코인리더스 70억달러) — 본문은 '약 70억~76억달러'로 씀. 만기 날짜(금요일 27일 예상)는 기사 제목에 '임박'만 있어 확인 필요",
+   "수요일 저점 57,500달러·현재 6만800달러대는 CoinDesk 기준(해외 단독 보도, CoinDesk). 본문 현재가는 시세 표 60,579달러(21:27 KST)",
+   "현물 ETF '11월 사상 최대 월간 순유출'은 전망 표현(CoinDesk) — 월말 확정치 아님",
+   "'숏 포지션 92% 청산' 수치는 핀포인트뉴스 단독, 본문에는 숫자 없이 씀",
+   "비트코인 가격은 올리기 직전 다시 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
