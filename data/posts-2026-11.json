@@ -17033,5 +17033,53 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261126-1527-1",
+  "createdAt": "2026-11-26T06:27:40.000Z",
+  "date": "2026-11-26",
+  "slot": "15시",
+  "category": "코인",
+  "topic": "BTC 현물 ETF 7거래일 연속 순유출(25일 4억5300만달러, IBIT -3억2970만)·ETH ETF 8일 연속(-6850만달러), 갤럭시 디지털 6월 저점 바닥 판단 철회·58,525달러(6/30 종가) 하회 마감 시 추가 하락 경고(The Block·디지털투데이) / BTC 60,523달러(+1.30%), 공포탐욕 11",
+  "imageTitle": "비트 ETF, 7일째 돈 빠진다",
+  "imageHighlight": "7일째",
+  "imageData": "BTC 60,523달러(+1.30%) · BTC ETF -4.53억달러 · 공포탐욕 11",
+  "body": "비트코인 6만달러는 버텼는데, 돈은 계속 빠지는 중 👀\n\n1) 비트코인 지금 60,523달러(+1.30%)로 6만달러 위에서 버티는 중\n2) 근데 미국 비트코인 현물 ETF에서 25일(현지시간) 하루에만 4억5,300만달러(약 6,082억원) 순유출, 7거래일 연속임\n3) 블랙록 IBIT 한 곳에서만 3억2,970만달러 빠졌음\n4) 이더리움 현물 ETF도 6,850만달러(약 920억원) 순유출, 8거래일 연속\n5) 여기에 갤럭시 디지털이 \"6월 저점이 바닥\" 판단을 철회했다고 함\n\n현물 ETF가 뭐냐면!\n👉 주식처럼 증권 계좌로 사는 비트코인 상품. 여기서 돈이 빠지면 기관·큰손 수요가 줄고 있다는 신호로 봄\n\n6) 시장에서 주목하는 가격대는 58,525달러 = 6월 30일 종가 저점\n   이 아래로 하루 마감하면 더 낮은 저점으로 갈 수 있다는 분석이 나왔음\n7) 코인 공포·탐욕 지수는 11, '극단적 공포' 구간\n\n그래서 우리랑 무슨 상관이냐 ⭐\n→ 가격은 반등해도 ETF 자금이 계속 빠지면 반등 힘이 약할 수 있음\n→ 이번 주는 '6만달러 유지'보다 '58,525달러 마감 여부'가 더 중요한 기준선\n\n개미일수록 반등 첫날 따라붙기보다, ETF 유출이 멈추는지 확인하고 움직이는 게 안정적일 듯\n단, 공포 지수가 극단까지 내려간 구간은 반대로 급반등도 잦으니 레버리지는 특히 조심\n\n📌 투자 권유가 아닌 정보 공유 목적의 글입니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176973"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1176974"
+   },
+   {
+    "name": "블루밍비트",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vNGZRdEJjSzRmTTJVSXZXWllTQWVlVE1VbU4yYVd4SjNsVEJDLWwweGxlOVZSWmh1SlpKYmI2azVNN0ZjX1JJREI4T2pPblRz?oc=5"
+   },
+   {
+    "name": "The Block",
+    "url": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786"
+   },
+   {
+    "name": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qLWlyRWNpZUpRYXRkRXNUcjl3Wkx5TC05a0phN2kzekRCQ1VCeTc3TmlXdzVNMmt3aGVxM0ZNdlo1TlE3VGFNaFYtVjMxcUQtNmxaS3FQOUI3ek0tZjl1eFZrZmEwcHZscUhXVlhOYmFsajA?oc=5"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/11/jonathan-borba-8nmwyC812Zo-unsplash-scaled-e1795669890672.jpg",
+    "source": "The Block"
+   }
+  ],
+  "checks": [
+   "BTC 가격은 15:27 기준(24시간 변동), 올리기 전 다시 확인",
+   "ETF 수치는 파사이드인베스터 집계(25일 현지시간), 원화 환산은 코인니스 기준",
+   "58,525달러 기준선은 갤럭시 디지털 분석(The Block 보도)",
+   "첫 줄 후보: ①비트코인 6만달러는 버텼는데, 돈은 계속 빠지는 중 👀 ②ETF에서 7일 연속 돈이 빠졌음 😱 ③이번 주 비트코인, 이 숫자 하나만 보면 됨 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
