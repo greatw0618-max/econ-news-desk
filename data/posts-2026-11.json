@@ -17327,5 +17327,46 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261126-2327-1",
+  "createdAt": "2026-11-26T14:27:00.000Z",
+  "date": "2026-11-26",
+  "slot": "23시",
+  "category": "코인",
+  "topic": "스탠다드차타드 코인 수탁사 조디아 커스터디 해킹 — 고객·직원 이름·이메일 유출, 무단 거래 없음(Decrypt·CoinDesk·Cointelegraph)",
+  "imageTitle": "은행 코인 금고, 해킹 당했다",
+  "imageHighlight": "해킹",
+  "imageData": "조디아 커스터디 · 고객·직원 이름/이메일 유출 · 무단 거래 없음",
+  "body": "은행이 만든 코인 금고도 뚫렸다고 함 😱\n\n1) 스탠다드차타드 은행 계열 코인 수탁사 '조디아 커스터디'가 해킹 피해를 공개했음\n2) 외부인이 일부 고객과 직원의 이름·이메일 주소에 접근했다고 함\n3) 회사는 이번 주 월요일에 침입을 발견했고, 무단 거래(코인이 빠져나간 일)는 없었다고 밝혔음\n\n수탁사가 뭐냐면!\n기관 투자자 대신 코인을 보관해 주는 '디지털 금고' 회사임. 은행 계열이라 보안이 강하다는 게 장점이었음\n\n그래서 우리랑 무슨 상관이냐 ⭐\n돈은 안 빠졌지만, 이름·이메일이 새면 그걸로 \"회사 직원인데요\" 하는 사칭 메일·피싱이 따라오는 경우가 많음\n요즘 바이낸스 해킹 자금 이동, 시드 문구 훔치는 앱 소식까지 겹쳐서 보안 이슈가 계속 나오는 중\n\n개미 입장에선 거래소·지갑 관련 메일이나 문자 속 링크는 누르지 말고, 시드 문구는 사진으로 저장하지 않는 게 기본일 듯\n\n📌 정보 공유 목적이며 투자 권유가 아닙니다.",
+  "sources": [
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/126370357bab503bb185dc1c4df52756ebf449e2-1280x960.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "source": "CoinDesk"
+   }
+  ],
+  "checks": [
+   "해외 단독 보도 아님(해외 3곳 보도), 국내 기사 없음",
+   "유출 인원·규모 미공개",
+   "발견 시점 월요일은 Cointelegraph 보도 기준",
+   "바이낸스 해커 자금 이동은 코인니스(온체인렌즈) 단독 출처",
+   "첫 줄 후보: ① 은행이 만든 코인 금고도 뚫렸다고 함 😱 ② 코인 안 빠졌다는데 왜 문제냐면 👀 ③ 스탠다드차타드 코인 금고에 해커가 들어왔음 🔥"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
