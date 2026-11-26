@@ -17503,5 +17503,57 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261127-0527-1",
+  "createdAt": "2026-11-26T20:27:00.000Z",
+  "date": "2026-11-27",
+  "slot": "05시",
+  "category": "코인",
+  "topic": "비트코인 사상 첫 2년 연속 연간 하락 위기 + 숏 쏠림(숏이 롱의 약 3배, 영상 출처) + 데드크로스·연휴 후 매도 우려 + 12월 FOMC 매파 리스크 / BTC 60,609달러, 공포탐욕 11",
+  "imageTitle": "비트, 2년 연속 하락 위기",
+  "imageHighlight": "2년 연속",
+  "imageData": "BTC 60,609달러(+0.38%) · 공포·탐욕 11(극단적 공포)",
+  "body": "비트코인, 6만 달러는 되찾았는데 '연간 성적표'가 더 문제임 😱\n\n1) 비트코인 지금 60,609달러(+0.38%)\n추수감사절 연휴에 6만 달러 위로 올라섰지만, 공포·탐욕 지수는 11 = '극단적 공포' 그대로임\n\n2) 연말까지 한 달 남짓 남았는데, 이대로면 비트코인이 사상 처음 '2년 연속 연간 하락'으로 끝날 수 있다는 얘기가 나옴\n지금까지는 한 해 빠지면 다음 해엔 회복하는 패턴이 이어져 왔음\n\n3) 파생상품 쪽 분위기도 한쪽으로 쏠림\n하락에 베팅하는 숏(공매도) 포지션이 상승 베팅인 롱보다 훨씬 많다는 분석이 나옴\n\n숏이 많으면 왜 문제냐면!\n반대로 가격이 오르면 숏 포지션이 강제 청산되면서 매수가 한꺼번에 몰림 → 오히려 급반등이 나오기도 함\n실제로 최근 대규모 강제청산 뒤 비트코인·이더리움·리플이 같이 튀었음\n\n4) 그런데 차트는 아직 약함\n단기 이동평균선이 장기선 아래로 내려가는 '데드크로스'가 떠 있고, 연휴 이후 매도세가 다시 나올 수 있다는 우려도 있음\n\n5) 다음 변수는 12월 미국 연준(FOMC)\n연준이 매파(금리 인상·긴축 쪽) 신호를 내면 위험자산이 한 번 더 흔들릴 수 있다는 경고가 나옴\n\n그래서 우리랑 무슨 상관이냐 ⭐\n연말 '연간 마감'을 앞두고 숏 쏠림 + 데드크로스 + 연준 일정이 겹친 구간이라, 위아래로 크게 흔들릴 수 있는 자리임\n\n개미일수록 숏 청산 반등을 쫓아 들어가기보다, 방향이 확인된 뒤 나눠서 대응하는 게 안정적일 듯\n단, 레버리지는 이런 구간에서 양쪽으로 다 털릴 수 있으니 특히 조심!\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "핀포인트뉴스",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iS2ktQ2IxYXZzY09weC13a3k4TVJkRmRwaHBlUUNLMkxTN1ZycWJTdjQ3YkNLV213ck0yeW1OYlpsc1BmWm9jcG80aGJkR2V0ZnVJaFZQd0VncUtlU0RsYXlkVDZOTjZLYy1EVXE0X1lLNmPSAXdBVV95cUxNWDJrbksyNkpJVGdzbE1oNUZHTHBiOWRQR3BQZVdIVngxWkYwTEplbWRKQ3VVdVlQMVNkNlktRm03VUEzdWM2Y0taMFd4UU5uYVY3YlQ0b2RPMmQzaERyMzN0Zl9nRGd5U0ZEZzFlMUltbjNUWVJGUQ?oc=5"
+   },
+   {
+    "name": "뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVl9TaGZ4TkdmaV80TmZ2UnA2VzB2ZHZBb01ldkpKMmxldXNONW9iS2FIYkUxTE1aU3I3S2ZFUjBjMUlnX0IxUlEzWEVCamU4ODFVSU1pWUpNTmJ1UDNRONIBeEFVX3lxTFBqcmxqZXNYamFaX3NlS0VjRDdsRlFIMEQxdHRXUmdzU0hUTVBVbXZNSXJTZXdiLXNlc2c3NDk5ZUFDT3lkdk45ZWJXSWY4bjZKaHdkTGd6NHdTY0JFQkRhUmk2cHFZRVU3MUFFLVBmdy1qY1dWajBucQ?oc=5"
+   },
+   {
+    "name": "Decrypt",
+    "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery"
+   },
+   {
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+   },
+   {
+    "name": "크립토 토마토 (유튜브)",
+    "url": "https://www.youtube.com/watch?v=teHmIA9wxb4"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg",
+    "source": "Decrypt"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 비트코인, 6만 달러는 되찾았는데 '연간 성적표'가 더 문제임 😱 ② 비트코인 역사상 한 번도 없던 일이 생길 수도 있음 👀 ③ 하락 베팅이 상승 베팅의 3배? 지금 비트 판이 한쪽으로 쏠렸음 🔥",
+   "'사상 첫 2년 연속 연간 하락 위기'는 영상 제목 출처 — 작년(2025) 연간 하락 여부·올해 연초 가격 기사 확인 필요",
+   "'숏이 롱보다 3배'는 영상 출처 수치, 기사 확인 필요 → 본문엔 '훨씬 많다'로만 씀",
+   "자막 못 가져옴(이 PC 크롬 연결 없음) — 영상 제목·설명만으로 반영",
+   "18억달러 강제청산은 핀포인트뉴스 단독 출처",
+   "BTC 가격·공포탐욕 지수 올리기 전 재확인"
+  ],
+  "videos": [
+   "teHmIA9wxb4"
+  ],
+  "status": "draft"
  }
 ]
