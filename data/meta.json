@@ -1,16 +1,16 @@
 {
- "updatedAt": "2026-11-27T02:26:50.854Z",
+ "updatedAt": "2026-11-27T04:26:49.458Z",
  "market": [
   {
    "name": "코스피",
-   "price": 4809.75,
-   "changePct": 2.0916078858623224,
+   "price": 4881.54,
+   "changePct": 3.615420252435648,
    "decimals": 2
   },
   {
    "name": "코스닥",
-   "price": 695.35,
-   "changePct": 6.0453518627166565,
+   "price": 697.27,
+   "changePct": 6.33816422422728,
    "decimals": 2
   },
   {
@@ -27,8 +27,8 @@
   },
   {
    "name": "달러/원",
-   "price": 1341.09,
-   "changePct": -0.1399860565862694,
+   "price": 1340.74,
+   "changePct": -0.16604769665530703,
    "decimals": 1
   },
   {
@@ -39,20 +39,20 @@
   },
   {
    "name": "비트코인(원)",
-   "price": 83500000,
-   "changePct": 1.54938827,
+   "price": 83346000,
+   "changePct": 1.36209958,
    "decimals": 0
   },
   {
    "name": "비트코인($)",
-   "price": 61530.25,
-   "changePct": 1.9080575375826037,
+   "price": 61411.93,
+   "changePct": 1.7120927663059269,
    "decimals": 0
   },
   {
    "name": "이더리움(원)",
-   "price": 2346000,
-   "changePct": 2.31138247,
+   "price": 2348000,
+   "changePct": 2.39860445,
    "decimals": 0
   },
   {
