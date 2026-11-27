@@ -18093,5 +18093,120 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261127-1926-1",
+  "createdAt": "2026-11-27T10:26:00.000Z",
+  "date": "2026-11-27",
+  "slot": "19시",
+  "category": "미국 증시",
+  "topic": "[예고] 美 블랙프라이데이 단축장 앞두고 나스닥 선물 +2.7%(WSJ), 엔비디아·브로드컴·퀄컴·마이크론 프리마켓 강세(Investing.com), 中 반도체주 사상 최대 일일 상승(CNBC)·국가대표팀 증시 지원, 금 +4.61%·은 +7% / 단 국채금리 상승·12월 연준 인상 전망 여전",
+  "imageTitle": "나스닥 선물, 2.7% 급등",
+  "imageHighlight": "2.7%",
+  "imageData": "나스닥 선물 +2.7% · 금 $3,698.8(+4.61%) · VIX 24.93(-6.98%)",
+  "body": "연휴 끝난 미국, 오늘 밤 분위기 심상치 않음 👀\n\n1) 추수감사절 휴장 뒤 오늘 밤 미국장이 다시 열림\n블랙프라이데이라 평소보다 일찍 끝나는 단축장임\n\n2) 개장 전 나스닥 선물이 2.7% 넘게 오르는 중이라고 함\nS&P 500, 다우 선물도 같이 오름\n\n3) 주인공은 다시 AI 반도체\n엔비디아·브로드컴·퀄컴·마이크론·마벨이 개장 전 거래에서 줄줄이 강세임\n\n4) 중국에서도 불이 붙었음\n정부가 시장 유동성 지원을 약속하자 중국 반도체주가 하루 상승폭 역대 최대를 찍었다고 함\n\n국가대표팀이 뭐냐면!\n중국 정부 쪽 자금으로 주식을 사서 증시를 받치는 기관들을 말함\n\n5) 금도 4.6% 뛰어 3,698달러대, 은은 7% 급등\n위험자산 분위기가 살아나면서 급하게 팔렸던 자산들이 같이 돌아오는 모양새임\n\n그래서 우리랑 무슨 상관이냐 ⭐\n오늘 코스피 4%, 코스닥 8% 급등의 바통을 미국이 이어받을지가 관건임\n미국 반도체가 실제로 오르면 다음 주 월요일 삼성전자·SK하이닉스 흐름에도 영향을 줄 수 있음\n\n단, 미국 국채금리도 같이 오르는 중이고 12월 연준 금리 인상 전망은 그대로임\n선물 상승이 본장 마감까지 이어지는지 확인이 먼저임\n\n개미일수록 선물 숫자만 보고 따라가기보다, 단축장 마감까지 확인한 뒤 움직이는 게 안정적일 듯\n\n📌 이 글은 정보 공유 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGx5dUNYcGtCM2ZGUXB0RDNfNzF5TkNJNEctdjFiak5JRHExWWZVODg2c3hDcDZCUjdpWGpVYUg2bFE4UE5NQVJZUk52UzZGS082TTJiRWN4MTVxQlNXSTlmWnkzXzlyUzJONjlGSkNzVFNFSUlvRTRXQWxpbC1mQ2llcXRWWEIwZlpnVjBDZy1LcXU0MGc?oc=5"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-rallying-today-93CH-5053241"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-surging-today-93CH-5053255"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/china-to-strengthen-defense-against-imported-risks-in-capital-markets-5053016"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main"
+   },
+   {
+    "name": "CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2JVMkJ2ZnpraWQ0OUpPOG5pSXBCSEYzOEFtYnVtZkVYY3BzTWxzbWk3dVVUSzk0RXVKd3pYMXVrcW5pdFBBUlZtMnZDWlZwMnlSd1dZdnEyMTdVM0NtVFd2UzVsR2trLTZPeW9NV0M5eEZGOXhSOUhKSk5KMk85RlAtSDdhaHA3aG1uWUhxVXJpdi1uZ3lxYjgzaG1na3E1V2VCUDUyLWxpREtoMzY1UFpRWmg?oc=5"
+   },
+   {
+    "name": "WSJ",
+    "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-in-shortened-post-thanksgiving-trade-f0822039?mod=rss_markets_main"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://images.wsj.net/im-14953166",
+    "source": "WSJ"
+   },
+   {
+    "url": "https://content-media.investing.com/news/moved_LYNXMPEHAH0WT_L.jpg",
+    "source": "Investing.com"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보: ① 연휴 끝난 미국, 오늘 밤 분위기 심상치 않음 👀 ② 나스닥 선물이 2.7% 뛰고 있음 🔥 ③ 코스닥 8% 다음은 미국 차례? 👀",
+   "나스닥 선물 +2.7%는 해외 단독 보도(WSJ, 유료 기사 — 제목·요약 기준), 선물(개장 전) 수치라 올리기 직전 다시 확인",
+   "종목별(엔비디아·브로드컴·퀄컴·마이크론·마벨) 상승률은 기사 제목만 있어 수치 미기재, 해외 단독 보도(Investing.com)",
+   "중국 반도체주 사상 최대 일일 상승은 해외 단독 보도(CNBC)",
+   "금 $3,698.8(+4.61%)는 시세 표 19:16 기준 장중, 은 +7%는 CoinDesk 기사 기준(시세 표에 은 없음)",
+   "12월 연준 금리 인상 전망은 marketscreener 제목·코인리더스('인상 확률 99%') 기준 — 확률 수치는 본문에 넣지 않음",
+   "미국장 마감 결과를 보고 올릴 경우 '선물' 표현을 실제 종가로 바꿀 것"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261127-1926-2",
+  "createdAt": "2026-11-27T10:26:00.000Z",
+  "date": "2026-11-27",
+  "slot": "19시",
+  "category": "코인",
+  "topic": "리플(XRP) 수급 엇갈림 — 美 XRP 현물 ETF 11/25 407만달러 17거래일 만 순유입(11월 누적은 -2,918만달러), BTC ETF 최대 순유출 속 XRP만 순유입(매일경제) vs 바이낸스 XRP 입금 비중 91.4% 2019년 이후 최고(크립토브리핑, 코인니스) + XRPL 공동 예치 기능 12/10 도입 전망(29/34 찬성) / 리플 1,325원(+3.52%)",
+  "imageTitle": "리플, 돈 들어오는데 거래소로?",
+  "imageHighlight": "거래소",
+  "imageData": "XRP ETF 17거래일 만 순유입 · 바이낸스 입금 비중 91.4% · 1,325원(+3.52%)",
+  "body": "리플, 신호가 정반대로 2개 나왔음 👀\n\n1) 먼저 좋은 쪽\n미국 XRP 현물 ETF에 11월 25일 407만달러가 들어옴\n17거래일 만의 순유입이라고 함\n\n2) 비트코인 현물 ETF는 이번 달 출시 이후 최대 규모로 돈이 빠지는 중인데\nXRP만 혼자 순유입으로 돌아섰다는 점이 눈에 띔\n\n3) 근데 반대 신호도 있음\n바이낸스에서 XRP 입금 건수가 전체 입출금의 91.4%로 2019년 이후 최고라고 함\n최근 7일 입금 건수가 출금의 11.4배\n\n거래소 입금이 왜 신경 쓰이냐면!\n코인을 개인 지갑에서 거래소로 옮긴다는 건 팔 준비일 수도 있다는 뜻으로 많이 읽힘\n(다만 건수 기준이라 실제 물량과는 차이가 있을 수 있음)\n\n4) 일정도 하나 있음\nXRP 원장(XRPL)에 여러 사람이 같은 자산을 한 곳에 모아 맡기는 기능이 12월 10일 도입될 전망\n검증자 34곳 중 29곳 찬성, 최소 기준 28곳보다 딱 1곳 많은 상태라 찬성이 줄면 다시 미뤄질 수 있음\n\n5) 리플은 오늘 1,325원, 하루 3.5% 오름\n\n그래서 우리랑 무슨 상관이냐 ⭐\nETF 쪽 돈은 들어오는데 거래소엔 매도 대기로 읽힐 수 있는 물량이 쌓이는 중\n11월 전체로 보면 XRP ETF도 여전히 2,918만달러 순유출이라 반전이라고 하긴 이름\n\n개미일수록 하루 순유입 하나로 판단하기보다, 유입이 며칠 이어지는지 확인한 뒤 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 정보 공유 목적이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1177106"
+   },
+   {
+    "name": "매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yVXp2UGROWHBNNEg3eWhrQV93OGJsRWo5M1RpSzNoSHVOWWtSRWlGU2h3dEhwaFNuNnJoUnNBODRFa2hKcHhLTzZMOXZ3aHRFcVE?oc=5"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1177110"
+   },
+   {
+    "name": "코인니스",
+    "url": "https://coinness.com/news/1177112"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보: ① 리플, 신호가 정반대로 2개 나왔음 👀 ② XRP ETF에 17일 만에 돈이 들어왔음 🔥 ③ 리플 거래소 입금, 2019년 이후 최고 😱",
+   "바이낸스 입금 비중 91.4%·11.4배는 단독 출처(코인니스, 크립토브리핑 인용)",
+   "XRP ETF 407만달러·11월 누적 -2,918만달러는 단독 출처(코인니스, 비트코인닷컴 인용), 매일경제 제목으로 순유입 전환만 교차 확인",
+   "XRPL 공동 예치 기능 12/10 도입은 '전망' — 찬성 29/34(최소 28), 80% 아래로 떨어지면 14일 대기 재시작. 단독 출처(코인니스)",
+   "리플 1,325원(+3.52%)은 시세 표 기준(전일 0시 KST 대비), 올리기 직전 다시 확인"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
