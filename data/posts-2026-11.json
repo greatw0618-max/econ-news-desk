@@ -18714,5 +18714,80 @@
   ],
   "videos": [],
   "status": "draft"
+ },
+ {
+  "id": "20261128-1127-1",
+  "createdAt": "2026-11-28T02:30:00.000Z",
+  "date": "2026-11-28",
+  "slot": "11시",
+  "category": "코인",
+  "topic": "이더리움 5년 적립식 매수 가상 사례도 -23.5% 손실(토큰포스트·블록미디어) / ETH ETF 이탈·1,600달러 공방(코인리더스), 이더리움 2,266,000원(+0.40%)·공포탐욕 10",
+  "imageTitle": "이더, 5년 모아도 -23.5%",
+  "imageHighlight": "-23.5%",
+  "imageData": "이더리움 2,266,000원(+0.40%) · 공포·탐욕 지수 10",
+  "body": "5년 동안 꾸준히 모았는데도 마이너스라고? 😱\n\n1) 이더리움을 5년 동안 적립식으로 샀다고 가정해 계산해 봤더니 -23.5% 손실이 나왔다고 함\n적립식이 뭐냐면! 가격과 상관없이 매달 같은 금액을 나눠서 사는 방식임\n\n2) 적립식은 보통 평균 매입가를 낮춰 장기 손실을 줄이는 방법으로 알려져 있음\n그런데도 손실이라는 건 최근 하락 폭이 그만큼 컸다는 뜻\n\n3) 지금 이더리움은 226만6천원(전일 0시 대비 +0.40%) 수준\n해외에선 이더리움 ETF에서 돈이 빠지면서 1,600달러를 지킬 수 있을지가 거론되는 중\n\n4) 코인 공포·탐욕 지수는 10, '극단적 공포' 구간이 이어지는 중\n\n그래서 우리랑 무슨 상관이냐 ⭐\n적립식도 만능은 아님. 언제 시작했는지, 얼마나 오래 했는지에 따라 결과가 크게 달라짐\n특히 코인처럼 변동이 큰 자산은 오래 들고 있어도 손실이 날 수 있다는 걸 숫자로 보여 준 사례임\n\n개미일수록 적립식이든 한 번에 사든 한 자산에 몰지 말고, 감당 가능한 금액 안에서 나눠서 대응하는 게 안정적일 듯\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "토큰포스트",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PbnlNaVdDRncxVmxubElyempHRVBSSVpEeXZ0QzZJNjRENllSZm1PeU4yV2JvWGdZMGl0ZjlMRUxrNTZGWFh0R2p0aUptWWlvWkoyQVVnRVJkV0tOSmduU9IBZkFVX3lxTE8yRzYyd2RObEZhTzFpOFRMMlJ2ZzVlUHlFV08zZGtRVXhpX1pEZmRNelJRYW9FTnBsNjhVZEpjd0tUSDlDY1FqOXpFUnhDcUNKUkpMUXB6aDZhdUZJQjhTTXZGVDMzdw?oc=5"
+   },
+   {
+    "name": "블록미디어",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sc25kYTFJZlRLd3ZYWjlfQWN0Rll0b3NkNFZOcHp6ZDA0Q2w5MnhkNGJpUFR0NldJVjBnT0VrdDFkR0lNTEVYT3NxMXlzNkI1VVV2M2NPV3M?oc=5"
+   }
+  ],
+  "images": [],
+  "checks": [
+   "첫 줄 후보 1: 5년 동안 꾸준히 모았는데도 마이너스라고? 😱",
+   "첫 줄 후보 2: '적립식이면 결국 이긴다'… 이더리움은 아니었음 👀",
+   "첫 줄 후보 3: 이더리움 5년 적립식, 성적표 나왔음 🔥",
+   "-23.5%의 계산 기준(시작 시점, 매수 주기, 기준 가격)은 기사 원문에서 확인 — 수집된 건 제목뿐",
+   "'ETF 이탈·1,600달러' 내용은 코인리더스 단독(제목 기준)",
+   "이더리움 원화 가격·공포탐욕 지수는 올리기 직전 다시 확인(11:27 기준, 공포탐욕은 코인니스 9 / 시세표 10)"
+  ],
+  "videos": [],
+  "status": "draft"
+ },
+ {
+  "id": "20261128-1127-2",
+  "createdAt": "2026-11-28T02:30:00.000Z",
+  "date": "2026-11-28",
+  "slot": "11시",
+  "category": "미국 증시",
+  "topic": "AI 열풍에도 올해 美증시 업종 상승률 1위는 에너지(+37%, 이투데이·미디어펜), 필수소비재도 강세 + 미국 베네수엘라·이라크에 OPEC 탈퇴 압박(연합뉴스) / WTI 83.08달러",
+  "imageTitle": "올해 1등, AI 아닌 에너지",
+  "imageHighlight": "에너지",
+  "imageData": "美 에너지 업종 올해 +37% · WTI 83.08달러",
+  "body": "올해 미국 증시 1등 업종, AI가 아니었음 👀\n\n1) 올해 들어 미국 증시 에너지 업종이 37% 올랐다고 함\n\n2) AI 열풍 속에서도 업종별 상승률 1위는 에너지였고, 필수소비재도 강세였음\n필수소비재가 뭐냐면! 식품·생활용품처럼 경기가 나빠도 사람들이 꼭 사는 물건을 파는 기업들임\n\n3) 반대로 기술주는 큰 폭으로 빠졌다가 이번 주에야 반등함\n블랙프라이데이 단축장에서 나스닥 +2.31%, 필라델피아 반도체 +4.69%로 마감\n\n4) 유가는 WTI 83.08달러(-0.72%)\n여기에 미국 정부가 베네수엘라·이라크에 석유수출국기구(OPEC) 탈퇴 검토를 압박하고 있다는 보도도 나옴\n\n그래서 이게 왜 중요하냐 ⭐\n시장 주인공이 늘 하나는 아님. 모두가 AI만 볼 때 조용히 오른 업종이 따로 있었음\n기술주만 잔뜩 담았다면 올해 변동을 그대로 맞았을 거라는 뜻\n\n개미일수록 뜨거운 테마 하나에 몰기보다 업종을 나눠 두고, 추세가 확인된 쪽을 보는 게 안정적일 듯\n단, 이미 37% 오른 뒤라 많이 반영됐을 수 있다는 점은 같이 봐야 함\n\n📌 이 글은 정보 공유용이며 투자 권유가 아닙니다. 투자 판단과 책임은 본인에게 있습니다.",
+  "sources": [
+   {
+    "name": "이투데이",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnbVVqQ0h0a3hhVE83NmlhbU5GZWpRb29ucjhkaHJQTHB5QVhvcjFrOG9Kb1drZWJQYzduQW90YlI1eXRud1NhLVJFa1FQcS05SzdrWg?oc=5"
+   },
+   {
+    "name": "미디어펜",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RRjBwalZxcG9LRUozLTNKVExJTFhaV01pclduQ29ydEkyaFNtZFUwUkkxMmRxcElGU3V6NmFKTGhvVG5FS3NucWNsbXJvV0t5VkRZbdIBWEFVX3lxTE5QY0lxSnpzcTEzdE1tYldqdjM1WTduYjRVMm90QTZSMklSWXNaLUxHVzFadnBvWjVwbjVVWmUzSUh5NTVoWFpCZFdIMWk5NmN3NzZmWmVGVno?oc=5"
+   },
+   {
+    "name": "연합뉴스",
+    "url": "https://www.yna.co.kr/view/AKR20261128020300009"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://img.yna.co.kr/photo/ap/2026/08/02/PAP20260802142901009_P2.jpg",
+    "source": "연합뉴스"
+   }
+  ],
+  "checks": [
+   "첫 줄 후보 1: 올해 미국 증시 1등 업종, AI가 아니었음 👀",
+   "첫 줄 후보 2: 다들 AI만 볼 때 37% 오른 업종이 있었음 🔥",
+   "첫 줄 후보 3: 엔비디아 말고, 올해 진짜 승자는 따로 있었음 👀",
+   "에너지 +37%의 기준 지수(S&P500 에너지 업종 등)·기준일은 이투데이 원문 확인 — 수집된 건 제목뿐",
+   "OPEC 탈퇴 압박은 연합뉴스 단독(외신 인용 여부 원문 확인)",
+   "미국 지수는 11/27(현지) 블랙프라이데이 단축장 종가"
+  ],
+  "videos": [],
+  "status": "draft"
  }
 ]
